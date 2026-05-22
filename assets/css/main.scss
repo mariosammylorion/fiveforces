@@ -6,6 +6,8 @@ search: false
 @charset "utf-8";
 
 $sans-serif : "Cabin", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$intro-transition  : none;
+$global-transition : none;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
