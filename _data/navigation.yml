@@ -1,0 +1,10 @@
+main:
+  - title: "Introduction"
+    url: /introduction/
+  - title: "Theory"
+    url: /theory/
+  - title: "Type Descriptions"
+    url: /type-descriptions/
+  - title: "Typing Database"
+    url: /typing-database/
+  
