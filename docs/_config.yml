@@ -28,9 +28,10 @@ url: "https://mariosammylorion.github.io" # the base hostname & protocol for you
 baseurl: "/fiveforces/" # the subpath of your site, e.g. /blog
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
