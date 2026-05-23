@@ -3,8 +3,6 @@ title: Theory
 permalink: /theory/
 ---
 
-# Theory
-
 The following list will take you to pages explaining the theory behind the Five Forces System:
 - [Beginning Theory](/fiveforces/theory/beginning-theory/)
 - [The Five Forces](/fiveforces/theory/the-five-forces/)

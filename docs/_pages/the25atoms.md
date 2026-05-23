@@ -3,8 +3,6 @@ title: The 25 Atoms
 permalink: /theory/the-25-atoms/
 ---
 
-# The 25 Atoms (and their Accents)
-
 &lt;Lorem ipsum dolor…&gt;
 
 The following list will take you to pages explaining each of the 25 atoms and their subtypes:

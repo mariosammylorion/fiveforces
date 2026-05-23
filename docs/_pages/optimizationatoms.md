@@ -6,11 +6,9 @@ toc_label: Optimization Atoms and Body Types
 toc_sticky: true
 ---
 
-# Optimization Atoms and Body Types
-
 &lt;Lorem ipsum dolor…&gt;
 
-## 1O - Mutual Optimization / "Discusser"
+# 1O - Mutual Optimization / "Discusser"
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -18,7 +16,7 @@ In the proposed arrow model, "Discusser" is represented by a singular arrow with
 
 - When making major decisions, the Brain and the Heart work in tandem together to come to a consensus/compromise. Their interaction is like a polite discussion in which information is bounced back and forth, with each unit contributing their ideas and editing them based on what the other says.
 
-### Natural-Deficient 1O / "Confidence"
+## Natural-Deficient 1O / "Confidence"
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -26,7 +24,7 @@ In the proposed arrow model, "Discusser" is represented by a singular arrow with
 
 - Individuals with Confidence often appear, well…confident on the outside
 
-### Recipient-Impervious 1O / "Strategy"
+## Recipient-Impervious 1O / "Strategy"
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -34,7 +32,7 @@ In the proposed arrow model, "Discusser" is represented by a singular arrow with
 
 - Individuals with Strategy subconsciously strategize their deference in order to get what their Impervious Unit wants
 
-### Permissive-Private 1O / "Curation"
+## Permissive-Private 1O / "Curation"
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -42,7 +40,7 @@ In the proposed arrow model, "Discusser" is represented by a singular arrow with
 
 - Much like how a social media user curates their social media feed to get only things they like on their Recommended page, individuals curate their hunger for outside influence to only receive information that they enjoy
 
-## 2O - Selfless Optimization / "Chameleon"
+# 2O - Selfless Optimization / "Chameleon"
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -55,7 +53,7 @@ In the proposed arrow model, "Chameleon" is represented by a singular arrow with
 
 - If the body code-switches to an unfavorable situation, because the Brain and the Heart never interact, the individual is forced to deal with the current situation before they are able to code-switch back to normal
 
-### Authentic-Deficient 2O / "Obstruction"
+## Authentic-Deficient 2O / "Obstruction"
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -64,7 +62,7 @@ In the proposed arrow model, "Chameleon" is represented by a singular arrow with
 - The efforts of the Authentic Unit are often blockaded or "obstructed" due to their Deficient Unit taking over
   - Prevents them from getting work done
 
-### Processed-Impervious 2O / "Industriousness"
+## Processed-Impervious 2O / "Industriousness"
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -72,7 +70,7 @@ In the proposed arrow model, "Chameleon" is represented by a singular arrow with
 
 - Individuals with "Industriousness" are very actionable, able to spring into action when the time is right
 
-### Uninhibited-Private 2O / "Bravado"
+## Uninhibited-Private 2O / "Bravado"
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -80,7 +78,7 @@ In the proposed arrow model, "Chameleon" is represented by a singular arrow with
 
 - Just like a washed-up celebrity or showman: dynamic and bold on the stage, yet suffers off the stage
 
-## 3O - Egocentric Optimization / "Minimalist"
+# 3O - Egocentric Optimization / "Minimalist"
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -88,7 +86,7 @@ In the proposed arrow model, "Minimalist" is represented by a singular arrow wit
 
 - The Brain and the Heart form **one** unit, and are *not* in any way separate. This results in them having a combined goal that combines the separate goals of the two. Unlike with individuals with "Discusser", there *is* no polite discussion; it's like the solution was devised by one person.
 
-### Public-Deficient 3O / "Humility"
+## Public-Deficient 3O / "Humility"
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -99,7 +97,7 @@ In the proposed arrow model, "Minimalist" is represented by a singular arrow wit
 - Despite the name, this "humility" is actually born of selfishness!!
   - They secretly wish to be understood and validated, and know that their pain is OK to have
 
-### Processed-Permissive 3O / "Diligence"
+## Processed-Permissive 3O / "Diligence"
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -111,7 +109,7 @@ In the proposed arrow model, "Minimalist" is represented by a singular arrow wit
 - Individuals of this Body Type do NOT do well in ANY kind of sudden or fast-paced situations and environments
   - They might freeze up or panic due to them having to process too many things at once
 
-### Uninhibited-Recipient 3O / "Subservience"
+## Uninhibited-Recipient 3O / "Subservience"
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -120,7 +118,7 @@ In the proposed arrow model, "Minimalist" is represented by a singular arrow wit
 - Zealous and unapologetic defenders of the outside systems/opinions/morals they adopted
   - "I'm gonna share this with you whether you like it or not!"
 
-## 4O - Withdrawn Optimization / "Debater"
+# 4O - Withdrawn Optimization / "Debater"
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -128,7 +126,7 @@ In the proposed arrow model, "Debater" is represented by two distinct arrows (re
 
 - If 1O exhibits a polite discussion between the Brain and the Heart, then "Debater" exhibits a heated argument. The two constantly bicker about how to go about major decisions, often creating analysis paralysis in the individual. **This is NOT to say that those with "Debater" are completely unable to make decisions; in fact, they can, but it always leaves either unit unsatisfied.**
 
-### Public-Impervious 4O / "Superficiality"
+## Public-Impervious 4O / "Superficiality"
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -140,7 +138,7 @@ This, my friends, is what Superficiality entails. It's almost like this subtype 
 
 &lt;Lorem ipsum dolor…&gt;
 
-### Authentic-Permissive 4O / "Tension"
+## Authentic-Permissive 4O / "Tension"
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -151,7 +149,7 @@ When most people think of 4O, this is the subtype that comes to mind.
 - The phrase to describe this body subtype: "Stay true to yourself, or submit."
 - "How do I adapt to the outside without betraying my true self??"
 
-### Uninhibited-Natural 4O / "Dynamism"
+## Uninhibited-Natural 4O / "Dynamism"
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -161,7 +159,7 @@ Remember this: **the Brain and the Heart interacting with each other is a mental
 
 **Unorganized thoughts**
 
-## 5O - Apathetic Optimization / "Double Agent"
+# 5O - Apathetic Optimization / "Double Agent"
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -174,7 +172,7 @@ In the proposed arrow model, "Double Agent" is represented by two distinct paral
 
 It is of note that **the mechanism and nature of 5O is inherently contradictory.**
 
-### Public-Private 5O / "Secrecy"
+## Public-Private 5O / "Secrecy"
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -182,7 +180,7 @@ Recall that a museum display metaphor was used to describe the 4O body type "Sup
 
 **Unorganized thoughts**
 
-### Authentic-Recipient 5O / "Duplicity"
+## Authentic-Recipient 5O / "Duplicity"
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -191,7 +189,7 @@ Recall that a museum display metaphor was used to describe the 4O body type "Sup
 - If "Tension" can be described with the phrase, "Stay true to yourself, or submit," then "Duplicity" can be described with, "Stay true to yourself AND submit."
   - Complete balance of being a fierce individualist in one area of life and a pawn in the other
 
-### Processed-Natural 5O / "Specialization"
+## Processed-Natural 5O / "Specialization"
 
 &lt;Lorem ipsum dolor…&gt;
 

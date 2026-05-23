@@ -6,8 +6,6 @@ toc_label: The Five Forces
 toc_sticky: true
 ---
 
-# The Five Forces
-
 &lt;Lorem ipsum dolor…&gt;
 
 These five psychic forces are:
@@ -24,9 +22,9 @@ These five psychic forces are:
 | **Heart**      | **Imagination (M)** | **Valuation (V)**   |                      |
 | **Body**       |                     |                     | **Optimization (O)** |
 
-## The Five Forces in Detail
+# The Five Forces in Detail
 
-### The Force of Reality (R)
+## The Force of Reality (R)
 
 **Human Unit:** Brain
 
@@ -46,7 +44,7 @@ In summary, the **Force of Reality** involves two major concepts:
   - Reality doesn't necessarily have to do with engaging with the real world in any way or keeping up with physical habits; they are more so a *byproduct* than a feature of Reality
     - Any type can keep up with physical habits or engage in the real world equally; so long as their attitude towards facts and verified experiences is kept intact
 
-### The Force of Logic (L)
+## The Force of Logic (L)
 
 **Human Unit:** Brain
 
@@ -84,7 +82,7 @@ Of course, there can be some confusion between this force and that of Reality. I
       - Opinions based on verifiable evidence vs. opinions based on personal preference
       - Saying that something is good even if you don't like it, or that something is bad even if you like it
 
-### The Force of Imagination (M)
+## The Force of Imagination (M)
 
 **Human Unit:** Heart
 
@@ -113,7 +111,7 @@ However, the Force of Imagination may beg this question in certain individuals: 
 - Reality deals with the world as is; Imagination is about the world's *changes*
 - Ideas themselves don't have value per se; however, it often happens; that's why Imagination and Valuation are complementary Forces
 
-### The Force of Valuation (V)
+## The Force of Valuation (V)
 
 **Human Unit:** Heart
 
@@ -136,7 +134,7 @@ In summary, the **Force of Valuation** involves two major concepts:
   - Subjective opinions is a MAJOR manifestation
     - What I mean is, opinions that stem from personal preferences
 
-### The Force of Optimization (O)
+## The Force of Optimization (O)
 
 **Human Unit:** Body
 
@@ -154,27 +152,27 @@ In fact, Optimization is the only one of the Five Forces **that CANNOT be expres
 
 When forming the 120 types, therefore, the Force of Optimization can act as a sort of "dummy variable" that determines the overall type's Body Type (which we will get to later). To put this into use, one valid method for determining a person or character's type is to type by the other four Forces by themselves or using knowledge about Force interactions (again, this comes later), putting them into unique positions, then sticking Optimization (O) in the leftover position. Of course, one has to validate that every single interaction and the Body Type makes sense for the other individual's type.
 
-## Interactions Between the Forces
+# Interactions Between the Forces
 
-### Complementary Forces
+## Complementary Forces
 
-#### Logic and Reality - The Brain
+### Logic and Reality - The Brain
 
-#### Imagination and Valuation - The Heart
+### Imagination and Valuation - The Heart
 
-### Clashing Forces
+## Clashing Forces
 
-#### Imagination and Reality - Objection
+### Imagination and Reality - Objection
 
-#### Logic and Valuation - Subjection
+### Logic and Valuation - Subjection
 
-### Neutral Forces
+## Neutral Forces
 
-#### Logic and Imagination
+### Logic and Imagination
 
-#### Reality and Valuation
+### Reality and Valuation
 
-### Optimization, the Brain and the Heart
+## Optimization, the Brain and the Heart
 
 &lt;Lorem ipsum dolor…&gt;
 

@@ -6,15 +6,13 @@ toc_label: The Five Positions
 toc_sticky: true
 ---
 
-# The Five Positions
-
 | **Source** | **Outward Direction** | **Inward Direction** | **No Direction**  |
 | ---------- | --------------------- | -------------------- | ----------------- |
 | **Self**   | **Mutual (1)**        | **Egocentric (3)**   |                   |
 | **Others** | **Selfless (2)**      | **Withdrawn (4)**    |                   |
 | **None**   |                       |                      | **Apathetic (5)** |
 
-## Functions and Accents
+# Functions and Accents
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -22,9 +20,9 @@ Expressions of the Five Forces in each position are NOT static. In any given cor
 
 **The expression of said Force (that is, the function that is active) depends on the position of the Force that complements it.** This concept is called an **accent**.
 
-### The Ten Function Groups
+## The Ten Function Groups
 
-#### Public (1 + 2)
+### Public (1 + 2)
 
 **Unorganized thoughts**
 
@@ -32,35 +30,35 @@ Expressions of the Five Forces in each position are NOT static. In any given cor
 - Outward expressions of the manifestations of the Forces
 - These are the Forces individuals choose to share
 
-#### Authentic (1 + 3)
+### Authentic (1 + 3)
 
 **Unorganized thoughts**
 
 - These encompass the Forces that the individual chooses to use
 - Decisions made in these Forces are of the individual's own accord
 
-#### Processed (1 + 4)
+### Processed (1 + 4)
 
 **Unorganized thoughts**
 
 - Processed Forces are those that require time and energy to make decisions on
 - These require deliberate mental negotiation
 
-#### Uninhibited (1 + 5)
+### Uninhibited (1 + 5)
 
 **Unorganized thoughts**
 
 - With this function group, individuals can use these Forces without fear of outside judgment
 - Do not conform to societal or worldly expectations; no anxiety
 
-#### Natural (2 + 3)
+### Natural (2 + 3)
 
 **Unorganized thoughts**
 
 - Forces in this function group require little to no mental negotiation to make decisions on
 - Using these Forces comes naturally to the individual, hence the name
 
-#### Recipient (2 + 4)
+### Recipient (2 + 4)
 
 **Unorganized thoughts**
 
@@ -68,34 +66,34 @@ Expressions of the Five Forces in each position are NOT static. In any given cor
 - Decisions made in these Forces are not of the individual's own accord
 - "The world makes/forces me (to) use these"
 
-#### Permissive (2 + 5)
+### Permissive (2 + 5)
 
 **Unorganized thoughts**
 
 - Forces in this function group have no internal process or resistance
 - There are no boundaries, meaning the individual can adopt or be swayed by whatever is put in front of them
 
-#### Private (3 + 4)
+### Private (3 + 4)
 
 **Unorganized thoughts**
 
 - These are the Forces the individual keeps hidden from the world out of fear of ridicule or others not understanding
 
-#### Impervious (3 + 5)
+### Impervious (3 + 5)
 
 **Unorganized thoughts**
 
 - Forces in this group are completely immune to outside influence; there are no dynamics happening to or from them
 
-#### Deficient (4 + 5)
+### Deficient (4 + 5)
 
 **Unorganized thoughts**
 
 - These are the Forces that the individual struggles with or outright refuses to implement in the real world
 
-## The Five Positions in Detail
+# The Five Positions in Detail
 
-### The Mutual Position (1)
+## The Mutual Position (1)
 
 **Energy Source:** Self
 
@@ -111,11 +109,11 @@ The Mutual position is called as such because **the individual derives great joy
 
 **Remember, at the end of the day, Mutual Atoms are still inherently selfish.**
 
-#### Mutual Position Accents
+### Mutual Position Accents
 
 &lt;Lorem ipsum dolor…&gt;
 
-##### Public Mutual (1X-2)
+#### Public Mutual (1X-2)
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -125,7 +123,7 @@ The Mutual position is called as such because **the individual derives great joy
   - In fact, they love being proven wrong, as this gives opportunities for growth
 - **"My knowledge *isn't* perfect"**
 
-##### Authentic Mutual (1X-3)
+#### Authentic Mutual (1X-3)
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -135,7 +133,7 @@ The Mutual position is called as such because **the individual derives great joy
   - Their sharing now possesses an individualist streak
 - **"My knowledge *is* perfect"**
 
-##### Processed Mutual (1X-4)
+#### Processed Mutual (1X-4)
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -144,7 +142,7 @@ The Mutual position is called as such because **the individual derives great joy
 - Manifests as an inner anxiety and perfection when it comes to the Mutual Force; the individual feels as if they have to work extra hard to get their knowledge *just* right
 - **"My knowledge *has* to be perfect"**
 
-##### Uninhibited Mutual (1X-5)
+#### Uninhibited Mutual (1X-5)
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -153,7 +151,7 @@ The Mutual position is called as such because **the individual derives great joy
 - Manifests as a lack of filter between their thoughts and actions; they do whatever they want with the Mutual Force that is on their mind
 - **"My knowledge *doesn't have* to be perfect"**
 
-### The Selfless Position (2)
+## The Selfless Position (2)
 
 **Energy Source:** Others
 
@@ -185,11 +183,11 @@ This gives way to perhaps the greatest weakness of the Selfless position: what i
 
 &lt;Lorem ipsum dolor…&gt;
 
-#### Selfless Position Accents
+### Selfless Position Accents
 
 &lt;Lorem ipsum dolor…&gt;
 
-##### Public Selfless (2X-1)
+#### Public Selfless (2X-1)
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -198,7 +196,7 @@ This gives way to perhaps the greatest weakness of the Selfless position: what i
 - Manifests as a bold, outward expression of deference; individuals are always ready to ask questions and apply others' methods
 - **"I love sharing others' knowledge"**
 
-##### Natural Selfless (2X-3)
+#### Natural Selfless (2X-3)
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -208,7 +206,7 @@ This gives way to perhaps the greatest weakness of the Selfless position: what i
   - Individuals actually become sensitive to criticism of *others*' abilities as well as their own, making it look like 3X
 - **"I love defending others' knowledge"**
 
-##### Recipient Selfless (2X-4)
+#### Recipient Selfless (2X-4)
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -217,7 +215,7 @@ This gives way to perhaps the greatest weakness of the Selfless position: what i
 - Manifests as a calm, quiet, and almost sheepish deference to others' authority with the Selfless Force, mainly out of anxiety or fear
 - **"I have to follow others' knowledge"**
 
-##### Permissive Selfless (2X-5)
+#### Permissive Selfless (2X-5)
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -228,7 +226,7 @@ This gives way to perhaps the greatest weakness of the Selfless position: what i
   - Can hold several contradictory facts/opinions/ideas/values at once, making it seem like they don't care
 - **"I have to listen to others' knowledge"**
 
-### The Egocentric Position (3)
+## The Egocentric Position (3)
 
 **Energy Source:** Self
 
@@ -238,11 +236,11 @@ This gives way to perhaps the greatest weakness of the Selfless position: what i
 
 &lt;Lorem ipsum dolor…&gt;
 
-#### Egocentric Position Accents
+### Egocentric Position Accents
 
 &lt;Lorem ipsum dolor…&gt;
 
-##### Authentic Egocentric (3X-1)
+#### Authentic Egocentric (3X-1)
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -252,7 +250,7 @@ This gives way to perhaps the greatest weakness of the Selfless position: what i
   - 3X-1 individuals still keep their Force under wraps through themselves or with a select few in a "circle", but they want this circle to grow larger and larger
 - **"I *want* to expand my circle"**
 
-##### Natural Egocentric (3X-2)
+#### Natural Egocentric (3X-2)
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -261,7 +259,7 @@ This gives way to perhaps the greatest weakness of the Selfless position: what i
 - Manifests as the usage of other people or influences to forward or spread their knowledge and expression of the Egocentric Force
 - **"I *have* to expand my circle"**
 
-##### Private Egocentric (3X-4)
+#### Private Egocentric (3X-4)
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -270,7 +268,7 @@ This gives way to perhaps the greatest weakness of the Selfless position: what i
 - Manifests as an increased fear of judgment or ridicule when it comes to the Egocentric Force, so much as to not want to interact with anyone outside their circle
 - **"I *have* to hide my circle"**
 
-##### Impervious Egocentric (3X-5)
+#### Impervious Egocentric (3X-5)
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -280,7 +278,7 @@ This gives way to perhaps the greatest weakness of the Selfless position: what i
   - Most notably, they don't even want to *talk* about their knowledge
 - **"I *want* to hide my circle"**
 
-### The Withdrawn Position (4)
+## The Withdrawn Position (4)
 
 **Energy Source:** Others
 
@@ -296,11 +294,11 @@ It can very greatly vary depending on the individual. Some have had adverse chil
 
 The Withdrawn position does not give way to aversion per se; in fact, individuals with Withdrawn Forces truly want to be experienced in the Force they represent. But they are so paranoid about what others might think that they feel like they cannot trust anyone or anything. It's like there's a little voice inside their head that says, "I want to, but I just can't." They hate to admit it, but these individuals secretly want to be experienced in the respective realm; as such, their behavior towards it is a form of projection.
 
-#### Withdrawn Position Accents
+### Withdrawn Position Accents
 
 &lt;Lorem ipsum dolor…&gt;
 
-##### Processed Withdrawn (4X-1)
+#### Processed Withdrawn (4X-1)
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -311,7 +309,7 @@ The Withdrawn position does not give way to aversion per se; in fact, individual
   - This often manifests as sarcasm and/or giving the impression that they have it together
 - **"I deflect my pain"**
 
-##### Recipient Withdrawn (4X-2)
+#### Recipient Withdrawn (4X-2)
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -321,7 +319,7 @@ The Withdrawn position does not give way to aversion per se; in fact, individual
   - "It's your fault I'm suffering"
 - **"I project my pain"**
 
-##### Private Withdrawn (4X-3)
+#### Private Withdrawn (4X-3)
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -331,7 +329,7 @@ The Withdrawn position does not give way to aversion per se; in fact, individual
   - It can appear as if they *enjoy* the pain the Withdrawn Force brings
 - **"I love my pain"**
 
-##### Deficient Withdrawn (4X-5)
+#### Deficient Withdrawn (4X-5)
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -340,7 +338,7 @@ The Withdrawn position does not give way to aversion per se; in fact, individual
 - Manifests as a tendency to try to mask their struggles with the Withdrawn Force (whether they're actually good at it or not is up for debate, lol)
 - **"I hide my pain"**
 
-### The Apathetic Position (5)
+## The Apathetic Position (5)
 
 **Energy Source:** None
 
@@ -350,11 +348,11 @@ The Withdrawn position does not give way to aversion per se; in fact, individual
 
 &lt;Lorem ipsum dolor…&gt;
 
-#### Apathetic Position Accents
+### Apathetic Position Accents
 
 &lt;Lorem ipsum dolor…&gt;
 
-##### Uninhibited Apathetic (5X-1)
+#### Uninhibited Apathetic (5X-1)
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -364,7 +362,7 @@ The Withdrawn position does not give way to aversion per se; in fact, individual
   - Takes on the Mutual Force's quality of wanting to change the world…so ironically, they change the world by not caring
 - **"I don't care about others' knowledge"**
 
-##### Permissive Apathetic (5X-2)
+#### Permissive Apathetic (5X-2)
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -374,7 +372,7 @@ The Withdrawn position does not give way to aversion per se; in fact, individual
   - Often wants to go along with others' expressions of the Force
 - **"I love others' knowledge"**
 
-##### Impervious Apathetic (5X-3)
+#### Impervious Apathetic (5X-3)
 
 &lt;Lorem ipsum dolor…&gt;
 
@@ -384,7 +382,7 @@ The Withdrawn position does not give way to aversion per se; in fact, individual
   - Sensitive when it comes to others' criticisms about not engaging with the Force
 - **"I hate others' knowledge"**
 
-##### Deficient Apathetic (5X-4)
+#### Deficient Apathetic (5X-4)
 
 &lt;Lorem ipsum dolor…&gt;
 

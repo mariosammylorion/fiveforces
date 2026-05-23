@@ -6,130 +6,128 @@ toc_label: Valuation Atoms
 toc_sticky: true
 ---
 
-# Valuation Atoms
+&lt;Lorem ipsum dolor…&gt;
+
+# 1V - Mutual Valuation / "Evangelist"
 
 &lt;Lorem ipsum dolor…&gt;
 
-## 1V - Mutual Valuation / "Evangelist"
+## 1V Accents
 
 &lt;Lorem ipsum dolor…&gt;
 
-### 1V Accents
+### Public 1V (1V-2)
 
 &lt;Lorem ipsum dolor…&gt;
 
-#### Public 1V (1V-2)
+### Authentic 1V (1V-3)
 
 &lt;Lorem ipsum dolor…&gt;
 
-#### Authentic 1V (1V-3)
+### Processed 1V (1V-4)
 
 &lt;Lorem ipsum dolor…&gt;
 
-#### Processed 1V (1V-4)
+### Uninhibited 1V (1V-5)
 
 &lt;Lorem ipsum dolor…&gt;
 
-#### Uninhibited 1V (1V-5)
+# 2V - Selfless Valuation / "Disciple"
 
 &lt;Lorem ipsum dolor…&gt;
 
-## 2V - Selfless Valuation / "Disciple"
+## 2V Accents
 
 &lt;Lorem ipsum dolor…&gt;
 
-### 2V Accents
+### Public 2V (2V-1)
 
 &lt;Lorem ipsum dolor…&gt;
 
-#### Public 2V (2V-1)
+### Natural 2V (2V-3)
 
 &lt;Lorem ipsum dolor…&gt;
 
-#### Natural 2V (2V-3)
+### Recipient 2V (2V-4)
 
 &lt;Lorem ipsum dolor…&gt;
 
-#### Recipient 2V (2V-4)
+### Permissive 2V (2V-5)
 
 &lt;Lorem ipsum dolor…&gt;
 
-#### Permissive 2V (2V-5)
-
-&lt;Lorem ipsum dolor…&gt;
-
-## 3V - Egocentric Valuation / "Maverick"
+# 3V - Egocentric Valuation / "Maverick"
 
 &lt;Lorem ipsum dolor…&gt;
 
 While every Egocentric atom is susceptible to telling others "You wouldn't understand" in some capacity, Mavericks are the most likely to say it unironically.
 
-### 3V Accents
+## 3V Accents
 
 &lt;Lorem ipsum dolor…&gt;
 
-#### Authentic 3V (3V-1)
+### Authentic 3V (3V-1)
 
 &lt;Lorem ipsum dolor…&gt;
 
-#### Natural 3V (3V-2)
+### Natural 3V (3V-2)
 
 &lt;Lorem ipsum dolor…&gt;
 
-#### Private 3V (3V-4)
+### Private 3V (3V-4)
 
 &lt;Lorem ipsum dolor…&gt;
 
-#### Impervious 3V (3V-5)
+### Impervious 3V (3V-5)
 
 &lt;Lorem ipsum dolor…&gt;
 
-## 4V - Withdrawn Valuation / "Iconoclast"
+# 4V - Withdrawn Valuation / "Iconoclast"
 
 &lt;Lorem ipsum dolor…&gt;
 
-### 4V Accents
+## 4V Accents
 
 &lt;Lorem ipsum dolor…&gt;
 
-#### Processed 4V (4V-1)
+### Processed 4V (4V-1)
 
 &lt;Lorem ipsum dolor…&gt;
 
-#### Recipient 4V (4V-2)
+### Recipient 4V (4V-2)
 
 &lt;Lorem ipsum dolor…&gt;
 
-#### Private 4V (4V-3)
+### Private 4V (4V-3)
 
 &lt;Lorem ipsum dolor…&gt;
 
-#### Deficient 4V (4V-5)
+### Deficient 4V (4V-5)
 
 &lt;Lorem ipsum dolor…&gt;
 
-## 5V - Apathetic Valuation / "Nihilist"
+# 5V - Apathetic Valuation / "Nihilist"
 
 &lt;Lorem ipsum dolor…&gt;
 
-### 5V Accents
+## 5V Accents
 
 &lt;Lorem ipsum dolor…&gt;
 
-#### Uninhibited 5V (5V-1)
+### Uninhibited 5V (5V-1)
 
 &lt;Lorem ipsum dolor…&gt;
 
-#### Permissive 5V (5V-2)
+### Permissive 5V (5V-2)
 
 &lt;Lorem ipsum dolor…&gt;
 
-#### Impervious 5V (5V-3)
+### Impervious 5V (5V-3)
 
 &lt;Lorem ipsum dolor…&gt;
 
 Just like how Impervious 5L gives way to the most anti-intellectual core types, **Impervious 5V makes for the most anti-emotional core types.**
 
-#### Deficient 5V (5V-4)
+### Deficient 5V (5V-4)
 
 &lt;Lorem ipsum dolor…&gt;
