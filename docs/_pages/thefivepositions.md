@@ -1,5 +1,5 @@
 ---
-title: The Five Forces
+title: The Five Positions
 permalink: /theory/the-five-positions/
 toc: true
 toc_label: The Five Positions
@@ -14,9 +14,9 @@ toc_sticky: true
 
 # Functions and Accents
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
-Expressions of the Five Forces in each position are NOT static. In any given core type, each position *belongs* to four different function groups, but a Force can only be expressed in one at a time. &lt;Lorem ipsum dolor…&gt;
+Expressions of the Five Forces in each position are NOT static. In any given core type, each position *belongs* to four different function groups, but a Force can only be expressed in one at a time. &lt;Lorem ipsum dolor...&gt;
 
 **The expression of said Force (that is, the function that is active) depends on the position of the Force that complements it.** This concept is called an **accent**.
 
@@ -101,21 +101,21 @@ Expressions of the Five Forces in each position are NOT static. In any given cor
 
 **Function Groups:** Public, Authentic, Processed, Uninhibited
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 The Mutual position is called as such because **the individual derives great joy in sharing their knowledge of the Force to the world, and in turn, they believe that the world will derive great joy from this knowledge as well.**
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Remember, at the end of the day, Mutual Atoms are still inherently selfish.**
 
 ### Mutual Position Accents
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 #### Public Mutual (1X-2)
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -125,7 +125,7 @@ The Mutual position is called as such because **the individual derives great joy
 
 #### Authentic Mutual (1X-3)
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -135,7 +135,7 @@ The Mutual position is called as such because **the individual derives great joy
 
 #### Processed Mutual (1X-4)
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -144,7 +144,7 @@ The Mutual position is called as such because **the individual derives great joy
 
 #### Uninhibited Mutual (1X-5)
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -161,35 +161,35 @@ The Mutual position is called as such because **the individual derives great joy
 
 The **Selfless position** is initially characterized by a deep interest in how the Force that occupies it manifests in the world. They are initially indifferent to their own abilities in said Force but derive great joy in seeing others use it, for better or worse. The person initially feels that they will never have what it takes to become experts in this Force, but now that their psyche is developed, they have moved on from this indifference and now seek to become experts, wanting to share their knowledge, experiences, values, etc. to anyone who is willing to listen. Unfortunately, they do not currently possess the current skills for it, nor have they practiced trying despite having full exposure to it from the outside. And so, the psyche of this position defaults to expending their energy the only way they know how: outward.
 
-And with this outward energy comes a time when an authority figure (or multiple authority figures) in this Force is found. This figure can comprise anything outside the person's own psyche: it can be another person or people, it could be something indirect like a book or another piece of media, it could be some other object in the world, or it could even be something as simple as a concept or an idea. And so before the eye can even blink completely, the psyche latches onto this authority with an iron grip. And with this comes trust, energy, validation, security, admiration, and most importantly, *outside knowledge that they can share*…all in this one authority figure. Which gives way to the key characteristic of the Selfless position: **deference.**
+And with this outward energy comes a time when an authority figure (or multiple authority figures) in this Force is found. This figure can comprise anything outside the person's own psyche: it can be another person or people, it could be something indirect like a book or another piece of media, it could be some other object in the world, or it could even be something as simple as a concept or an idea. And so before the eye can even blink completely, the psyche latches onto this authority with an iron grip. And with this comes trust, energy, validation, security, admiration, and most importantly, *outside knowledge that they can share*...all in this one authority figure. Which gives way to the key characteristic of the Selfless position: **deference.**
 
 Simply put, the Selfless position provides people with happiness in a Force they know they will never master on their own. They will do anything for this authority in the Force, without a second thought. What the authority figures do, the psyche does as well. This creates a sort-of dependence on this figure in matters relating to the Force. The Selfless position constantly asks questions and seeks permission from the authority figures.
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 Despite the deference that the Selfless position possesses, it is not simply a matter of going along with what another thing in the world says. As stated previously, they not only want to become experts in the Force, but they want to share this expertise with others. And so, once the individual has found the tools they use to succeed, they start to convince others of their truth or value.
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 So overall, Forces in both the Mutual and the Selfless positions have a tendency to lead others into the direction that they desire. The difference, however, is where these leadership tendencies come from: while the Mutual Force's power came from within the individual, the Selfless Force's power came from the outside.
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 Of course, individuals with Selfless Forces are not experts in the Force in their own right. In fact, they almost always need assistance when making decisions that involve the Force. For example, those Selfless Logic need help with thinking through things rationally, those with Selfless Reality need help being realistic, and those with Selfless Valuation need help thinking about things through an emotional perspective. Luckily, the authority figures provide this expertise that the individual so desires.
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 This gives way to perhaps the greatest weakness of the Selfless position: what if this authority that this Force defers to is one of corruption, evil, or another nefarious quality?
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ### Selfless Position Accents
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 #### Public Selfless (2X-1)
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -198,7 +198,7 @@ This gives way to perhaps the greatest weakness of the Selfless position: what i
 
 #### Natural Selfless (2X-3)
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -208,7 +208,7 @@ This gives way to perhaps the greatest weakness of the Selfless position: what i
 
 #### Recipient Selfless (2X-4)
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -217,7 +217,7 @@ This gives way to perhaps the greatest weakness of the Selfless position: what i
 
 #### Permissive Selfless (2X-5)
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -234,15 +234,15 @@ This gives way to perhaps the greatest weakness of the Selfless position: what i
 
 **Function Groups:** Authentic, Natural, Private, Impervious
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ### Egocentric Position Accents
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 #### Authentic Egocentric (3X-1)
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -252,7 +252,7 @@ This gives way to perhaps the greatest weakness of the Selfless position: what i
 
 #### Natural Egocentric (3X-2)
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -261,7 +261,7 @@ This gives way to perhaps the greatest weakness of the Selfless position: what i
 
 #### Private Egocentric (3X-4)
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -270,7 +270,7 @@ This gives way to perhaps the greatest weakness of the Selfless position: what i
 
 #### Impervious Egocentric (3X-5)
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -290,17 +290,17 @@ When it first arises in the individual, the **Withdrawn position** is just like 
 
 It can very greatly vary depending on the individual. Some have had adverse childhood experiences; for example, they could have been manipulated or gaslit; or could have been bullied constantly; or have otherwise lived a dangerous and messy life. But sometimes, it doesn't take a rough life; one could live a completely normal one without any problems. But no matter what, the individual sees people's and the world's engagement with a particular Force. And somehow, someway, with the Withdrawn Force, *they just don't like what they see.* They internalize what they experienced from outside, and act as if not only that they will never have what it takes to engage with this Force completely, but they are scared that their thoughts on the Force will never live up to the world or society's expectations for it. This fear leads to a profound avoidance of any situation that uses the Force. Thus forms the key characteristic of this position: **disappointment.**
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 The Withdrawn position does not give way to aversion per se; in fact, individuals with Withdrawn Forces truly want to be experienced in the Force they represent. But they are so paranoid about what others might think that they feel like they cannot trust anyone or anything. It's like there's a little voice inside their head that says, "I want to, but I just can't." They hate to admit it, but these individuals secretly want to be experienced in the respective realm; as such, their behavior towards it is a form of projection.
 
 ### Withdrawn Position Accents
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 #### Processed Withdrawn (4X-1)
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -311,7 +311,7 @@ The Withdrawn position does not give way to aversion per se; in fact, individual
 
 #### Recipient Withdrawn (4X-2)
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -321,7 +321,7 @@ The Withdrawn position does not give way to aversion per se; in fact, individual
 
 #### Private Withdrawn (4X-3)
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -331,7 +331,7 @@ The Withdrawn position does not give way to aversion per se; in fact, individual
 
 #### Deficient Withdrawn (4X-5)
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -346,25 +346,25 @@ The Withdrawn position does not give way to aversion per se; in fact, individual
 
 **Function Groups:** Uninhibited, Permissive, Impervious, Deficient
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ### Apathetic Position Accents
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 #### Uninhibited Apathetic (5X-1)
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
 - Manifests as bending the rules of society when it comes to the Apathetic Force
-  - Takes on the Mutual Force's quality of wanting to change the world…so ironically, they change the world by not caring
+  - Takes on the Mutual Force's quality of wanting to change the world...so ironically, they change the world by not caring
 - **"I don't care about others' knowledge"**
 
 #### Permissive Apathetic (5X-2)
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -374,17 +374,17 @@ The Withdrawn position does not give way to aversion per se; in fact, individual
 
 #### Impervious Apathetic (5X-3)
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
-- Manifests as undue hatred and disengagement towards others' expressions of their Apathetic Force, not out of fear or trauma but…just because
+- Manifests as undue hatred and disengagement towards others' expressions of their Apathetic Force, not out of fear or trauma but...just because
   - Sensitive when it comes to others' criticisms about not engaging with the Force
 - **"I hate others' knowledge"**
 
 #### Deficient Apathetic (5X-4)
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 

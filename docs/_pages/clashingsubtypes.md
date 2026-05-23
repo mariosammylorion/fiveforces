@@ -6,49 +6,49 @@ toc_label: Clashing Force Subtypes
 toc_sticky: true
 ---
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 Contrary to the Complementary Forces, the Clashing Forces create tension. And this tension results in strain on the Atoms, so much so that one of them shifts into a lower position, the same position that the other is in, where the conflict reaches its boiling point. This is a process known as **de-elevation**; **with this, the lower force becomes an outlet for the higher force to express itself.** This forms the basis of the Subjection and Objection subtypes.
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 Unlike with the Complementary Force Subtypes, the accents that the Forces have in these interactions do not matter; in fact, there are 6 possibilities that come with each of them. **However, the expression of each de-elevation is not given in this section, but instead is given in each of the 120 core type descriptions, since these 6 possibilities comprise 6 different core types each.**
 
 # 1-to-2 De-Elevation
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 1M-to-2R / "Impulsivity"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 1R-to-2M / "Enthusiasm"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 1L-to-2V / "Servitude"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 1V-to-2L / "Vindication"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 # 1-to-3 De-Elevation
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 1M-to-3R / "Prejudice"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 1R-to-3M / "Counterfeit"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 1L-to-3V / "Martyrdom"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -57,27 +57,27 @@ Unlike with the Complementary Force Subtypes, the accents that the Forces have i
 
 ## 1V-to-3L / "Obstinacy"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 # 1-to-4 De-Elevation
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 1M-to-4R / "Chagrin"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 1R-to-4M / "Uncertainty"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 1L-to-4V / "Melancholy"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 1V-to-4L / "Earnestness"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -86,39 +86,39 @@ Unlike with the Complementary Force Subtypes, the accents that the Forces have i
 
 # 1-to-5 De-Elevation
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 1M-to-5R / "Fantasy"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 1R-to-5M / "Volatility"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 1L-to-5V / "Roboticism"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 1V-to-5L / "Ferocity"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 # 2-to-3 De-Elevation
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 2M-to-3R / "Piracy"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 2R-to-3M / "Banter"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 2L-to-3V / "Validation"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -127,99 +127,99 @@ Unlike with the Complementary Force Subtypes, the accents that the Forces have i
 
 ## 2V-to-3L / "Denomination"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 # 2-to-4 De-Elevation
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 2M-to-4R / "Zealotry"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 2R-to-4M / "Timidity"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 2L-to-4V / "Apologism"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 2V-to-4L / "Sentimentality"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 # 2-to-5 De-Elevation
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 2M-to-5R / "Pastiche"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 2R-to-5M / "Reportage"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 2L-to-5V / "Completion"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 2V-to-5L / "Sappiness"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 # 3-to-4 De-Elevation
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 3M-to-4R / "Refuge"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 3R-to-4M / "Turfism"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 3L-to-4V / "Pedantism"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 3V-to-4L / "Defiance"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 # 3-to-5 De-Elevation
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 3M-to-5R / "Sublimity"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 3R-to-5M / "Satisfaction"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 3L-to-5V / "Nobility"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 3V-to-5L / "Selfishness"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 # 4-to-5 De-Elevation
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 4M-to-5R / "Detachment"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 4R-to-5M / "Misfortune"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -228,11 +228,11 @@ Unlike with the Complementary Force Subtypes, the accents that the Forces have i
 
 ## 4L-to-5V / "Recklessness"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## 4V-to-5L / "Peril"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 

@@ -6,11 +6,11 @@ toc_label: Optimization Atoms and Body Types
 toc_sticky: true
 ---
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 # 1O - Mutual Optimization / "Discusser"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 In the proposed arrow model, "Discusser" is represented by a singular arrow with two distinctive halves, representing the Brain and the Heart. This represents the fact that in this Body Type, the Brain and Heart represent two separate entities, both balanced in the psyche. Neither one trumps the other in the individual's experience, creating equal representation and input.
 
@@ -18,15 +18,15 @@ In the proposed arrow model, "Discusser" is represented by a singular arrow with
 
 ## Natural-Deficient 1O / "Confidence"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
-- Individuals with Confidence often appear, well…confident on the outside
+- Individuals with Confidence often appear, well...confident on the outside
 
 ## Recipient-Impervious 1O / "Strategy"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -34,7 +34,7 @@ In the proposed arrow model, "Discusser" is represented by a singular arrow with
 
 ## Permissive-Private 1O / "Curation"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -42,12 +42,12 @@ In the proposed arrow model, "Discusser" is represented by a singular arrow with
 
 # 2O - Selfless Optimization / "Chameleon"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 In the proposed arrow model, "Chameleon" is represented by a singular arrow with one component (representing *either* the Brain or the Heart) that may eventually turn into the other component instantaneously. This represents the ability for the two to "code switch" based on the input they receive on how to "optimize." Because of this input, the Brain and Heart take turns performing their own separate actions in order to process the output.
 
 - To put it idiomatically, the Brain and Heart are never seen in a room together for Generous-bodied individuals; only one or the other is "driving" the personality. But upon receiving certain input, one unit leaves while the other one enters. They don't conflict, let alone interact at all. Their "interaction" is like one unit being in the room, working each decision out on its own, then once it receives a certain outside signal, it leaves and the other joins. The cycle repeats indefinitely.
-- Chameleons are excellent…*chameleons*, being able to "read the room" and align their behavior with what fits best given the situation. This is adapting to the *vibe* of the situation; not an emotional one, but a practical one.
+- Chameleons are excellent...*chameleons*, being able to "read the room" and align their behavior with what fits best given the situation. This is adapting to the *vibe* of the situation; not an emotional one, but a practical one.
 
 **Unorganized thoughts**
 
@@ -55,7 +55,7 @@ In the proposed arrow model, "Chameleon" is represented by a singular arrow with
 
 ## Authentic-Deficient 2O / "Obstruction"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -64,7 +64,7 @@ In the proposed arrow model, "Chameleon" is represented by a singular arrow with
 
 ## Processed-Impervious 2O / "Industriousness"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -72,7 +72,7 @@ In the proposed arrow model, "Chameleon" is represented by a singular arrow with
 
 ## Uninhibited-Private 2O / "Bravado"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -80,7 +80,7 @@ In the proposed arrow model, "Chameleon" is represented by a singular arrow with
 
 # 3O - Egocentric Optimization / "Minimalist"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 In the proposed arrow model, "Minimalist" is represented by a singular arrow with only one component: a combined mixture of the Brain and Heart. This represents how, unlike the Active Body, the Brain and Heart are combined to form one entity that does the thinking *and* feeling.
 
@@ -88,7 +88,7 @@ In the proposed arrow model, "Minimalist" is represented by a singular arrow wit
 
 ## Public-Deficient 3O / "Humility"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -99,7 +99,7 @@ In the proposed arrow model, "Minimalist" is represented by a singular arrow wit
 
 ## Processed-Permissive 3O / "Diligence"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -111,7 +111,7 @@ In the proposed arrow model, "Minimalist" is represented by a singular arrow wit
 
 ## Uninhibited-Recipient 3O / "Subservience"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -120,7 +120,7 @@ In the proposed arrow model, "Minimalist" is represented by a singular arrow wit
 
 # 4O - Withdrawn Optimization / "Debater"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 In the proposed arrow model, "Debater" is represented by two distinct arrows (representing the Brain and Heart) clashing with each other in opposite directions. This represents the constant battle that the Brain and Heart undergo in the psyche. They are constantly at war with each other, with no end in sight.
 
@@ -128,7 +128,7 @@ In the proposed arrow model, "Debater" is represented by two distinct arrows (re
 
 ## Public-Impervious 4O / "Superficiality"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 The following is a metaphor for what best describes this subtype. Imagine a museum display featuring some object inside an unopenable, clear glass container. Because it is clear, you know for certain there is an object inside, that it exists, and that you can see it. There may also be some accompanying text near this display that describes the object and its importance.
 
@@ -136,11 +136,11 @@ And yet despite you knowing that it exists and that you can see it, you cannot t
 
 This, my friends, is what Superficiality entails. It's almost like this subtype signifies a "dark side" to the overall personality, especially if unhealthy. You can clearly tell that this characteristic is there, and you can see it for yourself, but you will never know, experience, or possess it. If Superficiality had a motto, it would be: "You can look, but you can't touch."
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 ## Authentic-Permissive 4O / "Tension"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 When most people think of 4O, this is the subtype that comes to mind.
 
@@ -151,7 +151,7 @@ When most people think of 4O, this is the subtype that comes to mind.
 
 ## Uninhibited-Natural 4O / "Dynamism"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 Out of all three 4O types, Dynamism is the *least* like the stereotypical representation of 4O. In fact, individuals of this subtype appear to be dynamic and confident, with prowess in both the logical/factual *and* emotional/creative realms. So why is it then, that these individuals possess Withdrawn Optimization?
 
@@ -161,20 +161,20 @@ Remember this: **the Brain and the Heart interacting with each other is a mental
 
 # 5O - Apathetic Optimization / "Double Agent"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 In the proposed arrow model, "Double Agent" is represented by two distinct parallel arrows (representing the Brain and Heart) in the same direction. This represents how the Brain and the Heart are their own separate entities with their own separate motives, never interacting with one another. They follow their own agenda and purpose, yet are headed towards the same ultimate goal.
 
 - "Double Agents" often lead a "double life" in the fact that they actively try to avoid situations that would require the Brain and the Heart to interact, hence the name. For example, it's not uncommon for "Double Agents" to have a career in which they exclusively use their Brain, and a life outside of work in which they exclusively use their Heart.
   - And if they can't avoid it, then they simply just leave one unit out.
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 It is of note that **the mechanism and nature of 5O is inherently contradictory.**
 
 ## Public-Private 5O / "Secrecy"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 Recall that a museum display metaphor was used to describe the 4O body type "Superficiality." We can expand upon this further by introducing a display right next to that one, except this time, the glass container is replaced by a jet black box. When you look at this display, you only see the box. You cannot see what is inside of it, no matter how hard you try. You don't even know if there even *is* anything in the box, for that matter. So not only can you not touch it, smell it, or take it home or call it yours, you can't even see it or even know for sure it even exists in the first place. So in essence, while Superficiality and Secrecy both entail something you cannot have for yourself, only Secrecy gets away with not even being known.
 
@@ -182,7 +182,7 @@ Recall that a museum display metaphor was used to describe the 4O body type "Sup
 
 ## Authentic-Recipient 5O / "Duplicity"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 
@@ -191,7 +191,7 @@ Recall that a museum display metaphor was used to describe the 4O body type "Sup
 
 ## Processed-Natural 5O / "Specialization"
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
 

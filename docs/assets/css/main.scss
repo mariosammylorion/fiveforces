@@ -6,6 +6,12 @@ search: false
 @charset "utf-8";
 
 $sans-serif : "Cabin", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$serif      : "Merriweather", "PT Serif", Georgia, Times, "Times New Roman", serif;
+$monospace  : "JetBrains Mono", Consolas, Monaco, Menlo, "Courier New", Courier, monospace;
+
+$body-font-family    : $sans-serif;
+$heading-font-family : $sans-serif;
+
 $intro-transition  : none;
 $global-transition : none;
 

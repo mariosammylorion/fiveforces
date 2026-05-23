@@ -3,7 +3,7 @@ title: The 25 Atoms
 permalink: /theory/the-25-atoms/
 ---
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 The following list will take you to pages explaining each of the 25 atoms and their subtypes:
 - [Reality Atoms](/fiveforces/theory/the-25-atoms/reality/)

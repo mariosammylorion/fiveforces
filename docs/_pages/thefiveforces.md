@@ -6,7 +6,7 @@ toc_label: The Five Forces
 toc_sticky: true
 ---
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 These five psychic forces are:
 
@@ -30,7 +30,7 @@ These five psychic forces are:
 
 **Nonhuman Pole:** Objection
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 In summary, the **Force of Reality** involves two major concepts:
 
@@ -50,20 +50,20 @@ In summary, the **Force of Reality** involves two major concepts:
 
 **Nonhuman Pole:** Subjection
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 In summary, the **Force of Logic** involves two major concepts:
 
 - The formation, understanding, and implementation of **logical, sensical, abstract, consistent, and sound systems, free from tangible facts and evidence.**
 - The formation of **objective opinions based on established rules or facts, free from personal preference.**
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 Of course, there can be some confusion between this force and that of Reality. Indeed, facts and logic are two components that are often intertwined. The key difference, however, is that while the former deals with correct reasoning (avoiding inconsistencies or fallacies), the latter deals with the objective truth. This brings us to the key difference between the two Forces: **Logic does not care about factual accuracy.** In fact, an individual that prioritizes Logic but not Reality can be caught up in claims or beliefs that are egregiously false, just as long as it makes sense to them.
 
 - Logic primarily has to do with **the logical rules of the universe;** while Reality tells us *what* the world is like, Logic *explains* it all.
   - "Grass is green." - Reality
-  - "Grass is green *because*…" - Reality w/ Logic
+  - "Grass is green *because*..." - Reality w/ Logic
 - Reality only gives us facts that we can touch, smell, see and hear. Logic gives us facts that go further.
   - Reality - tangible facts, physical experiences
   - Logic - intangible/abstract facts, theories
@@ -88,14 +88,14 @@ Of course, there can be some confusion between this force and that of Reality. I
 
 **Nonhuman Pole:** Objection
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 In summary, the **Force of Imagination** involves two major concepts:
 
 - The formation, understanding, and implementation of **creative and novel ideas and concepts, free from personal meaning or significance**.
 - Knowing and understanding **how the world could or will change, free from what it was or currently is.**
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 However, the Force of Imagination may beg this question in certain individuals: does Imagination focus on several ideas, or one singular idea or vision? The answer is, **it does not matter.** Imagination may equally manifest as a search for new ideas and possibilities or locking onto a singular idea in individuals. One common occurrence of this Force, in fact, is one performing a "trial and error" experiment with various ideas before coming to a singular one.
 
@@ -117,7 +117,7 @@ However, the Force of Imagination may beg this question in certain individuals: 
 
 **Nonhuman Pole:** Subjection
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 In summary, the **Force of Valuation** involves two major concepts:
 
@@ -148,7 +148,7 @@ Now I say to you: whatever I just threw out there, **the Force of Optimization i
 
 In fact, Optimization is the only one of the Five Forces **that CANNOT be expressed by itself.**
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 When forming the 120 types, therefore, the Force of Optimization can act as a sort of "dummy variable" that determines the overall type's Body Type (which we will get to later). To put this into use, one valid method for determining a person or character's type is to type by the other four Forces by themselves or using knowledge about Force interactions (again, this comes later), putting them into unique positions, then sticking Optimization (O) in the leftover position. Of course, one has to validate that every single interaction and the Body Type makes sense for the other individual's type.
 
@@ -174,19 +174,19 @@ When forming the 120 types, therefore, the Force of Optimization can act as a so
 
 ## Optimization, the Brain and the Heart
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 The Force of Optimization serves as the most important in the entire psyche. It does not complement or clash with any other Force; rather, it serves as the "glue" between all other Forces and their interactions. As such, Optimization makes up the sole Force of the Body. Indeed, the Brain and the Heart cannot function without the Body, can it not?
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 Combining the Force of Optimization with each of the five positions creates a unique dynamic between them. The Force not only manifests into an Atom just like the other four, but they bring about a special energy that forms the psyche's Body Type.
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 To further explain what the Body Type entails, an "arrow" model shall be proposed, which will be a visualization of the Brain and Heart working together signified by an arrow pointing in a specific direction. This arrow represents the forward momentum caused by the Body, in order for the Brain and Heart to function at its maximum efficiency.
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 The five body types in brief are:
 
@@ -196,6 +196,6 @@ The five body types in brief are:
 - The combination of **Optimization and the Withdrawn position**. In the proposed arrow model, this combo is represented by two distinct arrows (representing the Brain and Heart) clashing with each other in opposite directions.
 - The combination of **Optimization and the Apathetic position**. In the proposed arrow model, this combo is represented by two distinct parallel arrows (representing the Brain and Heart) in the same direction.
 
-&lt;Lorem ipsum dolor…&gt;
+&lt;Lorem ipsum dolor...&gt;
 
 More information about each Body Type can be found in the "Optimization Atoms" section of the "25 Atoms" chapter.
