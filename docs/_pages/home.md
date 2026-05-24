@@ -15,3 +15,5 @@ If you want to collaborate with me, feel free to contact me in either of these w
 In the meantime, feel free to look around, even if not everything is set in stone. Thank you for visiting this site! (Even if it was by complete accident, lol.)
 
 (**NOTE:** Reaching out to me for collaboration does NOT guarantee that we will end up working together. There are certain requirements and specifications I have that will be discussed beforehand.)
+
+(**FAIR WARNING:** Since I often edit the basic theory behind this system, some information in the "Unorganized thoughts" lists may contradict what you see elsewhere. **Rule of thumb: trust what's NOT in these lists first and foremost.**)
