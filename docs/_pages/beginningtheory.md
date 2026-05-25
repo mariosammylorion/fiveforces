@@ -6,7 +6,7 @@ toc_label: Beginning Theory
 toc_sticky: true
 ---
 
-**(Page is only partly complete but provides all relevant information to understand basic theory behind the idea. Will be expanded later.)**
+**(Page is only partially completed but provides all relevant information to understand basic theory behind the idea. Will be expanded later.)**
 
 Simply put, humans are terribly complicated creatures. There are several different mechanisms going on inside and outside of the human brain, with several different purposes, motivations, and emotions. We tend to get things done, to have a successful life, to love or hate, to cry or be happy. We ourselves want to make sense of our minds, and we have tried to wrap our heads around it. Many different systems have been developed in the past to try to deduce what exactly is going on. Though we have several sound and scientific theories, several others have taken a step further to categorize different personality types for each and every single sapient being. From Isabel Briggs Meyers (MBTI) to Claudio Naranjo (Enneagram) to Aushra Augusta (Socionics) to Alexander Afanasyev (Psychosophy), these human beings pioneered personality typology and brought the subject of personality in a new direction, to mixed results.
 

@@ -6,7 +6,7 @@ toc_label: The Five Forces
 toc_sticky: true
 ---
 
-**(Page is only partly complete but provides all relevant information to understand basic theory behind the idea. Will be expanded later.)**
+**(Page is only partially completed but provides all relevant information to understand basic theory behind the idea. Will be expanded later.)**
 
 The Human Units and Nonhuman Axis are the fundamental building blocks of our psyche, as they drive our everyday decisions and motivations. The energy produced and transferred by these aspects can be grouped together and mapped to five psychological elements, or **Forces**, that make up our personality. These five Forces consist of different combinations of Human Units and Nonhuman Poles that form their own psychological aspect that we use daily. Each of these Forces have two main aspects, a Human Element and a Nonhuman Element, as a result of this combination.
 
