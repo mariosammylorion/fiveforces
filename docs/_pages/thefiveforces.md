@@ -65,7 +65,6 @@ The **Force of Logic** combines the Human Unit of the Brain and the Nonhuman Pol
 - **Nonhuman Element:** The formation of **one's own objective opinions based on established rules or facts, free from personal preference.**
 
 **Unorganized thoughts**
-
 - Logic primarily has to do with **the logical rules of the universe;** while Reality tells us *what* our world is like, Logic *explains* it all.
   - "Grass is green." - Reality
   - "Grass is green *because*..." - Reality w/ Logic
@@ -100,7 +99,6 @@ The **Force of Imagination** combines the Human Unit of the Heart and the Nonhum
 - **Nonhuman Element:** Knowing and understanding **how one's world could or will change, free from what it was or currently is.**
 
 **Unorganized thoughts**
-
 - How Imagination manifests:
   - Coming up with new ideas, obviously
     - Devising something that has never been seen before in reality
@@ -132,7 +130,6 @@ The **Force of Valuation** combines the Human Unit of the Heart and the Nonhuman
 - **Nonhuman Element:** The formation of **one's own subjective opinions based on personal preference, free from established rules or facts.**
 
 **Unorganized thoughts**
-
 - How Valuation manifests:
   - Putting meaning or personal significance in something
   - Moral values and systems; what we think is morally right

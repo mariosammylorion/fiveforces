@@ -84,6 +84,9 @@ toc_sticky: true
 
 &lt;Lorem ipsum dolor...&gt;
 
+**Unorganized thoughts**
+- Escapists tend to have trust issues when it comes to other people and their motives
+
 ## 4R Accents
 
 &lt;Lorem ipsum dolor...&gt;

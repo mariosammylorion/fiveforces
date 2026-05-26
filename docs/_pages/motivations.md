@@ -7,7 +7,6 @@ toc_sticky: true
 ---
 
 **Unorganized thoughts**
-
 - Because elevation and de-elevation causes some Atoms to be used directly because of another, we can map the path in which information and decisions are bounced to and from these Atoms; this is called a **motivation**
 - There are three types of motivations, not including their subtypes
   - **Loops:** Information and decisions are bounced to and from Atoms in a loop seemingly without beginning or end

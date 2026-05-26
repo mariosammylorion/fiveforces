@@ -51,7 +51,6 @@ Unlike with the Complementary Force Subtypes, the accents that the Forces have i
 &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
-
 - This subtype is called "Martyrdom" because these individuals will go to great lengths to protect their overall character, even if it means danger
   - They would quite literally rather die than to betray themselves
 
@@ -80,7 +79,6 @@ Unlike with the Complementary Force Subtypes, the accents that the Forces have i
 &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
-
 - Individuals with Earnestness are very sincere, and often painfully honest
   - They're the type to drop a bombshell directly on you with a smile on their face
 
@@ -121,7 +119,6 @@ Unlike with the Complementary Force Subtypes, the accents that the Forces have i
 &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
-
 - People with "Validation" seek and need to have their personal values validated by the outside; to them, if the world sees it as *objectively* fine/OK, then it's also *subjectively* fine/OK
 - It's not unusual at all for individuals of this subtype to want or seek protection, not only for their views but even physically as well
 
@@ -222,7 +219,6 @@ Unlike with the Complementary Force Subtypes, the accents that the Forces have i
 &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
-
 - Closest subtype to representing a disaster magnet
 - Instead of ruminating on it, individuals of this subtype simply accept their bad luck
 
@@ -235,7 +231,6 @@ Unlike with the Complementary Force Subtypes, the accents that the Forces have i
 &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
-
 - People with "Recklessness" are constantly in danger; those with Peril *cause* danger
   - Exactly like that one Breaking Bad scene: "I **am** the danger"
     - They are the ones who knock, lol

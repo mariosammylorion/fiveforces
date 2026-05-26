@@ -22,8 +22,6 @@ Because of the cooperation of the Forces of the Brain and the Heart, the Atoms f
 
 &lt;Lorem ipsum dolor...&gt;
 
-**Unorganized thoughts**
-
 ## 2M-to-1V / "Ambition"
 
 &lt;Lorem ipsum dolor...&gt;
@@ -31,8 +29,6 @@ Because of the cooperation of the Forces of the Brain and the Heart, the Atoms f
 ## 2V-to-1M / "Inspiration"
 
 &lt;Lorem ipsum dolor...&gt;
-
-**Unorganized thoughts**
 
 # Authentic (3-to-1)
 
@@ -43,7 +39,6 @@ Because of the cooperation of the Forces of the Brain and the Heart, the Atoms f
 &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
-
 - Closest subtype to representing a teacher or educator
   - Wants to spread their knowledge through concrete facts and evidence that others can easily understand
 
@@ -52,7 +47,6 @@ Because of the cooperation of the Forces of the Brain and the Heart, the Atoms f
 &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
-
 - Individuals of this type seek to expand their "territory" (that is, to spread their idea of reality) through their objective opinions
 
 ## 3M-to-1V / "Optimism"
@@ -64,7 +58,6 @@ Because of the cooperation of the Forces of the Brain and the Heart, the Atoms f
 &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
-
 - Characterized by a strong desire to "find their people" through their ideas
   - They do not create to appeal to the masses...they create to strictly appeal to themselves and their people
 
@@ -81,7 +74,6 @@ Individuals with Processed Units need time to contemplate and process input befo
 &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
-
 - This subtype is always paying attention to its environment, so they notice things that others don't
   - People with Attention know what is happening before it gets out of hand, and they tend to know more about you than you know about yourself
 
@@ -94,7 +86,6 @@ Individuals with Processed Units need time to contemplate and process input befo
 &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
-
 - Appears outwardly happy or seems like they have everything together, but deep down they don't
   - Masking true feelings
 
@@ -147,7 +138,6 @@ Although all individuals with Uninhibited Units love trolling others at least to
 &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
-
 - Individuals with Patronage love to surround themselves with a network of folks who will push forward their own concept of reality, whether through physical tasks or other means
   - At its healthiest, this makes for competent and protective bosses that are willing to stand up for and defend their "employees" with genuine care
   - At its unhealthiest, this subtype gives way to nepotism, cronyism, or even manipulation and grooming
@@ -172,6 +162,12 @@ Although all individuals with Uninhibited Units love trolling others at least to
 
 &lt;Lorem ipsum dolor...&gt;
 
+**Unorganized thoughts**
+- Despite being obedient, this subtype still possesses 4R-2, which blames others for their struggles with the Force of Reality
+  - As such, this subtype often manifests as a sort-of "angry obedience", where they do not necessarily *want* to follow the rules, but they feel as if they have to
+- How can Escapists, who are known for their trust issues, be so trusting? The answer: they do not trust others, but they trust what would happen to themselves if they didn't follow them *even less*
+  - They don't follow the rules because they want to, but because they *have to*
+
 ## 4M-to-2V / "Reliance"
 
 &lt;Lorem ipsum dolor...&gt;
@@ -191,14 +187,11 @@ Although all individuals with Uninhibited Units love trolling others at least to
 Individuals with "Naivety" will believe anything they tell you; you could tell them that the moon is *actually* made of cheese, and they'll believe you without a second thought.
 
 **Unorganized thoughts**
-
 - Incredibly gullible; easy to manipulate if not careful
 
 ## 5R-to-2L / "Curiosity"
 
 &lt;Lorem ipsum dolor...&gt;
-
-**Unorganized thoughts**
 
 ## 5M-to-2V / "Devotion"
 
@@ -209,7 +202,6 @@ Individuals with "Naivety" will believe anything they tell you; you could tell t
 &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
-
 - Often consume and share problematic ideas/media?
 - Possible manifestations
   - Someone subscribing to the philosophy of nihilism proposed by several philosophers before and sharing their views
@@ -227,7 +219,6 @@ Individuals with "Naivety" will believe anything they tell you; you could tell t
 &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
-
 - Closest subtype to representing an actual conspiracy theorist, hence the name
 
 ## 4M-to-3V / "Persecution"

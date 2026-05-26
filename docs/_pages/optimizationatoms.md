@@ -21,7 +21,6 @@ In the proposed arrow model, "Discusser" is represented by a singular arrow with
 &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
-
 - Individuals with Confidence often appear, well...confident on the outside
 
 ## Recipient-Impervious 1O / "Strategy"
@@ -29,7 +28,6 @@ In the proposed arrow model, "Discusser" is represented by a singular arrow with
 &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
-
 - Individuals with Strategy subconsciously strategize their deference in order to get what their Impervious Unit wants
 
 ## Permissive-Private 1O / "Curation"
@@ -37,7 +35,6 @@ In the proposed arrow model, "Discusser" is represented by a singular arrow with
 &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
-
 - Much like how a social media user curates their social media feed to get only things they like on their Recommended page, individuals curate their hunger for outside influence to only receive information that they enjoy
 
 # 2O - Selfless Optimization / "Chameleon"
@@ -50,7 +47,6 @@ In the proposed arrow model, "Chameleon" is represented by a singular arrow with
 - Chameleons are excellent...*chameleons*, being able to "read the room" and align their behavior with what fits best given the situation. This is adapting to the *vibe* of the situation; not an emotional one, but a practical one.
 
 **Unorganized thoughts**
-
 - If the body code-switches to an unfavorable situation, because the Brain and the Heart never interact, the individual is forced to deal with the current situation before they are able to code-switch back to normal
 
 ## Authentic-Deficient 2O / "Obstruction"
@@ -58,7 +54,6 @@ In the proposed arrow model, "Chameleon" is represented by a singular arrow with
 &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
-
 - The efforts of the Authentic Unit are often blockaded or "obstructed" due to their Deficient Unit taking over
   - Prevents them from getting work done
 
@@ -67,7 +62,6 @@ In the proposed arrow model, "Chameleon" is represented by a singular arrow with
 &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
-
 - Individuals with "Industriousness" are very actionable, able to spring into action when the time is right
 
 ## Uninhibited-Private 2O / "Bravado"
@@ -75,7 +69,6 @@ In the proposed arrow model, "Chameleon" is represented by a singular arrow with
 &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
-
 - Just like a washed-up celebrity or showman: dynamic and bold on the stage, yet suffers off the stage
 
 # 3O - Egocentric Optimization / "Minimalist"
@@ -91,7 +84,6 @@ In the proposed arrow model, "Minimalist" is represented by a singular arrow wit
 &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
-
 - Individuals with Humility possess self-deprecation or downplaying of their abilities in one realm using their more powerful abilities
   - "Am I bad at this? Yes. Do I care? No."
 - Despite the name, this "humility" is actually born of selfishness!!
@@ -102,7 +94,6 @@ In the proposed arrow model, "Minimalist" is represented by a singular arrow wit
 &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
-
 - Individuals with "Diligence" take time to process *every single input* they receive, which has no filter by the way
   - ALL input is subject to time and mental energy to process
 - "I'll have to think about it," except unironically and all the damn time
@@ -114,7 +105,6 @@ In the proposed arrow model, "Minimalist" is represented by a singular arrow wit
 &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
-
 - Zealous and unapologetic defenders of the outside systems/opinions/morals they adopted
   - "I'm gonna share this with you whether you like it or not!"
 
@@ -145,7 +135,6 @@ This, my friends, is what Superficiality entails. It's almost like this subtype 
 When most people think of 4O, this is the subtype that comes to mind.
 
 **Unorganized thoughts**
-
 - The phrase to describe this body subtype: "Stay true to yourself, or submit."
 - "How do I adapt to the outside without betraying my true self??"
 
@@ -156,8 +145,6 @@ When most people think of 4O, this is the subtype that comes to mind.
 Out of all three 4O types, Dynamism is the *least* like the stereotypical representation of 4O. In fact, individuals of this subtype appear to be dynamic and confident, with prowess in both the logical/factual *and* emotional/creative realms. So why is it then, that these individuals possess Withdrawn Optimization?
 
 Remember this: **the Brain and the Heart interacting with each other is a mental, unconscious process.** It is not that the individual struggles with deciding between the two, it is that **their logical/factual and emotional/creative drivers have fundamentally different goals and methods.** Not every Debater is indecisive or slow to think; those with Dynamism in particular are very decisive.
-
-**Unorganized thoughts**
 
 # 5O - Apathetic Optimization / "Double Agent"
 
@@ -178,14 +165,11 @@ It is of note that **the mechanism and nature of 5O is inherently contradictory.
 
 Recall that a museum display metaphor was used to describe the 4O body type "Superficiality." We can expand upon this further by introducing a display right next to that one, except this time, the glass container is replaced by a jet black box. When you look at this display, you only see the box. You cannot see what is inside of it, no matter how hard you try. You don't even know if there even *is* anything in the box, for that matter. So not only can you not touch it, smell it, or take it home or call it yours, you can't even see it or even know for sure it even exists in the first place. So in essence, while Superficiality and Secrecy both entail something you cannot have for yourself, only Secrecy gets away with not even being known.
 
-**Unorganized thoughts**
-
 ## Authentic-Recipient 5O / "Duplicity"
 
 &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
-
 - If "Tension" can be described with the phrase, "Stay true to yourself, or submit," then "Duplicity" can be described with, "Stay true to yourself AND submit."
   - Complete balance of being a fierce individualist in one area of life and a pawn in the other
 
@@ -194,5 +178,4 @@ Recall that a museum display metaphor was used to describe the 4O body type "Sup
 &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts**
-
 - In one area of life, the individual naturally comes to decisions and is always in flow; and in the other, the individual needs time and often struggles
