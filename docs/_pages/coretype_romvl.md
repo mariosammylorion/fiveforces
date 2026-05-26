@@ -8,14 +8,16 @@ toc_sticky: true
 
 # At a Glance
 
-| **ATOM / INTERACTION** | **ATOM / INTERACTION SUBTYPE** | **NICKNAME** |
+| **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1R**<br>Mutual Reality         | **1R-5**<br>Uninhibited 1R | "Tactician"   |
 | **2O**<br>Selfless Optimization  | **-**                          | "Chameleon"   |
 | **3M**<br>Egocentric Imagination | **3M-4**<br>Private 3M     | "Reverist"    |
 | **4V**<br>Withdrawn Valuation    | **4V-3**<br>Private 4V     | "Iconoclast"  |
 | **5L**<br>Apathetic Logic        | **5L-1**<br>Uninhibited 5L | "Anomalist"   |
-| --- | --- | --- |
+
+| **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
+|:--------:|:----------------:|:------------:|
 | **Uninhibited Brain**                | **5L-to-1R**                   | "Commotion"   |
 | **Private Heart**                    | **4V-to-3M**                   | "Asceticism"  |
 | **Body Type**                        | **Uninhibited-Private 2O**     | "Bravado"     |

@@ -8,14 +8,16 @@ toc_sticky: true
 
 # At a Glance
 
-| **ATOM / INTERACTION** | **ATOM / INTERACTION SUBTYPE** | **NICKNAME** |
+| **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1O**<br>Mutual Optimization  | **-**                        | "Discusser"    |
 | **2M**<br>Selfless Imagination | **2M-3**<br>Natural 2M   | "Consumer"     |
 | **3V**<br>Egocentric Valuation | **3V-2**<br>Natural 3V   | "Maverick"     |
 | **4R**<br>Withdrawn Reality    | **4R-5**<br>Deficient 4R | "Escapist"     |
 | **5L**<br>Apathetic Logic      | **5L-4**<br>Deficient 5L | "Anomalist"    |
-| --- | --- | --- |
+
+| **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
+|:--------:|:----------------:|:------------:|
 | **Deficient Brain**                | **5L-to-4R**                 | "Astonishment" |
 | **Natural Heart**                  | **3V-to-2M**                 | "Activism"     |
 | **Body Type**                      | **Natural-Deficient 1O**     | "Confidence"   |

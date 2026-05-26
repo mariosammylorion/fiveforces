@@ -8,14 +8,16 @@ toc_sticky: true
 
 # At a Glance
 
-| **ATOM / INTERACTION** | **ATOM / INTERACTION SUBTYPE** | **NICKNAME** |
+| **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1R**<br>Mutual Reality        | **1R-4**<br>Processed 1R  | "Tactician"       |
 | **2O**<br>Selfless Optimization | **-**                         | "Chameleon"       |
 | **3V**<br>Egocentric Valuation  | **3V-5**<br>Impervious 3V | "Maverick"        |
 | **4L**<br>Withdrawn Logic       | **4L-1**<br>Processed 4L  | "Skeptic"         |
 | **5M**<br>Apathetic Imagination | **5M-3**<br>Impervious 5M | "Traditionalist"  |
-| --- | --- | --- |
+
+| **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
+|:--------:|:----------------:|:------------:|
 | **Processed Brain**                 | **4L-to-1R**                  | "Attention"       |
 | **Impervious Heart**                | **5M-to-3V**                  | "Insecurity"      |
 | **Body Type**                       | **Processed-Impervious 2O**   | "Industriousness" |

@@ -8,14 +8,16 @@ toc_sticky: true
 
 # At a Glance
 
-| **ATOM / INTERACTION** | **ATOM / INTERACTION SUBTYPE** | **NICKNAME** |
+| **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1M**<br>Mutual Imagination      | **1M-5**<br>Uninhibited 1M | "Revolutionary" |
 | **2R**<br>Selfless Reality        | **2R-4**<br>Recipient 2R   | "Journalist"    |
 | **3O**<br>Egocentric Optimization | **-**                          | "Minimalist"    |
 | **4L**<br>Withdrawn Logic         | **4L-2**<br>Recipient 4L   | "Skeptic"       |
 | **5V**<br>Apathetic Valuation     | **5V-1**<br>Uninhibited 5V | "Nihilist"      |
-| --- | --- | --- |
+
+| **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
+|:--------:|:----------------:|:------------:|
 | **Recipient Brain**                   | **4L-to-2R**                   | "Tutelage"      |
 | **Uninhibited Heart**                 | **5V-to-1M**                   | "Mischief"      |
 | **Body Type**                         | **Uninhibited-Recipient 3O**   | "Subservience"  |

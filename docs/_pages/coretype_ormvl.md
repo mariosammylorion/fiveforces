@@ -8,14 +8,16 @@ toc_sticky: true
 
 # At a Glance
 
-| **ATOM / INTERACTION** | **ATOM / INTERACTION SUBTYPE** | **NICKNAME** |
+| **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1O**<br>Mutual Optimization    | **-**                         | "Discusser"  |
 | **2R**<br>Selfless Reality       | **2R-5**<br>Permissive 2R | "Journalist" |
 | **3M**<br>Egocentric Imagination | **3M-4**<br>Private 3M    | "Reverist"   |
 | **4V**<br>Withdrawn Valuation    | **4V-3**<br>Private 4V    | "Iconoclast" |
 | **5L**<br>Apathetic Logic        | **5L-2**<br>Permissive 5L | "Anomalist"  |
-| --- | --- | --- |
+
+| **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
+|:--------:|:----------------:|:------------:|
 | **Permissive Brain**                 | **5L-to-2R**                  | "Naivety"    |
 | **Private Heart**                    | **4V-to-3M**                  | "Asceticism" |
 | **Body Type**                        | **Permissive-Private 1O**     | "Curation"   |

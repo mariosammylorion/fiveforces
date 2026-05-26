@@ -8,14 +8,16 @@ toc_sticky: true
 
 # At a Glance
 
-| **ATOM / INTERACTION** | **ATOM / INTERACTION SUBTYPE** | **NICKNAME** |
+| **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1R**<br>Mutual Reality         | **1R-5**<br>Uninhibited 1R | "Tactician"   |
 | **2M**<br>Selfless Imagination   | **2M-3**<br>Natural 2M     | "Consumer"    |
 | **3V**<br>Egocentric Valuation   | **3V-2**<br>Natural 3V     | "Maverick"    |
 | **4O**<br>Withdrawn Optimization | **-**                          | "Debater"     |
 | **5L**<br>Apathetic Logic        | **5L-1**<br>Uninhibited 5L | "Anomalist"   |
-| --- | --- | --- |
+
+| **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
+|:--------:|:----------------:|:------------:|
 | **Uninhibited Brain**                | **5L-to-1R**                   | "Commotion"   |
 | **Natural Heart**                    | **3V-to-2M**                   | "Activism"    |
 | **Body Type**                        | **Uninhibited-Natural 4O**     | "Dynamism"    |

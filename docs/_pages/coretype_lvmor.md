@@ -8,14 +8,16 @@ toc_sticky: true
 
 # At a Glance
 
-| **ATOM / INTERACTION** | **ATOM / INTERACTION SUBTYPE** | **NICKNAME** |
+| **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1L**<br>Mutual Logic           | **1L-5**<br>Uninhibited 1L | "Architect" |
 | **2V**<br>Selfless Valuation     | **2V-3**<br>Natural 2V     | "Disciple"  |
 | **3M**<br>Egocentric Imagination | **3M-2**<br>Natural 3M     | "Reverist"  |
 | **4O**<br>Withdrawn Optimization | **-**                          | "Debater"   |
 | **5R**<br>Apathetic Reality      | **5R-1**<br>Uninhibited 5R | "Unrealist" |
-| --- | --- | --- |
+
+| **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
+|:--------:|:----------------:|:------------:|
 | **Uninhibited Brain**                | **5R-to-1L**                   | "Discovery" |
 | **Natural Heart**                    | **3M-to-2V**                   | "Nirvana"   |
 | **Body Type**                        | **Uninhibited-Natural 4O**     | "Dynamism"  |

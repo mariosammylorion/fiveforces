@@ -8,14 +8,16 @@ toc_sticky: true
 
 # At a Glance
 
-| **ATOM / INTERACTION** | **ATOM / INTERACTION SUBTYPE** | **NICKNAME** |
+| **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1O**<br>Mutual Optimization   | **-**                        | "Discusser"      |
 | **2L**<br>Selfless Logic        | **2L-3**<br>Natural 2L   | "Student"        |
 | **3R**<br>Egocentric Reality    | **3R-2**<br>Natural 3R   | "Relativist"     |
 | **4V**<br>Withdrawn Valuation   | **4V-5**<br>Deficient 4V | "Iconoclast"     |
 | **5M**<br>Apathetic Imagination | **5M-4**<br>Deficient 5M | "Traditionalist" |
-| --- | --- | --- |
+
+| **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
+|:--------:|:----------------:|:------------:|
 | **Natural Brain**                   | **3R-to-2L**                 | "Patronage"      |
 | **Deficient Heart**                 | **5M-to-4V**                 | "Sternness"      |
 | **Body Type**                       | **Natural-Deficient 1O**     | "Confidence"     |

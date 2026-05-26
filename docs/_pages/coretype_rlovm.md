@@ -8,14 +8,16 @@ toc_sticky: true
 
 # At a Glance
 
-| **ATOM / INTERACTION** | **ATOM / INTERACTION SUBTYPE** | **NICKNAME** |
+| **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1R**<br>Mutual Reality          | **1R-2**<br>Public 1R    | "Tactician"      |
 | **2L**<br>Selfless Logic          | **2L-1**<br>Public 2L    | "Student"        |
 | **3O**<br>Egocentric Optimization | **-**                        | "Minimalist"     |
 | **4V**<br>Withdrawn Valuation     | **4V-5**<br>Deficient 4V | "Iconoclast"     |
 | **5M**<br>Apathetic Imagination   | **5M-4**<br>Deficient 5M | "Traditionalist" |
-| --- | --- | --- |
+
+| **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
+|:--------:|:----------------:|:------------:|
 | **Public Brain**                      | **2L-to-1R**                 | "Physicality"    |
 | **Deficient Heart**                   | **5M-to-4V**                 | "Sternness"      |
 | **Body Type**                         | **Public-Deficient 3O**      | "Humility"       |

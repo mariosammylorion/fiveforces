@@ -8,14 +8,16 @@ toc_sticky: true
 
 # At a Glance
 
-| **ATOM / INTERACTION** | **ATOM / INTERACTION SUBTYPE** | **NICKNAME** |
+| **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1V**<br>Mutual Valuation        | **1V-4**<br>Processed 1V  | "Evangelist" |
 | **2R**<br>Selfless Reality        | **2R-5**<br>Permissive 2R | "Journalist" |
 | **3O**<br>Egocentric Optimization | **-**                         | "Minimalist" |
 | **4M**<br>Withdrawn Imagination   | **4M-1**<br>Processed 4M  | "Doomsayer"  |
 | **5L**<br>Apathetic Logic         | **5L-2**<br>Permissive 5L | "Anomalist"  |
-| --- | --- | --- |
+
+| **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
+|:--------:|:----------------:|:------------:|
 | **Permissive Brain**                  | **5L-to-2R**                  | "Naivety"    |
 | **Processed Heart**                   | **4M-to-1V**                  | "Camouflage" |
 | **Body Type**                         | **Processed-Permissive 3O**   | "Diligence"  |

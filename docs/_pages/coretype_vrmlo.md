@@ -8,14 +8,16 @@ toc_sticky: true
 
 # At a Glance
 
-| **ATOM / INTERACTION** | **ATOM / INTERACTION SUBTYPE** | **NICKNAME** |
+| **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1V**<br>Mutual Valuation       | **1V-3**<br>Authentic 1V | "Evangelist"   |
 | **2R**<br>Selfless Reality       | **2R-4**<br>Recipient 2R | "Journalist"   |
 | **3M**<br>Egocentric Imagination | **3M-1**<br>Authentic 3M | "Reverist"     |
 | **4L**<br>Withdrawn Logic        | **4L-2**<br>Recipient 4L | "Skeptic"      |
 | **5O**<br>Apathetic Optimization | **-**                        | "Double Agent" |
-| --- | --- | --- |
+
+| **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
+|:--------:|:----------------:|:------------:|
 | **Recipient Brain**                  | **4L-to-2R**                 | "Tutelage"     |
 | **Authentic Heart**                  | **3M-to-1V**                 | "Optimism"     |
 | **Body Type**                        | **Authentic-Permissive 5O**  | "Duplicity"    |

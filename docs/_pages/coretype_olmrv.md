@@ -8,14 +8,16 @@ toc_sticky: true
 
 # At a Glance
 
-| **ATOM / INTERACTION** | **ATOM / INTERACTION SUBTYPE** | **NICKNAME** |
+| **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1O**<br>Mutual Optimization    | **-**                         | "Discusser"   |
 | **2L**<br>Selfless Logic         | **2L-4**<br>Recipient 2L  | "Student"     |
 | **3M**<br>Egocentric Imagination | **3M-5**<br>Impervious 3M | "Reverist"    |
 | **4R**<br>Withdrawn Reality      | **4R-2**<br>Recipient 4R  | "Escapist"    |
 | **5V**<br>Apathetic Valuation    | **5V-3**<br>Impervious 5V | "Nihilist"    |
-| --- | --- | --- |
+
+| **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
+|:--------:|:----------------:|:------------:|
 | **Recipient Brain**                  | **4R-to-2L**                  | "Obedience"   |
 | **Impervious Heart**                 | **5V-to-3M**                  | "Callousness" |
 | **Body Type**                        | **Recipient-Impervious 1O**   | "Strategy"    |

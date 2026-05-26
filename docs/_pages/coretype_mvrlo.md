@@ -8,14 +8,16 @@ toc_sticky: true
 
 # At a Glance
 
-| **ATOM / INTERACTION** | **ATOM / INTERACTION SUBTYPE** | **NICKNAME** |
+| **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1M**<br>Mutual Imagination     | **1M-2**<br>Public 1M  | "Revolutionary"  |
 | **2V**<br>Selfless Valuation     | **2V-1**<br>Public 2V  | "Disciple"       |
 | **3R**<br>Egocentric Reality     | **3R-4**<br>Private 3R | "Relativist"     |
 | **4L**<br>Withdrawn Logic        | **4L-3**<br>Private 4L | "Skeptic"        |
 | **5O**<br>Apathetic Optimization | **-**                      | "Double Agent"   |
-| --- | --- | --- |
+
+| **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
+|:--------:|:----------------:|:------------:|
 | **Private Brain**                    | **4L-to-3R**               | "Accumulation"   |
 | **Public Heart**                     | **2V-to-1M**               | "Inspiration"    |
 | **Body Type**                        | **Public-Private 5O**      | "Secrecy"        |

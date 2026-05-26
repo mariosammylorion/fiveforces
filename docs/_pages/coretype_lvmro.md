@@ -8,14 +8,16 @@ toc_sticky: true
 
 # At a Glance
 
-| **ATOM / INTERACTION** | **ATOM / INTERACTION SUBTYPE** | **NICKNAME** |
+| **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1L**<br>Mutual Logic           | **1L-4**<br>Processed 1L | "Architect"      |
 | **2V**<br>Selfless Valuation     | **2V-3**<br>Natural 2V   | "Disciple"       |
 | **3M**<br>Egocentric Imagination | **3M-2**<br>Natural 3M   | "Reverist"       |
 | **4R**<br>Withdrawn Reality      | **4R-1**<br>Processed 4R | "Escapist"       |
 | **5O**<br>Apathetic Optimization | **-**                        | "Double Agent"   |
-| --- | --- | --- |
+
+| **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
+|:--------:|:----------------:|:------------:|
 | **Processed Brain**                  | **4R-to-1L**                 | "Anxiety"        |
 | **Natural Heart**                    | **3M-to-2V**                 | "Nirvana"        |
 | **Body Type**                        | **Processed-Natural 5O**     | "Specialization" |

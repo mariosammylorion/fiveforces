@@ -8,14 +8,16 @@ toc_sticky: true
 
 # At a Glance
 
-| **ATOM / INTERACTION** | **ATOM / INTERACTION SUBTYPE** | **NICKNAME** |
+| **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1R**<br>Mutual Reality          | **1R-5**<br>Uninhibited 1R | "Tactician"    |
 | **2V**<br>Selfless Valuation      | **2V-4**<br>Recipient 2V   | "Disciple"     |
 | **3O**<br>Egocentric Optimization | **-**                          | "Minimalist"   |
 | **4M**<br>Withdrawn Imagination   | **4M-2**<br>Recipient 4M   | "Doomsayer"    |
 | **5L**<br>Apathetic Logic         | **5L-1**<br>Uninhibited 5L | "Anomalist"    |
-| --- | --- | --- |
+
+| **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
+|:--------:|:----------------:|:------------:|
 | **Uninhibited Brain**                 | **5L-to-1R**                   | "Commotion"    |
 | **Permissive Heart**                  | **4M-to-2V**                   | "Reliance"     |
 | **Body Type**                         | **Uninhibited-Recipient 3O**   | "Subservience" |

@@ -8,14 +8,16 @@ toc_sticky: true
 
 # At a Glance
 
-| **ATOM / INTERACTION** | **ATOM / INTERACTION SUBTYPE** | **NICKNAME** |
+| **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1L**<br>Mutual Logic            | **1L-4**<br>Processed 1L  | "Architect"  |
 | **2M**<br>Selfless Imagination    | **2M-5**<br>Permissive 2M | "Consumer"   |
 | **3O**<br>Egocentric Optimization | **-**                         | "Minimalist" |
 | **4R**<br>Withdrawn Reality       | **4R-1**<br>Processed 4R  | "Escapist"   |
 | **5V**<br>Apathetic Valuation     | **5V-2**<br>Permissive 5V | "Nihilist"   |
-| --- | --- | --- |
+
+| **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
+|:--------:|:----------------:|:------------:|
 | **Processed Brain**                   | **4R-to-1L**                  | "Anxiety"    |
 | **Permissive Heart**                  | **5V-to-2M**                  | "Depravity"  |
 | **Body Type**                         | **Processed-Permissive 3O**   | "Diligence"  |

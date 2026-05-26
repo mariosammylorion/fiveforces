@@ -8,14 +8,16 @@ toc_sticky: true
 
 # At a Glance
 
-| **ATOM / INTERACTION** | **ATOM / INTERACTION SUBTYPE** | **NICKNAME** |
+| **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1L**<br>Mutual Logic            | **1L-2**<br>Public 1L    | "Architect"  |
 | **2R**<br>Selfless Reality        | **2R-1**<br>Public 2R    | "Journalist" |
 | **3O**<br>Egocentric Optimization | **-**                        | "Minimalist" |
 | **4M**<br>Withdrawn Imagination   | **4M-5**<br>Deficient 4M | "Doomsayer"  |
 | **5V**<br>Apathetic Valuation     | **5V-4**<br>Deficient 5V | "Nihilist"   |
-| --- | --- | --- |
+
+| **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
+|:--------:|:----------------:|:------------:|
 | **Public Brain**                      | **2R-to-1L**                 | "Integrity"  |
 | **Deficient Heart**                   | **5V-to-4M**                 | "Arrogance"  |
 | **Body Type**                         | **Public-Deficient 3O**      | "Humility"   |

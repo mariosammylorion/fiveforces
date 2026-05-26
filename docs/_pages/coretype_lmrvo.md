@@ -8,14 +8,16 @@ toc_sticky: true
 
 # At a Glance
 
-| **ATOM / INTERACTION** | **ATOM / INTERACTION SUBTYPE** | **NICKNAME** |
+| **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1L**<br>Mutual Logic           | **1L-3**<br>Authentic 1L | "Architect"    |
 | **2M**<br>Selfless Imagination   | **2M-4**<br>Recipient 2M | "Consumer"     |
 | **3R**<br>Egocentric Reality     | **3R-1**<br>Authentic 3R | "Relativist"   |
 | **4V**<br>Withdrawn Valuation    | **4V-2**<br>Recipient 4V | "Iconoclast"   |
 | **5O**<br>Apathetic Optimization | **-**                        | "Double Agent" |
-| --- | --- | --- |
+
+| **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
+|:--------:|:----------------:|:------------:|
 | **Authentic Brain**                  | **3R-to-1L**                 | "Conquest"     |
 | **Permissive Heart**                 | **4V-to-2M**                 | "Palliation"   |
 | **Body Type**                        | **Authentic-Permissive 5O**  | "Duplicity"    |

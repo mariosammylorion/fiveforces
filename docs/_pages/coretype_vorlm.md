@@ -8,14 +8,16 @@ toc_sticky: true
 
 # At a Glance
 
-| **ATOM / INTERACTION** | **ATOM / INTERACTION SUBTYPE** | **NICKNAME** |
+| **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1V**<br>Mutual Valuation      | **1V-5**<br>Uninhibited 1V | "Evangelist"     |
 | **2O**<br>Selfless Optimization | **-**                          | "Chameleon"      |
 | **3R**<br>Egocentric Reality    | **3R-4**<br>Private 3R     | "Relativist"     |
 | **4L**<br>Withdrawn Logic       | **4L-3**<br>Private 4L     | "Skeptic"        |
 | **5M**<br>Apathetic Imagination | **5M-1**<br>Uninhibited 5M | "Traditionalist" |
-| --- | --- | --- |
+
+| **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
+|:--------:|:----------------:|:------------:|
 | **Private Brain**                   | **4L-to-3R**                   | "Accumulation"   |
 | **Uninhibited Heart**               | **5M-to-1V**                   | "Conservatism"   |
 | **Body Type**                       | **Uninhibited-Private 2O**     | "Bravado"        |

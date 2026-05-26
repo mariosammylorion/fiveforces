@@ -8,14 +8,16 @@ toc_sticky: true
 
 # At a Glance
 
-| **ATOM / INTERACTION** | **ATOM / INTERACTION SUBTYPE** | **NICKNAME** |
+| **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1V**<br>Mutual Valuation       | **1V-5**<br>Uninhibited 1V | "Evangelist"     |
 | **2R**<br>Selfless Reality       | **2R-3**<br>Natural 2R     | "Journalist"     |
 | **3L**<br>Egocentric Logic       | **3L-2**<br>Natural 3L     | "Dissident"      |
 | **4O**<br>Withdrawn Optimization | **-**                          | "Debater"        |
 | **5M**<br>Apathetic Imagination  | **5M-1**<br>Uninhibited 5M | "Traditionalist" |
-| --- | --- | --- |
+
+| **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
+|:--------:|:----------------:|:------------:|
 | **Natural Brain**                    | **3L-to-2R**                   | "Influence"      |
 | **Uninhibited Heart**                | **5M-to-1V**                   | "Conservatism"   |
 | **Body Type**                        | **Uninhibited-Natural 4O**     | "Dynamism"       |

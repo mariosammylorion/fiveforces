@@ -8,14 +8,16 @@ toc_sticky: true
 
 # At a Glance
 
-| **ATOM / INTERACTION** | **ATOM / INTERACTION SUBTYPE** | **NICKNAME** |
+| **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1L**<br>Mutual Logic           | **1L-2**<br>Public 1L     | "Architect"      |
 | **2R**<br>Selfless Reality       | **2R-1**<br>Public 2R     | "Journalist"     |
 | **3M**<br>Egocentric Imagination | **3M-5**<br>Impervious 3M | "Reverist"       |
 | **4O**<br>Withdrawn Optimization | **-**                         | "Debater"        |
 | **5V**<br>Apathetic Valuation    | **5V-3**<br>Impervious 5V | "Nihilist"       |
-| --- | --- | --- |
+
+| **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
+|:--------:|:----------------:|:------------:|
 | **Public Brain**                     | **2R-to-1L**                  | "Integrity"      |
 | **Impervious Heart**                 | **5V-to-3M**                  | "Callousness"    |
 | **Body Type**                        | **Public-Impervious 4O**      | "Superficiality" |
