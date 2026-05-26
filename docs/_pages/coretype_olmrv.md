@@ -10,20 +10,20 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1O**<br>Mutual Optimization    | **-**                         | "Discusser"   |
-| **2L**<br>Selfless Logic         | **2L-4**<br>Recipient 2L  | "Student"     |
-| **3M**<br>Egocentric Imagination | **3M-5**<br>Impervious 3M | "Reverist"    |
-| **4R**<br>Withdrawn Reality      | **4R-2**<br>Recipient 4R  | "Escapist"    |
-| **5V**<br>Apathetic Valuation    | **5V-3**<br>Impervious 5V | "Nihilist"    |
+| **1O**<br>Mutual Optimization | **-** | "Discusser" |
+| **2L**<br>Selfless Logic | **2L-4**<br>Recipient 2L | "Docile<br>Student" |
+| **3M**<br>Egocentric Imagination | **3M-5**<br>Impervious 3M | "Stubborn<br>Reverist" |
+| **4R**<br>Withdrawn Reality | **4R-2**<br>Recipient 4R | "Projective<br>Escapist" |
+| **5V**<br>Apathetic Valuation | **5V-3**<br>Impervious 5V | "Antagonistic<br>Nihilist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **Recipient Brain**                  | **4R-to-2L**                  | "Obedience"   |
-| **Impervious Heart**                 | **5V-to-3M**                  | "Callousness" |
-| **Body Type**                        | **Recipient-Impervious 1O**   | "Strategy"    |
-| **Objection De-Elevation**           | **3M-to-4R**                  | "Refuge"      |
-| **Subjection De-Elevation**          | **2L-to-5V**                  | "Completion"  |
-| **Motivation**                       | **α-Loop**                    | **-** |
+| **Recipient Brain** | **4R-to-2L** | "Obedience" |
+| **Impervious Heart** | **5V-to-3M** | "Callousness" |
+| **Body Type** | **Recipient-Impervious 1O** | "Strategy" |
+| **Objection De-Elevation** | **3M-to-4R** | "Refuge" |
+| **Subjection De-Elevation** | **2L-to-5V** | "Completion" |
+| **Motivation** | **α-Loop** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|

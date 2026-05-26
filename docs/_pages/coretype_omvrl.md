@@ -10,20 +10,20 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1O**<br>Mutual Optimization  | **-**                        | "Discusser"    |
-| **2M**<br>Selfless Imagination | **2M-3**<br>Natural 2M   | "Consumer"     |
-| **3V**<br>Egocentric Valuation | **3V-2**<br>Natural 3V   | "Maverick"     |
-| **4R**<br>Withdrawn Reality    | **4R-5**<br>Deficient 4R | "Escapist"     |
-| **5L**<br>Apathetic Logic      | **5L-4**<br>Deficient 5L | "Anomalist"    |
+| **1O**<br>Mutual Optimization | **-** | "Discusser" |
+| **2M**<br>Selfless Imagination | **2M-3**<br>Natural 2M | "Passionate<br>Consumer" |
+| **3V**<br>Egocentric Valuation | **3V-2**<br>Natural 3V | "Commanding<br>Maverick" |
+| **4R**<br>Withdrawn Reality | **4R-5**<br>Deficient 4R | "Concealing<br>Escapist" |
+| **5L**<br>Apathetic Logic | **5L-4**<br>Deficient 5L | "Grudging<br>Anomalist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **Deficient Brain**                | **5L-to-4R**                 | "Astonishment" |
-| **Natural Heart**                  | **3V-to-2M**                 | "Activism"     |
-| **Body Type**                      | **Natural-Deficient 1O**     | "Confidence"   |
-| **Objection De-Elevation**         | **2M-to-4R**                 | "Zealotry"     |
-| **Subjection De-Elevation**        | **3V-to-5L**                 | "Selfishness"  |
-| **Motivation**                     | **VR-Spur**                  | **-** |
+| **Deficient Brain** | **5L-to-4R** | "Astonishment" |
+| **Natural Heart** | **3V-to-2M** | "Activism" |
+| **Body Type** | **Natural-Deficient 1O** | "Confidence" |
+| **Objection De-Elevation** | **2M-to-4R** | "Zealotry" |
+| **Subjection De-Elevation** | **3V-to-5L** | "Selfishness" |
+| **Motivation** | **VR-Spur** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|

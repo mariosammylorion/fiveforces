@@ -19,11 +19,11 @@ These five combinations are as follows:
 
 The following tables are summaries of what has been said, including simplified versions of the Human and Nonhuman Elements:
 
-| **Human Unit** | **Objection Pole**  | **Subjection Pole** | **Equator**          |
+| **Human Unit** | **Objection Pole** | **Subjection Pole** | **Equator** |
 | -------------- | ------------------- | ------------------- | -------------------- |
-| **Brain**      | **Reality (R)**     | **Logic (L)**       |                      |
-| **Heart**      | **Imagination (M)** | **Valuation (V)**   |                      |
-| **Body**       |                     |                     | **Optimization (O)** |
+| **Brain** | **Reality (R)** | **Logic (L)** | |
+| **Heart** | **Imagination (M)** | **Valuation (V)** | |
+| **Body** |  |  | **Optimization (O)** |
 
 | **Force** | **Human Element** | **Nonhuman Element** |
 | --------- | ----------------- | -------------------- |

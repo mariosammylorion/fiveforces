@@ -10,20 +10,20 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1O**<br>Mutual Optimization   | **-**                         | "Discusser"      |
-| **2V**<br>Selfless Valuation    | **2V-5**<br>Permissive 2V | "Disciple"       |
-| **3R**<br>Egocentric Reality    | **3R-4**<br>Private 3R    | "Relativist"     |
-| **4L**<br>Withdrawn Logic       | **4L-3**<br>Private 4L    | "Skeptic"        |
-| **5M**<br>Apathetic Imagination | **5M-2**<br>Permissive 5M | "Traditionalist" |
+| **1O**<br>Mutual Optimization | **-** | "Discusser" |
+| **2V**<br>Selfless Valuation | **2V-5**<br>Permissive 2V | "Indulgent<br>Disciple" |
+| **3R**<br>Egocentric Reality | **3R-4**<br>Private 3R | "Fearful<br>Relativist" |
+| **4L**<br>Withdrawn Logic | **4L-3**<br>Private 4L | "Tenacious<br>Skeptic" |
+| **5M**<br>Apathetic Imagination | **5M-2**<br>Permissive 5M | "Respectful<br>Traditionalist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **Private Brain**                   | **4L-to-3R**                  | "Accumulation"   |
-| **Permissive Heart**                | **5M-to-2V**                  | "Devotion"       |
-| **Body Type**                       | **Permissive-Private 1O**     | "Curation"       |
-| **Objection De-Elevation**          | **3R-to-5M**                  | "Satisfaction"   |
-| **Subjection De-Elevation**         | **2V-to-4L**                  | "Sentimentality" |
-| **Motivation**                      | **β-Loop**                    | **-** |
+| **Private Brain** | **4L-to-3R** | "Accumulation" |
+| **Permissive Heart** | **5M-to-2V** | "Devotion" |
+| **Body Type** | **Permissive-Private 1O** | "Curation" |
+| **Objection De-Elevation** | **3R-to-5M** | "Satisfaction" |
+| **Subjection De-Elevation** | **2V-to-4L** | "Sentimentality" |
+| **Motivation** | **β-Loop** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|

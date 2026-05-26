@@ -16,19 +16,19 @@ toc_sticky: true
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Public 1V (1V-2)
+### Public 1V (1V-2) / "Disciplined Evangelist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Authentic 1V (1V-3)
+### Authentic 1V (1V-3) / "Nonconformist Evangelist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Processed 1V (1V-4)
+### Processed 1V (1V-4) / "Perfectionist Evangelist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Uninhibited 1V (1V-5)
+### Uninhibited 1V (1V-5) / "Unfiltered Evangelist"
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -40,19 +40,19 @@ toc_sticky: true
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Public 2V (2V-1)
+### Public 2V (2V-1) / "Passionate Disciple"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Natural 2V (2V-3)
+### Natural 2V (2V-3) / "Defensive Disciple"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Recipient 2V (2V-4)
+### Recipient 2V (2V-4) / "Docile Disciple"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Permissive 2V (2V-5)
+### Permissive 2V (2V-5) / "Indulgent Disciple"
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -66,19 +66,19 @@ While every Egocentric atom is susceptible to telling others "You wouldn't under
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Authentic 3V (3V-1)
+### Authentic 3V (3V-1) / "Sociable Maverick"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Natural 3V (3V-2)
+### Natural 3V (3V-2) / "Commanding Maverick"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Private 3V (3V-4)
+### Private 3V (3V-4) / "Fearful Maverick"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Impervious 3V (3V-5)
+### Impervious 3V (3V-5) / "Stubborn Maverick"
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -90,19 +90,19 @@ While every Egocentric atom is susceptible to telling others "You wouldn't under
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Processed 4V (4V-1)
+### Processed 4V (4V-1) / "Self-Deprecating Iconoclast"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Recipient 4V (4V-2)
+### Recipient 4V (4V-2) / "Projective Iconoclast"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Private 4V (4V-3)
+### Private 4V (4V-3) / "Tenacious Iconoclast"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Deficient 4V (4V-5)
+### Deficient 4V (4V-5) / "Concealed Iconoclast"
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -114,20 +114,20 @@ While every Egocentric atom is susceptible to telling others "You wouldn't under
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Uninhibited 5V (5V-1)
+### Uninhibited 5V (5V-1) / "Opportunistic Nihilist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Permissive 5V (5V-2)
+### Permissive 5V (5V-2) / "Respectful Nihilist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Impervious 5V (5V-3)
+### Impervious 5V (5V-3) / "Antagonistic Nihilist"
 
 &lt;Lorem ipsum dolor...&gt;
 
 Just like how Impervious 5L gives way to the most anti-intellectual core types, **Impervious 5V makes for the most anti-emotional core types.**
 
-### Deficient 5V (5V-4)
+### Deficient 5V (5V-4) / "Grudging Nihilist"
 
 &lt;Lorem ipsum dolor...&gt;

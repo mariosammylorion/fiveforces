@@ -10,20 +10,20 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1V**<br>Mutual Valuation       | **1V-5**<br>Uninhibited 1V | "Evangelist"     |
-| **2L**<br>Selfless Logic         | **2L-3**<br>Natural 2L     | "Student"        |
-| **3R**<br>Egocentric Reality     | **3R-2**<br>Natural 3R     | "Relativist"     |
-| **4O**<br>Withdrawn Optimization | **-**                          | "Debater"        |
-| **5M**<br>Apathetic Imagination  | **5M-1**<br>Uninhibited 5M | "Traditionalist" |
+| **1V**<br>Mutual Valuation | **1V-5**<br>Uninhibited 1V | "Unfiltered<br>Evangelist" |
+| **2L**<br>Selfless Logic | **2L-3**<br>Natural 2L | "Defensive<br>Student" |
+| **3R**<br>Egocentric Reality | **3R-2**<br>Natural 3R | "Commanding<br>Relativist" |
+| **4O**<br>Withdrawn Optimization | **-** | "Debater" |
+| **5M**<br>Apathetic Imagination | **5M-1**<br>Uninhibited 5M | "Opportunistic<br>Traditionalist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **Natural Brain**                    | **3R-to-2L**                   | "Patronage"      |
-| **Uninhibited Heart**                | **5M-to-1V**                   | "Conservatism"   |
-| **Body Type**                        | **Uninhibited-Natural 4O**     | "Dynamism"       |
-| **Objection De-Elevation**           | **3R-to-5M**                   | "Satisfaction"   |
-| **Subjection De-Elevation**          | **1V-to-2L**                   | "Vindication"    |
-| **Motivation**                       | **RL-Bypass**                  | **-** |
+| **Natural Brain** | **3R-to-2L** | "Patronage" |
+| **Uninhibited Heart** | **5M-to-1V** | "Conservatism" |
+| **Body Type** | **Uninhibited-Natural 4O** | "Dynamism" |
+| **Objection De-Elevation** | **3R-to-5M** | "Satisfaction" |
+| **Subjection De-Elevation** | **1V-to-2L** | "Vindication" |
+| **Motivation** | **RL-Bypass** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|

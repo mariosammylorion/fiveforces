@@ -10,20 +10,20 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1R**<br>Mutual Reality          | **1R-4**<br>Processed 1R  | "Tactician"      |
-| **2V**<br>Selfless Valuation      | **2V-5**<br>Permissive 2V | "Disciple"       |
-| **3O**<br>Egocentric Optimization | **-**                         | "Minimalist"     |
-| **4L**<br>Withdrawn Logic         | **4L-1**<br>Processed 4L  | "Skeptic"        |
-| **5M**<br>Apathetic Imagination   | **5M-2**<br>Permissive 5M | "Traditionalist" |
+| **1R**<br>Mutual Reality | **1R-4**<br>Processed 1R | "Perfectionist<br>Tactician" |
+| **2V**<br>Selfless Valuation | **2V-5**<br>Permissive 2V | "Indulgent<br>Disciple" |
+| **3O**<br>Egocentric Optimization | **-** | "Minimalist" |
+| **4L**<br>Withdrawn Logic | **4L-1**<br>Processed 4L | "Self-Deprecating<br>Skeptic" |
+| **5M**<br>Apathetic Imagination | **5M-2**<br>Permissive 5M | "Respectful<br>Traditionalist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **Processed Brain**                   | **4L-to-1R**                  | "Attention"      |
-| **Permissive Heart**                  | **5M-to-2V**                  | "Devotion"       |
-| **Body Type**                         | **Processed-Permissive 3O**   | "Diligence"      |
-| **Objection De-Elevation**            | **1R-to-5M**                  | "Volatility"     |
-| **Subjection De-Elevation**           | **2V-to-4L**                  | "Sentimentality" |
-| **Motivation**                        | **β-Loop**                    | **-** |
+| **Processed Brain** | **4L-to-1R** | "Attention" |
+| **Permissive Heart** | **5M-to-2V** | "Devotion" |
+| **Body Type** | **Processed-Permissive 3O** | "Diligence" |
+| **Objection De-Elevation** | **1R-to-5M** | "Volatility" |
+| **Subjection De-Elevation** | **2V-to-4L** | "Sentimentality" |
+| **Motivation** | **β-Loop** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|

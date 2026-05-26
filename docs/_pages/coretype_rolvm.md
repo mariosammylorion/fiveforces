@@ -10,20 +10,20 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1R**<br>Mutual Reality        | **1R-3**<br>Authentic 1R | "Tactician"      |
-| **2O**<br>Selfless Optimization | **-**                        | "Chameleon"      |
-| **3L**<br>Egocentric Logic      | **3L-1**<br>Authentic 3L | "Dissident"      |
-| **4V**<br>Withdrawn Valuation   | **4V-5**<br>Deficient 4V | "Iconoclast"     |
-| **5M**<br>Apathetic Imagination | **5M-4**<br>Deficient 5M | "Traditionalist" |
+| **1R**<br>Mutual Reality | **1R-3**<br>Authentic 1R | "Nonconformist<br>Tactician" |
+| **2O**<br>Selfless Optimization | **-** | "Chameleon" |
+| **3L**<br>Egocentric Logic | **3L-1**<br>Authentic 3L | "Sociable<br>Dissident" |
+| **4V**<br>Withdrawn Valuation | **4V-5**<br>Deficient 4V | "Concealed<br>Iconoclast" |
+| **5M**<br>Apathetic Imagination | **5M-4**<br>Deficient 5M | "Grudging<br>Traditionalist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **Authentic Brain**                 | **3L-to-1R**                 | "Pedagogy"       |
-| **Deficient Heart**                 | **5M-to-4V**                 | "Sternness"      |
-| **Body Type**                       | **Authentic-Deficient 2O**   | "Obstruction"    |
-| **Objection De-Elevation**          | **1R-to-5M**                 | "Volatility"     |
-| **Subjection De-Elevation**         | **3L-to-4V**                 | "Pedantism"      |
-| **Motivation**                      | **LV-Bypass**                | **-** |
+| **Authentic Brain** | **3L-to-1R** | "Pedagogy" |
+| **Deficient Heart** | **5M-to-4V** | "Sternness" |
+| **Body Type** | **Authentic-Deficient 2O** | "Obstruction" |
+| **Objection De-Elevation** | **1R-to-5M** | "Volatility" |
+| **Subjection De-Elevation** | **3L-to-4V** | "Pedantism" |
+| **Motivation** | **LV-Bypass** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|

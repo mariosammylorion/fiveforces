@@ -10,20 +10,20 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1V**<br>Mutual Valuation       | **1V-3**<br>Authentic 1V | "Evangelist"  |
-| **2O**<br>Selfless Optimization  | **-**                        | "Chameleon"   |
-| **3M**<br>Egocentric Imagination | **3M-1**<br>Authentic 3M | "Reverist"    |
-| **4L**<br>Withdrawn Logic        | **4L-5**<br>Deficient 4L | "Skeptic"     |
-| **5R**<br>Apathetic Reality      | **5R-4**<br>Deficient 5R | "Unrealist"   |
+| **1V**<br>Mutual Valuation | **1V-3**<br>Authentic 1V | "Nonconformist<br>Evangelist" |
+| **2O**<br>Selfless Optimization | **-** | "Chameleon" |
+| **3M**<br>Egocentric Imagination | **3M-1**<br>Authentic 3M | "Sociable<br>Reverist" |
+| **4L**<br>Withdrawn Logic | **4L-5**<br>Deficient 4L | "Concealing<br>Skeptic" |
+| **5R**<br>Apathetic Reality | **5R-4**<br>Deficient 5R | "Grudging<br>Unrealist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **Deficient Brain**                  | **5R-to-4L**                 | "Innocence"   |
-| **Authentic Heart**                  | **3M-to-1V**                 | "Optimism"    |
-| **Body Type**                        | **Authentic-Deficient 2O**   | "Obstruction" |
-| **Objection De-Elevation**           | **3M-to-5R**                 | "Sublimity"   |
-| **Subjection De-Elevation**          | **1V-to-4L**                 | "Earnestness" |
-| **Motivation**                       | **ML-Spur**                  | **-** |
+| **Deficient Brain** | **5R-to-4L** | "Innocence" |
+| **Authentic Heart** | **3M-to-1V** | "Optimism" |
+| **Body Type** | **Authentic-Deficient 2O** | "Obstruction" |
+| **Objection De-Elevation** | **3M-to-5R** | "Sublimity" |
+| **Subjection De-Elevation** | **1V-to-4L** | "Earnestness" |
+| **Motivation** | **ML-Spur** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|

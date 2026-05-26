@@ -10,20 +10,20 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1L**<br>Mutual Logic           | **1L-5**<br>Uninhibited 1L | "Architect" |
-| **2V**<br>Selfless Valuation     | **2V-3**<br>Natural 2V     | "Disciple"  |
-| **3M**<br>Egocentric Imagination | **3M-2**<br>Natural 3M     | "Reverist"  |
-| **4O**<br>Withdrawn Optimization | **-**                          | "Debater"   |
-| **5R**<br>Apathetic Reality      | **5R-1**<br>Uninhibited 5R | "Unrealist" |
+| **1L**<br>Mutual Logic | **1L-5**<br>Uninhibited 1L | "Unfiltered<br>Architect" |
+| **2V**<br>Selfless Valuation | **2V-3**<br>Natural 2V | "Defensive<br>Disciple" |
+| **3M**<br>Egocentric Imagination | **3M-2**<br>Natural 3M | "Commanding<br>Reverist" |
+| **4O**<br>Withdrawn Optimization | **-** | "Debater" |
+| **5R**<br>Apathetic Reality | **5R-1**<br>Uninhibited 5R | "Opportunistic<br>Unrealist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **Uninhibited Brain**                | **5R-to-1L**                   | "Discovery" |
-| **Natural Heart**                    | **3M-to-2V**                   | "Nirvana"   |
-| **Body Type**                        | **Uninhibited-Natural 4O**     | "Dynamism"  |
-| **Objection De-Elevation**           | **3M-to-5R**                   | "Sublimity" |
-| **Subjection De-Elevation**          | **1L-to-2V**                   | "Servitude" |
-| **Motivation**                       | **MV-Bypass**                  | **-** |
+| **Uninhibited Brain** | **5R-to-1L** | "Discovery" |
+| **Natural Heart** | **3M-to-2V** | "Nirvana" |
+| **Body Type** | **Uninhibited-Natural 4O** | "Dynamism" |
+| **Objection De-Elevation** | **3M-to-5R** | "Sublimity" |
+| **Subjection De-Elevation** | **1L-to-2V** | "Servitude" |
+| **Motivation** | **MV-Bypass** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|

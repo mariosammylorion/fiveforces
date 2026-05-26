@@ -10,20 +10,20 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1O**<br>Mutual Optimization    | **-**                         | "Discusser"  |
-| **2R**<br>Selfless Reality       | **2R-5**<br>Permissive 2R | "Journalist" |
-| **3M**<br>Egocentric Imagination | **3M-4**<br>Private 3M    | "Reverist"   |
-| **4V**<br>Withdrawn Valuation    | **4V-3**<br>Private 4V    | "Iconoclast" |
-| **5L**<br>Apathetic Logic        | **5L-2**<br>Permissive 5L | "Anomalist"  |
+| **1O**<br>Mutual Optimization | **-** | "Discusser" |
+| **2R**<br>Selfless Reality | **2R-5**<br>Permissive 2R | "Indulgent<br>Journalist" |
+| **3M**<br>Egocentric Imagination | **3M-4**<br>Private 3M | "Fearful<br>Reverist" |
+| **4V**<br>Withdrawn Valuation | **4V-3**<br>Private 4V | "Tenacious<br>Iconoclast" |
+| **5L**<br>Apathetic Logic | **5L-2**<br>Permissive 5L | "Respectful<br>Anomalist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **Permissive Brain**                 | **5L-to-2R**                  | "Naivety"    |
-| **Private Heart**                    | **4V-to-3M**                  | "Asceticism" |
-| **Body Type**                        | **Permissive-Private 1O**     | "Curation"   |
-| **Objection De-Elevation**           | **2R-to-3M**                  | "Banter"     |
-| **Subjection De-Elevation**          | **4V-to-5L**                  | "Peril"      |
-| **Motivation**                       | **VM-Bypass**                 | **-** |
+| **Permissive Brain** | **5L-to-2R** | "Naivety" |
+| **Private Heart** | **4V-to-3M** | "Asceticism" |
+| **Body Type** | **Permissive-Private 1O** | "Curation" |
+| **Objection De-Elevation** | **2R-to-3M** | "Banter" |
+| **Subjection De-Elevation** | **4V-to-5L** | "Peril" |
+| **Motivation** | **VM-Bypass** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|

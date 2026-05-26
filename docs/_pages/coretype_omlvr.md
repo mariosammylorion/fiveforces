@@ -10,20 +10,20 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1O**<br>Mutual Optimization  | **-**                         | "Discusser"  |
-| **2M**<br>Selfless Imagination | **2M-4**<br>Recipient 2M  | "Consumer"   |
-| **3L**<br>Egocentric Logic     | **3L-5**<br>Impervious 3L | "Dissident"  |
-| **4V**<br>Withdrawn Valuation  | **4V-2**<br>Recipient 4V  | "Iconoclast" |
-| **5R**<br>Apathetic Reality    | **5R-3**<br>Impervious 5R | "Unrealist"  |
+| **1O**<br>Mutual Optimization | **-** | "Discusser" |
+| **2M**<br>Selfless Imagination | **2M-4**<br>Recipient 2M | "Docile<br>Consumer" |
+| **3L**<br>Egocentric Logic | **3L-5**<br>Impervious 3L | "Stubborn<br>Dissident" |
+| **4V**<br>Withdrawn Valuation | **4V-2**<br>Recipient 4V | "Projective<br>Iconoclast" |
+| **5R**<br>Apathetic Reality | **5R-3**<br>Impervious 5R | "Antagonistic<br>Unrealist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **Impervious Brain**               | **5R-to-3L**                  | "Possession" |
-| **Permissive Heart**               | **4V-to-2M**                  | "Palliation" |
-| **Body Type**                      | **Recipient-Impervious 1O**   | "Strategy"   |
-| **Objection De-Elevation**         | **2M-to-5R**                  | "Pastiche"   |
-| **Subjection De-Elevation**        | **3L-to-4V**                  | "Pedantism"  |
-| **Motivation**                     | **α-Loop**                    | **-** |
+| **Impervious Brain** | **5R-to-3L** | "Possession" |
+| **Permissive Heart** | **4V-to-2M** | "Palliation" |
+| **Body Type** | **Recipient-Impervious 1O** | "Strategy" |
+| **Objection De-Elevation** | **2M-to-5R** | "Pastiche" |
+| **Subjection De-Elevation** | **3L-to-4V** | "Pedantism" |
+| **Motivation** | **α-Loop** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|

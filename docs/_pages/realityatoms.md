@@ -16,19 +16,19 @@ toc_sticky: true
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Public 1R (1R-2)
+### Public 1R (1R-2) / "Disciplined Tactician"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Authentic 1R (1R-3)
+### Authentic 1R (1R-3) / "Nonconformist Tactician"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Processed 1R (1R-4)
+### Processed 1R (1R-4) / "Perfectionist Tactician"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Uninhibited 1R (1R-5)
+### Uninhibited 1R (1R-5) / "Unfiltered Tactician"
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -40,19 +40,19 @@ toc_sticky: true
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Public 2R (2R-1)
+### Public 2R (2R-1) / "Passionate Journalist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Natural 2R (2R-3)
+### Natural 2R (2R-3) / "Defensive Journalist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Recipient 2R (2R-4)
+### Recipient 2R (2R-4) / "Docile Journalist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Permissive 2R (2R-5)
+### Permissive 2R (2R-5) / "Indulgent Journalist"
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -64,19 +64,19 @@ toc_sticky: true
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Authentic 3R (3R-1)
+### Authentic 3R (3R-1) / "Sociable Relativist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Natural 3R (3R-2)
+### Natural 3R (3R-2) / "Commanding Relativist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Private 3R (3R-4)
+### Private 3R (3R-4) / "Fearful Relativist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Impervious 3R (3R-5)
+### Impervious 3R (3R-5) / "Stubborn Relativist"
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -91,19 +91,19 @@ toc_sticky: true
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Processed 4R (4R-1)
+### Processed 4R (4R-1) / "Self-Deprecating Escapist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Recipient 4R (4R-2)
+### Recipient 4R (4R-2) / "Projective Escapist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Private 4R (4R-3)
+### Private 4R (4R-3) / "Tenacious Escapist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Deficient 4R (4R-5)
+### Deficient 4R (4R-5) / "Concealed Escapist"
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -115,18 +115,18 @@ toc_sticky: true
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Uninhibited 5R (5R-1)
+### Uninhibited 5R (5R-1) / "Opportunistic Unrealist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Permissive 5R (5R-2)
+### Permissive 5R (5R-2) / "Respectful Unrealist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Impervious 5R (5R-3)
+### Impervious 5R (5R-3) / "Antagonistic Unrealist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Deficient 5R (5R-4)
+### Deficient 5R (5R-4) / "Grudging Unrealist"
 
 &lt;Lorem ipsum dolor...&gt;

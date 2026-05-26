@@ -10,20 +10,20 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1O**<br>Mutual Optimization   | **-**                         | "Discusser"  |
-| **2V**<br>Selfless Valuation    | **2V-4**<br>Recipient 2V  | "Disciple"   |
-| **3R**<br>Egocentric Reality    | **3R-5**<br>Impervious 3R | "Relativist" |
-| **4M**<br>Withdrawn Imagination | **4M-2**<br>Recipient 4M  | "Doomsayer"  |
-| **5L**<br>Apathetic Logic       | **5L-3**<br>Impervious 5L | "Anomalist"  |
+| **1O**<br>Mutual Optimization | **-** | "Discusser" |
+| **2V**<br>Selfless Valuation | **2V-4**<br>Recipient 2V | "Docile<br>Disciple" |
+| **3R**<br>Egocentric Reality | **3R-5**<br>Impervious 3R | "Stubborn<br>Relativist" |
+| **4M**<br>Withdrawn Imagination | **4M-2**<br>Recipient 4M | "Projective<br>Doomsayer" |
+| **5L**<br>Apathetic Logic | **5L-3**<br>Impervious 5L | "Antagonistic<br>Anomalist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **Impervious Brain**                | **5L-to-3R**                  | "Gluttony"   |
-| **Permissive Heart**                | **4M-to-2V**                  | "Reliance"   |
-| **Body Type**                       | **Recipient-Impervious 1O**   | "Strategy"   |
-| **Objection De-Elevation**          | **3R-to-4M**                  | "Turfism"    |
-| **Subjection De-Elevation**         | **2V-to-5L**                  | "Sappiness"  |
-| **Motivation**                      | **β-Loop**                    | **-** |
+| **Impervious Brain** | **5L-to-3R** | "Gluttony" |
+| **Permissive Heart** | **4M-to-2V** | "Reliance" |
+| **Body Type** | **Recipient-Impervious 1O** | "Strategy" |
+| **Objection De-Elevation** | **3R-to-4M** | "Turfism" |
+| **Subjection De-Elevation** | **2V-to-5L** | "Sappiness" |
+| **Motivation** | **β-Loop** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|

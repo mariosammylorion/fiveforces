@@ -10,20 +10,20 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1R**<br>Mutual Reality        | **1R-4**<br>Processed 1R  | "Tactician"       |
-| **2O**<br>Selfless Optimization | **-**                         | "Chameleon"       |
-| **3V**<br>Egocentric Valuation  | **3V-5**<br>Impervious 3V | "Maverick"        |
-| **4L**<br>Withdrawn Logic       | **4L-1**<br>Processed 4L  | "Skeptic"         |
-| **5M**<br>Apathetic Imagination | **5M-3**<br>Impervious 5M | "Traditionalist"  |
+| **1R**<br>Mutual Reality | **1R-4**<br>Processed 1R | "Perfectionist<br>Tactician" |
+| **2O**<br>Selfless Optimization | **-** | "Chameleon" |
+| **3V**<br>Egocentric Valuation | **3V-5**<br>Impervious 3V | "Stubborn<br>Maverick" |
+| **4L**<br>Withdrawn Logic | **4L-1**<br>Processed 4L | "Self-Deprecating<br>Skeptic" |
+| **5M**<br>Apathetic Imagination | **5M-3**<br>Impervious 5M | "Antagonistic<br>Traditionalist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **Processed Brain**                 | **4L-to-1R**                  | "Attention"       |
-| **Impervious Heart**                | **5M-to-3V**                  | "Insecurity"      |
-| **Body Type**                       | **Processed-Impervious 2O**   | "Industriousness" |
-| **Objection De-Elevation**          | **1R-to-5M**                  | "Volatility"      |
-| **Subjection De-Elevation**         | **3V-to-4L**                  | "Defiance"        |
-| **Motivation**                      | **β-Loop**                    | **-** |
+| **Processed Brain** | **4L-to-1R** | "Attention" |
+| **Impervious Heart** | **5M-to-3V** | "Insecurity" |
+| **Body Type** | **Processed-Impervious 2O** | "Industriousness" |
+| **Objection De-Elevation** | **1R-to-5M** | "Volatility" |
+| **Subjection De-Elevation** | **3V-to-4L** | "Defiance" |
+| **Motivation** | **β-Loop** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|

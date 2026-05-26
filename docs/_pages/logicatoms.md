@@ -16,19 +16,19 @@ toc_sticky: true
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Public 1L (1L-2)
+### Public 1L (1L-2) / "Disciplined Architect"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Authentic 1L (1L-3)
+### Authentic 1L (1L-3) / "Nonconformist Architect"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Processed 1L (1L-4)
+### Processed 1L (1L-4) / "Perfectionist Architect"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Uninhibited 1L (1L-5)
+### Uninhibited 1L (1L-5) / "Unfiltered Architect"
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -40,19 +40,19 @@ toc_sticky: true
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Public 2L (2L-1)
+### Public 2L (2L-1) / "Passionate Student"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Natural 2L (2L-3)
+### Natural 2L (2L-3) / "Defensive Student"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Recipient 2L (2L-4)
+### Recipient 2L (2L-4) / "Docile Student"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Permissive 2L (2L-5)
+### Permissive 2L (2L-5) / "Indulgent Student"
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -64,19 +64,19 @@ toc_sticky: true
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Authentic 3L (3L-1)
+### Authentic 3L (3L-1) / "Sociable Dissident"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Natural 3L (3L-2)
+### Natural 3L (3L-2) / "Commanding Dissident"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Private 3L (3L-4)
+### Private 3L (3L-4) / "Fearful Dissident"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Impervious 3L (3L-5)
+### Impervious 3L (3L-5) / "Stubborn Dissident"
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -88,19 +88,19 @@ toc_sticky: true
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Processed 4L (4L-1)
+### Processed 4L (4L-1) / "Self-Deprecating Skeptic"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Recipient 4L (4L-2)
+### Recipient 4L (4L-2) / "Projective Skeptic"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Private 4L (4L-3)
+### Private 4L (4L-3) / "Tenacious Skeptic"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Deficient 4L (4L-5)
+### Deficient 4L (4L-5) / "Concealed Skeptic"
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -112,20 +112,20 @@ toc_sticky: true
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Uninhibited 5L (5L-1)
+### Uninhibited 5L (5L-1) / "Opportunistic Anomalist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Permissive 5L (5L-2)
+### Permissive 5L (5L-2) / "Respectful Anomalist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Impervious 5L (5L-3)
+### Impervious 5L (5L-3) / "Antagonistic Anomalist"
 
 &lt;Lorem ipsum dolor...&gt;
 
 Individuals with Impervious 5L would rather not hear your opinions or logic when it comes to their actions. In fact, they'd rather not hear *anyone's* opinions or logic *at all*. This gives way to perhaps the most defining characteristic of this subtype: **core types with Impervious 5L are the most anti-intellectual in the Five Forces system.**
 
-### Deficient 5L (5L-4)
+### Deficient 5L (5L-4) / "Grudging Anomalist"
 
 &lt;Lorem ipsum dolor...&gt;

@@ -10,20 +10,20 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1M**<br>Mutual Imagination     | **1M-2**<br>Public 1M  | "Revolutionary"  |
-| **2V**<br>Selfless Valuation     | **2V-1**<br>Public 2V  | "Disciple"       |
-| **3R**<br>Egocentric Reality     | **3R-4**<br>Private 3R | "Relativist"     |
-| **4L**<br>Withdrawn Logic        | **4L-3**<br>Private 4L | "Skeptic"        |
-| **5O**<br>Apathetic Optimization | **-**                      | "Double Agent"   |
+| **1M**<br>Mutual Imagination | **1M-2**<br>Public 1M | "Disciplined<br>Revolutionary" |
+| **2V**<br>Selfless Valuation | **2V-1**<br>Public 2V | "Passionate<br>Disciple" |
+| **3R**<br>Egocentric Reality | **3R-4**<br>Private 3R | "Fearful<br>Relativist" |
+| **4L**<br>Withdrawn Logic | **4L-3**<br>Private 4L | "Tenacious<br>Skeptic" |
+| **5O**<br>Apathetic Optimization | **-** | "Double Agent" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **Private Brain**                    | **4L-to-3R**               | "Accumulation"   |
-| **Public Heart**                     | **2V-to-1M**               | "Inspiration"    |
-| **Body Type**                        | **Public-Private 5O**      | "Secrecy"        |
-| **Objection De-Elevation**           | **1M-to-3R**               | "Prejudice"      |
-| **Subjection De-Elevation**          | **2V-to-4L**               | "Sentimentality" |
-| **Motivation**                       | **VR-Spur**                | **-** |
+| **Private Brain** | **4L-to-3R** | "Accumulation" |
+| **Public Heart** | **2V-to-1M** | "Inspiration" |
+| **Body Type** | **Public-Private 5O** | "Secrecy" |
+| **Objection De-Elevation** | **1M-to-3R** | "Prejudice" |
+| **Subjection De-Elevation** | **2V-to-4L** | "Sentimentality" |
+| **Motivation** | **VR-Spur** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|

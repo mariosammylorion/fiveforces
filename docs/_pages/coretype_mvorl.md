@@ -10,20 +10,20 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1M**<br>Mutual Imagination      | **1M-2**<br>Public 1M    | "Revolutionary" |
-| **2V**<br>Selfless Valuation      | **2V-1**<br>Public 2V    | "Disciple"      |
-| **3O**<br>Egocentric Optimization | **-**                        | "Minimalist"    |
-| **4R**<br>Withdrawn Reality       | **4R-5**<br>Deficient 4R | "Escapist"      |
-| **5L**<br>Apathetic Logic         | **5L-4**<br>Deficient 5L | "Anomalist"     |
+| **1M**<br>Mutual Imagination | **1M-2**<br>Public 1M | "Disciplined<br>Revolutionary" |
+| **2V**<br>Selfless Valuation | **2V-1**<br>Public 2V | "Passionate<br>Disciple" |
+| **3O**<br>Egocentric Optimization | **-** | "Minimalist" |
+| **4R**<br>Withdrawn Reality | **4R-5**<br>Deficient 4R | "Concealing<br>Escapist" |
+| **5L**<br>Apathetic Logic | **5L-4**<br>Deficient 5L | "Grudging<br>Anomalist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **Deficient Brain**                   | **5L-to-4R**                 | "Astonishment"  |
-| **Public Heart**                      | **2V-to-1M**                 | "Inspiration"   |
-| **Body Type**                         | **Public-Deficient 3O**      | "Humility"      |
-| **Objection De-Elevation**            | **1M-to-4R**                 | "Chagrin"       |
-| **Subjection De-Elevation**           | **2V-to-5L**                 | "Sappiness"     |
-| **Motivation**                        | **VR-Spur**                  | **-** |
+| **Deficient Brain** | **5L-to-4R** | "Astonishment" |
+| **Public Heart** | **2V-to-1M** | "Inspiration" |
+| **Body Type** | **Public-Deficient 3O** | "Humility" |
+| **Objection De-Elevation** | **1M-to-4R** | "Chagrin" |
+| **Subjection De-Elevation** | **2V-to-5L** | "Sappiness" |
+| **Motivation** | **VR-Spur** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|

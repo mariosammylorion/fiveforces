@@ -10,20 +10,20 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1O**<br>Mutual Optimization  | **-**                         | "Discusser"  |
-| **2M**<br>Selfless Imagination | **2M-4**<br>Recipient 2M  | "Consumer"   |
-| **3R**<br>Egocentric Reality   | **3R-5**<br>Impervious 3R | "Relativist" |
-| **4V**<br>Withdrawn Valuation  | **4V-2**<br>Recipient 4V  | "Iconoclast" |
-| **5L**<br>Apathetic Logic      | **5L-3**<br>Impervious 5L | "Anomalist"  |
+| **1O**<br>Mutual Optimization | **-** | "Discusser" |
+| **2M**<br>Selfless Imagination | **2M-4**<br>Recipient 2M | "Docile<br>Consumer" |
+| **3R**<br>Egocentric Reality | **3R-5**<br>Impervious 3R | "Stubborn<br>Relativist" |
+| **4V**<br>Withdrawn Valuation | **4V-2**<br>Recipient 4V | "Projective<br>Iconoclast" |
+| **5L**<br>Apathetic Logic | **5L-3**<br>Impervious 5L | "Antagonistic<br>Anomalist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **Impervious Brain**               | **5L-to-3R**                  | "Gluttony"   |
-| **Permissive Heart**               | **4V-to-2M**                  | "Palliation" |
-| **Body Type**                      | **Recipient-Impervious 1O**   | "Strategy"   |
-| **Objection De-Elevation**         | **2M-to-3R**                  | "Piracy"     |
-| **Subjection De-Elevation**        | **4V-to-5L**                  | "Peril"      |
-| **Motivation**                     | **VR-Spur**                   | **-** |
+| **Impervious Brain** | **5L-to-3R** | "Gluttony" |
+| **Permissive Heart** | **4V-to-2M** | "Palliation" |
+| **Body Type** | **Recipient-Impervious 1O** | "Strategy" |
+| **Objection De-Elevation** | **2M-to-3R** | "Piracy" |
+| **Subjection De-Elevation** | **4V-to-5L** | "Peril" |
+| **Motivation** | **VR-Spur** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|

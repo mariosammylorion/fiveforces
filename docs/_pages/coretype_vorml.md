@@ -10,20 +10,20 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1V**<br>Mutual Valuation      | **1V-4**<br>Processed 1V  | "Evangelist"      |
-| **2O**<br>Selfless Optimization | **-**                         | "Chameleon"       |
-| **3R**<br>Egocentric Reality    | **3R-5**<br>Impervious 3R | "Relativist"      |
-| **4M**<br>Withdrawn Imagination | **4M-1**<br>Processed 4M  | "Doomsayer"       |
-| **5L**<br>Apathetic Logic       | **5L-3**<br>Impervious 5L | "Anomalist"       |
+| **1V**<br>Mutual Valuation | **1V-4**<br>Processed 1V | "Perfectionist<br>Evangelist" |
+| **2O**<br>Selfless Optimization | **-** | "Chameleon" |
+| **3R**<br>Egocentric Reality | **3R-5**<br>Impervious 3R | "Stubborn<br>Relativist" |
+| **4M**<br>Withdrawn Imagination | **4M-1**<br>Processed 4M | "Self-Deprecating<br>Doomsayer" |
+| **5L**<br>Apathetic Logic | **5L-3**<br>Impervious 5L | "Antagonistic<br>Anomalist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **Impervious Brain**                | **5L-to-3R**                  | "Gluttony"        |
-| **Processed Heart**                 | **4M-to-1V**                  | "Camouflage"      |
-| **Body Type**                       | **Processed-Impervious 2O**   | "Industriousness" |
-| **Objection De-Elevation**          | **3R-to-4M**                  | "Turfism"         |
-| **Subjection De-Elevation**         | **1V-to-5L**                  | "Ferocity"        |
-| **Motivation**                      | **β-Loop**                    | **-** |
+| **Impervious Brain** | **5L-to-3R** | "Gluttony" |
+| **Processed Heart** | **4M-to-1V** | "Camouflage" |
+| **Body Type** | **Processed-Impervious 2O** | "Industriousness" |
+| **Objection De-Elevation** | **3R-to-4M** | "Turfism" |
+| **Subjection De-Elevation** | **1V-to-5L** | "Ferocity" |
+| **Motivation** | **β-Loop** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|

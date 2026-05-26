@@ -10,20 +10,20 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1O**<br>Mutual Optimization   | **-**                        | "Discusser"  |
-| **2R**<br>Selfless Reality      | **2R-3**<br>Natural 2R   | "Journalist" |
-| **3L**<br>Egocentric Logic      | **3L-2**<br>Natural 3L   | "Dissident"  |
-| **4M**<br>Withdrawn Imagination | **4M-5**<br>Deficient 4M | "Doomsayer"  |
-| **5V**<br>Apathetic Valuation   | **5V-4**<br>Deficient 5V | "Nihilist"   |
+| **1O**<br>Mutual Optimization | **-** | "Discusser" |
+| **2R**<br>Selfless Reality | **2R-3**<br>Natural 2R | "Defensive<br>Journalist" |
+| **3L**<br>Egocentric Logic | **3L-2**<br>Natural 3L | "Commanding<br>Dissident" |
+| **4M**<br>Withdrawn Imagination | **4M-5**<br>Deficient 4M | "Concealed<br>Doomsayer" |
+| **5V**<br>Apathetic Valuation | **5V-4**<br>Deficient 5V | "Grudging<br>Nihilist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **Natural Brain**                   | **3L-to-2R**                 | "Influence"  |
-| **Deficient Heart**                 | **5V-to-4M**                 | "Arrogance"  |
-| **Body Type**                       | **Natural-Deficient 1O**     | "Confidence" |
-| **Objection De-Elevation**          | **2R-to-4M**                 | "Timidity"   |
-| **Subjection De-Elevation**         | **3L-to-5V**                 | "Nobility"   |
-| **Motivation**                      | **LM-Spur**                  | **-** |
+| **Natural Brain** | **3L-to-2R** | "Influence" |
+| **Deficient Heart** | **5V-to-4M** | "Arrogance" |
+| **Body Type** | **Natural-Deficient 1O** | "Confidence" |
+| **Objection De-Elevation** | **2R-to-4M** | "Timidity" |
+| **Subjection De-Elevation** | **3L-to-5V** | "Nobility" |
+| **Motivation** | **LM-Spur** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|

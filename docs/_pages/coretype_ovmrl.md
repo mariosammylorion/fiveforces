@@ -10,20 +10,20 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1O**<br>Mutual Optimization    | **-**                        | "Discusser"    |
-| **2V**<br>Selfless Valuation     | **2V-3**<br>Natural 2V   | "Disciple"     |
-| **3M**<br>Egocentric Imagination | **3M-2**<br>Natural 3M   | "Reverist"     |
-| **4R**<br>Withdrawn Reality      | **4R-5**<br>Deficient 4R | "Escapist"     |
-| **5L**<br>Apathetic Logic        | **5L-4**<br>Deficient 5L | "Anomalist"    |
+| **1O**<br>Mutual Optimization | **-** | "Discusser" |
+| **2V**<br>Selfless Valuation | **2V-3**<br>Natural 2V | "Defensive<br>Disciple" |
+| **3M**<br>Egocentric Imagination | **3M-2**<br>Natural 3M | "Commanding<br>Reverist" |
+| **4R**<br>Withdrawn Reality | **4R-5**<br>Deficient 4R | "Concealing<br>Escapist" |
+| **5L**<br>Apathetic Logic | **5L-4**<br>Deficient 5L | "Grudging<br>Anomalist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **Deficient Brain**                  | **5L-to-4R**                 | "Astonishment" |
-| **Natural Heart**                    | **3M-to-2V**                 | "Nirvana"      |
-| **Body Type**                        | **Natural-Deficient 1O**     | "Confidence"   |
-| **Objection De-Elevation**           | **3M-to-4R**                 | "Refuge"       |
-| **Subjection De-Elevation**          | **2V-to-5L**                 | "Sappiness"    |
-| **Motivation**                       | **MR-Bypass**                | **-** |
+| **Deficient Brain** | **5L-to-4R** | "Astonishment" |
+| **Natural Heart** | **3M-to-2V** | "Nirvana" |
+| **Body Type** | **Natural-Deficient 1O** | "Confidence" |
+| **Objection De-Elevation** | **3M-to-4R** | "Refuge" |
+| **Subjection De-Elevation** | **2V-to-5L** | "Sappiness" |
+| **Motivation** | **MR-Bypass** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|

@@ -10,20 +10,20 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1L**<br>Mutual Logic          | **1L-3**<br>Authentic 1L | "Architect"   |
-| **2O**<br>Selfless Optimization | **-**                        | "Chameleon"   |
-| **3R**<br>Egocentric Reality    | **3R-1**<br>Authentic 3R | "Relativist"  |
-| **4M**<br>Withdrawn Imagination | **4M-5**<br>Deficient 4M | "Doomsayer"   |
-| **5V**<br>Apathetic Valuation   | **5V-4**<br>Deficient 5V | "Nihilist"    |
+| **1L**<br>Mutual Logic | **1L-3**<br>Authentic 1L | "Nonconformist<br>Architect" |
+| **2O**<br>Selfless Optimization | **-** | "Chameleon" |
+| **3R**<br>Egocentric Reality | **3R-1**<br>Authentic 3R | "Sociable<br>Relativist" |
+| **4M**<br>Withdrawn Imagination | **4M-5**<br>Deficient 4M | "Concealed<br>Doomsayer" |
+| **5V**<br>Apathetic Valuation | **5V-4**<br>Deficient 5V | "Grudging<br>Nihilist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **Authentic Brain**                 | **3R-to-1L**                 | "Conquest"    |
-| **Deficient Heart**                 | **5V-to-4M**                 | "Arrogance"   |
-| **Body Type**                       | **Authentic-Deficient 2O**   | "Obstruction" |
-| **Objection De-Elevation**          | **3R-to-4M**                 | "Turfism"     |
-| **Subjection De-Elevation**         | **1L-to-5V**                 | "Roboticism"  |
-| **Motivation**                      | **RM-Bypass**                | **-** |
+| **Authentic Brain** | **3R-to-1L** | "Conquest" |
+| **Deficient Heart** | **5V-to-4M** | "Arrogance" |
+| **Body Type** | **Authentic-Deficient 2O** | "Obstruction" |
+| **Objection De-Elevation** | **3R-to-4M** | "Turfism" |
+| **Subjection De-Elevation** | **1L-to-5V** | "Roboticism" |
+| **Motivation** | **RM-Bypass** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|

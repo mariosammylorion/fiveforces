@@ -19,11 +19,11 @@ These five positions are as follows:
 
 The following table is a summary of what has been said:
 
-| **Source** | **Outward Direction** | **Inward Direction** | **No Direction**  |
+| **Source** | **Outward Direction** | **Inward Direction** | **No Direction** |
 | ---------- | --------------------- | -------------------- | ----------------- |
-| **Self**   | **Mutual (1)**        | **Egocentric (3)**   |                   |
-| **Others** | **Selfless (2)**      | **Withdrawn (4)**    |                   |
-| **None**   |                       |                      | **Apathetic (5)** |
+| **Self** | **Mutual (1)** | **Egocentric (3)** | |
+| **Others** | **Selfless (2)** | **Withdrawn (4)** | |
+| **None** |  |  | **Apathetic (5)** |
 
 # The Five Positions in Detail
 
@@ -143,90 +143,90 @@ The Withdrawn and Apathetic positions together form the **Deficient function gro
 
 ### Mutual Position Accents
 
-#### Public Mutual (1X-2)
+#### Public Mutual (1X-2) / "Disciplined"
 
 When a Mutual Force is paired with a Selfless one, it takes on the latter position's characteristic of deference. The result is a manifestation in which **the individual lacks a fear or anxiety of being proven wrong when it comes to their knowledge or expression of the Force.** In fact, they *love* being proven wrong about it, as this can give them opportunities for growth. The motto of this accent may be, "My knowledge *isn't* perfect."
 
-#### Authentic Mutual (1X-3)
+#### Authentic Mutual (1X-3) / "Nonconformist"
 
 When a Mutual Force is paired with an Egocentric one, it takes on the latter position's characteristic of self-centeredness. The result is a manifestation in which **the individual possesses an unwillingness to change their knowledge or expression of the Force to fit societal norms and expectations**, making their sharing of it possess an individualist streak. The motto of this accent may be, "My knowledge *is* perfect."
 
-#### Processed Mutual (1X-4)
+#### Processed Mutual (1X-4) / "Perfectionist"
 
 When a Mutual Force is paired with a Withdrawn one, it takes on the latter position's characteristic of disappointment. The result is a manifestation in which **the individual possesses an inner anxiety and a sense of perfection when it comes to the Force**, making it so that they have to work harder mentally in order to get their knowledge or expression of it just right. The motto of this accent may be, "My knowledge *has* to be perfect."
 
-#### Uninhibited Mutual (1X-5)
+#### Uninhibited Mutual (1X-5) / "Unfiltered"
 
 When a Mutual Force is paired with an Apathetic one, it takes on the latter position's characteristic of indifference. The result is a manifestation in which **the individual completely lacks a filter between their thoughts and actions when it comes to the Force.** They possess any kind of knowledge or any kind of expression they want, and they share whatever is on their mind when it comes to that. The motto of this accent may be, "My knowledge *doesn't have* to be perfect."
 
 ### Selfless Position Accents
 
-#### Public Selfless (2X-1)
+#### Public Selfless (2X-1) / "Passionate"
 
 When a Selfless Force is paired with a Mutual one, it takes on the latter position's characteristic of expertise. The result is a manifestation in which **the individual's expression of deference becomes outward and bold.** They are always ready to ask questions regarding the Force and apply others' knowledge or expressions. The motto of this accent may be, "I *love sharing* others' knowledge."
 
-#### Natural Selfless (2X-3)
+#### Natural Selfless (2X-3) / "Defensive"
 
 When a Selfless Force is paired with an Egocentric one, it takes on the latter position's characteristic of self-centeredness. The result is a manifestation in which **the individual possesses an increased confidence in their own and others' abilities in the Force**. They actually possess it to the point where they become sensitive to criticism of *others'* abilities as well as their own, making it look solely like an Egocentric Force. The motto of this accent may be, "I *love defending* others' knowledge."
 
-#### Recipient Selfless (2X-4)
+#### Recipient Selfless (2X-4) / "Docile"
 
 When a Selfless Force is paired with a Withdrawn one, it takes on the latter position's characteristic of disappointment. The result is a manifestation in which **the individual possesses a calm, quiet, and almost sheepish deference to others' authority with the Force**, mainly out of anxiety or fear. The motto of this accent may be, "I *have to follow* others' knowledge."
 
-#### Permissive Selfless (2X-5)
+#### Permissive Selfless (2X-5) / "Indulgent"
 
 When a Selfless Force is paired with an Apathetic one, it takes on the latter position's characteristic of indifference. The result is a manifestation in which **the individual completely gathers outside information about the Force with zero filter or resistance.** They will *always* listen to what others have to say. This can result in them holding several contradictory facts, opinions, ideas, values, et cetera at once, making it seem like they don't care at first glance. The motto of this accent may be, "I *have to listen* to others knowledge."
 
 ### Egocentric Position Accents
 
-#### Authentic Egocentric (3X-1)
+#### Authentic Egocentric (3X-1) / "Sociable"
 
 When an Egocentric Force is paired with a Mutual one, it takes on the latter position's characteristic of expertise. The result is a manifestation in which **the individual has an increased willingness to meet more like-minded individuals when it comes to the Force.** Granted, they still keep the Force under wraps through themselves or with the select few in their "circle", but they want this circle to grow larger and larger. The motto of this accent may be, "I *want to expand* my circle."
 
-#### Natural Egocentric (3X-2)
+#### Natural Egocentric (3X-2) / "Commanding"
 
 When an Egocentric Force is paired with a Selfless one, it takes on the latter position's characteristic of deference. The result is a manifestation in which **the individual uses other people or influences to forward or spread their knowledge and expression of the Force.** The motto of this accent may be, "I *have to expand* my circle."
 
-#### Private Egocentric (3X-4)
+#### Private Egocentric (3X-4) / "Fearful"
 
 When an Egocentric Force is paired with a Withdrawn one, it takes on the latter position's characteristic of disappointment. The result is a manifestation in which **the individual possesses an increased fear of judgment or ridicule when it comes to the Force**, so much as to not want to interact with anyone outside their circle. The motto of this accent may be, "I *have to hide* my circle."
 
-#### Impervious Egocentric (3X-5)
+#### Impervious Egocentric (3X-5) / "Stubborn"
 
 When an Egocentric Force is paired with an Apathetic one, it takes on the latter position's characteristic of indifference. The result is a manifestation in which **the individual possesses an absolute stubbornness and complete unwillingness to change or share their knowledge or expression of the Force for anyone or anything.** Most notably, they don't even want to *talk* about their knowledge. The motto of this accent may be, "I *want to hide* my circle."
 
 ### Withdrawn Position Accents
 
-#### Processed Withdrawn (4X-1)
+#### Processed Withdrawn (4X-1) / "Self-Deprecating"
 
 When a Withdrawn Force is paired with a Mutual one, it takes on the latter position's characteristic of expertise. The result is a manifestation in which **the individual blames themselves when it comes to their shortcomings with the Force.** This often manifests as sarcasm and/or giving the impression that they have it together. The motto of this accent may be, "I *deflect* my pain."
 
-#### Recipient Withdrawn (4X-2)
+#### Recipient Withdrawn (4X-2) / "Projective"
 
 When a Withdrawn Force is paired with a Selfless one, it takes on the latter position's characteristic of deference. The result is a manifestation in which **the individual blames others when it comes to their shortcomings with the Force.** The motto of this accent may be, "I *project* my pain."
 
-#### Private Withdrawn (4X-3)
+#### Private Withdrawn (4X-3) / "Tenacious"
 
 When a Withdrawn Force is paired with an Egocentric one, it takes on the latter position's characteristic of self-centeredness. The result is a manifestation in which **the individual refuses to seek help or assistance when it comes to their struggles with the Force.** Although it may appear as if they enjoy the pain, it is more so a tolerance or outright denial of their own suffering. The motto of this accent may be, "I *tolerate* my pain," or alternatively, perhaps "I *deny* my pain."
 
-#### Deficient Withdrawn (4X-5)
+#### Deficient Withdrawn (4X-5) / "Concealed"
 
 When a Withdrawn Force is paired with an Apathetic one, it takes on the latter position's characteristic of indifference. The result is a manifestation in which **the individual tends to mask their struggles with the Force.** Whether they're actually good at it or not is, admittedly, up for debate. The motto of this accent may be, "I *hide* my pain."
 
 ### Apathetic Position Accents
 
-#### Uninhibited Apathetic (5X-1)
+#### Uninhibited Apathetic (5X-1) / "Opportunistic"
 
 When an Apathetic Force is paired with a Mutual one, it takes on the latter position's characteristic of expertise. The result is a manifestation in which **the individual bends the rules of society when it comes to the Force.** Like with the Mutual Force, individuals with this accent want to change the world with this Force...so ironically, they change the world by not caring. The motto of this accent may be, "I *don't care about* others' knowledge."
 
-#### Permissive Apathetic (5X-2)
+#### Permissive Apathetic (5X-2) / "Respectful"
 
 When an Apathetic Force is paired with a Selfless one, it takes on the latter position's characteristic of deference. The result is a manifestation in which **the individual possesses great respect and admiration for individuals who use the Force, while not using it themselves.** This often manifests as the individual wanting to go along with others' expressions or knowledge of the Force. The motto of this accent may be, "I *love* others' knowledge."
 
-#### Impervious Apathetic (5X-3)
+#### Impervious Apathetic (5X-3) / "Antagonistic"
 
 When an Apathetic Force is paired with an Egocentric one, it takes on the latter position's characteristic of self-centeredness. The result is a manifestation in which **the individual possesses undue hatred and disengagement towards others expressions or knowledge of the Force.** This is not out of fear or trauma, but...just because. They tend to be sensitive when it comes to others' criticisms about not engaging with the Force. The motto of this accent may be, "I *hate* others' knowledge."
 
-#### Deficient Apathetic (5X-4)
+#### Deficient Apathetic (5X-4) / "Grudging"
 
 When an Apathetic Force is paired with a Withdrawn one, it takes on the latter position's characteristic of disappointment. The result is a manifestation in which **the individual internalizes and is envious of others' skills in the Force**. They accept that they cannot ever be good at it, which results in them not understanding others' viewpoints on the Force. The motto of this accent may be, "I *don't understand* others' knowledge."

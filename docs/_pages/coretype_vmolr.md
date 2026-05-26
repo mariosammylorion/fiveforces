@@ -10,20 +10,20 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1V**<br>Mutual Valuation        | **1V-2**<br>Public 1V    | "Evangelist"  |
-| **2M**<br>Selfless Imagination    | **2M-1**<br>Public 2M    | "Consumer"    |
-| **3O**<br>Egocentric Optimization | **-**                        | "Minimalist"  |
-| **4L**<br>Withdrawn Logic         | **4L-5**<br>Deficient 4L | "Skeptic"     |
-| **5R**<br>Apathetic Reality       | **5R-4**<br>Deficient 5R | "Unrealist"   |
+| **1V**<br>Mutual Valuation | **1V-2**<br>Public 1V | "Disciplined<br>Evangelist" |
+| **2M**<br>Selfless Imagination | **2M-1**<br>Public 2M | "Passionate<br>Consumer" |
+| **3O**<br>Egocentric Optimization | **-** | "Minimalist" |
+| **4L**<br>Withdrawn Logic | **4L-5**<br>Deficient 4L | "Concealing<br>Skeptic" |
+| **5R**<br>Apathetic Reality | **5R-4**<br>Deficient 5R | "Grudging<br>Unrealist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **Deficient Brain**                   | **5R-to-4L**                 | "Innocence"   |
-| **Public Heart**                      | **2M-to-1V**                 | "Ambition"    |
-| **Body Type**                         | **Public-Deficient 3O**      | "Humility"    |
-| **Objection De-Elevation**            | **2M-to-5R**                 | "Pastiche"    |
-| **Subjection De-Elevation**           | **1V-to-4L**                 | "Earnestness" |
-| **Motivation**                        | **ML-Spur**                  | **-** |
+| **Deficient Brain** | **5R-to-4L** | "Innocence" |
+| **Public Heart** | **2M-to-1V** | "Ambition" |
+| **Body Type** | **Public-Deficient 3O** | "Humility" |
+| **Objection De-Elevation** | **2M-to-5R** | "Pastiche" |
+| **Subjection De-Elevation** | **1V-to-4L** | "Earnestness" |
+| **Motivation** | **ML-Spur** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|

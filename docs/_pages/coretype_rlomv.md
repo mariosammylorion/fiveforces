@@ -10,20 +10,20 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1R**<br>Mutual Reality          | **1R-2**<br>Public 1R    | "Tactician"   |
-| **2L**<br>Selfless Logic          | **2L-1**<br>Public 2L    | "Student"     |
-| **3O**<br>Egocentric Optimization | **-**                        | "Minimalist"  |
-| **4M**<br>Withdrawn Imagination   | **4M-5**<br>Deficient 4M | "Doomsayer"   |
-| **5V**<br>Apathetic Valuation     | **5V-4**<br>Deficient 5V | "Nihilist"    |
+| **1R**<br>Mutual Reality | **1R-2**<br>Public 1R | "Disciplined<br>Tactician" |
+| **2L**<br>Selfless Logic | **2L-1**<br>Public 2L | "Passionate<br>Student" |
+| **3O**<br>Egocentric Optimization | **-** | "Minimalist" |
+| **4M**<br>Withdrawn Imagination | **4M-5**<br>Deficient 4M | "Concealed<br>Doomsayer" |
+| **5V**<br>Apathetic Valuation | **5V-4**<br>Deficient 5V | "Grudging<br>Nihilist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **Public Brain**                      | **2L-to-1R**                 | "Physicality" |
-| **Deficient Heart**                   | **5V-to-4M**                 | "Arrogance"   |
-| **Body Type**                         | **Public-Deficient 3O**      | "Humility"    |
-| **Objection De-Elevation**            | **1R-to-4M**                 | "Uncertainty" |
-| **Subjection De-Elevation**           | **2L-to-5V**                 | "Completion"  |
-| **Motivation**                        | **LM-Spur**                  | **-** |
+| **Public Brain** | **2L-to-1R** | "Physicality" |
+| **Deficient Heart** | **5V-to-4M** | "Arrogance" |
+| **Body Type** | **Public-Deficient 3O** | "Humility" |
+| **Objection De-Elevation** | **1R-to-4M** | "Uncertainty" |
+| **Subjection De-Elevation** | **2L-to-5V** | "Completion" |
+| **Motivation** | **LM-Spur** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|

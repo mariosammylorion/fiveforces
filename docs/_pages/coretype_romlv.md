@@ -10,20 +10,20 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1R**<br>Mutual Reality         | **1R-4**<br>Processed 1R  | "Tactician"       |
-| **2O**<br>Selfless Optimization  | **-**                         | "Chameleon"       |
-| **3M**<br>Egocentric Imagination | **3M-5**<br>Impervious 3M | "Reverist"        |
-| **4L**<br>Withdrawn Logic        | **4L-1**<br>Processed 4L  | "Skeptic"         |
-| **5V**<br>Apathetic Valuation    | **5V-3**<br>Impervious 5V | "Nihilist"        |
+| **1R**<br>Mutual Reality | **1R-4**<br>Processed 1R | "Perfectionist<br>Tactician" |
+| **2O**<br>Selfless Optimization | **-** | "Chameleon" |
+| **3M**<br>Egocentric Imagination | **3M-5**<br>Impervious 3M | "Stubborn<br>Reverist" |
+| **4L**<br>Withdrawn Logic | **4L-1**<br>Processed 4L | "Self-Deprecating<br>Skeptic" |
+| **5V**<br>Apathetic Valuation | **5V-3**<br>Impervious 5V | "Antagonistic<br>Nihilist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **Processed Brain**                  | **4L-to-1R**                  | "Attention"       |
-| **Impervious Heart**                 | **5V-to-3M**                  | "Callousness"     |
-| **Body Type**                        | **Processed-Impervious 2O**   | "Industriousness" |
-| **Objection De-Elevation**           | **1R-to-3M**                  | "Counterfeit"     |
-| **Subjection De-Elevation**          | **4L-to-5V**                  | "Recklessness"    |
-| **Motivation**                       | **LM-Spur**                   | **-** |
+| **Processed Brain** | **4L-to-1R** | "Attention" |
+| **Impervious Heart** | **5V-to-3M** | "Callousness" |
+| **Body Type** | **Processed-Impervious 2O** | "Industriousness" |
+| **Objection De-Elevation** | **1R-to-3M** | "Counterfeit" |
+| **Subjection De-Elevation** | **4L-to-5V** | "Recklessness" |
+| **Motivation** | **LM-Spur** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|

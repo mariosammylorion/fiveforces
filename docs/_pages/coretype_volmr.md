@@ -10,20 +10,20 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1V**<br>Mutual Valuation      | **1V-4**<br>Processed 1V  | "Evangelist"      |
-| **2O**<br>Selfless Optimization | **-**                         | "Chameleon"       |
-| **3L**<br>Egocentric Logic      | **3L-5**<br>Impervious 3L | "Dissident"       |
-| **4M**<br>Withdrawn Imagination | **4M-1**<br>Processed 4M  | "Doomsayer"       |
-| **5R**<br>Apathetic Reality     | **5R-3**<br>Impervious 5R | "Unrealist"       |
+| **1V**<br>Mutual Valuation | **1V-4**<br>Processed 1V | "Perfectionist<br>Evangelist" |
+| **2O**<br>Selfless Optimization | **-** | "Chameleon" |
+| **3L**<br>Egocentric Logic | **3L-5**<br>Impervious 3L | "Stubborn<br>Dissident" |
+| **4M**<br>Withdrawn Imagination | **4M-1**<br>Processed 4M | "Self-Deprecating<br>Doomsayer" |
+| **5R**<br>Apathetic Reality | **5R-3**<br>Impervious 5R | "Antagonistic<br>Unrealist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **Impervious Brain**                | **5R-to-3L**                  | "Possession"      |
-| **Processed Heart**                 | **4M-to-1V**                  | "Camouflage"      |
-| **Body Type**                       | **Processed-Impervious 2O**   | "Industriousness" |
-| **Objection De-Elevation**          | **4M-to-5R**                  | "Detachment"      |
-| **Subjection De-Elevation**         | **1V-to-3L**                  | "Obstinacy"       |
-| **Motivation**                      | **ML-Spur**                   | **-** |
+| **Impervious Brain** | **5R-to-3L** | "Possession" |
+| **Processed Heart** | **4M-to-1V** | "Camouflage" |
+| **Body Type** | **Processed-Impervious 2O** | "Industriousness" |
+| **Objection De-Elevation** | **4M-to-5R** | "Detachment" |
+| **Subjection De-Elevation** | **1V-to-3L** | "Obstinacy" |
+| **Motivation** | **ML-Spur** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|
