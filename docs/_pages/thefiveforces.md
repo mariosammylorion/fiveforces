@@ -53,7 +53,7 @@ Because of the unusual definition that the Five Forces system uses for "reality,
 
 **Reality is NOT keeping up with physical habits or creating comfort in one's physical environment.** &lt;Lorem ipsum dolor...&gt;
 
-**Reality is NOT exerting force or volition to the outside or "expanding one's territory."** &lt;Lorem ipsum dolor...&gt;
+**Reality is NOT exerting force or volition to the outside or *literally* "expanding one's territory."** &lt;Lorem ipsum dolor...&gt;
 
 ## The Force of Logic (L)
 
@@ -112,7 +112,7 @@ The **Force of Imagination** combines the Human Unit of the Heart and the Nonhum
 
 Because the word "imagination" does not exactly entail the full meaning of the Force of the same name, it can generate some confusion regarding the Force's manifestation. The following section may quell these concerns.
 
-**Imagination is NOT seeking out new possibilities.** &lt;Lorem ipsum dolor...&gt;
+**Imagination is NOT *necessarily* seeking out new possibilities.** &lt;Lorem ipsum dolor...&gt;
 
 **Imagination does NOT entail either being focused on the details or seeing the bigger picture.** &lt;Lorem ipsum dolor...&gt;
 

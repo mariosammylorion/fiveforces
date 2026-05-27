@@ -16,7 +16,7 @@ The following tables show the archetypal Five Forces types of the four major ins
 
 # MBTI
 
-| **MBTI** | **FF Archetype** | **Enneagram** | **C. Socionics** | **Psychosophy** |
+| **MBTI** | **FF Archetype** | **Enneagram** | **Socionics** | **Psychosophy** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 | **ENFJ** | **???** | *???* | *???* | *???* |
 | **ENFP** | **???** | *???* | *???* | *???* |
@@ -39,7 +39,7 @@ The following tables show the archetypal Five Forces types of the four major ins
 
 ## Enneagram Core Types
 
-| **Enneagram** | **FF Archetype** | **MBTI** | **C. Socionics** | **Psychosophy** |
+| **Enneagram** | **FF Archetype** | **MBTI** | **Socionics** | **Psychosophy** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 | **E1** | **???** | *???* | *???* | *???* |
 | **E2** | **???** | *???* | *???* | *???* |
@@ -53,7 +53,7 @@ The following tables show the archetypal Five Forces types of the four major ins
 
 ## Enneagram Wings
 
-| **Enneagram** | **FF Archetype** | **MBTI** | **C. Socionics** | **Psychosophy** |
+| **Enneagram** | **FF Archetype** | **MBTI** | **Socionics** | **Psychosophy** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 | **1w2** | **???** | *???* | *???* | *???* |
 | **1w9** | **???** | *???* | *???* | *???* |
@@ -76,7 +76,7 @@ The following tables show the archetypal Five Forces types of the four major ins
 
 ## Enneagram Instinctual Subtypes
 
-| **Enneagram** | **FF Archetype** | **MBTI** | **C. Socionics** | **Psychosophy** |
+| **Enneagram** | **FF Archetype** | **MBTI** | **Socionics** | **Psychosophy** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 | **SO1** | **???** | *???* | *???* | *???* |
 | **SP1** | **???** | *???* | *???* | *???* |
@@ -108,7 +108,7 @@ The following tables show the archetypal Five Forces types of the four major ins
 
 ## Enneagram Tritypes
 
-| **Enneagram** | **FF Archetype** | **MBTI** | **C. Socionics** | **Psychosophy** |
+| **Enneagram** | **FF Archetype** | **MBTI** | **Socionics** | **Psychosophy** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 | **125** | **???** | *???* | *???* | *???* |
 | **126** | **???** | *???* | *???* | *???* |
@@ -277,7 +277,7 @@ The following tables show the archetypal Five Forces types of the four major ins
 
 ## Socionics Core Types
 
-| **C. Socionics** | **FF Archetype** | **MBTI** | **Enneagram** | **Psychosophy** |
+| **Socionics** | **FF Archetype** | **MBTI** | **Enneagram** | **Psychosophy** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 | **EIE** | **???** | *???* | *???* | *???* |
 | **EII** | **???** | *???* | *???* | *???* |
@@ -404,7 +404,7 @@ The following tables show the archetypal Five Forces types of the four major ins
 
 # Psychosophy
 
-| **Psychosophy** | **FF Archetype** | **MBTI** | **Enneagram** | **C. Socionics** |
+| **Psychosophy** | **FF Archetype** | **MBTI** | **Enneagram** | **Socionics** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 | **EFLV** | **???** | *???* | *???* | *???* |
 | **EFVL** | **???** | *???* | *???* | *???* |
@@ -433,7 +433,7 @@ The following tables show the archetypal Five Forces types of the four major ins
 
 ## Attitudinal Psyche
 
-| **A. Psyche** | **FF Archetype** | **MBTI** | **Enneagram** | **C. Socionics** |
+| **A. Psyche** | **FF Archetype** | **MBTI** | **Enneagram** | **Socionics** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 | **EFLV** | **???** | *???* | *???* | *???* |
 | **EFVL** | **???** | *???* | *???* | *???* |

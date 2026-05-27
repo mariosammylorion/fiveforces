@@ -43,15 +43,15 @@ The MRVOL is characterized by an unapologetic expression of personal values thro
 
 &lt;Lorem ipsum dolor...&gt;
 
-## The Brain: "X"
+## The Brain
 
 &lt;Lorem ipsum dolor...&gt;
 
-## The Heart: "X"
+## The Heart
 
 &lt;Lorem ipsum dolor...&gt;
 
-## The Body: "X"
+## The Body
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -59,11 +59,11 @@ The MRVOL is characterized by an unapologetic expression of personal values thro
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Objection: "X"
+### Objection
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Subjection: "X"
+### Subjection
 
 &lt;Lorem ipsum dolor...&gt;
 

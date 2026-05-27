@@ -2,7 +2,7 @@
 permalink: /
 ---
 
-Hello! This GitHub Pages site is dedicated to documentation and information regarding a new personality typology system I created called the **Five Forces** system, a system inspired by MBTI/Socionics, Enneagram, and Psychosophy.
+Hello! This GitHub Pages site is dedicated to documentation and information regarding a new personality typology system I created called the **Five Forces** system, a system inspired by MBTI, Enneagram, Socionics, and Psychosophy.
 
 If you somehow managed to stumble across this site or find it, you may notice that there are quite a number of sections and headings that do not have text in them or contain this temporary "Unorganized thoughts" list. This is because this system is actually under *huge* construction, and this is just a repository for my overall thoughts, which will eventually come together to form a vast information website dedicated to my system, similar to the [Wikisocion Archive](https://wikisocion.github.io/).
 

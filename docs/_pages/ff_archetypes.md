@@ -9,7 +9,7 @@ The following table shows the archetypal types of each Five Forces core types in
 
 **WARNING: The archetypes shown are NOT absolute or set-in-stone and are always open to be changed if necessary. If you believe certain types fit better than the ones shown, please provide compelling evidence as to why.**
 
-| **FF Core Type** | **MBTI** | **Enneagram** | **C. Socionics** | **Psychosophy**|
+| **FF Core Type** | **MBTI** | **Enneagram** | **Socionics** | **Psychosophy**|
 |:----------------:|:--------:|:-------------:|:----------------:|:--------------:|
 | **LMORV** | ??? | ??? | ??? | ??? |
 | **LMOVR** | ??? | ??? | ??? | ??? |
