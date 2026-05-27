@@ -16,19 +16,19 @@ toc_sticky: true
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Public 1R (1R-2) / "Disciplined Tactician"
+### Public 1R (1R-2) / "Realist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Authentic 1R (1R-3) / "Nonconformist Tactician"
+### Authentic 1R (1R-3) / "Eyewitness"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Processed 1R (1R-4) / "Perfectionist Tactician"
+### Processed 1R (1R-4) / "Archivist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Uninhibited 1R (1R-5) / "Unfiltered Tactician"
+### Uninhibited 1R (1R-5) / "Chronicler"
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -40,19 +40,19 @@ toc_sticky: true
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Public 2R (2R-1) / "Passionate Journalist"
+### Public 2R (2R-1) / "Correspondent"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Natural 2R (2R-3) / "Defensive Journalist"
+### Natural 2R (2R-3) / "Documentarian"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Recipient 2R (2R-4) / "Docile Journalist"
+### Recipient 2R (2R-4) / "Recorder"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Permissive 2R (2R-5) / "Indulgent Journalist"
+### Permissive 2R (2R-5) / "Compiler"
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -64,19 +64,19 @@ toc_sticky: true
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Authentic 3R (3R-1) / "Sociable Relativist"
+### Authentic 3R (3R-1) / "Subjectivist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Natural 3R (3R-2) / "Commanding Relativist"
+### Natural 3R (3R-2) / "Revisionist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Private 3R (3R-4) / "Fearful Relativist"
+### Private 3R (3R-4) / "Solipsist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Impervious 3R (3R-5) / "Stubborn Relativist"
+### Impervious 3R (3R-5) / "Denialist"
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -91,19 +91,19 @@ toc_sticky: true
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Processed 4R (4R-1) / "Self-Deprecating Escapist"
+### Processed 4R (4R-1) / "Misfit"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Recipient 4R (4R-2) / "Projective Escapist"
+### Recipient 4R (4R-2) / "Fatalist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Private 4R (4R-3) / "Tenacious Escapist"
+### Private 4R (4R-3) / "Survivalist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Deficient 4R (4R-5) / "Concealed Escapist"
+### Deficient 4R (4R-5) / "Pretender"
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -115,18 +115,18 @@ toc_sticky: true
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Uninhibited 5R (5R-1) / "Opportunistic Unrealist"
+### Uninhibited 5R (5R-1) / "Improviser"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Permissive 5R (5R-2) / "Respectful Unrealist"
+### Permissive 5R (5R-2) / "Spectator"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Impervious 5R (5R-3) / "Antagonistic Unrealist"
+### Impervious 5R (5R-3) / "Contrarian"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Deficient 5R (5R-4) / "Grudging Unrealist"
+### Deficient 5R (5R-4) / "Stranger"
 
 &lt;Lorem ipsum dolor...&gt;

@@ -10,11 +10,11 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1V**<br>Mutual Valuation | **1V-4**<br>Processed 1V | "Perfectionist<br>Evangelist" |
+| **1V**<br>Mutual Valuation | **1V-4**<br>Processed 1V | "Penitent" |
 | **2O**<br>Selfless Optimization | **-** | "Chameleon" |
-| **3R**<br>Egocentric Reality | **3R-5**<br>Impervious 3R | "Stubborn<br>Relativist" |
-| **4M**<br>Withdrawn Imagination | **4M-1**<br>Processed 4M | "Self-Deprecating<br>Doomsayer" |
-| **5L**<br>Apathetic Logic | **5L-3**<br>Impervious 5L | "Antagonistic<br>Anomalist" |
+| **3R**<br>Egocentric Reality | **3R-5**<br>Impervious 3R | "Denialist" |
+| **4M**<br>Withdrawn Imagination | **4M-1**<br>Processed 4M | "Pessimist" |
+| **5L**<br>Apathetic Logic | **5L-3**<br>Impervious 5L | "Obscurantist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|

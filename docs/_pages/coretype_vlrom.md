@@ -10,11 +10,11 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1V**<br>Mutual Valuation | **1V-5**<br>Uninhibited 1V | "Unfiltered<br>Evangelist" |
-| **2L**<br>Selfless Logic | **2L-3**<br>Natural 2L | "Defensive<br>Student" |
-| **3R**<br>Egocentric Reality | **3R-2**<br>Natural 3R | "Commanding<br>Relativist" |
+| **1V**<br>Mutual Valuation | **1V-5**<br>Uninhibited 1V | "Firebrand" |
+| **2L**<br>Selfless Logic | **2L-3**<br>Natural 2L | "Partisan" |
+| **3R**<br>Egocentric Reality | **3R-2**<br>Natural 3R | "Revisionist" |
 | **4O**<br>Withdrawn Optimization | **-** | "Debater" |
-| **5M**<br>Apathetic Imagination | **5M-1**<br>Uninhibited 5M | "Opportunistic<br>Traditionalist" |
+| **5M**<br>Apathetic Imagination | **5M-1**<br>Uninhibited 5M | "Reactionary" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|

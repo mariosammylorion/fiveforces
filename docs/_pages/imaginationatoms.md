@@ -16,19 +16,19 @@ toc_sticky: true
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Public 1M (1M-2) / "Disciplined Revolutionary"
+### Public 1M (1M-2) / "Inventor"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Authentic 1M (1M-3) / "Nonconformist Revolutionary"
+### Authentic 1M (1M-3) / "Visionary"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Processed 1M (1M-4) / "Perfectionist Revolutionary"
+### Processed 1M (1M-4) / "Designer"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Uninhibited 1M (1M-5) / "Unfiltered Revolutionary"
+### Uninhibited 1M (1M-5) / "Brainstormer"
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -42,19 +42,19 @@ Perhaps one of the most common expressions of 2M in both real-life persons and f
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Public 2M (2M-1) / "Passionate Consumer"
+### Public 2M (2M-1) / "Promoter"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Natural 2M (2M-3) / "Defensive Consumer"
+### Natural 2M (2M-3) / "Loyalist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Recipient 2M (2M-4) / "Docile Consumer"
+### Recipient 2M (2M-4) / "Follower"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Permissive 2M (2M-5) / "Indulgent Consumer"
+### Permissive 2M (2M-5) / "Dilettante"
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -66,19 +66,19 @@ Perhaps one of the most common expressions of 2M in both real-life persons and f
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Authentic 3M (3M-1) / "Sociable Reverist"
+### Authentic 3M (3M-1) / "Futurist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Natural 3M (3M-2) / "Commanding Reverist"
+### Natural 3M (3M-2) / "Mastermind"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Private 3M (3M-4) / "Fearful Reverist"
+### Private 3M (3M-4) / "Daydreamer"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Impervious 3M (3M-5) / "Stubborn Reverist"
+### Impervious 3M (3M-5) / "Eccentric"
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -90,19 +90,19 @@ Perhaps one of the most common expressions of 2M in both real-life persons and f
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Processed 4M (4M-1) / "Self-Deprecating Doomsayer"
+### Processed 4M (4M-1) / "Pessimist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Recipient 4M (4M-2) / "Projective Doomsayer"
+### Recipient 4M (4M-2) / "Alarmist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Private 4M (4M-3) / "Tenacious Doomsayer"
+### Private 4M (4M-3) / "Catastrophist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Deficient 4M (4M-5) / "Concealed Doomsayer"
+### Deficient 4M (4M-5) / "Stoic"
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -114,18 +114,18 @@ Perhaps one of the most common expressions of 2M in both real-life persons and f
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Uninhibited 5M (5M-1) / "Opportunistic Traditionalist"
+### Uninhibited 5M (5M-1) / "Reactionary"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Permissive 5M (5M-2) / "Respectful Traditionalist"
+### Permissive 5M (5M-2) / "Purist"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Impervious 5M (5M-3) / "Antagonistic Traditionalist"
+### Impervious 5M (5M-3) / "Luddite"
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Deficient 5M (5M-4) / "Grudging Traditionalist"
+### Deficient 5M (5M-4) / "Laggard"
 
 &lt;Lorem ipsum dolor...&gt;

@@ -10,11 +10,11 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1M**<br>Mutual Imagination | **1M-5**<br>Uninhibited 1M | "Unfiltered<br>Revolutionary" |
-| **2R**<br>Selfless Reality | **2R-4**<br>Recipient 2R | "Docile<br>Journalist" |
+| **1M**<br>Mutual Imagination | **1M-5**<br>Uninhibited 1M | "Brainstormer" |
+| **2R**<br>Selfless Reality | **2R-4**<br>Recipient 2R | "Recorder" |
 | **3O**<br>Egocentric Optimization | **-** | "Minimalist" |
-| **4L**<br>Withdrawn Logic | **4L-2**<br>Recipient 4L | "Projective<br>Skeptic" |
-| **5V**<br>Apathetic Valuation | **5V-1**<br>Uninhibited 5V | "Opportunistic<br>Nihilist" |
+| **4L**<br>Withdrawn Logic | **4L-2**<br>Recipient 4L | "Naysayer" |
+| **5V**<br>Apathetic Valuation | **5V-1**<br>Uninhibited 5V | "Mercenary" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|

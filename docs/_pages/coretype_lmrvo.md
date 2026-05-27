@@ -10,10 +10,10 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1L**<br>Mutual Logic | **1L-3**<br>Authentic 1L | "Nonconformist<br>Architect" |
-| **2M**<br>Selfless Imagination | **2M-4**<br>Recipient 2M | "Docile<br>Consumer" |
-| **3R**<br>Egocentric Reality | **3R-1**<br>Authentic 3R | "Sociable<br>Relativist" |
-| **4V**<br>Withdrawn Valuation | **4V-2**<br>Recipient 4V | "Projective<br>Iconoclast" |
+| **1L**<br>Mutual Logic | **1L-3**<br>Authentic 1L | "Doctrinaire" |
+| **2M**<br>Selfless Imagination | **2M-4**<br>Recipient 2M | "Follower" |
+| **3R**<br>Egocentric Reality | **3R-1**<br>Authentic 3R | "Subjectivist" |
+| **4V**<br>Withdrawn Valuation | **4V-2**<br>Recipient 4V | "Malcontent" |
 | **5O**<br>Apathetic Optimization | **-** | "Double Agent" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |

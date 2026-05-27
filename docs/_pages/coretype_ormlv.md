@@ -11,10 +11,10 @@ toc_sticky: true
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1O**<br>Mutual Optimization | **-** | "Discusser" |
-| **2R**<br>Selfless Reality | **2R-4**<br>Recipient 2R | "Docile<br>Journalist" |
-| **3M**<br>Egocentric Imagination | **3M-5**<br>Impervious 3M | "Stubborn<br>Reverist" |
-| **4L**<br>Withdrawn Logic | **4L-2**<br>Recipient 4L | "Projective<br>Skeptic" |
-| **5V**<br>Apathetic Valuation | **5V-3**<br>Impervious 5V | "Antagonistic<br>Nihilist" |
+| **2R**<br>Selfless Reality | **2R-4**<br>Recipient 2R | "Recorder" |
+| **3M**<br>Egocentric Imagination | **3M-5**<br>Impervious 3M | "Eccentric" |
+| **4L**<br>Withdrawn Logic | **4L-2**<br>Recipient 4L | "Naysayer" |
+| **5V**<br>Apathetic Valuation | **5V-3**<br>Impervious 5V | "Scoffer" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|

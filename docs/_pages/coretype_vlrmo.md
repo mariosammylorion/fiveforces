@@ -10,10 +10,10 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1V**<br>Mutual Valuation | **1V-4**<br>Processed 1V | "Perfectionist<br>Evangelist" |
-| **2L**<br>Selfless Logic | **2L-3**<br>Natural 2L | "Defensive<br>Student" |
-| **3R**<br>Egocentric Reality | **3R-2**<br>Natural 3R | "Commanding<br>Relativist" |
-| **4M**<br>Withdrawn Imagination | **4M-1**<br>Processed 4M | "Self-Deprecating<br>Doomsayer" |
+| **1V**<br>Mutual Valuation | **1V-4**<br>Processed 1V | "Penitent" |
+| **2L**<br>Selfless Logic | **2L-3**<br>Natural 2L | "Partisan" |
+| **3R**<br>Egocentric Reality | **3R-2**<br>Natural 3R | "Revisionist" |
+| **4M**<br>Withdrawn Imagination | **4M-1**<br>Processed 4M | "Pessimist" |
 | **5O**<br>Apathetic Optimization | **-** | "Double Agent" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |

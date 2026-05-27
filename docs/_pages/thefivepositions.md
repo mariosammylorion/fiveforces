@@ -143,7 +143,7 @@ The Withdrawn and Apathetic positions together form the **Deficient function gro
 
 ### Mutual Position Accents
 
-#### Public Mutual (1X-2) / "Disciplined"
+#### Public Mutual (1X-2) / "Receptive"
 
 When a Mutual Force is paired with a Selfless one, it takes on the latter position's characteristic of deference. The result is a manifestation in which **the individual lacks a fear or anxiety of being proven wrong when it comes to their knowledge or expression of the Force.** In fact, they *love* being proven wrong about it, as this can give them opportunities for growth. The motto of this accent may be, "My knowledge *isn't* perfect."
 
