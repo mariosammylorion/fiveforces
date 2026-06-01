@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Corrective Enforcer** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+To put it in one way, the MLORV type is the living embodiment of the phrase, "Erm, actually..." An uncaring attitude towards others' values and a strict following of society's rules gives them a unique way to cause mischief in the form of policing others about what they can and cannot do. Though all "Mischief" types are creative provocateurs, MLORV individuals possess perhaps the most unique way of doing so, essentially being a "party pooper" to all those who wish to express their values in any way, shape or form. Naturally, this admittedly makes them one of the most hated types in the Five Forces system, yet one of the most interesting as well.
 
 # Motivation Development
 

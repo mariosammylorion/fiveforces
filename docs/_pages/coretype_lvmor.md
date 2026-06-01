@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:--------:|:----------------:|:------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Rule-Bending Sage** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The LVMOR combines a devotion to one's faith and a desire to spread this faith; and a commitment to shattering factual expectations into one dynamic character. Through the devotion to their craft, individuals of this type gain the ability to make discoveries never before seen by society and explain them in a way that makes it for others to be inspired by them. Allowing themselves to sit on a higher plane of existence is what makes this type's discoveries so groundbreaking, as they bend the rules in a way that gives them elite knowledge that is perhaps unmatched by any other type in the Five Forces system.
 
 # Motivation Development
 
