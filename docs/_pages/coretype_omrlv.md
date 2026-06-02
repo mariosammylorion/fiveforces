@@ -17,7 +17,7 @@ toc_sticky: true
 | **5V**<br>Apathetic Valuation | **5V-2**<br>Permissive 5V | "Agnostic" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:------------:|
 | **Private Brain** | **4L-to-3R** | "Accumulation" |
 | **Permissive Heart** | **5V-to-2M** | "Depravity" |
 | **Body Type** | **Permissive-Private 1O** | "Curation" |
@@ -26,7 +26,7 @@ toc_sticky: true
 | **Motivation** | **LR-Bypass** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:--------------------:|
 | **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary

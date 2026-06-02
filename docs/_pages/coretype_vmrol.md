@@ -17,7 +17,7 @@ toc_sticky: true
 | **5L**<br>Apathetic Logic | **5L-3**<br>Impervious 5L | "Obscurantist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:------------:|
 | **Impervious Brain** | **5L-to-3R** | "Gluttony" |
 | **Public Heart** | **2M-to-1V** | "Ambition" |
 | **Body Type** | **Public-Impervious 4O** | "Superficiality" |
@@ -26,7 +26,7 @@ toc_sticky: true
 | **Motivation** | **MR-Bypass** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:--------------------:|
 | **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary

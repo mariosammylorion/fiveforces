@@ -17,7 +17,7 @@ toc_sticky: true
 | **5V**<br>Apathetic Valuation | **5V-2**<br>Permissive 5V | "Agnostic" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:------------:|
 | **Authentic Brain** | **3R-to-1L** | "Conquest" |
 | **Permissive Heart** | **5V-to-2M** | "Depravity" |
 | **Body Type** | **Authentic-Permissive 4O** | "Tension" |
@@ -26,7 +26,7 @@ toc_sticky: true
 | **Motivation** | **α-Loop** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:--------------------:|
 | **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary

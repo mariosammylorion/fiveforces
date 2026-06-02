@@ -17,7 +17,7 @@ toc_sticky: true
 | **5O**<br>Apathetic Optimization | **-** | "Double Agent" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:------------:|
 | **Authentic Brain** | **3L-to-1R** | "Pedagogy" |
 | **Permissive Heart** | **4M-to-2V** | "Reliance" |
 | **Body Type** | **Authentic-Permissive 5O** | "Duplicity" |
@@ -26,7 +26,7 @@ toc_sticky: true
 | **Motivation** | **β-Loop** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:--------------------:|
 | **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary

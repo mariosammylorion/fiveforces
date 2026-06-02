@@ -17,7 +17,7 @@ toc_sticky: true
 | **5M**<br>Apathetic Imagination | **5M-1**<br>Uninhibited 5M | "Reactionary" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:------------:|
 | **Natural Brain** | **3R-to-2L** | "Patronage" |
 | **Uninhibited Heart** | **5M-to-1V** | "Conservatism" |
 | **Body Type** | **Uninhibited-Natural 4O** | "Dynamism" |
@@ -26,7 +26,7 @@ toc_sticky: true
 | **Motivation** | **RL-Bypass** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:--------------------:|
 | **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary

@@ -17,7 +17,7 @@ toc_sticky: true
 | **5L**<br>Apathetic Logic | **5L-1**<br>Uninhibited 5L | "Renegade" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:------------:|
 | **Uninhibited Brain** | **5L-to-1R** | "Commotion" |
 | **Private Heart** | **4V-to-3M** | "Asceticism" |
 | **Body Type** | **Uninhibited-Private 2O** | "Bravado" |
@@ -26,7 +26,7 @@ toc_sticky: true
 | **Motivation** | **VM-Bypass** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:--------------------:|
 | **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary

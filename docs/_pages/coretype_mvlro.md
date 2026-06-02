@@ -17,7 +17,7 @@ toc_sticky: true
 | **5O**<br>Apathetic Optimization | **-** | "Double Agent" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:------------:|
 | **Private Brain** | **4R-to-3L** | "Conspiratology" |
 | **Public Heart** | **2V-to-1M** | "Inspiration" |
 | **Body Type** | **Public-Private 5O** | "Secrecy" |
@@ -26,7 +26,7 @@ toc_sticky: true
 | **Motivation** | **VL-Bypass** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:--------------------:|
 | **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary

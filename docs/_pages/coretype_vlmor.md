@@ -17,7 +17,7 @@ toc_sticky: true
 | **5R**<br>Apathetic Reality | **5R-2**<br>Permissive 5R | "Spectator" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:------------:|
 | **Permissive Brain** | **5R-to-2L** | "Curiosity" |
 | **Authentic Heart** | **3M-to-1V** | "Optimism" |
 | **Body Type** | **Authentic-Permissive 4O** | "Tension" |
@@ -26,7 +26,7 @@ toc_sticky: true
 | **Motivation** | **ML-Spur** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:--------------------:|
 | **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary

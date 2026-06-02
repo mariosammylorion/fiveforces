@@ -17,7 +17,7 @@ toc_sticky: true
 | **5V**<br>Apathetic Valuation | **5V-1**<br>Uninhibited 5V | "Mercenary" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:------------:|
 | **Recipient Brain** | **4L-to-2R** | "Tutelage" |
 | **Uninhibited Heart** | **5V-to-1M** | "Mischief" |
 | **Body Type** | **Uninhibited-Recipient 3O** | "Subservience" |
@@ -26,7 +26,7 @@ toc_sticky: true
 | **Motivation** | **LR-Bypass** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:--------------------:|
 | **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary

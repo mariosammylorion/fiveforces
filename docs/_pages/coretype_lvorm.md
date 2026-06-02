@@ -17,7 +17,7 @@ toc_sticky: true
 | **5M**<br>Apathetic Imagination | **5M-2**<br>Permissive 5M | "Purist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:------------:|
 | **Processed Brain** | **4R-to-1L** | "Anxiety" |
 | **Permissive Heart** | **5M-to-2V** | "Devotion" |
 | **Body Type** | **Processed-Permissive 3O** | "Diligence" |
@@ -26,7 +26,7 @@ toc_sticky: true
 | **Motivation** | **RV-Spur** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:--------------------:|
 | **The Sacrificial Devotee** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary

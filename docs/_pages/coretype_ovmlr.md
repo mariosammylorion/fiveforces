@@ -17,7 +17,7 @@ toc_sticky: true
 | **5R**<br>Apathetic Reality | **5R-4**<br>Deficient 5R | "Stranger" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:------------:|
 | **Deficient Brain** | **5R-to-4L** | "Innocence" |
 | **Natural Heart** | **3M-to-2V** | "Nirvana" |
 | **Body Type** | **Natural-Deficient 1O** | "Confidence" |
@@ -26,7 +26,7 @@ toc_sticky: true
 | **Motivation** | **ML-Spur** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:--------------------:|
 | **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary

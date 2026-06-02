@@ -17,7 +17,7 @@ toc_sticky: true
 | **5L**<br>Apathetic Logic | **5L-2**<br>Permissive 5L | "Layman" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:------------:|
 | **Permissive Brain** | **5L-to-2R** | "Naivety" |
 | **Authentic Heart** | **3V-to-1M** | "Expressure" |
 | **Body Type** | **Authentic-Permissive 4O** | "Tension" |
@@ -26,7 +26,7 @@ toc_sticky: true
 | **Motivation** | **VR-Spur** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:--------------------:|
 | **The Provocative Artist** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary

@@ -17,7 +17,7 @@ toc_sticky: true
 | **5L**<br>Apathetic Logic | **5L-3**<br>Impervious 5L | "Obscurantist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:------------:|
 | **Impervious Brain** | **5L-to-3R** | "Gluttony" |
 | **Processed Heart** | **4V-to-1M** | "Self-Mockery" |
 | **Body Type** | **Processed-Impervious 2O** | "Industriousness" |
@@ -26,7 +26,7 @@ toc_sticky: true
 | **Motivation** | **VR-Spur** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:--------------------:|
 | **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary

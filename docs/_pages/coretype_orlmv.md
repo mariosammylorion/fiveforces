@@ -17,7 +17,7 @@ toc_sticky: true
 | **5V**<br>Apathetic Valuation | **5V-4**<br>Deficient 5V | "Drifter" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:------------:|
 | **Natural Brain** | **3L-to-2R** | "Influence" |
 | **Deficient Heart** | **5V-to-4M** | "Arrogance" |
 | **Body Type** | **Natural-Deficient 1O** | "Confidence" |
@@ -26,7 +26,7 @@ toc_sticky: true
 | **Motivation** | **LM-Spur** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:--------------------:|
 | **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary

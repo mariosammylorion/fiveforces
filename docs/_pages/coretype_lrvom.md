@@ -17,7 +17,7 @@ toc_sticky: true
 | **5M**<br>Apathetic Imagination | **5M-3**<br>Impervious 5M | "Luddite" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:------------:|
 | **Public Brain** | **2R-to-1L** | "Integrity" |
 | **Impervious Heart** | **5M-to-3V** | "Insecurity" |
 | **Body Type** | **Public-Impervious 4O** | "Superficiality" |
@@ -26,7 +26,7 @@ toc_sticky: true
 | **Motivation** | **RV-Spur** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:--------------------:|
 | **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary

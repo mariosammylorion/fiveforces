@@ -17,7 +17,7 @@ toc_sticky: true
 | **5M**<br>Apathetic Imagination | **5M-3**<br>Impervious 5M | "Luddite" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:------------:|
 | **Processed Brain** | **4R-to-1L** | "Anxiety" |
 | **Impervious Heart** | **5M-to-3V** | "Insecurity" |
 | **Body Type** | **Processed-Impervious 2O** | "Industriousness" |
@@ -26,7 +26,7 @@ toc_sticky: true
 | **Motivation** | **RV-Spur** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:--------------------:|
 | **The Voluntary Sufferer** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary

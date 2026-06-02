@@ -17,7 +17,7 @@ toc_sticky: true
 | **5L**<br>Apathetic Logic | **5L-4**<br>Deficient 5L | "Defeatist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:------------:|
 | **Deficient Brain** | **5L-to-4R** | "Astonishment" |
 | **Authentic Heart** | **3V-to-1M** | "Expressure" |
 | **Body Type** | **Authentic-Deficient 2O** | "Obstruction" |
@@ -26,7 +26,7 @@ toc_sticky: true
 | **Motivation** | **VR-Spur** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:--------------------:|
 | **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary

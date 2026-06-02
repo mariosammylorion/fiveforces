@@ -17,7 +17,7 @@ toc_sticky: true
 | **5R**<br>Apathetic Reality | **5R-1**<br>Uninhibited 5R | "Improviser" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:------------:|
 | **Uninhibited Brain** | **5R-to-1L** | "Discovery" |
 | **Natural Heart** | **3M-to-2V** | "Nirvana" |
 | **Body Type** | **Uninhibited-Natural 4O** | "Dynamism" |
@@ -26,7 +26,7 @@ toc_sticky: true
 | **Motivation** | **MV-Bypass** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:--------------------:|
 | **The Rule-Bending Sage** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary

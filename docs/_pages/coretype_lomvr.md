@@ -17,7 +17,7 @@ toc_sticky: true
 | **5R**<br>Apathetic Reality | **5R-1**<br>Uninhibited 5R | "Improviser" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:------------:|
 | **Uninhibited Brain** | **5R-to-1L** | "Discovery" |
 | **Private Heart** | **4V-to-3M** | "Asceticism" |
 | **Body Type** | **Uninhibited-Private 2O** | "Bravado" |
@@ -26,7 +26,7 @@ toc_sticky: true
 | **Motivation** | **α-Loop** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:--------------------:|
 | **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary

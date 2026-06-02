@@ -17,7 +17,7 @@ toc_sticky: true
 | **5M**<br>Apathetic Imagination | **5M-4**<br>Deficient 5M | "Laggard" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:------------:|
 | **Public Brain** | **2R-to-1L** | "Integrity" |
 | **Deficient Heart** | **5M-to-4V** | "Sternness" |
 | **Body Type** | **Public-Deficient 3O** | "Humility" |
@@ -26,7 +26,7 @@ toc_sticky: true
 | **Motivation** | **RV-Spur** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:--------------------:|
 | **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary

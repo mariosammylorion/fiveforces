@@ -17,7 +17,7 @@ toc_sticky: true
 | **5M**<br>Apathetic Imagination | **5M-2**<br>Permissive 5M | "Purist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:------------:|
 | **Private Brain** | **4R-to-3L** | "Conspiratology" |
 | **Permissive Heart** | **5M-to-2V** | "Devotion" |
 | **Body Type** | **Permissive-Private 1O** | "Curation" |
@@ -26,7 +26,7 @@ toc_sticky: true
 | **Motivation** | **RL-Bypass** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:--------------------:|
 | **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary

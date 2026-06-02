@@ -17,7 +17,7 @@ toc_sticky: true
 | **5R**<br>Apathetic Reality | **5R-4**<br>Deficient 5R | "Stranger" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:------------:|
 | **Deficient Brain** | **5R-to-4L** | "Innocence" |
 | **Authentic Heart** | **3V-to-1M** | "Expressure" |
 | **Body Type** | **Authentic-Deficient 2O** | "Obstruction" |
@@ -26,7 +26,7 @@ toc_sticky: true
 | **Motivation** | **VL-Bypass** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:--------------------:|
 | **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary

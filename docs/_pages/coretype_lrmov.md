@@ -17,7 +17,7 @@ toc_sticky: true
 | **5V**<br>Apathetic Valuation | **5V-3**<br>Impervious 5V | "Scoffer" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:------------:|
 | **Public Brain** | **2R-to-1L** | "Integrity" |
 | **Impervious Heart** | **5V-to-3M** | "Callousness" |
 | **Body Type** | **Public-Impervious 4O** | "Superficiality" |
@@ -26,7 +26,7 @@ toc_sticky: true
 | **Motivation** | **RM-Bypass** | **-** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:--------:|:----------------:|:------------:|
+|:---------------:|:--------------------:|:--------------------:|
 | **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
