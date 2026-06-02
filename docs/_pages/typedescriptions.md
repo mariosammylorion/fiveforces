@@ -15,8 +15,8 @@ The following is a table featuring all 120 core types, as well as their nickname
 | **[LMRVO](/fiveforces/type-descriptions/lmrvo/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[LMVOR](/fiveforces/type-descriptions/lmvor/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[LMVRO](/fiveforces/type-descriptions/lmvro/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
-| **[LOMRV](/fiveforces/type-descriptions/lomrv/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
-| **[LOMVR](/fiveforces/type-descriptions/lomvr/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
+| **[LOMRV](/fiveforces/type-descriptions/lomrv/)** | The Paranoid Android | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
+| **[LOMVR](/fiveforces/type-descriptions/lomvr/)** | The Subversive Ascetic | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[LORMV](/fiveforces/type-descriptions/lormv/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[LORVM](/fiveforces/type-descriptions/lorvm/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[LOVMR](/fiveforces/type-descriptions/lovmr/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
@@ -51,7 +51,7 @@ The following is a table featuring all 120 core types, as well as their nickname
 | **[MROVL](/fiveforces/type-descriptions/mrovl/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[MRVLO](/fiveforces/type-descriptions/mrvlo/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[MRVOL](/fiveforces/type-descriptions/mrvol/)** | The Provocative Artist | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
-| **[MVLOR](/fiveforces/type-descriptions/mvlor/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
+| **[MVLOR](/fiveforces/type-descriptions/mvlor/)** | The Possessive Lover | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[MVLRO](/fiveforces/type-descriptions/mvlro/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[MVOLR](/fiveforces/type-descriptions/mvolr/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[MVORL](/fiveforces/type-descriptions/mvorl/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
@@ -119,7 +119,7 @@ The following is a table featuring all 120 core types, as well as their nickname
 | **[VMROL](/fiveforces/type-descriptions/vmrol/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[VOLMR](/fiveforces/type-descriptions/volmr/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[VOLRM](/fiveforces/type-descriptions/volrm/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
-| **[VOMLR](/fiveforces/type-descriptions/vomlr/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
+| **[VOMLR](/fiveforces/type-descriptions/vomlr/)** | The Eternal Child | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[VOMRL](/fiveforces/type-descriptions/vomrl/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[VORLM](/fiveforces/type-descriptions/vorlm/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[VORML](/fiveforces/type-descriptions/vorml/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |

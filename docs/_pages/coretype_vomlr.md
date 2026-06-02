@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Eternal Child** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+To the VOMLR individual, life really is all sunshine and rainbows. This is all thanks to both childlike optimism and childlike innocence, which of course makes them the most childlike type in the entire Five Forces system. VOMLRs are always on a different, higher plane of gleeful existence, and they make this known through their absolute honesty and sincerety. This, of course, creates a massive pitfall for this type: due to their childlike nature, they can be so stuck in their own perfect world that they never get anything productive done in *this* world. Their growth, therefore, comes from learning how to do the latter.
 
 # Motivation Development
 

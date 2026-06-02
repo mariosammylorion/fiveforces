@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Subversive Ascetic** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+On the surface, the LOMVR individual is a master of defying facts through their one-of-a-kind, unfiltered logic. However, such defiance is simply a coverup for their inner world in which they suffer in silence. With their refusal to seek help when it comes to what they want to believe in, they decide that the best course of action is to simply live with the pain; their groundbreaking logic simply is a mask to hide this pain. Though the public eye catches glimpses of their suffering though their melancholic nature, it may occasionally slip out when the pain of not believing in something catches up to them.
 
 # Motivation Development
 
