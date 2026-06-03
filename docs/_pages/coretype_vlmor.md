@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Doubtful Optimist** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The VLMOR individual wants to be an optimist and wants to see the glass as half full. However, their intellectual curiosity and inquiry often gives them the idea that, maybe, being so isn't necessarily a good thing. Their hope for a better world and the spreading of their vision often clashes with the facts and logic they receive, making them question whether this vision is really worth it in the end. They want to justify their vision for a better world, but others may give them justifications for the exact *opposite.* As such, it is very important for individuals of this type to better discern the information they receive and the questions they ask.
 
 # Motivation Development
 

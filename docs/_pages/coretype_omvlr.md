@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Dream Warper** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The OMVLR gives the impression of an activist, always willing to stand up for the common folk. However, individuals of this type do so in a unique way by generalizing, changing up, or even "warping" the dreams and desires of others in order to appease their own personal values. And when they get caught doing so, they act innocent, saying something like "Oh, gee, I didn't know!" and feigning a somewhat cutesy demeanor. Confident and unchanging in their ways, they defy the status quo both in their ways of rallying the people up...and pissing those same people off by not going by what they actually want.
 
 # Motivation Development
 

@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Self-Serving Champion** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The OMVRL type is quite similar to the OMVLR in which they are somewhat "selfish activists," as in their Activism is fueled by their own personal desires. But while the OMVLR warps others' dreams, the OMVRL simply does what it wishes, only using their supporters to fuel their *own* dreams. The OMVRL individual doesn't take too kindly to logical or factual explanations, either...they'll just slide right off of them. In addition, they are absolutely zealous of their desires, ultimately giving the impression that maybe, just maybe, this champion of the people isn't as selfless as they truly seem.
 
 # Motivation Development
 

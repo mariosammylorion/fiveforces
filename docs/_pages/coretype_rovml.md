@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Fervent Worrier** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+Looks can be deceiving; although the ROVML has a strong factual presence and appears stable, these individuals constantly live life as if the entire world is out to get them, creating one of the most paranoid types in the entire Five Forces system. Everyone around them is known of their strange habits to avoid persecution through their presence alone; this is especially emphasized through their egotism surrounding their methods to ensure they are safe. Entirely worried about the future and stubborn when it comes to help (especially logically), they possess a tragic irony of living in the moment while also being terrified of it.
 
 # Motivation Development
 

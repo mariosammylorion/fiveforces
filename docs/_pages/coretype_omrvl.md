@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Anodyne Addict** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The OMRVL is characterized by an incessant need to kill the pain in their life caused by their struggles with finding what's meaningful, and they will go through great lengths just to fulfill this need. They depend on others' ideas of novelty and innovation like a drug addiction, going as far as to hoard these ideas for themselves and causing danger to both themselves and others. This all makes way for one of the most self-destructive types in the entire Five Forces system, as their journey to kill their neverending pain puts even those around them in constant danger.
 
 # Motivation Development
 

@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Task Completer** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+Ironically, the RLOMV type, which has Completion, is less focused on task completion than the RLOVM is. These individuals have one mission in mind: complete the task, prove that the world's logic holds, and move on. Simple as. Part of their proof of the world's methods is the fact that this strict regiment is the way to do it, and they make this known in their methods. Unpredictable and always willing to explain their uncaring attitude towards others' feelings and values, there is actually much more than meets the eye with these task completers.
 
 # Motivation Development
 

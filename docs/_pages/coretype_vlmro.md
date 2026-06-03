@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Lawful Sanguine** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The VLMRO is an optimist in every sense of the word, but one wouldn't know that through their deference to the laws that bind them. Still, these individuals persevere. Taking pride and refuge in their own perfect world, they aim to spread this ideal world though peaceful means, ones that abide by the laws governed by the universe. They still do blame others for the way the world currently is, but to them, it really doesn't have to be this way, which springs them into action. This gives way to one of the most peaceful types in the entire Five Forces system...but as you'll see, even they have limits.
 
 # Motivation Development
 

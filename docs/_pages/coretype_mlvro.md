@@ -27,7 +27,7 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The Conformant Creative** | **"XXXX"** | **"XXXX"** |
+| **The Conformant Creator** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
