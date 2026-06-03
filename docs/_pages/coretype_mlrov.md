@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Head Honcho** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+Simply put, the MLROV individual is a force to be reckoned with. They are characterized by a need to spread their idea of reality through their subordinates, and they will stop at absolutely nothing to achieve this goal; not even the values of those outside their circle stand in their way. Due to their insistent nature, when unhealthy, they can honestly make perhaps the most dangerous individuals in the entire Five Forces system, as the force of their psyche can move mountains, both in the best and worst ways imaginable. It is only when they learn to hone their creativity and skills for good that this danger can be subdued. 
 
 # Motivation Development
 

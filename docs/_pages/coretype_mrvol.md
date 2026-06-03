@@ -33,8 +33,6 @@ toc_sticky: true
 
 The MRVOL is characterized by an unapologetic expression of personal values through their creativity...and a heightened sense of gullibility and impulsivity that threatens it. Though the MRVOL individual's creativity and individuality is strong, their openness to all things factual, no matter how corrupt or incorrect, subjects them to thinking, saying, and doing things that are not only wrong, but can provoke others (if they aren't themselves provoked, that is). Their artistry only gives them an outlet to express these provocations, making for a truly volatile personality.
 
-&lt;Lorem ipsum dolor...&gt;
-
 # Motivation Development
 
 &lt;Lorem ipsum dolor...&gt;

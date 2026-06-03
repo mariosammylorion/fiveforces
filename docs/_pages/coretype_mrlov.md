@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Master Debater** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The MRLOV individual thinks early on in their life that they have the intellectual power (using others facts), and they shall use that prowess for the only thing that will prove their intellectual superiority: debating. Yet despite them engaging with it, in their mind they believe that there *is* no debate; they've already won. Impulsive and hoity-toity in nature, they are more than willing to steamroll what others believe in to prove that, intellectually and creatively, they are the best like no one ever was. Of course, such behavior makes them hated by many other types, yet this page proves is more to MRLOVs than meets the eye.
 
 # Motivation Development
 

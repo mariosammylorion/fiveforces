@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Strict Parent** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+Despite not necessarily being a literal parent per se, the ROLVM type is the closest towards representing a parent who insists that they know what's best. Without even listening to your side of the story, ROLVM individuals ensure that they mold you into the person that you ought to be. With a heightened sense of perfection and a sprinkle of unpredictability, their stern nature is sure to whip anyone in their vicinity into shape. But when they're not careful, their sternness can obstruct their true goal of wanting their "children" to be the absolute best and instead make them ruthless authoritarians that rule with iron fists.
 
 # Motivation Development
 

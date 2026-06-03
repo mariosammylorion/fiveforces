@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Rage Baiter** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+When you combine the need to cause mischief and the need to accumulate, you get a character that seems like your average troll on the surface. However, the MORLV individual causes trouble not just for its own sake, but to learn more and more about the world around them. Based on how others react, they draw their own conclusions about people and their behavior. This creates a persona that can be best described as a "collector of inconveniences," in which they creatively throw caution to the wind...just to see how the people around them would react.
 
 # Motivation Development
 

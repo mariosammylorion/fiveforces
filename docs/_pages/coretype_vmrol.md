@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Energetic Go-Getter** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+In essence, the VMROL individual lives for the dream of getting what they desire. It is extremely obvious that they follow a dream, ideal, or possibility just for the sake of having it for themselves and indulging in it, but that doesn't make their ambition and ferocity any less real. They will even go so far as to "hijack" another's dreams and resist any naysayers or objective opinions standing in their way. Their values are ever-changing based on the dream they wish to attain, making them their life goal to get what they desire and never back down from achieving that goal.
 
 # Motivation Development
 

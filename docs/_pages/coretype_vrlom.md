@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Conservative Commentator** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+If the phrase "Facts don't care about your feelings" can be mapped to any one of the 120 types, it would most definitely be VRLOM. But unironically, their feelings pave the way for this statement! The VRLOM individual wishes to spread the idea that society should stay the way it is (or be the way it once was, for that matter), and they will use *facts and logic* to try to prove their point. However, such facts are borrowed from what their elders say is true, and their logic is ultimately flawed and insecure, only being fueled by what they believe in. This all makes for one of the most ironic types in the entire Five Forces system.
 
 # Motivation Development
 

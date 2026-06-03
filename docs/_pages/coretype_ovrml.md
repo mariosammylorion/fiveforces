@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Childlike Glutton** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+On the surface, the OVRML type appears to be childlike and innocent, often relying on other people to fulfill their needs and being as sappy as can be. However, this demeanor is simply a cover-up for a hidden plot: to indulge in their idea of reality to the fullest extent. With the values or people they desperately cling to, they expect these values/people to aid them in making their idea of reality...a reality. Food, travel, experiences, ideas...all of which are expected by the OVRML individual to be given to them straight away as a coping mechanism for the supposed harshness of novelty and the future.
 
 # Motivation Development
 

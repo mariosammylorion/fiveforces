@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Private Victim** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+On the surface, the LRMVO individual is one who never lets their logic go against the grain when it comes to the cold, hard facts. But dig deeper and you'll uncover a private world where values struggle to take hold, one that never interacts with the public persona. Though melancholic in nature, they will never let this suffering side of them known, not even a little bit. They're the type to brush all their troubles off, saying things like, "Oh, it's no big deal." Or, "I'll figure it out myself." In their eyes, there's nothing worse than letting your suffering be known.
 
 # Motivation Development
 

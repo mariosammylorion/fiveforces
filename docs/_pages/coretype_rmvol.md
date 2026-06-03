@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Roaring Rioter** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+With the RMVOL type, all the stars align in a way that makes for one of the most boisterous and powerful types in the entire Five Forces system. These individuals fill the entire room and world with their presence, seeking to rally the people around them using what others see as a better future. They are loud with their activism, and they want the world to know it. But at the end of the day, this loud activism is fueled by a sense of selfishness, so in unhealthy cases, their sense of righteousness is not at all what it seems. But in healthy individuals, this type can move mountains.
 
 # Motivation Development
 
