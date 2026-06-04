@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Masked Socialite** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+On the surface, the VROML individual seems like the most bubbly one out of all the Five Forces. However, blended with this happy-go-lucky demeanor is a deep-rooted fear of the future and what it holds. This creates a unique, contradictory demeanor that is all timid, happily insistent, and naive. The VROML is many things at once, which adds more and more to their complex nature. Constantly thinking about how to express their values, a love for the intellectual (despite not being so), and a humility with their experiences with novelty are just some of the many characteristics of this nuanced, detailed personality type.
 
 # Motivation Development
 

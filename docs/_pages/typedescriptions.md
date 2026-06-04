@@ -122,10 +122,10 @@ The following is a table featuring all 120 core types, as well as their nickname
 | **[VOMLR](/fiveforces/type-descriptions/vomlr/)** | The Eternal Child | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[VOMRL](/fiveforces/type-descriptions/vomrl/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[VORLM](/fiveforces/type-descriptions/vorlm/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
-| **[VORML](/fiveforces/type-descriptions/vorml/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
+| **[VORML](/fiveforces/type-descriptions/vorml/)** | The Doomsday Prepper | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[VRLMO](/fiveforces/type-descriptions/vrlmo/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[VRLOM](/fiveforces/type-descriptions/vrlom/)** | The Conservative Commentator | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[VRMLO](/fiveforces/type-descriptions/vrmlo/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[VRMOL](/fiveforces/type-descriptions/vrmol/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[VROLM](/fiveforces/type-descriptions/vrolm/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
-| **[VROML](/fiveforces/type-descriptions/vroml/)** | The XXXXX YYYYY | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
+| **[VROML](/fiveforces/type-descriptions/vroml/)** | The Masked Socialite | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
