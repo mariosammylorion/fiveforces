@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Eagle-Eyed Supervisor** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+To put it bluntly, the OLRMV type is the closest representative to that do-nothing boss that doesn't do any work themselves, yet still rules with arrogance and an iron fist. Uninvolved as can be, these individuals are only focused on whether or not their subordinates get the task done or not. They are also highly territorial and protective of the work their subordinates do, so if any work is not up to par, they will not hesitate to put you on the chopping block. And heaven forbid that you try to get them to actually help you...you'll only get a taste of their superiority and ego.
 
 # Motivation Development
 

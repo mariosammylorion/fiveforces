@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Obliging Teacher** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+Despite being called "Pedagogy," this Brain subtype does not often manifest as a warm "teacher" character. The RVLOM type, however, is an exception. In fact, these individuals are so warm that they are often in conflict between accomodating others' *wants* and giving them what they actually *need*. They love to give back to the people they disciple, but they always have to be careful to not overaccommodate in any way, or else their subjects will never truly learn. This can give them a hint of unpredictability and even strong opinions about what others need without their own input.
 
 # Motivation Development
 

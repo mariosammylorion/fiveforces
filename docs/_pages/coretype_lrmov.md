@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Unsmiling Rationalist** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The LRMOV type is marked by a factual and logical humility, just like all other Integrity types. But out of all 6 of these types, this type is by far the most anti-emotional. You can intellectually convince a LRMOV individual to do or believe something and they will probably agree with you, but the moment you make an emotional appeal, they will shoot you down without question. In fact, they are so anti-emotional that it doesn't even seem as if "emotion" or "value" isn't even in their vocabulary. Their talk is all facts and logic, and no values, creating for a very controversial type in the Five Forces system.
 
 # Motivation Development
 

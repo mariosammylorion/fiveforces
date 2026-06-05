@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Covert Prey** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+You may not know it at first glance, but RLVMO individuals are easy targets...at least, that's what they think. But this guise is perfectly hidden under the impression that they are fully present in the factual, past and present worlds. There is a massive irony to this type: they love being in the world, yet they feel threatened by it. (But then again, all core types with 5O are inherently ironic and contradictory.) Part of the reason why they want to be present in the world is so that their persecutory fears can be validated, and at the same time, being present is the complete reason why they have this fear in the first place.
 
 # Motivation Development
 

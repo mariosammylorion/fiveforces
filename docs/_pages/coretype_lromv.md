@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Fragile Omitter** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The best metaphor I can give for the LROMV type is a receptionist or overseer who shouts "Next!" despite the interlocutor not being finished with what they have to say. Through the power of external facts and evidence, these individuals constantly prove time and time again that some individuals are not worth anyone's time, dismissing them with emotional coldness. However, this omission of other's worth (so to say) is secretly fueled by a sense of fragility, often projecting their failures and disappointments onto others in hopes that others will see their arrogance and not mind it one bit.
 
 # Motivation Development
 

@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Vision Chaser** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The primary goal of the MVROL is to both be inspired and to inspire. Their way of doing so, however, is another story; for they seek go gather as many ideas, dreams, and visions as they can in order to appease their own desires. No kind of novelty is too novel for the MVROL individual, who knows what said novelty entails (even if they really don't) and is willing to make a show of it. Schmaltzy and anti-intellectual in nature, they are perhaps the closest representation to an actual glutton in the entire Five Forces system...and perhaps the closest representation of a cornball as well.
 
 # Motivation Development
 

@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Filtered Defeatist** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+It may be hard to tell that the RLMVO type is one that experiences torment about what they want to believe in. This is intentional, as these individuals completely hide it through their ever-changing idea of what the world factually is. However, these facts actually are filtered through their private idea of how things really are (as in, a creative tint to the experiences they receive). This, coupled with a tendency to come up with excuses for why they seem to be unfeeling and a private imaginative world, make for a very contradictory yet extremely interesting personality type, which we will unravel later.
 
 # Motivation Development
 

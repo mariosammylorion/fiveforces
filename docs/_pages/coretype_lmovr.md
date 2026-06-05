@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Exploratory Client** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The LMOVR is a unique type among those with Discovery, as their breaking of the rules of reality is directly linked to their quest to alleviate the pain of not finding what truly matters. Blaming the world for their emotional shortcomings, these individuals attach themselves to outer concepts and ideas, which they discover new and novel things about and aim to defy all factual expectations. Melancholic and able to put their own twisted spin on others' ideas, LMOVRs discover new things not for the sake of discovery, but to quell their pain and to distract themselves from the fact that they cannot find what truly matters.
 
 # Motivation Development
 

@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Jaded Bookworm** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The MLOVR individual, like all Doubters, struggles with the concept of personal values. But for this type, this struggle is coupled with a curiosity towards the intellectual, and with the help of their Self-Mockery, it combines into a soul who questions everything with a self-deprecating and sarcastic demeanor. They always respond to others' thoughts with absurd and pessimist hypotheticals, and they are always willing to come up with excuses as to why they are such a gloomy "bookworm" figure. But the silver lining is, when healthy, these individuals act as the perfect foil to overly confident, rigid rule-makers who try to enforce the lives of others.
 
 # Motivation Development
 

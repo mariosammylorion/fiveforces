@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Drill Instructor** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+When it comes to instructing others on what to do, the ROLMV believes that they are the best, no ifs, ands or buts. They are much less of "teachers" and more so "drill sergeants" who, stereotypically, yell in your face and tell you to get things done how they want them to be done. Their heightened sense of the facts gives them an uncertainty to others' future potential, so if you do not turn out how the ROLMV wanted you to be, they leave you in the dust and forget you ever existed. Naturally, their arrogance causes problems with them socially and emotionally, which can have devastating effects for them.
 
 # Motivation Development
 
