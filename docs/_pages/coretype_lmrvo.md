@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Gloomy Czar** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The LMRVO type possesses sense of wanting to expand one's factual territory through their unchanging opinions...though they always feel empty despite fulfilling this desire. As such, these individuals turn to the novel and exciting in order to satisfy their pain. They consistently have a somewhat sad demeanor to them despite having several comrades in their circle, but with the ideas that the LMRVO consumes, they can be happy. This can even go so far as to use, borrow, or even steal these ideas to use and indulge in with their comrades, which, on the bright side, can increase the LMRVO's companionship and improve their connections.
 
 # Motivation Development
 

@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Distracted Mentor** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The RMLOV wants to be the best educator they can be to those who are willing to listen. But this desire is often overshadowed and curbstomped by any new trend or idea they could possibly get their hands on. They want to stay true to the methods they have built for themselves, but their enthusiasm for the new and novel gets in the way of their lesson-planning. In addition, they hold these ideas in such high regard that they do not wish to engage with others with it; in their eyes, these ideas are perfect, no matter what anyone else...or no matter what their Brain says, for that matter.
 
 # Motivation Development
 

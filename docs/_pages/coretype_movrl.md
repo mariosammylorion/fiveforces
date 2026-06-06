@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Stubborn Expresser** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The MOVRL is a type in which they wish to express themselves creatively to their people, and yet their expression is completely of selfish desires that they do not wish to change for anyone. They create what they want to create; they don't take requests, and they even don't take commissions. And when you try to explain to these individuals intellectually about anything, it will not register as intelligible speech. To them, life is *their* playground to do whatever the hell they want in it and to express themselves however they wish, and no one can even ask them to just do *one thing* for them.
 
 # Motivation Development
 

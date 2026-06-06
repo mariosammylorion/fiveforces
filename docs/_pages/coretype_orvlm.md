@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Needy Camper** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The ORVLM is happy to obey anyone who is willing to put them under their wing...with a price. These individuals become students to them if and only if they are accomodated for in every way possible. They list every single one of their needs to their authority figure; this needs to be done, this has to be done this way, and that does not need to be there. Because of their insistence and their defiance towards what the figure themselves want, they can be incredibly annoying and taxing to deal with. As such, the ORVLM does not entirely possess a permanent figure, as they keep getting dropped off and waiting to be picked up by another.
 
 # Motivation Development
 

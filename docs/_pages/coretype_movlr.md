@@ -27,7 +27,7 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Innocent Artisan** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 

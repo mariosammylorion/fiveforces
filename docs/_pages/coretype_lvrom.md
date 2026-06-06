@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Loving Comrade** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The LVROM is a true, loyal comrade in every sense of the word, always willing to give up anything for anyone in their factual circle. The issue is, this includes giving up potential territory that would be useful to these individuals later. They often struggle with wanting to expand their friend circle and being satisfied with what they already have. In addition, in unhealthy cases they are *truly* willing to give up everything just to be closer to their friends, which will have devastating consquences for them later on. To the LVROM, life is an eternal struggle between quality over quantity, or quantity over quality.
 
 # Motivation Development
 

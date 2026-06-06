@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Ardent Emperor** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The LVRMO individual is desperate for love and affection in order to quell their fears for the future. Their factual territory expansion is only a distraction from this perpetual fear, and so they may privately or otherwise devote themselves to a value system they can cling onto. They are highly territorial when it comes to both their network of folks who agree with their sense of reality *and* their external value system, so much so that they can become like slaves to both of them. While this makes for a loyal and ardent servant, it is important for them to take a step back once in a while.
 
 # Motivation Development
 

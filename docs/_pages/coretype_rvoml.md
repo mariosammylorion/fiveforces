@@ -27,7 +27,7 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The Fun Time Bringer** | **"XXXX"** | **"XXXX"** |
+| **The Funtime Bringer** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 

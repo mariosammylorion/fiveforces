@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Heritage Spreader** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The VLROM individual is on a mission: to spread their version of reality, the one that society is perfect the way it is and that there is absolutely no reason for it to change whatsoever. They are completely content with the traditions and customs handed down to them, and said traditions and customs are their key to being vindicated for their actions. Unlike the VRLOM, which is highly opinionated and even arrogant, the VLROM has a much calmer yet still provocative approach to ensuring that the world stays what it has always been, using their subordinates to spread this idea and expand their reach.
 
 # Motivation Development
 

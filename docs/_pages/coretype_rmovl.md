@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Concept Backer** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+Unlike the RMOLV, who is enthusiastic about finding new opportunities, the RMOVL is a desperate seeker who, once they find that special utopia, makes known of their love by completely dominating the factual environment with it. Their love is a dependency, and everyone shall know of it. Because of their Peril, they can absolutely cause danger to themselves and to others thanks to their penchant for new ideas, and because they have Commotion as well, it can make for one of the most destructive types in the entire Five Forces system. The life goal for the RMOVL, therefore, should be how to quell this constant danger they put themselves and others through.
 
 # Motivation Development
 

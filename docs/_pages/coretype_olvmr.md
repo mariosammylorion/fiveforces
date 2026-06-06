@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Persecutory Justifier** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The OLVMR individual lives life as if someone, or everyone, is out to get them. But they do not just keep this belief to themselves; in fact, they are dubiously curious about the world around them, always hearing what people have to say intellectually...just so they can find something that justifies their feelings of being persecuted. They are normally detached from the world, but they pay special attention to others' facts and opinions, just so they can find something to cherry-pick and to validate their fears. Though they may not look it, their eyes and ears are always open in case the appropriate words are seen or said.
 
 # Motivation Development
 

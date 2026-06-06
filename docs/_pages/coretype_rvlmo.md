@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Off-the-Clock Sultan** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+Have you ever seen your teacher outside of school (such as at the grocery store) and found that they act nothing like they do when teaching you? The RVLMO individual possesses an assembly of "students" whom they hold very near and dear to their heart. Yet at the same time, this is not enough for them, as they constantly seek value systems outside of their "students" to quell their strong fear for the future and the unknown. If one were to ever find them outside of their occupation, they are in for a wild surprise, as the values they attach themselves to are incredibly unpredictable.
 
 # Motivation Development
 

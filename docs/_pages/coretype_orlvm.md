@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Factual Correspondent** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+A perfect metaphor to encapsulate what the ORLVM entails is a stern journalist who tells everything as it is, with no added bells or whistles. Their goal is not so much as to not change their ways (just like the LRVOM), but to influence others with the facts they have obtained. These external facts (and their own objective opinions on these facts) give them a sense of entitlement, as since they know the facts, they are worth listening to. This, along with their stern and strict demeanor, can give them a bad reputation, but when healthy they produce mindful individuals who are not only excellent at their job, but more than worth it to listen to.
 
 # Motivation Development
 

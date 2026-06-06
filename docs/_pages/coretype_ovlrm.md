@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Doppelganger Maker** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The OVLRM seeks out a true partner, companion, or even something to believe in, but only if they fit the staunch idea of the logical world that they possess. Plagued with misfortune for all of their lives, they depend on this external value system to the point of deriving their own knowledge from it, which only adds to their truther behavior. In unhealthy cases, this can create a situation where the OVLRM has molded their partner into an ideal image born from their conspiracy theories, even though in reality, that is not who they are like in the slightest, creating a false "doppelganger" of their chosen value system.
 
 # Motivation Development
 

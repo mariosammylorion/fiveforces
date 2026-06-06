@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The False Repeater** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The ORMVL individual has perhaps the most unusual sense of Naivety out of all six types that possess it. This is because their naivety is mainly for show, as it is simply a ruse to deal with the pain and torture of their very own existence. They may often talk and talk about various things they heard from others, spouting nonsense, all while hiding the pain they endure from not having something to cling onto valuably. Because of this false naivety, they can cause danger to all of those around them, all to distract themselves from eternal suffering.
 
 # Motivation Development
 

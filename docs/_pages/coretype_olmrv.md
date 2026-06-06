@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Unfeeling Disciple** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The OLMRV, like all types with Obedience, clings onto a rulebook or authority figure in order to deal with a reality they cannot understand. Unfortunately for this figure, it comes at the cost of them expressing any kind of external emotion or value towards them. These individuals genuinely do care about this figure, but in a way that makes them seem emotionally detached from them (they only want logical help, after all). And despite taking refuge in this figure, they are only focused on fulfilling their tasks at hand, seemingly not caring emotionally about exactly who is watching over them. And yet, they still do care...just in their own unique way.
 
 # Motivation Development
 

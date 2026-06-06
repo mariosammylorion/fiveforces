@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Diehard Good-Timer** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+If the RVOML individual is one that brings a good time to everyone, the VRMOL is one that *forces* one on everybody. These individuals are ferocious to the point where it is *mandatory* that everyone around them is having fun. In addition to this, they have an extremely strong sense of naivety that can get in the way of their insistent optimism. They love intellectual folk, and they will repeat what they have to say to the embarrassment of others, not knowing the true substance of exactly what they are parroting. At worst, this can become one of the most annoying types in the entire Five Forces system.
 
 # Motivation Development
 

@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Experience Guardian** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The VORLM individual is a type that is not primarily *politically* conservative, but conservative in the fact that they have everything they need right now and that they do not need anything else or to let it all go. They will be eternally satisfied with what they have, and their sincerety and honesty can throw quite a number of people in a loop. They have lived a life where they were given plenty of factual resources and experiences, and they feel as if they have the right to keep them for the rest of it. There is no reason to change right now, nor will there ever be any.
 
 # Motivation Development
 

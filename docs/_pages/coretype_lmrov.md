@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Novelty Straddler** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The LMROV can best be described as the conflict of the desire to expand one's idea of reality and the desire to be swept up in any ideas that go against it. Somewhat emotionless in nature, these individuals want to build an empire of like-minded individuals the old-fashioned way (through their private sense of reality), yet they also love taking others' novel ideas and using them as their own. As for what kinds of ideas they like, they do not care, as long as they can be used to expand their territory. And so the inner fight between the Brain and the Heart for the LMROV is a classic one of tradition versus novelty.
 
 # Motivation Development
 

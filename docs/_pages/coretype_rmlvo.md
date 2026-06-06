@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Painful Orator** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The RMLVO individual wishes to speak what they know to an audience, where *they* are the master, while at the same time wishing to be swept up in any ideas that may distract them from the pain of being such a wonderful orator. Blaming others for their inability to find personal meaning in anything, they are enthusiastic about any new opportunities they have to soothe this pain. These actions, of course, are directly caused by their Pedagogy, as they are hoity-toity about what they know and who's the boss around here, which only fuels the feeling that there is no one like them in this world.
 
 # Motivation Development
 
