@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Rebellious Student** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+By day, the MRVLO individual is an eternal student to the outside world. They do their best in this "school," but they often blame the material itself when they don't understand it. But by night, they defy all knowledge and express themselves authentically and creatively for all who are willing to see it. With an impulsive sense of novelty that wants to do things just for the fun of it, and a rebellious streak that goes against all that the "teachers" stand for, the MRVLO may act like a model student, but leads a double life of authentic rebellion against the establishment they call life.
 
 # Motivation Development
 

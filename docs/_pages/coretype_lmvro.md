@@ -27,13 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Quiet Protester** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-The LMVRO is a combination of two seemingly contradictory traits: an anxious demeanor and a fear of speaking up; and a desire to rally others up behind their cause. &lt;Lorem ipsum dolor...&gt;
-
-&lt;Lorem ipsum dolor...&gt;
+The LMVRO type is a combination of two seemingly contradictory traits: an anxious demeanor and a fear of speaking up, and a desire to rally others up behind their cause. This gives way for these individuals to possess a kind of muted activism and quiet protest. They gather people and appeal to their dreams, but they do so calmly and without much commotion. They have every trait correlated with an activist, down to the zealotry and a willingness to go through danger just to make a difference. However, their very core expression of it seems like just another nervous introvert.
 
 # Motivation Development
 

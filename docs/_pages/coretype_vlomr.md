@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Validity Scholar** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The VLOMR type is a combination of a fear for the unknown hidden by generosity (and perhaps sarcasm), and a curiosity for the intellectual. Detached from all worlds, these individuals' love for gathering information is fueled by their desire to have their perfection when it comes to the values they share justified through objective means. It is somewhat ironic that they love intellectual pursuits while also being afraid of novel ones, but the blame for the latter is on themselves entirely. Although they don't mind it when others do so, they prefer to keep their distance when it comes to it.
 
 # Motivation Development
 

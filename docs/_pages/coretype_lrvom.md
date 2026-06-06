@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Orthodox Reporter** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The LRVOM is a factually and logically honest individual, always reporting nothing but the facts, without any added bells and whistles to them. But this shunning of novelty fuels their own hidden personal values, which they are willing to die for if given the opportunity (metaphorically, of course). Their reporting and revising of their findings is the result of an intense commitment to their craft, and the idea of novelty and the future is a direct threat to what they hold near and dear. When it comes to the world, they only want the past and present facts...and absolutely nothing else.
 
 # Motivation Development
 

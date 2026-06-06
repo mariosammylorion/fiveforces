@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Stolid Harvester** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The ORMLV needs an authority to tell them the facts of this world, due to their inability to logically grasp things. However, these individuals specifically mold and convince this authority figure to leave out anything that has to do with personal values, and to keep it clean when it comes to their private visions. However, they do not visibly and explicitly say they are anti-emotional in any way, but it could be known through their recklessness towards obtaining these emotionless facts. They are hungry and desperate to have the facts straight, but for the love of all that is holy, do not make them feel anything.
 
 # Motivation Development
 

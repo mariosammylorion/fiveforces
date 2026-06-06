@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Blissful Apprentice** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The VRMLO combines two seemingly contradictory elements: a deference to an authority figure about what is factually real, and a sense of optimism fuelled by a vision of a better world. The combination of the two gives these individuals a quiet optimism about their learning process, as they sense that as long as they have their facts straight, they'll be alright. Despite their sincerety towards this authority figure, they act as if they do not have this vision at all when engaging with them, as they actually do not wish for these two characteristics to clash or even meet each other in any way.
 
 # Motivation Development
 

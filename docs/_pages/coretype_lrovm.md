@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Stern Purist** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+All the LROVM individual wants to do with their life is to improve their own sense of logic day-by-day, and be done with it. There should be no values or novelty attached to them, something they make very clear in their methods. They consistently report all of their findings as it is, detached from subjective thoughts, and possess a melancholic nature as well. Due to their desire to live a normal life, this type can bluntly (and quite rudely) be considered the most boring type in all the Five Forces system; however, like all types, there is much more to be discovered, and so we shall take an introspective dive into this seemingly ordinary type.
 
 # Motivation Development
 

@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Mental Relater** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The combination of a private realm of emotional and valuational turmoil along with an intellectual curiosity and a love for outside opinions and knowledge creates the OLMVR, an individual who wishes to seek out knowledge that relates to their struggles. They use their knowledge of their own inner world to relate to what others have to say as well, creating a sense of comfort in knowing that their pain is logically justified. In fact, they use others logical justifications to make excuses as to why they suffer the way they do; therefore, at worst, the views of others become their ultimate scapegoat for getting out of commitment.
 
 # Motivation Development
 

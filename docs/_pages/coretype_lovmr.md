@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Oppressed Genius** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The LOVMR type expresses Discovery typically on the outside like the other five types that possess it. But for this type, the individual feels as if the entire world is out to get them, that they will be persecuted and oppressed because their genius mind and reality-bending powers are too inhuman to comprehend. They detach themselves from the world due to this feeling, but there is an upside: they possess a strong confidence in their abilities, and are willing to sacrifice themselves to ensure that their powers are known and that they will not go their entire lives in vain.
 
 # Motivation Development
 

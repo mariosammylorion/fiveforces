@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Desire Remixer** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The LMVOR individual is a master at appealing to people and their dreams. But what makes them truly stand out is their ability to take these dreams and intellectualize them in a direction that the world has never seen before. They are much like OMVLRs in this regard, except they do so not to fuel their own desires but for the good of the common people. They bend the rules of reality solely in others' favor, and do so with the awareness that they might be put in danger with what they are doing. Nothing deters the LMVOR from letting others think much, much deeper about what they truly want in life.
 
 # Motivation Development
 

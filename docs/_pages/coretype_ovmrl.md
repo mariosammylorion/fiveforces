@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Serenity Enjoyer** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+All of the OVMRL type's characteristics and interactions give way to what could be known as the most calm personality in the entire Five Forces system. These individuals are serenity personified, without which they would be trapped in a reality they wouldn't understand. They are admittedly corny, yes, but they are calm and unflappable, and want others to feel the same way as well. There is a downside to this type in the form of being dumbfounded when you try to make intellectual appeals to them. To them, life is all about finding emotional balance, and logic has nothing to do with that.
 
 # Motivation Development
 

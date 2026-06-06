@@ -27,11 +27,11 @@ toc_sticky: true
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
-| **The XXXX YYYY** | **"XXXX"** | **"XXXX"** |
+| **The Need Fulfiller** | **"XXXX"** | **"XXXX"** |
 
 # Executive Summary
 
-&lt;Lorem ipsum dolor...&gt;
+The RMVLO individual has a gift of being able to sense the needs of others, as well as ensuring that those needs are met. Their ultimate power, however, lies in the latter, as they are quite literally willing to fight any kind of authority to ensure that whoever is under their wing is accomodated for. They are incredibly passionate about the needs of others, and they possess a kind of selfless defiance that is always thinking about others, no matter who is standing in their way. In healthy instances, they can make for some of the most helpful and passionate types in the entire Five Forces system.
 
 # Motivation Development
 
