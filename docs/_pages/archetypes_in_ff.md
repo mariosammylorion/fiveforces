@@ -8,9 +8,9 @@ toc_sticky: true
 
 &lt;Lorem ipsum dolor...&gt;
 
-The following tables show the archetypal Five Forces types of the four major inspiration systems for the system: MBTI, Enneagram, Classical Socionics, and Psychosophy. **In addition, their archetypes of each other are shown. "N.S.A." means that the type has no stable archetype for the given system.**
+The following tables show the archetypal Five Forces types of the four major inspiration systems for the system: MBTI, Enneagram, Classical Socionics, and Psychosophy. **In addition, their archetypes of each other are shown. "N.S.A." means that the type has no stable archetype for the given system. CERTAIN TYPES MAY HAVE MULTIPLE EQUALLY STABLE ARCHETYPES IN SOME SYSTEMS.**
 
-**WARNING: The archetypes shown are NOT absolute or set-in-stone and are always open to be changed if necessary. If you believe certain types fit better than the ones shown, please provide compelling evidence as to why.**
+**WARNING: The archetypes shown are NOT absolute or set-in-stone and are always open to be changed if necessary. For each of these archetypes, ALL ARCHETYPES ARE CHOSEN VIA *INDEPENDENT ANALYSIS*, FOLLOWED BY *COMPELLING EVIDENCE* FROM THE TYPOLOGY COMMUNITY. AS SUCH, MANY OF THESE ARCHETYPES GO AGAINST THE MOST POPULAR OPINIONS HELD BY THE COMMUNITY. IF YOU BELIEVE CERTAIN TYPES FIT BETTER THAN ANY OF THE ONES SHOWN, NON-FIVE FORCES SYSTEMS INCLUDED, PLEASE PROVIDE *COMPELLING EVIDENCE* AS TO WHY.**
 
 **NOTE: The tables are sorted by groups that the types belong in, NOT alphabetically. If you want to look for a certain type, feel free to use the Find function in the browser you're using.**
 
