@@ -31,7 +31,7 @@ toc_sticky: true
 
 # Executive Summary
 
-Like the MLROV, the MLRVO individual wishes to spread their idea of reality through the use of subordinates. But unlike the MLROV, which displays a confident, "couldn't-care-less" demeanor, the MLRVO's mind is marked by a painful whirlwind of self-inflicted torment. They consistently themselves for their emotional failures, and they are always willing to use this as an excuse for their supposed uncaringness. But deep down, the MLRVO truly wishes for something meaningful in their lives, and if healthy enough, they are able to achieve it using their networking skills, thus building a family that matters to them.
+Like the MLROV, the MLRVO individual wishes to spread their idea of reality through the use of subordinates. But unlike the MLROV, which displays a confident, "couldn't-care-less" demeanor, the MLRVO's mind is marked by a painful whirlwind of self-inflicted torment. They consistently blame themselves for their emotional failures, and they are always willing to use this as an excuse for their supposed uncaringness. But deep down, the MLRVO truly wishes for something meaningful in their lives, and if healthy enough, they are able to achieve it using their networking skills, thus building a family that matters to them.
 
 # Motivation Development
 
