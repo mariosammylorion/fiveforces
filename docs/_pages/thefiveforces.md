@@ -118,8 +118,6 @@ Because the word "imagination" does not exactly entail the full meaning of the F
 
 **Imagination does NOT involve making abstract connections.** That is what the Force of Logic entails. &lt;Lorem ipsum dolor...&gt;
 
-**Most importantly, Imagination does NOT have to do with creativity.** &lt;Lorem ipsum dolor...&gt;
-
 ## The Force of Valuation (V)
 
 All non-sentient living creatures basically only have two thoughts in mind at all times: *survive* and *reproduce*. However, as sentient beings, we humans have developed the capacity to think about how we *feel* about the things in our lives. Whether things make us cry, smile, laugh, or most importantly, *if the things we have or do are even worth having or doing.* Every human needs a motivation or something to keep themselves going, otherwise we will end up miserable. There are certain things in our lives that we hold near and dear to our hearts; another way to put this is, we give them *value.*
@@ -144,9 +142,7 @@ Although the word "valuation" is a very good descriptor for this Force, there ca
 
 **Valuation does NOT *necessarily* have to do with ethics.** &lt;Lorem ipsum dolor...&gt;
 
-**Valuation does NOT have to do with appealing to and accompanying other people.** &lt;Lorem ipsum dolor...&gt;
-
-**Most importantly, Valuation does NOT *NECESSARILY* have to do with emotions or emotional expression.** &lt;Lorem ipsum dolor...&gt;
+**Valuation does NOT have to do with appealing to and/or accompanying other people.** &lt;Lorem ipsum dolor...&gt;
 
 ## The Force of Optimization (O)
 
@@ -160,7 +156,7 @@ Before I get any further, I want you to take a moment to think about what the Fo
 
 Now I say to you: whatever I just threw out there, **the Force of Optimization involves NONE of it.** Any type can be quick or slow, efficient or inefficient when it comes to solving problems in their daily lives. Any type can be neat or sloppy, chaotic or orderly, or active or lazy. And most definitely, any type can have willpower and set goals, or not even know what to do with their lives.
 
-In fact, Optimization is the only one of the Five Forces **that CANNOT be expressed by itself.**
+In fact, Optimization is the only one of the Five Forces **that DOES NOT HAVE its own expression.**
 
 ### What Optimization ACTUALLY Is
 

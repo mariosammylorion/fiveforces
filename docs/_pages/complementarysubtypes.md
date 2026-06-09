@@ -6,6 +6,8 @@ toc_label: Complementary Force Subtypes
 toc_sticky: true
 ---
 
+**(WARNING: I personally know what these subtypes entail and have come up with brief descriptions in my head, but I don't fully have everything here. So there may be nothing, lol. Please see the Type Descriptions to find out a little more about these subtypes. However, you may infer what they represent based on the Atom subtypes involved and the nouns used to describe them.)**
+
 &lt;Lorem ipsum dolor...&gt;
 
 Because of the cooperation of the Forces of the Brain and the Heart, the Atoms feel as if they need to stick close together, for better or worse. As a result, they have a tendency to shift their lower atoms into a higher position, a process known as **elevation.** **With elevation, the higher force becomes an outlet for the lower force to express itself.** This elevation forms the basis of different "subtypes" of the Brain and the Heart.
@@ -18,17 +20,30 @@ Because of the cooperation of the Forces of the Brain and the Heart, the Atoms f
 
 &lt;Lorem ipsum dolor...&gt;
 
+**Unorganized thoughts**
+- Those with Physicality love to "dip their toes in the water" when it comes to their own idea of reality
+- Most likely to be experimenters in their own reality and share the results
+
 ## 2R-to-1L / "Integrity"
 
 &lt;Lorem ipsum dolor...&gt;
+
+**Unorganized thoughts**
+- These individuals will sacrifice a nice-sounding theory or argument for a truly factual one
 
 ## 2M-to-1V / "Ambition"
 
 &lt;Lorem ipsum dolor...&gt;
 
+**Unorganized thoughts**
+- Most leader-like type; highly ambitious and always willing to accomplish their goals and dreams
+
 ## 2V-to-1M / "Inspiration"
 
 &lt;Lorem ipsum dolor...&gt;
+
+**Unorganized thoughts**
+- Takes an external value system and creates wonders with it
 
 # Authentic (3-to-1)
 
@@ -52,6 +67,9 @@ Because of the cooperation of the Forces of the Brain and the Heart, the Atoms f
 ## 3M-to-1V / "Optimism"
 
 &lt;Lorem ipsum dolor...&gt;
+
+**Unorganized thoughts**
+- Most optimistic individuals
 
 ## 3V-to-1M / "Expressure"
 
@@ -81,6 +99,9 @@ Individuals with Processed Units need time to contemplate and process input befo
 
 &lt;Lorem ipsum dolor...&gt;
 
+**Unorganized thoughts**
+- Most outwardly anxious individuals
+
 ## 4M-to-1V / "Camouflage"
 
 &lt;Lorem ipsum dolor...&gt;
@@ -93,6 +114,9 @@ Individuals with Processed Units need time to contemplate and process input befo
 
 &lt;Lorem ipsum dolor...&gt;
 
+**Unorganized thoughts**
+- Most self-deprecating individuals; creatively self-deprecating
+
 # Uninhibited (5-to-1)
 
 &lt;Lorem ipsum dolor...&gt;
@@ -103,11 +127,18 @@ Individuals with Processed Units need time to contemplate and process input befo
 
 I'm just going to say this right now: most individuals with "Commotion" are certified *yappers*. At every opportunity they have, they might bombard you with their facts and experiences, saying things like, "Hey, did you know that X? I did Y the other day and Z happened! Maybe if you do A you can have B happen to you like it did to me!" And they never. Shut. Up. Even if you tell them off with your objective opinions or call them out on their B.S., they'll just keep going. Nothing will stop them.
 
+**Unorganized thoughts**
+- Able to fill the room with their presence; they can come to a quiet room and leave it loud
+
 &lt;Lorem ipsum dolor...&gt;
 
 ## 5R-to-1L / "Discovery"
 
 &lt;Lorem ipsum dolor...&gt;
+
+**Unorganized thoughts**
+- Their disregard for the Force of Reality allows them to make never-before-seen logical discoveries, hence the name
+- Many of the most influential mathematicians and scientists have possessed this subtype
 
 ## 5M-to-1V / "Conservatism"
 
@@ -133,6 +164,9 @@ Although all individuals with Uninhibited Units love trolling others at least to
 
 &lt;Lorem ipsum dolor...&gt;
 
+**Unorganized thoughts**
+- Wishes to spread their personal logic with others, and are always willing to defend the knowledge they have obtained
+
 ## 3R-to-2L / "Patronage"
 
 &lt;Lorem ipsum dolor...&gt;
@@ -146,9 +180,16 @@ Although all individuals with Uninhibited Units love trolling others at least to
 
 &lt;Lorem ipsum dolor...&gt;
 
+**Unorganized thoughts**
+- Individuals of this subtype transmit a calm energy to others, thanks to an external value system they are always willing to defend
+- This is the most outwardly calm Natural subtype
+
 ## 3V-to-2M / "Activism"
 
 &lt;Lorem ipsum dolor...&gt;
+
+**Unorganized thoughts**
+- As the name suggests, this subtype gives way to activists
 
 # Recipient (4-to-2)
 
@@ -157,6 +198,9 @@ Although all individuals with Uninhibited Units love trolling others at least to
 ## 4L-to-2R / "Tutelage"
 
 &lt;Lorem ipsum dolor...&gt;
+
+**Unorganized thoughts**
+- Act as students to the external facts, blames the material instead of the instructor when they do not understand
 
 ## 4R-to-2L / "Obedience"
 
@@ -172,9 +216,15 @@ Although all individuals with Uninhibited Units love trolling others at least to
 
 &lt;Lorem ipsum dolor...&gt;
 
+**Unorganized thoughts**
+- Attach themselves to an external value system because they do not trust the world or themselves to make their own
+
 ## 4V-to-2M / "Palliation"
 
 &lt;Lorem ipsum dolor...&gt;
+
+**Unorganized thoughts**
+- Constantly seeks out new and novel ideas as temporary relief for their inability and blaming of others for being unable to understand what matters in life
 
 # Permissive (5-to-2)
 
@@ -193,9 +243,16 @@ Individuals with "Naivety" will believe anything they tell you; you could tell t
 
 &lt;Lorem ipsum dolor...&gt;
 
+**Unorganized thoughts**
+- Curious individuals, as the name implies; tends to ask lots of questions and makes tons of hypotheticals...way too many, might I add
+
 ## 5M-to-2V / "Devotion"
 
 &lt;Lorem ipsum dolor...&gt;
+
+**Unorganized thoughts**
+- Eternally devoted to an outside value system without ever wanting to change it
+- Still possesses 5M-2, so still admiring of new and novel ideas; that is, from their value system...they don't want to change *that*
 
 ## 5V-to-2M / "Depravity"
 
@@ -214,6 +271,9 @@ Individuals with "Naivety" will believe anything they tell you; you could tell t
 
 &lt;Lorem ipsum dolor...&gt;
 
+**Unorganized thoughts**
+- Most likely to hoard resources...not necessarily physical, but factual and tangible
+
 ## 4R-to-3L / "Conspiratology"
 
 &lt;Lorem ipsum dolor...&gt;
@@ -225,9 +285,17 @@ Individuals with "Naivety" will believe anything they tell you; you could tell t
 
 &lt;Lorem ipsum dolor...&gt;
 
+**Unorganized thoughts**
+- These individuals constantly feel as if the world is out to get them, hence the name
+- Persecutory complex
+- Build "walls" to constantly protect themselves from criticism or the future
+
 ## 4V-to-3M / "Asceticism"
 
 &lt;Lorem ipsum dolor...&gt;
+
+**Unorganized thoughts**
+- Most willing to tolerate pain and suffering
 
 # Impervious (5-to-3)
 
@@ -237,17 +305,31 @@ Individuals with "Naivety" will believe anything they tell you; you could tell t
 
 &lt;Lorem ipsum dolor...&gt;
 
+**Unorganized thoughts**
+- Anti-intellectual due to 5L-3
+- Indulging in factual/tangible experiences born from their own perception of reality, whether it be literally physical or mental
+
 ## 5R-to-3L / "Possession"
 
 &lt;Lorem ipsum dolor...&gt;
+
+**Unorganized thoughts**
+- Trust their own objective opinions with their life, so much so that they do not wish to share them
 
 ## 5M-to-3V / "Insecurity"
 
 &lt;Lorem ipsum dolor...&gt;
 
+**Unorganized thoughts**
+- Anti-novelty due to 5M-3
+- Often put up a rude, choleric, sarcastic, etc. demeanor to shield them from insecurity
+
 ## 5V-to-3M / "Callousness"
 
 &lt;Lorem ipsum dolor...&gt;
+
+**Unorganized thoughts**
+- Anti-emotional due to 5V-3
 
 # Deficient (5-to-4)
 
@@ -257,14 +339,26 @@ Individuals with "Naivety" will believe anything they tell you; you could tell t
 
 &lt;Lorem ipsum dolor...&gt;
 
+**Unorganized thoughts**
+- Never quite follows other people's reasoning; when trying to logically or rationally explain something to them, they might look dumbfounded
+
 ## 5R-to-4L / "Innocence"
 
 &lt;Lorem ipsum dolor...&gt;
+
+**Unorganized thoughts**
+- Most innocent individuals, but not particularly naive
 
 ## 5M-to-4V / "Sternness"
 
 &lt;Lorem ipsum dolor...&gt;
 
+**Unorganized thoughts**
+- Most stern and strict individuals
+
 ## 5V-to-4M / "Arrogance"
 
 &lt;Lorem ipsum dolor...&gt;
+
+**Unorganized thoughts**
+- Most arrogant individuals; unlike Sternness, this subtype is just mean
