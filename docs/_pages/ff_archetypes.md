@@ -5,12 +5,12 @@ permalink: /typing-database/ff-archetypes/
 
 &lt;Lorem ipsum dolor...&gt;
 
-The following table shows the archetypal types of each Five Forces core types in each of its four major inspiration systems: MBTI, Enneagram, Classical Socionics, and Psychosophy. **"N.S.A." means that the Five Forces type has no stable archetype for the given system.**
+The following table shows the archetypal types of each Five Forces core types in each of its four major inspiration systems: MBTI, Enneagram, Classical Socionics, and Psychosophy. **"<span style="color:red">N.S.A.</span>" means that the Five Forces type has no stable archetype for the given system.**
 
 **WARNING: The archetypes shown are NOT absolute or set-in-stone and are always open to be changed if necessary. If you believe certain types fit better than the ones shown, please provide compelling evidence as to why.**
 
 | **FF Core Type** | **MBTI** | **Enneagram** | **Socionics** | **Psychosophy**|
-|:----------------:|:--------:|:-------------:|:----------------:|:--------------:|
+|:----------------:|:--------:|:-------------:|:-------------:|:--------------:|
 | **LMORV** | ??? | ??? | ??? | ??? |
 | **LMOVR** | ??? | ??? | ??? | ??? |
 | **LMROV** | ??? | ??? | ??? | ??? |
