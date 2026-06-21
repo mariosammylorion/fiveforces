@@ -20,7 +20,7 @@ toc_sticky: true
 |:---------------:|:--------------------:|:------------:|
 | **Recipient Brain** | **4L-to-2R** | "Tutelage" |
 | **Authentic Heart** | **3V-to-1M** | "Expressure" |
-| **Body Type** | **Authentic-Permissive 5O** | "Duplicity" |
+| **Body Type** | **Authentic-Recipient 5O** | "Duplicity" |
 | **Objection De-Elevation** | **1M-to-2R** | "Impulsivity" |
 | **Subjection De-Elevation** | **3V-to-4L** | "Defiance" |
 | **Motivation** | **VR-Spur** | **-** |

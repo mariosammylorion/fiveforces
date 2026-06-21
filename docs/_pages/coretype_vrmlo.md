@@ -20,7 +20,7 @@ toc_sticky: true
 |:---------------:|:--------------------:|:------------:|
 | **Recipient Brain** | **4L-to-2R** | "Tutelage" |
 | **Authentic Heart** | **3M-to-1V** | "Optimism" |
-| **Body Type** | **Authentic-Permissive 5O** | "Duplicity" |
+| **Body Type** | **Authentic-Recipient 5O** | "Duplicity" |
 | **Objection De-Elevation** | **2R-to-3M** | "Banter" |
 | **Subjection De-Elevation** | **1V-to-4L** | "Earnestness" |
 | **Motivation** | **β-Loop** | **-** |

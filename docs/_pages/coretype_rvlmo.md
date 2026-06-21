@@ -20,7 +20,7 @@ toc_sticky: true
 |:---------------:|:--------------------:|:------------:|
 | **Authentic Brain** | **3L-to-1R** | "Pedagogy" |
 | **Permissive Heart** | **4M-to-2V** | "Reliance" |
-| **Body Type** | **Authentic-Permissive 5O** | "Duplicity" |
+| **Body Type** | **Authentic-Recipient 5O** | "Duplicity" |
 | **Objection De-Elevation** | **1R-to-4M** | "Uncertainty" |
 | **Subjection De-Elevation** | **2V-to-3L** | "Denomination" |
 | **Motivation** | **β-Loop** | **-** |

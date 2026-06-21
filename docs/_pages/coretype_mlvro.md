@@ -20,7 +20,7 @@ toc_sticky: true
 |:---------------:|:--------------------:|:------------:|
 | **Recipient Brain** | **4R-to-2L** | "Obedience" |
 | **Authentic Heart** | **3V-to-1M** | "Expressure" |
-| **Body Type** | **Authentic-Permissive 5O** | "Duplicity" |
+| **Body Type** | **Authentic-Recipient 5O** | "Duplicity" |
 | **Objection De-Elevation** | **1M-to-4R** | "Chagrin" |
 | **Subjection De-Elevation** | **2L-to-3V** | "Validation" |
 | **Motivation** | **α-Loop** | **-** |

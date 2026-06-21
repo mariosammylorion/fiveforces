@@ -20,7 +20,7 @@ toc_sticky: true
 |:---------------:|:--------------------:|:------------:|
 | **Authentic Brain** | **3R-to-1L** | "Conquest" |
 | **Permissive Heart** | **4V-to-2M** | "Palliation" |
-| **Body Type** | **Authentic-Permissive 5O** | "Duplicity" |
+| **Body Type** | **Authentic-Recipient 5O** | "Duplicity" |
 | **Objection De-Elevation** | **2M-to-3R** | "Piracy" |
 | **Subjection De-Elevation** | **1L-to-4V** | "Melancholy" |
 | **Motivation** | **α-Loop** | **-** |

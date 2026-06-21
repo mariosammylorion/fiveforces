@@ -20,7 +20,7 @@ toc_sticky: true
 |:---------------:|:--------------------:|:------------:|
 | **Authentic Brain** | **3R-to-1L** | "Conquest" |
 | **Permissive Heart** | **4M-to-2V** | "Reliance" |
-| **Body Type** | **Authentic-Permissive 5O** | "Duplicity" |
+| **Body Type** | **Authentic-Recipient 5O** | "Duplicity" |
 | **Objection De-Elevation** | **3R-to-4M** | "Turfism" |
 | **Subjection De-Elevation** | **1L-to-2V** | "Servitude" |
 | **Motivation** | **RV-Spur** | **-** |

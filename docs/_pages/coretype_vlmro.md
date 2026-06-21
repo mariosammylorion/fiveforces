@@ -20,7 +20,7 @@ toc_sticky: true
 |:---------------:|:--------------------:|:------------:|
 | **Recipient Brain** | **4R-to-2L** | "Obedience" |
 | **Authentic Heart** | **3M-to-1V** | "Optimism" |
-| **Body Type** | **Authentic-Permissive 5O** | "Duplicity" |
+| **Body Type** | **Authentic-Recipient 5O** | "Duplicity" |
 | **Objection De-Elevation** | **3M-to-4R** | "Refuge" |
 | **Subjection De-Elevation** | **1V-to-2L** | "Vindication" |
 | **Motivation** | **ML-Spur** | **-** |

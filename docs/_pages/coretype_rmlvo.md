@@ -20,7 +20,7 @@ toc_sticky: true
 |:---------------:|:--------------------:|:------------:|
 | **Authentic Brain** | **3L-to-1R** | "Pedagogy" |
 | **Permissive Heart** | **4V-to-2M** | "Palliation" |
-| **Body Type** | **Authentic-Permissive 5O** | "Duplicity" |
+| **Body Type** | **Authentic-Recipient 5O** | "Duplicity" |
 | **Objection De-Elevation** | **1R-to-2M** | "Enthusiasm" |
 | **Subjection De-Elevation** | **3L-to-4V** | "Pedantism" |
 | **Motivation** | **LM-Spur** | **-** |
