@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Public-Deficient 3O** | "Humility" |
 | **Objection De-Elevation** | **1M-to-4R** | "Chagrin" |
 | **Subjection De-Elevation** | **2V-to-5L** | "Sappiness" |
-| **Motivation** | **VR-Spur** | **-** |
+| **Motivation** | **VR-Spur** | **Septima (7th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

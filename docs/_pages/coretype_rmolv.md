@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Processed-Permissive 3O** | "Diligence" |
 | **Objection De-Elevation** | **1R-to-2M** | "Enthusiasm" |
 | **Subjection De-Elevation** | **4L-to-5V** | "Recklessness" |
-| **Motivation** | **LM-Spur** | **-** |
+| **Motivation** | **LM-Spur** | **Nona (9th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

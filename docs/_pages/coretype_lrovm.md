@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Public-Deficient 3O** | "Humility" |
 | **Objection De-Elevation** | **2R-to-5M** | "Reportage" |
 | **Subjection De-Elevation** | **1L-to-4V** | "Melancholy" |
-| **Motivation** | **RV-Spur** | **-** |
+| **Motivation** | **RV-Spur** | **Tertia (3rd) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

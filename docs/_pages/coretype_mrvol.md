@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Authentic-Permissive 4O** | "Tension" |
 | **Objection De-Elevation** | **1M-to-2R** | "Impulsivity" |
 | **Subjection De-Elevation** | **3V-to-5L** | "Selfishness" |
-| **Motivation** | **VR-Spur** | **-** |
+| **Motivation** | **VR-Spur** | **Septima (7th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

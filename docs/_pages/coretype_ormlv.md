@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Recipient-Impervious 1O** | "Strategy" |
 | **Objection De-Elevation** | **2R-to-3M** | "Banter" |
 | **Subjection De-Elevation** | **4L-to-5V** | "Recklessness" |
-| **Motivation** | **LM-Spur** | **-** |
+| **Motivation** | **LM-Spur** | **Nona (9th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

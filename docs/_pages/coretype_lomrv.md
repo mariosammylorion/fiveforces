@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Processed-Impervious 2O** | "Industriousness" |
 | **Objection De-Elevation** | **3M-to-4R** | "Refuge" |
 | **Subjection De-Elevation** | **1L-to-5V** | "Roboticism" |
-| **Motivation** | **α-Loop** | **-** |
+| **Motivation** | **α-Loop** | **Prima (1st) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Recipient-Impervious 1O** | "Strategy" |
 | **Objection De-Elevation** | **3R-to-4M** | "Turfism" |
 | **Subjection De-Elevation** | **2V-to-5L** | "Sappiness" |
-| **Motivation** | **β-Loop** | **-** |
+| **Motivation** | **β-Loop** | **Duodecima (12th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

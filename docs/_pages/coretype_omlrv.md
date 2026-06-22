@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Permissive-Private 1O** | "Curation" |
 | **Objection De-Elevation** | **2M-to-4R** | "Zealotry" |
 | **Subjection De-Elevation** | **3L-to-5V** | "Nobility" |
-| **Motivation** | **α-Loop** | **-** |
+| **Motivation** | **α-Loop** | **Quinta (5th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

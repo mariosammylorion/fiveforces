@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Permissive-Private 1O** | "Curation" |
 | **Objection De-Elevation** | **2R-to-4M** | "Timidity" |
 | **Subjection De-Elevation** | **3V-to-5L** | "Selfishness" |
-| **Motivation** | **β-Loop** | **-** |
+| **Motivation** | **β-Loop** | **Decima (10th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

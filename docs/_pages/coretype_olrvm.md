@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Natural-Deficient 1O** | "Confidence" |
 | **Objection De-Elevation** | **3R-to-5M** | "Satisfaction" |
 | **Subjection De-Elevation** | **2L-to-4V** | "Apologism" |
-| **Motivation** | **RV-Spur** | **-** |
+| **Motivation** | **RV-Spur** | **Tertia (3rd) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

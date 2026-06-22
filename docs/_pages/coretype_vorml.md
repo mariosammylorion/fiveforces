@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Processed-Impervious 2O** | "Industriousness" |
 | **Objection De-Elevation** | **3R-to-4M** | "Turfism" |
 | **Subjection De-Elevation** | **1V-to-5L** | "Ferocity" |
-| **Motivation** | **β-Loop** | **-** |
+| **Motivation** | **β-Loop** | **Duodecima (12th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

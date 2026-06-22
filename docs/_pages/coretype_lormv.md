@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Authentic-Deficient 2O** | "Obstruction" |
 | **Objection De-Elevation** | **3R-to-4M** | "Turfism" |
 | **Subjection De-Elevation** | **1L-to-5V** | "Roboticism" |
-| **Motivation** | **RM-Bypass** | **-** |
+| **Motivation** | **RM-Bypass** | **Secunda (2nd) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

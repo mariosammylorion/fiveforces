@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Processed-Natural 5O** | "Specialization" |
 | **Objection De-Elevation** | **2M-to-4R** | "Zealotry" |
 | **Subjection De-Elevation** | **1L-to-3V** | "Martyrdom" |
-| **Motivation** | **α-Loop** | **-** |
+| **Motivation** | **α-Loop** | **Prima (1st) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Authentic-Recipient 5O** | "Duplicity" |
 | **Objection De-Elevation** | **3R-to-4M** | "Turfism" |
 | **Subjection De-Elevation** | **1L-to-2V** | "Servitude" |
-| **Motivation** | **RV-Spur** | **-** |
+| **Motivation** | **RV-Spur** | **Tertia (3rd) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

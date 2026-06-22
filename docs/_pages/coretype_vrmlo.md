@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Authentic-Recipient 5O** | "Duplicity" |
 | **Objection De-Elevation** | **2R-to-3M** | "Banter" |
 | **Subjection De-Elevation** | **1V-to-4L** | "Earnestness" |
-| **Motivation** | **β-Loop** | **-** |
+| **Motivation** | **β-Loop** | **Duodecima (12th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Uninhibited-Recipient 3O** | "Subservience" |
 | **Objection De-Elevation** | **1R-to-2M** | "Enthusiasm" |
 | **Subjection De-Elevation** | **4V-to-5L** | "Peril" |
-| **Motivation** | **VM-Bypass** | **-** |
+| **Motivation** | **VM-Bypass** | **Quarta (4th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

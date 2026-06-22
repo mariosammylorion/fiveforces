@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Natural-Deficient 1O** | "Confidence" |
 | **Objection De-Elevation** | **2R-to-4M** | "Timidity" |
 | **Subjection De-Elevation** | **3L-to-5V** | "Nobility" |
-| **Motivation** | **LM-Spur** | **-** |
+| **Motivation** | **LM-Spur** | **Nona (9th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

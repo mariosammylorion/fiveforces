@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Permissive-Private 1O** | "Curation" |
 | **Objection De-Elevation** | **4M-to-5R** | "Detachment" |
 | **Subjection De-Elevation** | **2L-to-3V** | "Validation" |
-| **Motivation** | **MV-Bypass** | **-** |
+| **Motivation** | **MV-Bypass** | **Quarta (4th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

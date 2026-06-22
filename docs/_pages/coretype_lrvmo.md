@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Public-Private 5O** | "Secrecy" |
 | **Objection De-Elevation** | **2R-to-4M** | "Timidity" |
 | **Subjection De-Elevation** | **1L-to-3V** | "Martyrdom" |
-| **Motivation** | **RV-Spur** | **-** |
+| **Motivation** | **RV-Spur** | **Tertia (3rd) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

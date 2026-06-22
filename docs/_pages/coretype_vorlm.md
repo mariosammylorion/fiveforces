@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Uninhibited-Private 2O** | "Bravado" |
 | **Objection De-Elevation** | **3R-to-5M** | "Satisfaction" |
 | **Subjection De-Elevation** | **1V-to-4L** | "Earnestness" |
-| **Motivation** | **β-Loop** | **-** |
+| **Motivation** | **β-Loop** | **Duodecima (12th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

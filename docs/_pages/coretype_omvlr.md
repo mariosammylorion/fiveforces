@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Natural-Deficient 1O** | "Confidence" |
 | **Objection De-Elevation** | **2M-to-5R** | "Pastiche" |
 | **Subjection De-Elevation** | **3V-to-4L** | "Defiance" |
-| **Motivation** | **VL-Bypass** | **-** |
+| **Motivation** | **VL-Bypass** | **Octava (8th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

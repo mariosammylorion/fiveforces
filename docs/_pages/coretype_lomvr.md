@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Uninhibited-Private 2O** | "Bravado" |
 | **Objection De-Elevation** | **3M-to-5R** | "Sublimity" |
 | **Subjection De-Elevation** | **1L-to-4V** | "Melancholy" |
-| **Motivation** | **α-Loop** | **-** |
+| **Motivation** | **α-Loop** | **Prima (1st) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Natural-Deficient 1O** | "Confidence" |
 | **Objection De-Elevation** | **2M-to-4R** | "Zealotry" |
 | **Subjection De-Elevation** | **3V-to-5L** | "Selfishness" |
-| **Motivation** | **VR-Spur** | **-** |
+| **Motivation** | **VR-Spur** | **Septima (7th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

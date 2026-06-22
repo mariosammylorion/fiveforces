@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Processed-Natural 5O** | "Specialization" |
 | **Objection De-Elevation** | **2R-to-4M** | "Timidity" |
 | **Subjection De-Elevation** | **1V-to-3L** | "Obstinacy" |
-| **Motivation** | **β-Loop** | **-** |
+| **Motivation** | **β-Loop** | **Duodecima (12th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

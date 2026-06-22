@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Natural-Deficient 1O** | "Confidence" |
 | **Objection De-Elevation** | **3M-to-4R** | "Refuge" |
 | **Subjection De-Elevation** | **2V-to-5L** | "Sappiness" |
-| **Motivation** | **MR-Bypass** | **-** |
+| **Motivation** | **MR-Bypass** | **Secunda (2nd) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

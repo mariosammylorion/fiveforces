@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Processed-Natural 5O** | "Specialization" |
 | **Objection De-Elevation** | **3R-to-4M** | "Turfism" |
 | **Subjection De-Elevation** | **1V-to-2L** | "Vindication" |
-| **Motivation** | **RL-Bypass** | **-** |
+| **Motivation** | **RL-Bypass** | **Sexta (6th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

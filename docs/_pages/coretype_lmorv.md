@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Processed-Permissive 3O** | "Diligence" |
 | **Objection De-Elevation** | **2M-to-4R** | "Zealotry" |
 | **Subjection De-Elevation** | **1L-to-5V** | "Roboticism" |
-| **Motivation** | **α-Loop** | **-** |
+| **Motivation** | **α-Loop** | **Prima (1st) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

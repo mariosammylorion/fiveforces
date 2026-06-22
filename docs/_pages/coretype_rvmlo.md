@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Processed-Natural 5O** | "Specialization" |
 | **Objection De-Elevation** | **1R-to-3M** | "Counterfeit" |
 | **Subjection De-Elevation** | **2V-to-4L** | "Sentimentality" |
-| **Motivation** | **β-Loop** | **-** |
+| **Motivation** | **β-Loop** | **Decima (10th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

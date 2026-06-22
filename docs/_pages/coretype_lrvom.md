@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Public-Impervious 4O** | "Superficiality" |
 | **Objection De-Elevation** | **2R-to-5M** | "Reportage" |
 | **Subjection De-Elevation** | **1L-to-3V** | "Martyrdom" |
-| **Motivation** | **RV-Spur** | **-** |
+| **Motivation** | **RV-Spur** | **Tertia (3rd) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

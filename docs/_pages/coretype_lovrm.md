@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Processed-Impervious 2O** | "Industriousness" |
 | **Objection De-Elevation** | **4R-to-5M** | "Misfortune" |
 | **Subjection De-Elevation** | **1L-to-3V** | "Martyrdom" |
-| **Motivation** | **RV-Spur** | **-** |
+| **Motivation** | **RV-Spur** | **Tertia (3rd) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

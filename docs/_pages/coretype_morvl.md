@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Processed-Impervious 2O** | "Industriousness" |
 | **Objection De-Elevation** | **1M-to-3R** | "Prejudice" |
 | **Subjection De-Elevation** | **4V-to-5L** | "Peril" |
-| **Motivation** | **VR-Spur** | **-** |
+| **Motivation** | **VR-Spur** | **Septima (7th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

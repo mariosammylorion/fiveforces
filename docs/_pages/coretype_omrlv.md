@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Permissive-Private 1O** | "Curation" |
 | **Objection De-Elevation** | **2M-to-3R** | "Piracy" |
 | **Subjection De-Elevation** | **4L-to-5V** | "Recklessness" |
-| **Motivation** | **LR-Bypass** | **-** |
+| **Motivation** | **LR-Bypass** | **Sexta (6th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

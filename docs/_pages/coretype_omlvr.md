@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Recipient-Impervious 1O** | "Strategy" |
 | **Objection De-Elevation** | **2M-to-5R** | "Pastiche" |
 | **Subjection De-Elevation** | **3L-to-4V** | "Pedantism" |
-| **Motivation** | **α-Loop** | **-** |
+| **Motivation** | **α-Loop** | **Quinta (5th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

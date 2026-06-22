@@ -23,3 +23,30 @@ toc_sticky: true
       - LM-Spur, ML-Spur, RV-Spur, VR-Spur
 - With Bypass and Spur Motivations, the starting atom is almost always the first one to develop in the individual's psyche; with Loop Motivations, any atom can develop first
   - Speaking of, Optimization is always the final atom to develop
+
+**Unorganized thoughts**
+- Motivation gives way to types that share common characteristics, called **Decas** (which have 10 types each in them) \[NOTE: I haven't really figured out these common characteristics yet\]
+  - **Prima (1st) Deca** - α-Loop w/ Logic as strongest Force, Imagination as second-strongest Force
+    - Types: LMORV, LMOVR, LMROV, LMRVO, LMVOR, LMVRO, LOMRV, LOMVR, OLMRV, OLMVR
+  - **Secunda (2nd) Deca** - RM-Bypass and MR-Bypass
+    - Types: LORMV, LRMOV, LRMVO, LROMV, OLRMV, OVMRL, VMORL, VMRLO, VMROL, VOMRL
+  - **Tertia (3rd) Deca** - RV-Spur
+    - Types: LORVM, LOVRM, LROVM, LRVMO, LRVOM, LVORM, LVRMO, LVROM, OLRVM, OLVRM
+  - **Quarta (4th) Deca** - MV-Bypass and VM-Bypass
+    - Types: LOVMR, LVOMR, LVMOR, LVMRO, OLVMR, ORMVL, RMOVL, RMVLO, RMVOL, ROMVL
+  - **Quinta (5th) Deca** - α-Loop w/ Imagination as strongest Force, Logic as second-strongest Force
+    - Types: MLORV, MLOVR, MLROV, MLRVO, MLVOR, MLVRO, MOLRV, MOLVR, OMLRV, OMLVR
+  - **Sexta (6th) Deca** - LR-Bypass and RL-Bypass
+    - Types: MORLV, MRLOV, MRLVO, MROLV, OMRLV, OVLRM, VLORM, VLRMO, VLROM, VOLRM
+  - **Septima (7th) Deca** - VR-Spur
+    - Types: MORVL, MOVRL, MROVL, MRVLO, MRVOL, MVORL, MVRLO, MVROL, OMRVL, OMVRL
+  - **Octava (8th) Deca** - VL-Bypass and LV-Bypass
+    - Types: MOVLR, MVLOR, MVLRO, MVOLR, OMVLR, ORLVM, RLOVM, RLVMO, RLVOM, ROLVM
+  - **Nona (9th) Deca** - LM-Spur
+    - Types: ORLMV, ORMLV, RLMOV, RLMVO, RLOMV, RMLOV, RMLVO, RMOLV, ROLMV, ROMLV
+  - **Decima (10th) Deca** - β-Loop w/ Reality as strongest Force, Valuation as second-strongest Force
+    - Types: ORVLM, ORVML, ROVLM, ROVML, RVOLM, RVOML, RVLMO, RVLOM, RVMLO, RVMOL
+  - **Undecima (11th) Deca** - ML-Spur
+    - Types: OVLMR, OVMLR, VLMOR, VLMRO, VLOMR, VMLOR, VMLRO, VMOLR, VOLMR, VOMLR
+  - **Duodecima (12th) Deca** - β-Loop w/ Valuation as strongest Force, Reality as second-strongest Force
+    - Types: OVRLM, OVRML, VORLM, VORML, VRLMO, VRLOM, VRMLO, VRMOL, VROLM, VROML

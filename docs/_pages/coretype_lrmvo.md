@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Public-Private 5O** | "Secrecy" |
 | **Objection De-Elevation** | **2R-to-3M** | "Banter" |
 | **Subjection De-Elevation** | **1L-to-4V** | "Melancholy" |
-| **Motivation** | **RM-Bypass** | **-** |
+| **Motivation** | **RM-Bypass** | **Secunda (2nd) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

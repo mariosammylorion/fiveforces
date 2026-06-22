@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Public-Private 5O** | "Secrecy" |
 | **Objection De-Elevation** | **2M-to-4R** | "Zealotry" |
 | **Subjection De-Elevation** | **1V-to-3L** | "Obstinacy" |
-| **Motivation** | **ML-Spur** | **-** |
+| **Motivation** | **ML-Spur** | **Undecima (11th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

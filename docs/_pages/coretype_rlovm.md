@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Public-Deficient 3O** | "Humility" |
 | **Objection De-Elevation** | **1R-to-5M** | "Volatility" |
 | **Subjection De-Elevation** | **2L-to-4V** | "Apologism" |
-| **Motivation** | **LV-Bypass** | **-** |
+| **Motivation** | **LV-Bypass** | **Octava (8th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Public-Impervious 4O** | "Superficiality" |
 | **Objection De-Elevation** | **1R-to-3M** | "Counterfeit" |
 | **Subjection De-Elevation** | **2L-to-5V** | "Completion" |
-| **Motivation** | **LM-Spur** | **-** |
+| **Motivation** | **LM-Spur** | **Nona (9th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

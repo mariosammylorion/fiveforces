@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Processed-Permissive 3O** | "Diligence" |
 | **Objection De-Elevation** | **4M-to-5R** | "Detachment" |
 | **Subjection De-Elevation** | **1V-to-2L** | "Vindication" |
-| **Motivation** | **ML-Spur** | **-** |
+| **Motivation** | **ML-Spur** | **Undecima (11th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

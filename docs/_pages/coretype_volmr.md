@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Processed-Impervious 2O** | "Industriousness" |
 | **Objection De-Elevation** | **4M-to-5R** | "Detachment" |
 | **Subjection De-Elevation** | **1V-to-3L** | "Obstinacy" |
-| **Motivation** | **ML-Spur** | **-** |
+| **Motivation** | **ML-Spur** | **Undecima (11th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

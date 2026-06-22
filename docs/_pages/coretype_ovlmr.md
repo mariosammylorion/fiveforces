@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Recipient-Impervious 1O** | "Strategy" |
 | **Objection De-Elevation** | **4M-to-5R** | "Detachment" |
 | **Subjection De-Elevation** | **2V-to-3L** | "Denomination" |
-| **Motivation** | **ML-Spur** | **-** |
+| **Motivation** | **ML-Spur** | **Undecima (11th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

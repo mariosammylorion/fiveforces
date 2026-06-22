@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Processed-Impervious 2O** | "Industriousness" |
 | **Objection De-Elevation** | **1M-to-5R** | "Fantasy" |
 | **Subjection De-Elevation** | **3L-to-4V** | "Pedantism" |
-| **Motivation** | **α-Loop** | **-** |
+| **Motivation** | **α-Loop** | **Quinta (5th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

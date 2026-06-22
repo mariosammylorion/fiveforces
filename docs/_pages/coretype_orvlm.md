@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Recipient-Impervious 1O** | "Strategy" |
 | **Objection De-Elevation** | **2R-to-5M** | "Reportage" |
 | **Subjection De-Elevation** | **3V-to-4L** | "Defiance" |
-| **Motivation** | **β-Loop** | **-** |
+| **Motivation** | **β-Loop** | **Decima (10th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

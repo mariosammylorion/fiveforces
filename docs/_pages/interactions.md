@@ -8,4 +8,4 @@ permalink: /theory/interactions/
 The following list will take you to pages explaining each of the 80 force-position interactions and motivations:
 - [Complementary Force Subtypes](/fiveforces/theory/interactions/complementary/)
 - [Clashing Force Subtypes](/fiveforces/theory/interactions/clashing/)
-- [Motivations](/fiveforces/theory/interactions/motivations/)
+- [Motivations and Decas](/fiveforces/theory/interactions/motivations/)

@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Public-Deficient 3O** | "Humility" |
 | **Objection De-Elevation** | **2R-to-4M** | "Timidity" |
 | **Subjection De-Elevation** | **1L-to-5V** | "Roboticism" |
-| **Motivation** | **RM-Bypass** | **-** |
+| **Motivation** | **RM-Bypass** | **Secunda (2nd) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

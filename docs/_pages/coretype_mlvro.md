@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Authentic-Recipient 5O** | "Duplicity" |
 | **Objection De-Elevation** | **1M-to-4R** | "Chagrin" |
 | **Subjection De-Elevation** | **2L-to-3V** | "Validation" |
-| **Motivation** | **α-Loop** | **-** |
+| **Motivation** | **α-Loop** | **Quinta (5th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

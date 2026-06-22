@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Authentic-Permissive 4O** | "Tension" |
 | **Objection De-Elevation** | **3R-to-5M** | "Satisfaction" |
 | **Subjection De-Elevation** | **1L-to-2V** | "Servitude" |
-| **Motivation** | **RV-Spur** | **-** |
+| **Motivation** | **RV-Spur** | **Tertia (3rd) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

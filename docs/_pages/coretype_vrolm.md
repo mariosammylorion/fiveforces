@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Uninhibited-Recipient 3O** | "Subservience" |
 | **Objection De-Elevation** | **2R-to-5M** | "Reportage" |
 | **Subjection De-Elevation** | **1V-to-4L** | "Earnestness" |
-| **Motivation** | **β-Loop** | **-** |
+| **Motivation** | **β-Loop** | **Duodecima (12th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Authentic-Deficient 2O** | "Obstruction" |
 | **Objection De-Elevation** | **3R-to-5M** | "Satisfaction" |
 | **Subjection De-Elevation** | **1L-to-4V** | "Melancholy" |
-| **Motivation** | **RV-Spur** | **-** |
+| **Motivation** | **RV-Spur** | **Tertia (3rd) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

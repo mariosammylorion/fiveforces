@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Uninhibited-Natural 4O** | "Dynamism" |
 | **Objection De-Elevation** | **1M-to-3R** | "Prejudice" |
 | **Subjection De-Elevation** | **2L-to-5V** | "Completion" |
-| **Motivation** | **α-Loop** | **-** |
+| **Motivation** | **α-Loop** | **Quinta (5th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

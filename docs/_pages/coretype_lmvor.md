@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Uninhibited-Natural 4O** | "Dynamism" |
 | **Objection De-Elevation** | **2M-to-5R** | "Pastiche" |
 | **Subjection De-Elevation** | **1L-to-3V** | "Martyrdom" |
-| **Motivation** | **α-Loop** | **-** |
+| **Motivation** | **α-Loop** | **Prima (1st) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

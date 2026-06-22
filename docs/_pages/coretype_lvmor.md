@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Uninhibited-Natural 4O** | "Dynamism" |
 | **Objection De-Elevation** | **3M-to-5R** | "Sublimity" |
 | **Subjection De-Elevation** | **1L-to-2V** | "Servitude" |
-| **Motivation** | **MV-Bypass** | **-** |
+| **Motivation** | **MV-Bypass** | **Quarta (4th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

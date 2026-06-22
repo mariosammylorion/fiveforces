@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Uninhibited-Private 2O** | "Bravado" |
 | **Objection De-Elevation** | **1M-to-3R** | "Prejudice" |
 | **Subjection De-Elevation** | **4L-to-5V** | "Recklessness" |
-| **Motivation** | **LR-Bypass** | **-** |
+| **Motivation** | **LR-Bypass** | **Sexta (6th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|

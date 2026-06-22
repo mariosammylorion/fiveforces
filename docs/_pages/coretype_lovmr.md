@@ -23,7 +23,7 @@ toc_sticky: true
 | **Body Type** | **Uninhibited-Private 2O** | "Bravado" |
 | **Objection De-Elevation** | **4M-to-5R** | "Detachment" |
 | **Subjection De-Elevation** | **1L-to-3V** | "Martyrdom" |
-| **Motivation** | **MV-Bypass** | **-** |
+| **Motivation** | **MV-Bypass** | **Quarta (4th) Deca** |
 
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
