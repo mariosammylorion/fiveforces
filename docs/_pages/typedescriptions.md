@@ -28,9 +28,9 @@ The following is a table featuring all 120 core types, as well as their nickname
 | **[OLRMV](/fiveforces/type-descriptions/olrmv/)** | The Eagle-Eyed Supervisor | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[OVMRL](/fiveforces/type-descriptions/ovmrl/)** | The Serenity Enjoyer | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[VMORL](/fiveforces/type-descriptions/vmorl/)** | The Emotional Leader | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
-| **[VOMRL](/fiveforces/type-descriptions/vomrl/)** | The Underdone Dreamer | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[VMRLO](/fiveforces/type-descriptions/vmrlo/)** | The Presidential Stockpiler | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[VMROL](/fiveforces/type-descriptions/vmrol/)** | The Energetic Go-Getter | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
+| **[VOMRL](/fiveforces/type-descriptions/vomrl/)** | The Underdone Dreamer | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **TERTIA (3rd) DECA** | | | |
 | **[LORVM](/fiveforces/type-descriptions/lorvm/)** | The Pensive Obtainer | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[LOVRM](/fiveforces/type-descriptions/lovrm/)** | The Voluntary Sufferer | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
@@ -49,10 +49,10 @@ The following is a table featuring all 120 core types, as well as their nickname
 | **[LVOMR](/fiveforces/type-descriptions/lvomr/)** | The Faith Bender | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[OLVMR](/fiveforces/type-descriptions/olvmr/)** | The Persecutory Justifier | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[ORMVL](/fiveforces/type-descriptions/ormvl/)** | The False Repeater | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
-| **[ROMVL](/fiveforces/type-descriptions/romvl/)** | The Discontent Celebrity | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[RMOVL](/fiveforces/type-descriptions/rmovl/)** | The Concept Backer | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[RMVLO](/fiveforces/type-descriptions/rmvlo/)** | The Need Fulfiller | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[RMVOL](/fiveforces/type-descriptions/rmvol/)** | The Roaring Rioter | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
+| **[ROMVL](/fiveforces/type-descriptions/romvl/)** | The Discontent Celebrity | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **QUINTA (5th) DECA** | | | |
 | **[MLORV](/fiveforces/type-descriptions/mlorv/)** | The Corrective Enforcer | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[MLOVR](/fiveforces/type-descriptions/mlovr/)** | The Jaded Bookworm | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
@@ -71,10 +71,10 @@ The following is a table featuring all 120 core types, as well as their nickname
 | **[MROLV](/fiveforces/type-descriptions/mrolv/)** | The Factoid Spammer | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[OMRLV](/fiveforces/type-descriptions/omrlv/)** | The Resource Curator | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[OVLRM](/fiveforces/type-descriptions/ovlrm/)** | The Doppelganger Maker | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
-| **[VOLRM](/fiveforces/type-descriptions/volrm/)** | The Unlucky Theorist | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[VLORM](/fiveforces/type-descriptions/vlorm/)** | The Tradition Follower | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[VLRMO](/fiveforces/type-descriptions/vlrmo/)** | The Deferential Manager | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[VLROM](/fiveforces/type-descriptions/vlrom/)** | The Heritage Spreader | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
+| **[VOLRM](/fiveforces/type-descriptions/volrm/)** | The Unlucky Theorist | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **SEPTIMA (7th) DECA** | | | |
 | **[MORVL](/fiveforces/type-descriptions/morvl/)** | The Self-Aware Hedonist | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
 | **[MOVRL](/fiveforces/type-descriptions/movrl/)** | The Stubborn Expresser | XXXXX YYYYY | XXXXX<br>\[YYYYY\] |
