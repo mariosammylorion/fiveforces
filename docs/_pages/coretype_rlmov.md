@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2L-to-5V** | "Completion" |
 | **Motivation** | **LM-Spur** | **Nona (9th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | RLMVO |
+| **Co-Logic Type** | RLOMV |
+| **Co-Imagination Type** | ROMLV |
+| **Co-Valuation Type** | OLMRV |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Hardy Scriptwriter** | **"XXXX"** | **"XXXX"** |

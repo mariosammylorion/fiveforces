@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2V-to-5L** | "Sappiness" |
 | **Motivation** | **MR-Bypass** | **Secunda (2nd) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | VOMRL |
+| **Co-Logic Type** | MVORL |
+| **Co-Imagination Type** | LVMRO |
+| **Co-Valuation Type** | RVMOL |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Serenity Enjoyer** | **"XXXX"** | **"XXXX"** |

@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **3V-to-4L** | "Defiance" |
 | **Motivation** | **VM-Bypass** | **Quarta (4th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | RMOLV |
+| **Co-Logic Type** | ROVLM |
+| **Co-Imagination Type** | RMVOL |
+| **Co-Valuation Type** | OMVLR |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Need Fulfiller** | **"XXXX"** | **"XXXX"** |

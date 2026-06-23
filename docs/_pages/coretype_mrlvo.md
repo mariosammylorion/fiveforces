@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **3L-to-4V** | "Pedantism" |
 | **Motivation** | **LR-Bypass** | **Sexta (6th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | MRLOV |
+| **Co-Logic Type** | ORLVM |
+| **Co-Imagination Type** | MROVL |
+| **Co-Valuation Type** | MOLVR |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Wounded Satirist** | **"XXXX"** | **"XXXX"** |

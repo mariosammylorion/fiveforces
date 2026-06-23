@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **3V-to-4L** | "Defiance" |
 | **Motivation** | **VL-Bypass** | **Octava (8th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | MVOLR |
+| **Co-Logic Type** | OMVLR |
+| **Co-Imagination Type** | MLVOR |
+| **Co-Valuation Type** | MRVLO |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Innocent Artisan** | **"XXXX"** | **"XXXX"** |

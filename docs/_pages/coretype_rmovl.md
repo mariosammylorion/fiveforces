@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **4V-to-5L** | "Peril" |
 | **Motivation** | **VM-Bypass** | **Quarta (4th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | RMVOL |
+| **Co-Logic Type** | ROMVL |
+| **Co-Imagination Type** | RMLVO |
+| **Co-Valuation Type** | OMRVL |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Concept Backer** | **"XXXX"** | **"XXXX"** |

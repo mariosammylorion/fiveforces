@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1V-to-3L** | "Obstinacy" |
 | **Motivation** | **β-Loop** | **Duodecima (12th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | ORLMV |
+| **Co-Logic Type** | VRLOM |
+| **Co-Imagination Type** | VROML |
+| **Co-Valuation Type** | VOLMR |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Shy Influencer** | **"XXXX"** | **"XXXX"** |

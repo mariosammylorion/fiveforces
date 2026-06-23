@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1V-to-3L** | "Obstinacy" |
 | **Motivation** | **ML-Spur** | **Undecima (11th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | OMLRV |
+| **Co-Logic Type** | VOLRM |
+| **Co-Imagination Type** | VMORL |
+| **Co-Valuation Type** | VMLOR |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Conspiracy Booster** | **"XXXX"** | **"XXXX"** |

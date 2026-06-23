@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **4V-to-5L** | "Peril" |
 | **Motivation** | **VM-Bypass** | **Quarta (4th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | RVMOL |
+| **Co-Logic Type** | RMOVL |
+| **Co-Imagination Type** | RLMVO |
+| **Co-Valuation Type** | ORMVL |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Discontent Celebrity** | **"XXXX"** | **"XXXX"** |

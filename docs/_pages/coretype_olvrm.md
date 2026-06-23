@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2L-to-3V** | "Validation" |
 | **Motivation** | **RV-Spur** | **Tertia (3rd) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | VLORM |
+| **Co-Logic Type** | MLVRO |
+| **Co-Imagination Type** | LOVRM |
+| **Co-Valuation Type** | RLVOM |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Rulebook Adherent** | **"XXXX"** | **"XXXX"** |

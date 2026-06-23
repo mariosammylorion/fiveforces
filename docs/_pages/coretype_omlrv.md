@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **3L-to-5V** | "Nobility" |
 | **Motivation** | **α-Loop** | **Quinta (5th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | VMLRO |
+| **Co-Logic Type** | MOLRV |
+| **Co-Imagination Type** | LMORV |
+| **Co-Valuation Type** | RMLOV |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Truth-Seeking Conservator** | **"XXXX"** | **"XXXX"** |

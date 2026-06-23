@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2L-to-5V** | "Completion" |
 | **Motivation** | **α-Loop** | **Prima (1st) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | VLMRO |
+| **Co-Logic Type** | MLORV |
+| **Co-Imagination Type** | LOMRV |
+| **Co-Valuation Type** | RLMOV |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Unfeeling Disciple** | **"XXXX"** | **"XXXX"** |

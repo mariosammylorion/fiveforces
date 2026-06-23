@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1V-to-4L** | "Earnestness" |
 | **Motivation** | **ML-Spur** | **Undecima (11th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | OMVLR |
+| **Co-Logic Type** | VOMLR |
+| **Co-Imagination Type** | VMLOR |
+| **Co-Valuation Type** | VMRLO |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Auspicious Captain** | **"XXXX"** | **"XXXX"** |

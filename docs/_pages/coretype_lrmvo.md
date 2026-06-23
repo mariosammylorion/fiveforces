@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1L-to-4V** | "Melancholy" |
 | **Motivation** | **RM-Bypass** | **Secunda (2nd) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | LRMOV |
+| **Co-Logic Type** | LROVM |
+| **Co-Imagination Type** | ORMVL |
+| **Co-Valuation Type** | LOMVR |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Private Victim** | **"XXXX"** | **"XXXX"** |

@@ -1,10 +1,12 @@
 ---
-title: Motivations
+title: Motivations, Decas, and Co-Types
 permalink: /theory/interactions/motivations/
 toc: true
-toc_label: Motivations
+toc_label: Motivations, Decas, and Co-Types
 toc_sticky: true
 ---
+
+# Motivations
 
 **Unorganized thoughts**
 - Because elevation and de-elevation causes some Atoms to be used directly because of another, we can map the path in which information and decisions are bounced to and from these Atoms; this is called a **motivation**
@@ -23,6 +25,8 @@ toc_sticky: true
       - LM-Spur, ML-Spur, RV-Spur, VR-Spur
 - With Bypass and Spur Motivations, the starting atom is almost always the first one to develop in the individual's psyche; with Loop Motivations, any atom can develop first
   - Speaking of, Optimization is always the final atom to develop
+
+# Decas
 
 **Unorganized thoughts**
 - Motivation gives way to types that share common characteristics, called **Decas** (which have 10 types each in them)
@@ -49,8 +53,8 @@ toc_sticky: true
     - Values: Intellectual curiosity, brainstorming, confronting tradition
     - Types: MLORV, MLOVR, MLROV, MLRVO, MLVOR, MLVRO, MOLRV, MOLVR, OMLRV, OMLVR
   - **Sexta (6th) Deca** - LR-Bypass and RL-Bypass
-    - Focused first and foremost on patronage, conservatism, and strict adherence to established rules
     - Sexta types have conviction in their own epistemic authority; they know, and knowing drives them
+    - Obsessed with hierarchy and social structures; often categorize other individuals or have "us vs. them" mentality
     - Values: Structural integrity, hierarchy, pragmatic control
     - Types: MORLV, MRLOV, MRLVO, MROLV, OMRLV, OVLRM, VLORM, VLRMO, VLROM, VOLRM
   - **Septima (7th) Deca** - VR-Spur
@@ -73,3 +77,12 @@ toc_sticky: true
   - **Duodecima (12th) Deca** - β-Loop w/ Valuation as strongest Force, Reality as second-strongest Force
     - Values: Ideological purity, preparedness, grounded conviction
     - Types: OVRLM, OVRML, VORLM, VORML, VRLMO, VRLOM, VRMLO, VRMOL, VROLM, VROML
+
+# Co-Types
+
+**Unorganized thoughts**
+- Types that share three non-Optimization Atoms are co-types in one particular Force, meaning their expression of the Force is identical
+  - Which Force they are co-types in depends on which two elevation/de-elevation mechanics are present and which Atom is common between them
+    - For example, LMORV and LMVRO are co-Reality types since they share L, M, and R Atoms (which forms the Brain and Objection, the two core components of the Force of Reality)
+  - One easy way to tell which Force exactly entails two co-types is to determine which of the four non-Optimization Forces they *don't* have in common
+    - The Force they do not have in common is always the neutral Force of the identical Force; for example, MLVOR and MLVRO share M, L, V, but not R. The neutral Force of R is V, therefore the two types are co-Valuation types

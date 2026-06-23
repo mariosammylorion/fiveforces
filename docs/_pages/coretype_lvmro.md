@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1L-to-2V** | "Servitude" |
 | **Motivation** | **MV-Bypass** | **Quarta (4th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | LOMRV |
+| **Co-Logic Type** | LVORM |
+| **Co-Imagination Type** | OVMRL |
+| **Co-Valuation Type** | LVMOR |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Fearful Believer** | **"XXXX"** | **"XXXX"** |

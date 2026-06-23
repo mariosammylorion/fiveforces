@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1L-to-4V** | "Melancholy" |
 | **Motivation** | **RV-Spur** | **Tertia (3rd) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | LRVOM |
+| **Co-Logic Type** | LRMVO |
+| **Co-Imagination Type** | ORLVM |
+| **Co-Valuation Type** | LORVM |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Stern Purist** | **"XXXX"** | **"XXXX"** |

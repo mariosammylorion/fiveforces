@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1L-to-3V** | "Martyrdom" |
 | **Motivation** | **α-Loop** | **Prima (1st) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | LMOVR |
+| **Co-Logic Type** | LOVMR |
+| **Co-Imagination Type** | OMVLR |
+| **Co-Valuation Type** | LMVRO |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Desire Remixer** | **"XXXX"** | **"XXXX"** |

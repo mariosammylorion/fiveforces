@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2V-to-5L** | "Sappiness" |
 | **Motivation** | **β-Loop** | **Duodecima (12th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | VORML |
+| **Co-Logic Type** | MVROL |
+| **Co-Imagination Type** | LVRMO |
+| **Co-Valuation Type** | RVOML |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Childlike Glutton** | **"XXXX"** | **"XXXX"** |

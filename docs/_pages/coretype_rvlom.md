@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2V-to-3L** | "Denomination" |
 | **Motivation** | **β-Loop** | **Decima (10th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | ROLVM |
+| **Co-Logic Type** | RVLMO |
+| **Co-Imagination Type** | RVOLM |
+| **Co-Valuation Type** | OVLRM |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Obliging Teacher** | **"XXXX"** | **"XXXX"** |

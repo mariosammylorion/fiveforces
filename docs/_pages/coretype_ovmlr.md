@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2V-to-4L** | "Sentimentality" |
 | **Motivation** | **ML-Spur** | **Undecima (11th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | VOMLR |
+| **Co-Logic Type** | MVOLR |
+| **Co-Imagination Type** | LVMOR |
+| **Co-Valuation Type** | RVMLO |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Good Vibes Bearer** | **"XXXX"** | **"XXXX"** |

@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2L-to-3V** | "Validation" |
 | **Motivation** | **α-Loop** | **Quinta (5th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | MLOVR |
+| **Co-Logic Type** | OLVMR |
+| **Co-Imagination Type** | MOVLR |
+| **Co-Valuation Type** | MLVRO |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Expressive Inquirer** | **"XXXX"** | **"XXXX"** |

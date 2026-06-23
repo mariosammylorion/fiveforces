@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **3V-to-5L** | "Selfishness" |
 | **Motivation** | **β-Loop** | **Decima (10th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | RVOML |
+| **Co-Logic Type** | RMVOL |
+| **Co-Imagination Type** | RLVMO |
+| **Co-Valuation Type** | ORVML |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Fervent Worrier** | **"XXXX"** | **"XXXX"** |

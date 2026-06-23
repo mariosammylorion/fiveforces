@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **3L-to-4V** | "Pedantism" |
 | **Motivation** | **LV-Bypass** | **Octava (8th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | VRLOM |
+| **Co-Logic Type** | MRLVO |
+| **Co-Imagination Type** | LROVM |
+| **Co-Valuation Type** | ROLVM |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Factual Correspondent** | **"XXXX"** | **"XXXX"** |

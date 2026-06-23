@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **3V-to-4L** | "Defiance" |
 | **Motivation** | **VR-Spur** | **Septima (7th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | MROLV |
+| **Co-Logic Type** | ORVLM |
+| **Co-Imagination Type** | MRVOL |
+| **Co-Valuation Type** | MOVLR |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Rebellious Student** | **"XXXX"** | **"XXXX"** |

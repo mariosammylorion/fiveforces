@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **4L-to-5V** | "Recklessness" |
 | **Motivation** | **LR-Bypass** | **Sexta (6th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | MRVLO |
+| **Co-Logic Type** | ORMLV |
+| **Co-Imagination Type** | MRLOV |
+| **Co-Valuation Type** | MORLV |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Factoid Spammer** | **"XXXX"** | **"XXXX"** |

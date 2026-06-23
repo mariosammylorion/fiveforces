@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **3L-to-5V** | "Nobility" |
 | **Motivation** | **LR-Bypass** | **Sexta (6th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | MRLVO |
+| **Co-Logic Type** | ORLMV |
+| **Co-Imagination Type** | MROLV |
+| **Co-Valuation Type** | MOLRV |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Master Debater** | **"XXXX"** | **"XXXX"** |

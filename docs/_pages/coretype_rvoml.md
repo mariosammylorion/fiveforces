@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2V-to-5L** | "Sappiness" |
 | **Motivation** | **β-Loop** | **Decima (10th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | ROVML |
+| **Co-Logic Type** | RVMOL |
+| **Co-Imagination Type** | RVLMO |
+| **Co-Valuation Type** | OVRML |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Funtime Bringer** | **"XXXX"** | **"XXXX"** |

@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1L-to-5V** | "Roboticism" |
 | **Motivation** | **α-Loop** | **Prima (1st) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | LVMRO |
+| **Co-Logic Type** | LMORV |
+| **Co-Imagination Type** | OLMRV |
+| **Co-Valuation Type** | LRMOV |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Paranoid Android** | **"XXXX"** | **"XXXX"** |

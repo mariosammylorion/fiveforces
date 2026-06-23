@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1L-to-3V** | "Martyrdom" |
 | **Motivation** | **RV-Spur** | **Tertia (3rd) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | LROMV |
+| **Co-Logic Type** | LRVOM |
+| **Co-Imagination Type** | ORVML |
+| **Co-Valuation Type** | LOVMR |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Opinion Keeper** | **"XXXX"** | **"XXXX"** |

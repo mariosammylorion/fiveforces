@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1V-to-5L** | "Ferocity" |
 | **Motivation** | **β-Loop** | **Duodecima (12th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | ORMVL |
+| **Co-Logic Type** | VROML |
+| **Co-Imagination Type** | VRMLO |
+| **Co-Valuation Type** | VOMRL |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Diehard Good-Timer** | **"XXXX"** | **"XXXX"** |

@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2L-to-3V** | "Validation" |
 | **Motivation** | **LV-Bypass** | **Octava (8th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | RLOVM |
+| **Co-Logic Type** | RLVMO |
+| **Co-Imagination Type** | ROVLM |
+| **Co-Valuation Type** | OLVRM |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Sensitive Demonstrator** | **"XXXX"** | **"XXXX"** |

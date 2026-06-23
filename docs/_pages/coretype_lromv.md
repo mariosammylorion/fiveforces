@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1L-to-5V** | "Roboticism" |
 | **Motivation** | **RM-Bypass** | **Secunda (2nd) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | LRVMO |
+| **Co-Logic Type** | LRMOV |
+| **Co-Imagination Type** | ORLMV |
+| **Co-Valuation Type** | LORMV |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Fragile Omitter** | **"XXXX"** | **"XXXX"** |

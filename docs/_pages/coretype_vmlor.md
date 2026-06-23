@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1V-to-3L** | "Obstinacy" |
 | **Motivation** | **ML-Spur** | **Undecima (11th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | OMLVR |
+| **Co-Logic Type** | VOLMR |
+| **Co-Imagination Type** | VMOLR |
+| **Co-Valuation Type** | VMLRO |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Self-Assured Showrunner** | **"XXXX"** | **"XXXX"** |

@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **3L-to-5V** | "Nobility" |
 | **Motivation** | **α-Loop** | **Quinta (5th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | MVLRO |
+| **Co-Logic Type** | OMLRV |
+| **Co-Imagination Type** | MLORV |
+| **Co-Valuation Type** | MRLOV |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Opinionated Provoker** | **"XXXX"** | **"XXXX"** |

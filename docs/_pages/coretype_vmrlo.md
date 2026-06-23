@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1V-to-4L** | "Earnestness" |
 | **Motivation** | **MR-Bypass** | **Secunda (2nd) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | OMRLV |
+| **Co-Logic Type** | VORLM |
+| **Co-Imagination Type** | VMROL |
+| **Co-Valuation Type** | VMOLR |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Presidential Stockpiler** | **"XXXX"** | **"XXXX"** |

@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1L-to-2V** | "Servitude" |
 | **Motivation** | **MV-Bypass** | **Quarta (4th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | LOVMR |
+| **Co-Logic Type** | LVMOR |
+| **Co-Imagination Type** | OVLMR |
+| **Co-Valuation Type** | LVRMO |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Faith Bender** | **"XXXX"** | **"XXXX"** |

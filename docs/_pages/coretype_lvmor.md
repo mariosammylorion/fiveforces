@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1L-to-2V** | "Servitude" |
 | **Motivation** | **MV-Bypass** | **Quarta (4th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | LOMVR |
+| **Co-Logic Type** | LVOMR |
+| **Co-Imagination Type** | OVMLR |
+| **Co-Valuation Type** | LVMRO |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Rule-Bending Sage** | **"XXXX"** | **"XXXX"** |

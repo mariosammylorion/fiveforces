@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1L-to-5V** | "Roboticism" |
 | **Motivation** | **RM-Bypass** | **Secunda (2nd) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | LRMVO |
+| **Co-Logic Type** | LROMV |
+| **Co-Imagination Type** | ORMLV |
+| **Co-Valuation Type** | LOMRV |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Unsmiling Rationalist** | **"XXXX"** | **"XXXX"** |

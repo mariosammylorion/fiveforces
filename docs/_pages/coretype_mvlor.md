@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2V-to-3L** | "Denomination" |
 | **Motivation** | **VL-Bypass** | **Octava (8th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | MOLVR |
+| **Co-Logic Type** | OVLMR |
+| **Co-Imagination Type** | MVOLR |
+| **Co-Valuation Type** | MVLRO |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Possessive Lover** | **"XXXX"** | **"XXXX"** |

@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2L-to-4V** | "Apologism" |
 | **Motivation** | **α-Loop** | **Prima (1st) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | VLMOR |
+| **Co-Logic Type** | MLOVR |
+| **Co-Imagination Type** | LOMVR |
+| **Co-Valuation Type** | RLMVO |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Mental Relater** | **"XXXX"** | **"XXXX"** |

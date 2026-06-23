@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1L-to-4V** | "Melancholy" |
 | **Motivation** | **RV-Spur** | **Tertia (3rd) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | LVROM |
+| **Co-Logic Type** | LMRVO |
+| **Co-Imagination Type** | OLRVM |
+| **Co-Valuation Type** | LROVM |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Pensive Obtainer** | **"XXXX"** | **"XXXX"** |

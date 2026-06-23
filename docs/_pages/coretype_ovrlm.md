@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2V-to-4L** | "Sentimentality" |
 | **Motivation** | **β-Loop** | **Duodecima (12th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | VORLM |
+| **Co-Logic Type** | MVRLO |
+| **Co-Imagination Type** | LVROM |
+| **Co-Valuation Type** | RVOLM |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Happy Hoarder** | **"XXXX"** | **"XXXX"** |

@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **4V-to-5L** | "Peril" |
 | **Motivation** | **VM-Bypass** | **Quarta (4th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | VRMOL |
+| **Co-Logic Type** | MROVL |
+| **Co-Imagination Type** | LRMVO |
+| **Co-Valuation Type** | ROMVL |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The False Repeater** | **"XXXX"** | **"XXXX"** |

@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2L-to-3V** | "Validation" |
 | **Motivation** | **MV-Bypass** | **Quarta (4th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | VLOMR |
+| **Co-Logic Type** | MLVOR |
+| **Co-Imagination Type** | LOVMR |
+| **Co-Valuation Type** | RLVMO |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Persecutory Justifier** | **"XXXX"** | **"XXXX"** |

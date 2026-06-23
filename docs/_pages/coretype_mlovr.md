@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2L-to-4V** | "Apologism" |
 | **Motivation** | **α-Loop** | **Quinta (5th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | MLVOR |
+| **Co-Logic Type** | OLMVR |
+| **Co-Imagination Type** | MOLVR |
+| **Co-Valuation Type** | MLRVO |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Jaded Bookworm** | **"XXXX"** | **"XXXX"** |

@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2L-to-4V** | "Apologism" |
 | **Motivation** | **LV-Bypass** | **Octava (8th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | RLVOM |
+| **Co-Logic Type** | RLMVO |
+| **Co-Imagination Type** | ROLVM |
+| **Co-Valuation Type** | OLRVM |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Task Completer** | **"XXXX"** | **"XXXX"** |

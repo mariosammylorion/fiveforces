@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1V-to-4L** | "Earnestness" |
 | **Motivation** | **β-Loop** | **Duodecima (12th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | OVRLM |
+| **Co-Logic Type** | VMRLO |
+| **Co-Imagination Type** | VLROM |
+| **Co-Valuation Type** | VROLM |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Experience Guardian** | **"XXXX"** | **"XXXX"** |

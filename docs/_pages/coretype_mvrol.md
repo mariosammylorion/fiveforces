@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2V-to-5L** | "Sappiness" |
 | **Motivation** | **VR-Spur** | **Septima (7th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | MORVL |
+| **Co-Logic Type** | OVRML |
+| **Co-Imagination Type** | MVRLO |
+| **Co-Valuation Type** | MVROL |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Vision Chaser** | **"XXXX"** | **"XXXX"** |

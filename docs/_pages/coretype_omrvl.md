@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **4V-to-5L** | "Peril" |
 | **Motivation** | **VR-Spur** | **Septima (7th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | VMROL |
+| **Co-Logic Type** | MORVL |
+| **Co-Imagination Type** | LMRVO |
+| **Co-Valuation Type** | RMOVL |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Anodyne Addict** | **"XXXX"** | **"XXXX"** |

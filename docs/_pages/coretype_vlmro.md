@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1V-to-2L** | "Vindication" |
 | **Motivation** | **ML-Spur** | **Undecima (11th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | OLMRV |
+| **Co-Logic Type** | VLORM |
+| **Co-Imagination Type** | VOMRL |
+| **Co-Valuation Type** | VLMOR |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Lawful Sanguine** | **"XXXX"** | **"XXXX"** |

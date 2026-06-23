@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **4L-to-5V** | "Recklessness" |
 | **Motivation** | **LM-Spur** | **Nona (9th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | RVMLO |
+| **Co-Logic Type** | RMOLV |
+| **Co-Imagination Type** | RLMOV |
+| **Co-Valuation Type** | ORMLV |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Spirit Snuffer** | **"XXXX"** | **"XXXX"** |

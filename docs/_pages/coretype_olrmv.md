@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2L-to-5V** | "Completion" |
 | **Motivation** | **RM-Bypass** | **Secunda (2nd) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | VLRMO |
+| **Co-Logic Type** | MLROV |
+| **Co-Imagination Type** | LORMV |
+| **Co-Valuation Type** | RLOMV |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Eagle-Eyed Supervisor** | **"XXXX"** | **"XXXX"** |

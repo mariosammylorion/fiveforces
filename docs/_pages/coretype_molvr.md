@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **3L-to-4V** | "Pedantism" |
 | **Motivation** | **α-Loop** | **Quinta (5th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | MVLOR |
+| **Co-Logic Type** | OMLVR |
+| **Co-Imagination Type** | MLOVR |
+| **Co-Valuation Type** | MRLVO |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Ignorant Brainiac** | **"XXXX"** | **"XXXX"** |

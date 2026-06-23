@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **3V-to-5L** | "Selfishness" |
 | **Motivation** | **VM-Bypass** | **Quarta (4th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | RMOVL |
+| **Co-Logic Type** | ROVML |
+| **Co-Imagination Type** | RMVLO |
+| **Co-Valuation Type** | OMVRL |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Roaring Rioter** | **"XXXX"** | **"XXXX"** |

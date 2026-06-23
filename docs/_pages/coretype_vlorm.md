@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1V-to-2L** | "Vindication" |
 | **Motivation** | **RL-Bypass** | **Sexta (6th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | OLVRM |
+| **Co-Logic Type** | VLMRO |
+| **Co-Imagination Type** | VOLRM |
+| **Co-Valuation Type** | VLROM |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Tradition Follower** | **"XXXX"** | **"XXXX"** |

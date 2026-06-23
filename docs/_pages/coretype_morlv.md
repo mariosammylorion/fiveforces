@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **4L-to-5V** | "Recklessness" |
 | **Motivation** | **LR-Bypass** | **Sexta (6th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | MVRLO |
+| **Co-Logic Type** | OMRLV |
+| **Co-Imagination Type** | MLROV |
+| **Co-Valuation Type** | MROLV |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Rage Baiter** | **"XXXX"** | **"XXXX"** |

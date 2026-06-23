@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2V-to-3L** | "Denomination" |
 | **Motivation** | **β-Loop** | **Decima (10th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | ROLMV |
+| **Co-Logic Type** | RVLOM |
+| **Co-Imagination Type** | RVOML |
+| **Co-Valuation Type** | OVLMR |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Off-the-Clock Sultan** | **"XXXX"** | **"XXXX"** |

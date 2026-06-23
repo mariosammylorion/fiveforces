@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1V-to-3L** | "Obstinacy" |
 | **Motivation** | **RL-Bypass** | **Sexta (6th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | OVLRM |
+| **Co-Logic Type** | VMLRO |
+| **Co-Imagination Type** | VLORM |
+| **Co-Valuation Type** | VRLOM |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Unlucky Theorist** | **"XXXX"** | **"XXXX"** |

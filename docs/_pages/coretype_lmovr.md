@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1L-to-4V** | "Melancholy" |
 | **Motivation** | **α-Loop** | **Prima (1st) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | LMVOR |
+| **Co-Logic Type** | LOMVR |
+| **Co-Imagination Type** | OMLVR |
+| **Co-Valuation Type** | LMRVO |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Exploratory Client** | **"XXXX"** | **"XXXX"** |

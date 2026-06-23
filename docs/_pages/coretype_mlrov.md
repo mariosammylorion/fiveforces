@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2L-to-5V** | "Completion" |
 | **Motivation** | **α-Loop** | **Quinta (5th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | MLRVO |
+| **Co-Logic Type** | OLRMV |
+| **Co-Imagination Type** | MORLV |
+| **Co-Valuation Type** | MLORV |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Head Honcho** | **"XXXX"** | **"XXXX"** |

@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1L-to-2V** | "Servitude" |
 | **Motivation** | **RV-Spur** | **Tertia (3rd) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | LOVRM |
+| **Co-Logic Type** | LVMRO |
+| **Co-Imagination Type** | OVLRM |
+| **Co-Valuation Type** | LVROM |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Sacrificial Devotee** | **"XXXX"** | **"XXXX"** |

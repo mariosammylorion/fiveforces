@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1V-to-5L** | "Ferocity" |
 | **Motivation** | **β-Loop** | **Duodecima (12th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | OVRML |
+| **Co-Logic Type** | VMROL |
+| **Co-Imagination Type** | VLRMO |
+| **Co-Valuation Type** | VROML |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Doomsday Prepper** | **"XXXX"** | **"XXXX"** |

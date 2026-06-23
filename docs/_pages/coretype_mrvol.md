@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **3V-to-5L** | "Selfishness" |
 | **Motivation** | **VR-Spur** | **Septima (7th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | MROVL |
+| **Co-Logic Type** | ORVML |
+| **Co-Imagination Type** | MRVLO |
+| **Co-Valuation Type** | MOVRL |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Provocative Artist** | **"XXXX"** | **"XXXX"** |

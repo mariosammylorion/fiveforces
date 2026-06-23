@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **4L-to-5V** | "Recklessness" |
 | **Motivation** | **LM-Spur** | **Nona (9th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | RMVLO |
+| **Co-Logic Type** | ROMLV |
+| **Co-Imagination Type** | RMLOV |
+| **Co-Valuation Type** | OMRLV |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Trend Seeker** | **"XXXX"** | **"XXXX"** |

@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **3V-to-5L** | "Selfishness" |
 | **Motivation** | **VR-Spur** | **Septima (7th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | VMORL |
+| **Co-Logic Type** | MOVRL |
+| **Co-Imagination Type** | LMVRO |
+| **Co-Valuation Type** | RMVOL |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Self-Serving Champion** | **"XXXX"** | **"XXXX"** |

@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2V-to-4L** | "Sentimentality" |
 | **Motivation** | **β-Loop** | **Decima (10th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | ROMLV |
+| **Co-Logic Type** | RVOLM |
+| **Co-Imagination Type** | RVMOL |
+| **Co-Valuation Type** | OVMLR |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Spiritual Healer** | **"XXXX"** | **"XXXX"** |

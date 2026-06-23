@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1V-to-2L** | "Vindication" |
 | **Motivation** | **ML-Spur** | **Undecima (11th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | OLMVR |
+| **Co-Logic Type** | VLOMR |
+| **Co-Imagination Type** | VOMLR |
+| **Co-Valuation Type** | VLMRO |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Doubtful Optimist** | **"XXXX"** | **"XXXX"** |

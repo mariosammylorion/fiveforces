@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **3L-to-5V** | "Nobility" |
 | **Motivation** | **LM-Spur** | **Nona (9th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | RVLMO |
+| **Co-Logic Type** | RMLOV |
+| **Co-Imagination Type** | RLOMV |
+| **Co-Valuation Type** | ORLMV |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Drill Instructor** | **"XXXX"** | **"XXXX"** |

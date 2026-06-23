@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1V-to-2L** | "Vindication" |
 | **Motivation** | **ML-Spur** | **Undecima (11th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | OLVMR |
+| **Co-Logic Type** | VLMOR |
+| **Co-Imagination Type** | VOLMR |
+| **Co-Valuation Type** | VLRMO |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Validity Scholar** | **"XXXX"** | **"XXXX"** |

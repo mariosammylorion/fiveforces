@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **4L-to-5V** | "Recklessness" |
 | **Motivation** | **LM-Spur** | **Nona (9th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | VRMLO |
+| **Co-Logic Type** | MROLV |
+| **Co-Imagination Type** | LRMOV |
+| **Co-Valuation Type** | ROMLV |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Stolid Harvester** | **"XXXX"** | **"XXXX"** |

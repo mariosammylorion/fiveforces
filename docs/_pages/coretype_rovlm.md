@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **3V-to-4L** | "Defiance" |
 | **Motivation** | **β-Loop** | **Decima (10th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | RVOLM |
+| **Co-Logic Type** | RMVLO |
+| **Co-Imagination Type** | RLVOM |
+| **Co-Valuation Type** | ORVLM |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Vigilant Observer** | **"XXXX"** | **"XXXX"** |

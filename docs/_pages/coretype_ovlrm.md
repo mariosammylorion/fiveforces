@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2V-to-3L** | "Denomination" |
 | **Motivation** | **RL-Bypass** | **Sexta (6th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | VOLRM |
+| **Co-Logic Type** | MVLRO |
+| **Co-Imagination Type** | LVORM |
+| **Co-Valuation Type** | RVLOM |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Doppelganger Maker** | **"XXXX"** | **"XXXX"** |

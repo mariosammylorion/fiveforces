@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2V-to-4L** | "Sentimentality" |
 | **Motivation** | **VL-Bypass** | **Octava (8th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | MOVLR |
+| **Co-Logic Type** | OVMLR |
+| **Co-Imagination Type** | MVLOR |
+| **Co-Valuation Type** | MVRLO |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Wonder Builder** | **"XXXX"** | **"XXXX"** |

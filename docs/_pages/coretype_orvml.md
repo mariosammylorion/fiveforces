@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **3V-to-5L** | "Selfishness" |
 | **Motivation** | **β-Loop** | **Decima (10th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | VROML |
+| **Co-Logic Type** | MRVOL |
+| **Co-Imagination Type** | LRVMO |
+| **Co-Valuation Type** | ROVML |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Intelligence Sacrificer** | **"XXXX"** | **"XXXX"** |

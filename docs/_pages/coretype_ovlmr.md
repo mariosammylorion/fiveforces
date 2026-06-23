@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2V-to-3L** | "Denomination" |
 | **Motivation** | **ML-Spur** | **Undecima (11th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | VOLMR |
+| **Co-Logic Type** | MVLOR |
+| **Co-Imagination Type** | LVOMR |
+| **Co-Valuation Type** | RVLMO |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Desperate Housewife** | **"XXXX"** | **"XXXX"** |

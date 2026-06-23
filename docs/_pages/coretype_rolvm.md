@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **3L-to-4V** | "Pedantism" |
 | **Motivation** | **LV-Bypass** | **Octava (8th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | RVLOM |
+| **Co-Logic Type** | RMLVO |
+| **Co-Imagination Type** | RLOVM |
+| **Co-Valuation Type** | ORLVM |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Strict Parent** | **"XXXX"** | **"XXXX"** |

@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **1L-to-5V** | "Roboticism" |
 | **Motivation** | **α-Loop** | **Prima (1st) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | LMRVO |
+| **Co-Logic Type** | LORMV |
+| **Co-Imagination Type** | OMRLV |
+| **Co-Valuation Type** | LMORV |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Novelty Straddler** | **"XXXX"** | **"XXXX"** |

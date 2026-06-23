@@ -25,6 +25,13 @@ toc_sticky: true
 | **Subjection De-Elevation** | **2L-to-3V** | "Validation" |
 | **Motivation** | **LV-Bypass** | **Octava (8th) Deca** |
 
+| **SHARED ATOM** | **CO-TYPE** |
+|:---------------:|:-----------:|
+| **Co-Reality Type** | RLOMV |
+| **Co-Logic Type** | RLVOM |
+| **Co-Imagination Type** | ROVML |
+| **Co-Valuation Type** | OLVMR |
+
 | **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
 |:---------------:|:--------------------:|:--------------------:|
 | **The Covert Prey** | **"XXXX"** | **"XXXX"** |
