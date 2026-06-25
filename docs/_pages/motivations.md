@@ -34,7 +34,8 @@ toc_sticky: true
     - Values: Systemizing innovation, idea generation in service of understanding, analytical novelty, defining the undefined
     - Types: LMORV, LMOVR, LMROV, LMRVO, LMVOR, LMVRO, LOMRV, LOMVR, OLMRV, OLMVR
   - **Secunda (2nd) Deca** - RM-Bypass and MR-Bypass
-    - Future-oriented individuals, even if they are afraid of it
+    - Deca motto: "Keep moving forward"
+    - Future-oriented individuals, even if they are afraid of it (due to 4M)
     - Values: Tangible growth, resource acquisition, forward momentum
     - Types: LORMV, LRMOV, LRMVO, LROMV, OLRMV, OVMRL, VMORL, VMRLO, VMROL, VOMRL
   - **Tertia (3rd) Deca** - RV-Spur
@@ -50,14 +51,18 @@ toc_sticky: true
     - Revolutionaries (even the 2M types)
     - Provocative and boundary-pushing
       - Loves to shock others with their ideas
+      - Like Septima types in this regard, except their defiance is an intellectual one
     - Values: Intellectual curiosity, brainstorming, confronting tradition
     - Types: MLORV, MLOVR, MLROV, MLRVO, MLVOR, MLVRO, MOLRV, MOLVR, OMLRV, OMLVR
   - **Sexta (6th) Deca** - LR-Bypass and RL-Bypass
+    - Deca motto: "Knowledge is power"
     - Sexta types have conviction in their own epistemic authority; they know, and knowing drives them
-    - Obsessed with hierarchy and social structures; often categorize other individuals or have "us vs. them" mentality
+    - Obsessed with hierarchy and social structures; often categorize other individuals (e.g. winners vs. losers, friends vs. enemies, truthers vs. liars, us vs. them)
+      - To them, there is no such thing as a "gray area"
     - Values: Structural integrity, hierarchy, pragmatic control
     - Types: MORLV, MRLOV, MRLVO, MROLV, OMRLV, OVLRM, VLORM, VLRMO, VLROM, VOLRM
   - **Septima (7th) Deca** - VR-Spur
+    - Their defiance is more "visceral" than Quinta types
     - Values: Unfiltered honesty, artistic hedonism, shaking up the environment, provocation, absurdism, defiant individuality, self-expression
     - Types: MORVL, MOVRL, MROVL, MRVLO, MRVOL, MVORL, MVRLO, MVROL, OMRVL, OMVRL
   - **Octava (8th) Deca** - VL-Bypass and LV-Bypass
@@ -70,7 +75,7 @@ toc_sticky: true
   - **Decima (10th) Deca** - β-Loop w/ Reality as strongest Force, Valuation as second-strongest Force
     - Lives in the present and constantly scans their reality, to the point of hypervigilance
     - Values: Presence, good-naturedness, empirical steadfastness, community grounding, historical preservation
-    - Types: ORVLM, ORVML, ROVLM, ROVML, RVOLM, RVOML, RVLMO, RVLOM, RVMLO, RVMOL
+    - Types: ORVLM, ORVML, ROVLM, ROVML, RVLMO, RVLOM, RVMLO, RVMOL, RVOLM, RVOML
   - **Undecima (11th) Deca** - ML-Spur
     - Values: Utopian optimism and idealism, visionary alignment, lifting others up
     - Types: OVLMR, OVMLR, VLMOR, VLMRO, VLOMR, VMLOR, VMLRO, VMOLR, VOLMR, VOMLR
