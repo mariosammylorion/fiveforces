@@ -1,8 +1,8 @@
 ---
-title: ROLMV
+title: ROLMV (XXXX)
 permalink: /type-descriptions/rolmv/
 toc: true
-toc_label: ROLMV
+toc_label: ROLMV (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | RLOMV |
 | **Co-Valuation Type** | ORLMV |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Drill Instructor** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Drill Instructor |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ When it comes to instructing others on what to do, the ROLMV believes that they 
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

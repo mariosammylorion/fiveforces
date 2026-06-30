@@ -1,8 +1,8 @@
 ---
-title: MVLOR
+title: MVLOR (XXXX)
 permalink: /type-descriptions/mvlor/
 toc: true
-toc_label: MVLOR
+toc_label: MVLOR (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | MVOLR |
 | **Co-Valuation Type** | MVLRO |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Possessive Lover** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Possessive Lover |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The MVLOR is a dreamy, idealistic, and romantic type, all thanks to their devoti
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

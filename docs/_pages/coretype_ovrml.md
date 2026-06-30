@@ -1,8 +1,8 @@
 ---
-title: OVRML
+title: OVRML (XXXX)
 permalink: /type-descriptions/ovrml/
 toc: true
-toc_label: OVRML
+toc_label: OVRML (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | LVRMO |
 | **Co-Valuation Type** | RVOML |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Childlike Glutton** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Childlike Glutton |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ On the surface, the OVRML type appears to be childlike and innocent, often relyi
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

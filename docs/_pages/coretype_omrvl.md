@@ -1,8 +1,8 @@
 ---
-title: OMRVL
+title: OMRVL (XXXX)
 permalink: /type-descriptions/omrvl/
 toc: true
-toc_label: OMRVL
+toc_label: OMRVL (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | LMRVO |
 | **Co-Valuation Type** | RMOVL |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Anodyne Addict** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Anodyne Addict |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The OMRVL is characterized by an incessant need to kill the pain in their life c
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

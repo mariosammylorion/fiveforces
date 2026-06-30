@@ -1,8 +1,8 @@
 ---
-title: ORVML
+title: ORVML (XXXX)
 permalink: /type-descriptions/orvml/
 toc: true
-toc_label: ORVML
+toc_label: ORVML (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | LRVMO |
 | **Co-Valuation Type** | ROVML |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Intelligence Sacrificer** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Intelligence Sacrificer |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The ORVML individual is terrified of the world and what is to come in it, so muc
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

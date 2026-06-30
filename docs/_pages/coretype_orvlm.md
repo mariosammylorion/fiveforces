@@ -1,8 +1,8 @@
 ---
-title: ORVLM
+title: ORVLM (XXXX)
 permalink: /type-descriptions/orvlm/
 toc: true
-toc_label: ORVLM
+toc_label: ORVLM (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | ORVLM |
 | **Co-Valuation Type** | ROVLM |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Needy Camper** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Needy Camper |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The ORVLM is happy to obey anyone who is willing to put them under their wing...
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

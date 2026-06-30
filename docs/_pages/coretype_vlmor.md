@@ -1,8 +1,8 @@
 ---
-title: VLMOR
+title: VLMOR (XXXX)
 permalink: /type-descriptions/vlmor/
 toc: true
-toc_label: VLMOR
+toc_label: VLMOR (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | VOMLR |
 | **Co-Valuation Type** | VLMRO |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Doubtful Optimist** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Doubtful Optimist |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The VLMOR individual wants to be an optimist and wants to see the glass as half 
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

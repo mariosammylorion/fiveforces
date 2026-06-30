@@ -1,8 +1,8 @@
 ---
-title: ROLVM
+title: ROLVM (XXXX)
 permalink: /type-descriptions/rolvm/
 toc: true
-toc_label: ROLVM
+toc_label: ROLVM (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | RLOVM |
 | **Co-Valuation Type** | ORLVM |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Strict Parent** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Strict Parent |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ Despite not necessarily being a literal parent per se, the ROLVM type is the clo
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

@@ -1,8 +1,8 @@
 ---
-title: RVLMO
+title: RVLMO (XXXX)
 permalink: /type-descriptions/rvlmo/
 toc: true
-toc_label: RVLMO
+toc_label: RVLMO (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | RVOML |
 | **Co-Valuation Type** | OVLMR |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Off-the-Clock Sultan** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Off-the-Clock Sultan |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ Have you ever seen your teacher outside of school (such as at the grocery store)
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

@@ -1,8 +1,8 @@
 ---
-title: LOVMR
+title: LOVMR (XXXX)
 permalink: /type-descriptions/lovmr/
 toc: true
-toc_label: LOVMR
+toc_label: LOVMR (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | OLVMR |
 | **Co-Valuation Type** | LRVMO |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Oppressed Genius** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Oppressed Genius |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The LOVMR type expresses Discovery typically on the outside like the other five 
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

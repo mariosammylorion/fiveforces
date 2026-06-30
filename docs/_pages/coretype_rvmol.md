@@ -1,8 +1,8 @@
 ---
-title: RVMOL
+title: RVMOL (XXXX)
 permalink: /type-descriptions/rvmol/
 toc: true
-toc_label: RVMOL
+toc_label: RVMOL (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | RVMLO |
 | **Co-Valuation Type** | OVMRL |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Dad Joker** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Dad Joker |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The RVMOL is a type that most other individuals love, not because of trustworthi
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

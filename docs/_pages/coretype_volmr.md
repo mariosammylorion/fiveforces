@@ -1,8 +1,8 @@
 ---
-title: VOLMR
+title: VOLMR (XXXX)
 permalink: /type-descriptions/volmr/
 toc: true
-toc_label: VOLMR
+toc_label: VOLMR (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | VLOMR |
 | **Co-Valuation Type** | VRLMO |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Mixed Signalman** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Mixed Signalman |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ Normally, the VOLMR individual is calm on the surface, if not a little fearful o
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

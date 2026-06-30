@@ -1,8 +1,8 @@
 ---
-title: MVORL
+title: MVORL (XXXX)
 permalink: /type-descriptions/mvorl/
 toc: true
-toc_label: MVORL
+toc_label: MVORL (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | MVLRO |
 | **Co-Valuation Type** | MVROL |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Eccentric Inventor** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Eccentric Inventor |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The MVORL is an inventor, able to inspire and be inspired by everything around t
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

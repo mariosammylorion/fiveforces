@@ -1,8 +1,8 @@
 ---
-title: LOMVR
+title: LOMVR (XXXX)
 permalink: /type-descriptions/lomvr/
 toc: true
-toc_label: LOMVR
+toc_label: LOMVR (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | OLMVR |
 | **Co-Valuation Type** | LRMVO |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Subversive Ascetic** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Subversive Ascetic |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ On the surface, the LOMVR individual is a master of defying facts through their 
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

@@ -1,8 +1,8 @@
 ---
-title: VLOMR
+title: VLOMR (XXXX)
 permalink: /type-descriptions/vlomr/
 toc: true
-toc_label: VLOMR
+toc_label: VLOMR (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | VOLMR |
 | **Co-Valuation Type** | VLRMO |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Validity Scholar** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Validity Scholar |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The VLOMR type is a combination of a fear for the unknown hidden by generosity (
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

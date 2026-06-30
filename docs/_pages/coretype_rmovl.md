@@ -1,8 +1,8 @@
 ---
-title: RMOVL
+title: RMOVL (XXXX)
 permalink: /type-descriptions/rmovl/
 toc: true
-toc_label: RMOVL
+toc_label: RMOVL (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | RMLVO |
 | **Co-Valuation Type** | OMRVL |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Concept Backer** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Concept Backer |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ Unlike the RMOLV, who is enthusiastic about finding new opportunities, the RMOVL
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

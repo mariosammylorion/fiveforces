@@ -1,8 +1,8 @@
 ---
-title: VMLRO
+title: VMLRO (XXXX)
 permalink: /type-descriptions/vmlro/
 toc: true
-toc_label: VMLRO
+toc_label: VMLRO (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | VMORL |
 | **Co-Valuation Type** | VMLOR |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Conspiracy Booster** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Conspiracy Booster |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The VMLRO is a leader, like all types with Ambition. However, these individuals 
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

@@ -1,8 +1,8 @@
 ---
-title: RLMOV
+title: RLMOV (XXXX)
 permalink: /type-descriptions/rlmov/
 toc: true
-toc_label: RLMOV
+toc_label: RLMOV (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | ROMLV |
 | **Co-Valuation Type** | OLMRV |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Hardy Scriptwriter** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Hardy Scriptwriter |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The RLMOV individual has a "script" when it comes to the factual world, and they
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

@@ -1,8 +1,8 @@
 ---
-title: OVLRM
+title: OVLRM (XXXX)
 permalink: /type-descriptions/ovlrm/
 toc: true
-toc_label: OVLRM
+toc_label: OVLRM (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | LVORM |
 | **Co-Valuation Type** | RVLOM |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Doppelganger Maker** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Doppelganger Maker |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The OVLRM seeks out a true partner, companion, or even something to believe in, 
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

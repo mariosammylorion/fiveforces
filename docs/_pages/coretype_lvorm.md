@@ -1,8 +1,8 @@
 ---
-title: LVORM
+title: LVORM (XXXX)
 permalink: /type-descriptions/lvorm/
 toc: true
-toc_label: LVORM
+toc_label: LVORM (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | OVLRM |
 | **Co-Valuation Type** | LVROM |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Sacrificial Devotee** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Sacrificial Devotee |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The LVORM gives way to perhaps one of the most loyal types in the entire Five Fo
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

@@ -1,8 +1,8 @@
 ---
-title: LMOVR
+title: LMOVR (XXXX)
 permalink: /type-descriptions/lmovr/
 toc: true
-toc_label: LMOVR
+toc_label: LMOVR (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | OMLVR |
 | **Co-Valuation Type** | LMRVO |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Exploratory Client** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Exploratory Client |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The LMOVR is a unique type among those with Discovery, as their breaking of the 
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

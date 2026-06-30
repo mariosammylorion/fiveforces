@@ -1,8 +1,8 @@
 ---
-title: OLMVR
+title: OLMVR (XXXX)
 permalink: /type-descriptions/olmvr/
 toc: true
-toc_label: OLMVR
+toc_label: OLMVR (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | LOMVR |
 | **Co-Valuation Type** | RLMVO |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Mental Relater** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Mental Relater |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The combination of a private realm of emotional and valuational turmoil along wi
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

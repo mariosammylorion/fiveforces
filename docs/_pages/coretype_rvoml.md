@@ -1,8 +1,8 @@
 ---
-title: RVOML
+title: RVOML (XXXX)
 permalink: /type-descriptions/rvoml/
 toc: true
-toc_label: RVOML
+toc_label: RVOML (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | RVLMO |
 | **Co-Valuation Type** | OVRML |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Funtime Bringer** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Funtime Bringer |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ It is actually quite easy to tell whether an individual is potentially an RVOML 
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

@@ -1,8 +1,8 @@
 ---
-title: LORMV
+title: LORMV (XXXX)
 permalink: /type-descriptions/lormv/
 toc: true
-toc_label: LORMV
+toc_label: LORMV (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | OLRMV |
 | **Co-Valuation Type** | LROMV |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Territory Expander** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Territory Expander |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ Out of all Five Forces types with Conquest, the LORMV is the closest literal rep
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

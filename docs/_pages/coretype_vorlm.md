@@ -1,8 +1,8 @@
 ---
-title: VORLM
+title: VORLM (XXXX)
 permalink: /type-descriptions/vorlm/
 toc: true
-toc_label: VORLM
+toc_label: VORLM (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | VLROM |
 | **Co-Valuation Type** | VROLM |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Experience Guardian** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Experience Guardian |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The VORLM individual is a type that is not primarily *politically* conservative,
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

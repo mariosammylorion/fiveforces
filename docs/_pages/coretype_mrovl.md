@@ -1,8 +1,8 @@
 ---
-title: MROVL
+title: MROVL (XXXX)
 permalink: /type-descriptions/mrovl/
 toc: true
-toc_label: MROVL
+toc_label: MROVL (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | MRLVO |
 | **Co-Valuation Type** | MORVL |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Folly Expert** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Folly Expert |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ If the MROVL type had a life motto, it would be this: "All I know is that I don'
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

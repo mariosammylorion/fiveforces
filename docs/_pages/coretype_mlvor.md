@@ -1,8 +1,8 @@
 ---
-title: MLVOR
+title: MLVOR (XXXX)
 permalink: /type-descriptions/mlvor/
 toc: true
-toc_label: MLVOR
+toc_label: MLVOR (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | MOVLR |
 | **Co-Valuation Type** | MLVRO |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Expressive Inquirer** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Expressive Inquirer |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The MLVOR type yearns for expressing themselves to their people. Yet at the same
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

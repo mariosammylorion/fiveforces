@@ -1,8 +1,8 @@
 ---
-title: RLOVM
+title: RLOVM (XXXX)
 permalink: /type-descriptions/rlovm/
 toc: true
-toc_label: RLOVM
+toc_label: RLOVM (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | ROLVM |
 | **Co-Valuation Type** | OLRVM |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Task Completer** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Task Completer |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ Ironically, the RLOMV type, which has Completion, is less focused on task comple
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

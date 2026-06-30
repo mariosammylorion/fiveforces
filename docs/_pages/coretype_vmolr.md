@@ -1,8 +1,8 @@
 ---
-title: VMOLR
+title: VMOLR (XXXX)
 permalink: /type-descriptions/vmolr/
 toc: true
-toc_label: VMOLR
+toc_label: VMOLR (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | VMLOR |
 | **Co-Valuation Type** | VMRLO |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Auspicious Captain** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Auspicious Captain |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The VMOLR type is the closest representative type to a leader who desires to bri
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

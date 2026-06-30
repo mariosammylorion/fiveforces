@@ -1,8 +1,8 @@
 ---
-title: OMLRV
+title: OMLRV (XXXX)
 permalink: /type-descriptions/omlrv/
 toc: true
-toc_label: OMLRV
+toc_label: OMLRV (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | LMORV |
 | **Co-Valuation Type** | RMLOV |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Truth-Seeking Conservator** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Truth-Seeking Conservator |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The OMLRV individual, early on, has built for themselves their own objective opi
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

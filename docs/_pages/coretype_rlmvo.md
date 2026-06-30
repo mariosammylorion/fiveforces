@@ -1,8 +1,8 @@
 ---
-title: RLMVO
+title: RLMVO (XXXX)
 permalink: /type-descriptions/rlmvo/
 toc: true
-toc_label: RLMVO
+toc_label: RLMVO (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | ROMVL |
 | **Co-Valuation Type** | OLMVR |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Filtered Defeatist** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Filtered Defeatist |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ It may be hard to tell that the RLMVO type is one that experiences torment about
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

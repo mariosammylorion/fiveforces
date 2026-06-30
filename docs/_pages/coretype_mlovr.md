@@ -1,8 +1,8 @@
 ---
-title: MLOVR
+title: MLOVR (XXXX)
 permalink: /type-descriptions/mlovr/
 toc: true
-toc_label: MLOVR
+toc_label: MLOVR (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | MOLVR |
 | **Co-Valuation Type** | MLRVO |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Jaded Bookworm** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Jaded Bookworm |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The MLOVR individual, like all Doubters, struggles with the concept of personal 
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

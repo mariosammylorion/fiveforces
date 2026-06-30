@@ -1,8 +1,8 @@
 ---
-title: MRVOL
+title: MRVOL (XXXX)
 permalink: /type-descriptions/mrvol/
 toc: true
-toc_label: MRVOL
+toc_label: MRVOL (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | MRVLO |
 | **Co-Valuation Type** | MOVRL |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Provocative Artist** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Provocative Artist |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The MRVOL is characterized by an unapologetic expression of personal values thro
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

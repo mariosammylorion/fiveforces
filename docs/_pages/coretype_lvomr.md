@@ -1,8 +1,8 @@
 ---
-title: LVOMR
+title: LVOMR (XXXX)
 permalink: /type-descriptions/lvomr/
 toc: true
-toc_label: LVOMR
+toc_label: LVOMR (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | OVLMR |
 | **Co-Valuation Type** | LVRMO |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Faith Bender** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Faith Bender |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The LVOMR individual makes it their life duty to cling onto an external value sy
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

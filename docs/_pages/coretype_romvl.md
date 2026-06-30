@@ -1,8 +1,8 @@
 ---
-title: ROMVL
+title: ROMVL (XXXX)
 permalink: /type-descriptions/romvl/
 toc: true
-toc_label: ROMVL
+toc_label: ROMVL (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | RLMVO |
 | **Co-Valuation Type** | ORMVL |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Discontent Celebrity** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Discontent Celebrity |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ Recall that I described Uninhibited-Private 2O with the metaphor of an actor who
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

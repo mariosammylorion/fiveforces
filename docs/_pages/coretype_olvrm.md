@@ -1,8 +1,8 @@
 ---
-title: OLVRM
+title: OLVRM (XXXX)
 permalink: /type-descriptions/olvrm/
 toc: true
-toc_label: OLVRM
+toc_label: OLVRM (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | LOVRM |
 | **Co-Valuation Type** | RLVOM |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Rulebook Adherent** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Rulebook Adherent |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The OLVRM is a generally unlucky individual, so they seek an external rulebook t
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

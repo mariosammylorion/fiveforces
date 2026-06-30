@@ -1,8 +1,8 @@
 ---
-title: MRLVO
+title: MRLVO (XXXX)
 permalink: /type-descriptions/mrlvo/
 toc: true
-toc_label: MRLVO
+toc_label: MRLVO (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | MROVL |
 | **Co-Valuation Type** | MOLVR |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Wounded Satirist** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Wounded Satirist |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ Just like the MRLOV, the MRLVO type wants to spread its logical influence toward
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

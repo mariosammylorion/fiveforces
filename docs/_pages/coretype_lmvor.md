@@ -1,8 +1,8 @@
 ---
-title: LMVOR
+title: LMVOR (XXXX)
 permalink: /type-descriptions/lmvor/
 toc: true
-toc_label: LMVOR
+toc_label: LMVOR (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | OMVLR |
 | **Co-Valuation Type** | LMVRO |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Desire Remixer** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Desire Remixer |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The LMVOR individual is a master at appealing to people and their dreams. But wh
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

@@ -1,8 +1,8 @@
 ---
-title: MVOLR
+title: MVOLR (XXXX)
 permalink: /type-descriptions/mvolr/
 toc: true
-toc_label: MVOLR
+toc_label: MVOLR (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | MVLOR |
 | **Co-Valuation Type** | MVRLO |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Wonder Builder** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Wonder Builder |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The MVOLR individual lives in a dreamy world of outside values they have obtaine
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

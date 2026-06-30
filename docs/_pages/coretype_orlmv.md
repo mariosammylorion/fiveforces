@@ -1,8 +1,8 @@
 ---
-title: ORLMV
+title: ORLMV (XXXX)
 permalink: /type-descriptions/orlmv/
 toc: true
-toc_label: ORLMV
+toc_label: ORLMV (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | LROMV |
 | **Co-Valuation Type** | ROLMV |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Intellectual Insister** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Intellectual Insister |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The ORLMV is an individual who is confident in their opinions, and so they feel 
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

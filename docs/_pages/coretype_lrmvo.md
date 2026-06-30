@@ -1,8 +1,8 @@
 ---
-title: LRMVO
+title: LRMVO (XXXX)
 permalink: /type-descriptions/lrmvo/
 toc: true
-toc_label: LRMVO
+toc_label: LRMVO (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | ORMVL |
 | **Co-Valuation Type** | LOMVR |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Private Victim** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Private Victim |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ On the surface, the LRMVO individual is one who never lets their logic go agains
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

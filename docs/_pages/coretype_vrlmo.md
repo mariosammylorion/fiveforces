@@ -1,8 +1,8 @@
 ---
-title: VRLMO
+title: VRLMO (XXXX)
 permalink: /type-descriptions/vrlmo/
 toc: true
-toc_label: VRLMO
+toc_label: VRLMO (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | VROML |
 | **Co-Valuation Type** | VOLMR |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Shy Influencer** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Shy Influencer |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The VRLMO wishes to influence the masses through their intellect, and they often
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

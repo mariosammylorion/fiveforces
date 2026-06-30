@@ -1,8 +1,8 @@
 ---
-title: RVMLO
+title: RVMLO (XXXX)
 permalink: /type-descriptions/rvmlo/
 toc: true
-toc_label: RVMLO
+toc_label: RVMLO (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | RVMOL |
 | **Co-Valuation Type** | OVMLR |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Spiritual Healer** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Spiritual Healer |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ While many personality types in other systems are designated as "healers" despit
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

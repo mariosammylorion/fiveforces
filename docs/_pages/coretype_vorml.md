@@ -1,8 +1,8 @@
 ---
-title: VORML
+title: VORML (XXXX)
 permalink: /type-descriptions/vorml/
 toc: true
-toc_label: VORML
+toc_label: VORML (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | VLRMO |
 | **Co-Valuation Type** | VROML |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Doomsday Prepper** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Doomsday Prepper |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The VORML is an inherently pessimist type, but one wouldn't know that right away
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

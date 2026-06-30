@@ -1,8 +1,8 @@
 ---
-title: LRMOV
+title: LRMOV (XXXX)
 permalink: /type-descriptions/lrmov/
 toc: true
-toc_label: LRMOV
+toc_label: LRMOV (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | ORMLV |
 | **Co-Valuation Type** | LOMRV |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Unsmiling Rationalist** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Unsmiling Rationalist |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The LRMOV type is marked by a factual and logical humility, just like all other 
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

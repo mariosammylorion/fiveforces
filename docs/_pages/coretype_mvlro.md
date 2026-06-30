@@ -1,8 +1,8 @@
 ---
-title: MVLRO
+title: MVLRO (XXXX)
 permalink: /type-descriptions/mvlro/
 toc: true
-toc_label: MVLRO
+toc_label: MVLRO (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | MVORL |
 | **Co-Valuation Type** | MVLOR |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Motivated Truther** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Motivated Truther |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The MVLRO constantly seeks inspiration and value from the world around them, whi
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

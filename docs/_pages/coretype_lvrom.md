@@ -1,8 +1,8 @@
 ---
-title: LVROM
+title: LVROM (XXXX)
 permalink: /type-descriptions/lvrom/
 toc: true
-toc_label: LVROM
+toc_label: LVROM (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | OVRLM |
 | **Co-Valuation Type** | LVORM |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Loving Comrade** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Loving Comrade |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The LVROM is a true, loyal comrade in every sense of the word, always willing to
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

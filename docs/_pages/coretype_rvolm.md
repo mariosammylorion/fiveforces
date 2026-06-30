@@ -1,8 +1,8 @@
 ---
-title: RVOLM
+title: RVOLM (XXXX)
 permalink: /type-descriptions/rvolm/
 toc: true
-toc_label: RVOLM
+toc_label: RVOLM (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | RVLOM |
 | **Co-Valuation Type** | OVRLM |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Thoughtful Companion** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Thoughtful Companion |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ Simply put, the RVOLM individual is perhaps one of the best companions that you 
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

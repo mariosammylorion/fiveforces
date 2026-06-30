@@ -1,8 +1,8 @@
 ---
-title: VOMLR
+title: VOMLR (XXXX)
 permalink: /type-descriptions/vomlr/
 toc: true
-toc_label: VOMLR
+toc_label: VOMLR (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | VLMOR |
 | **Co-Valuation Type** | VRMLO |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Eternal Child** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Eternal Child |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ To the VOMLR individual, life really is all sunshine and rainbows. This is all t
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

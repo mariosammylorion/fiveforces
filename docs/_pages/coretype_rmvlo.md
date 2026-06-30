@@ -1,8 +1,8 @@
 ---
-title: RMVLO
+title: RMVLO (XXXX)
 permalink: /type-descriptions/rmvlo/
 toc: true
-toc_label: RMVLO
+toc_label: RMVLO (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | RMVOL |
 | **Co-Valuation Type** | OMVLR |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Need Fulfiller** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Need Fulfiller |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The RMVLO individual has a gift of being able to sense the needs of others, as w
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

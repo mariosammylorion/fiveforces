@@ -1,8 +1,8 @@
 ---
-title: MORVL
+title: MORVL (XXXX)
 permalink: /type-descriptions/morvl/
 toc: true
-toc_label: MORVL
+toc_label: MORVL (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | MLRVO |
 | **Co-Valuation Type** | MROVL |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Self-Aware Hedonist** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Self-Aware Hedonist |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The MORVL contains perhaps one of the most apparent and egregious expressions of
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

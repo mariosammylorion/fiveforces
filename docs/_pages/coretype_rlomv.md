@@ -1,8 +1,8 @@
 ---
-title: RLOMV
+title: RLOMV (XXXX)
 permalink: /type-descriptions/rlomv/
 toc: true
-toc_label: RLOMV
+toc_label: RLOMV (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | ROLMV |
 | **Co-Valuation Type** | OLRMV |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Pride Diffuser** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Pride Diffuser |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The RLOMV gives way to perhaps one of the most arrogant types in the entire Five
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

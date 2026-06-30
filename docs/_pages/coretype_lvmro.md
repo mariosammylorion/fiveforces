@@ -1,8 +1,8 @@
 ---
-title: LVMRO
+title: LVMRO (XXXX)
 permalink: /type-descriptions/lvmro/
 toc: true
-toc_label: LVMRO
+toc_label: LVMRO (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | OVMRL |
 | **Co-Valuation Type** | LVMOR |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Fearful Believer** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Fearful Believer |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The LVMRO individual affirms their faith that came from outside them and wishes 
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

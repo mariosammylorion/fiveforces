@@ -1,8 +1,8 @@
 ---
-title: VOMRL
+title: VOMRL (XXXX)
 permalink: /type-descriptions/vomrl/
 toc: true
-toc_label: VOMRL
+toc_label: VOMRL (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | VLMRO |
 | **Co-Valuation Type** | VRMOL |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Underdone Dreamer** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Underdone Dreamer |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The VOMRL individual's vision for the world is one free of facts or logic, which
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

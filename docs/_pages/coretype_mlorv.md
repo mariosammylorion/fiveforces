@@ -1,8 +1,8 @@
 ---
-title: MLORV
+title: MLORV (XXXX)
 permalink: /type-descriptions/mlorv/
 toc: true
-toc_label: MLORV
+toc_label: MLORV (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | MOLRV |
 | **Co-Valuation Type** | MLROV |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Corrective Enforcer** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Corrective Enforcer |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ To put it in one way, the MLORV type is the living embodiment of the phrase, "Er
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

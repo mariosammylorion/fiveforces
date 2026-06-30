@@ -1,8 +1,8 @@
 ---
-title: OMVRL
+title: OMVRL (XXXX)
 permalink: /type-descriptions/omvrl/
 toc: true
-toc_label: OMVRL
+toc_label: OMVRL (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | LMVRO |
 | **Co-Valuation Type** | RMVOL |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Self-Serving Champion** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Self-Serving Champion |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The OMVRL type is quite similar to the OMVLR in which they are somewhat "selfish
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

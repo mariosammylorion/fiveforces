@@ -1,8 +1,8 @@
 ---
-title: MROLV
+title: MROLV (XXXX)
 permalink: /type-descriptions/mrolv/
 toc: true
-toc_label: MROLV
+toc_label: MROLV (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | MRLOV |
 | **Co-Valuation Type** | MORLV |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Factoid Spammer** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Factoid Spammer |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ A select number of individuals are characterized by an incessant need to talk ab
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

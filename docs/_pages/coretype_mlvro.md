@@ -1,8 +1,8 @@
 ---
-title: MLVRO
+title: MLVRO (XXXX)
 permalink: /type-descriptions/mlvro/
 toc: true
-toc_label: MLVRO
+toc_label: MLVRO (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | MOVRL |
 | **Co-Valuation Type** | MLVOR |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Conformant Creator** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Conformant Creator |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ Simply put, the MLVRO is a walking contradiction. On the one hand, individuals o
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

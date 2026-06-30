@@ -1,8 +1,8 @@
 ---
-title: OMLVR
+title: OMLVR (XXXX)
 permalink: /type-descriptions/omlvr/
 toc: true
-toc_label: OMLVR
+toc_label: OMLVR (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | LMOVR |
 | **Co-Valuation Type** | RMLVO |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Conditional Patient** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Conditional Patient |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The OMLVR individual wants to deal with their pain just like the other five Pall
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

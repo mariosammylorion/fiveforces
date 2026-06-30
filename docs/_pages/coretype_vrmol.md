@@ -1,8 +1,8 @@
 ---
-title: VRMOL
+title: VRMOL (XXXX)
 permalink: /type-descriptions/vrmol/
 toc: true
-toc_label: VRMOL
+toc_label: VRMOL (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | VRMLO |
 | **Co-Valuation Type** | VOMRL |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Diehard Good-Timer** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Diehard Good-Timer |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ If the RVOML individual is one that brings a good time to everyone, the VRMOL is
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

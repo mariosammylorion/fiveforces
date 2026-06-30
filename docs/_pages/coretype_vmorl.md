@@ -1,8 +1,8 @@
 ---
-title: VMORL
+title: VMORL (XXXX)
 permalink: /type-descriptions/vmorl/
 toc: true
-toc_label: VMORL
+toc_label: VMORL (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | VMLRO |
 | **Co-Valuation Type** | VMROL |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Emotional Leader** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Emotional Leader |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The VMORL individual makes for a potentially excellent, if not scary, leader, wi
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

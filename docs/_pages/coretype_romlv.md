@@ -1,8 +1,8 @@
 ---
-title: ROMLV
+title: ROMLV (XXXX)
 permalink: /type-descriptions/romlv/
 toc: true
-toc_label: ROMLV
+toc_label: ROMLV (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | RLMOV |
 | **Co-Valuation Type** | ORMLV |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Spirit Snuffer** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Spirit Snuffer |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The ROMLV is always paying attention to its environment...with the sole purpose 
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

@@ -1,8 +1,8 @@
 ---
-title: VROLM
+title: VROLM (XXXX)
 permalink: /type-descriptions/vrolm/
 toc: true
-toc_label: VROLM
+toc_label: VROLM (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | VRLOM |
 | **Co-Valuation Type** | VORLM |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Authority Parroter** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Authority Parroter |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The VROLM personality type is the equivalent of a person telling you off of some
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

@@ -1,8 +1,8 @@
 ---
-title: VLORM
+title: VLORM (XXXX)
 permalink: /type-descriptions/vlorm/
 toc: true
-toc_label: VLORM
+toc_label: VLORM (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | VOLRM |
 | **Co-Valuation Type** | VLROM |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Tradition Follower** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Tradition Follower |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The VLORM individual is a passionate conservative, championing and following the
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

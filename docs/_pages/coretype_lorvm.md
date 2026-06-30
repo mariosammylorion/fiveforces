@@ -1,8 +1,8 @@
 ---
-title: LORVM
+title: LORVM (XXXX)
 permalink: /type-descriptions/lorvm/
 toc: true
-toc_label: LORVM
+toc_label: LORVM (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | OLRVM |
 | **Co-Valuation Type** | LROVM |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Pensive Obtainer** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Pensive Obtainer |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ Like the LORMV, the LORVM individual seeks to spread their idea of reality. But 
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

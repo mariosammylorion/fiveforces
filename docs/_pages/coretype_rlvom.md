@@ -1,8 +1,8 @@
 ---
-title: RLVOM
+title: RLVOM (XXXX)
 permalink: /type-descriptions/rlvom/
 toc: true
-toc_label: RLVOM
+toc_label: RLVOM (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | ROVLM |
 | **Co-Valuation Type** | OLVRM |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Sensitive Demonstrator** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Sensitive Demonstrator |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The RLVOM type is outwardly physical, but behind this physical prowess is a worl
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

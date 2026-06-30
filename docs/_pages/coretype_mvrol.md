@@ -1,8 +1,8 @@
 ---
-title: MVROL
+title: MVROL (XXXX)
 permalink: /type-descriptions/mvrol/
 toc: true
-toc_label: MVROL
+toc_label: MVROL (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | MVRLO |
 | **Co-Valuation Type** | MVROL |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Vision Chaser** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Vision Chaser |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The primary goal of the MVROL is to both be inspired and to inspire. Their way o
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

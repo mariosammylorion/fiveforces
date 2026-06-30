@@ -1,8 +1,8 @@
 ---
-title: LMRVO
+title: LMRVO (XXXX)
 permalink: /type-descriptions/lmrvo/
 toc: true
-toc_label: LMRVO
+toc_label: LMRVO (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | OMRVL |
 | **Co-Valuation Type** | LMOVR |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Gloomy Czar** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Gloomy Czar |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The LMRVO type possesses sense of wanting to expand one's factual territory thro
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

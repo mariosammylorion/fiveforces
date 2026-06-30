@@ -1,8 +1,8 @@
 ---
-title: ROVLM
+title: ROVLM (XXXX)
 permalink: /type-descriptions/rovlm/
 toc: true
-toc_label: ROVLM
+toc_label: ROVLM (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | RLVOM |
 | **Co-Valuation Type** | ORVLM |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Vigilant Observer** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Vigilant Observer |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The ROVLM type is a combination of deeply hidden personal values that they do no
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

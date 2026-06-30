@@ -1,8 +1,8 @@
 ---
-title: VMRLO
+title: VMRLO (XXXX)
 permalink: /type-descriptions/vmrlo/
 toc: true
-toc_label: VMRLO
+toc_label: VMRLO (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | VMROL |
 | **Co-Valuation Type** | VMOLR |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Presidential Stockpiler** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Presidential Stockpiler |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ Out of all six types with Ambition, the VMRLO is perhaps the most selfish. This 
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

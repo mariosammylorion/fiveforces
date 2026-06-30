@@ -1,8 +1,8 @@
 ---
-title: ROVML
+title: ROVML (XXXX)
 permalink: /type-descriptions/rovml/
 toc: true
-toc_label: ROVML
+toc_label: ROVML (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | RLVMO |
 | **Co-Valuation Type** | ORVML |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Fervent Worrier** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Fervent Worrier |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ Looks can be deceiving; although the ROVML has a strong factual presence and app
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

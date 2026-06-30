@@ -1,8 +1,8 @@
 ---
-title: MVRLO
+title: MVRLO (XXXX)
 permalink: /type-descriptions/mvrlo/
 toc: true
-toc_label: MVRLO
+toc_label: MVRLO (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | MVROL |
 | **Co-Valuation Type** | MVOLR |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Inspired Taker** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Inspired Taker |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The MVRLO individual, like all types with Inspiration, seek to be inspired by an
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

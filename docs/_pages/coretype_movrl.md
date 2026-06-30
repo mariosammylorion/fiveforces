@@ -1,8 +1,8 @@
 ---
-title: MOVRL
+title: MOVRL (XXXX)
 permalink: /type-descriptions/movrl/
 toc: true
-toc_label: MOVRL
+toc_label: MOVRL (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | MLVRO |
 | **Co-Valuation Type** | MRVOL |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Stubborn Expresser** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Stubborn Expresser |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The MOVRL is a type in which they wish to express themselves creatively to their
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

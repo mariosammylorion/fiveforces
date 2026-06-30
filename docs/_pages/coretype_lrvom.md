@@ -1,8 +1,8 @@
 ---
-title: LRVOM
+title: LRVOM (XXXX)
 permalink: /type-descriptions/lrvom/
 toc: true
-toc_label: LRVOM
+toc_label: LRVOM (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | ORVLM |
 | **Co-Valuation Type** | LOVRM |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Orthodox Reporter** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Orthodox Reporter |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The LRVOM is a factually and logically honest individual, always reporting nothi
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

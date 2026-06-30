@@ -1,8 +1,8 @@
 ---
-title: LMROV
+title: LMROV (XXXX)
 permalink: /type-descriptions/lmrov/
 toc: true
-toc_label: LMROV
+toc_label: LMROV (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | OMRLV |
 | **Co-Valuation Type** | LMORV |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Novelty Straddler** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Novelty Straddler |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The LMROV can best be described as the conflict of the desire to expand one's id
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

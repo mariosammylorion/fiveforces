@@ -1,8 +1,8 @@
 ---
-title: LMVRO
+title: LMVRO (XXXX)
 permalink: /type-descriptions/lmvro/
 toc: true
-toc_label: LMVRO
+toc_label: LMVRO (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | OMVRL |
 | **Co-Valuation Type** | LMVOR |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Quiet Protester** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Quiet Protester |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The LMVRO type is a combination of two seemingly contradictory traits: an anxiou
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

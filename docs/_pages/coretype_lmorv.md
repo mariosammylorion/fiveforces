@@ -1,8 +1,8 @@
 ---
-title: LMORV
+title: LMORV (XXXX)
 permalink: /type-descriptions/lmorv/
 toc: true
-toc_label: LMORV
+toc_label: LMORV (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | OMLRV |
 | **Co-Valuation Type** | LMROV |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Vexing Suggester** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Vexing Suggester |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The LMORV gives the impression of a quiet, anxious, and (to put it bluntly) emot
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

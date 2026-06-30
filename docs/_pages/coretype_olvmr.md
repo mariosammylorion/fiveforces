@@ -1,8 +1,8 @@
 ---
-title: OLVMR
+title: OLVMR (XXXX)
 permalink: /type-descriptions/olvmr/
 toc: true
-toc_label: OLVMR
+toc_label: OLVMR (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | LOVMR |
 | **Co-Valuation Type** | RLVMO |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Persecutory Justifier** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Persecutory Justifier |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The OLVMR individual lives life as if someone, or everyone, is out to get them. 
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

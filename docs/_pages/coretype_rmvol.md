@@ -1,8 +1,8 @@
 ---
-title: RMVOL
+title: RMVOL (XXXX)
 permalink: /type-descriptions/rmvol/
 toc: true
-toc_label: RMVOL
+toc_label: RMVOL (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | RMVLO |
 | **Co-Valuation Type** | OMVRL |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Roaring Rioter** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Roaring Rioter |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ With the RMVOL type, all the stars align in a way that makes for one of the most
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

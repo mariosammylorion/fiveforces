@@ -1,8 +1,8 @@
 ---
-title: OLRVM
+title: OLRVM (XXXX)
 permalink: /type-descriptions/olrvm/
 toc: true
-toc_label: OLRVM
+toc_label: OLRVM (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | LORVM |
 | **Co-Valuation Type** | RLOVM |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Static Ruler** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Static Ruler |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The OLRVM individual is characterized by an ability to oversee all kinds of oper
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

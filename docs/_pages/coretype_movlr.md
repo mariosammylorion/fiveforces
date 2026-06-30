@@ -1,8 +1,8 @@
 ---
-title: MOVLR
+title: MOVLR (XXXX)
 permalink: /type-descriptions/movlr/
 toc: true
-toc_label: MOVLR
+toc_label: MOVLR (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | MLVOR |
 | **Co-Valuation Type** | MRVLO |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Innocent Artisan** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Innocent Artisan |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The MOVLR wants to spread their ideas and novelty to the people they care most a
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

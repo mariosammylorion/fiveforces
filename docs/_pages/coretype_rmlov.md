@@ -1,8 +1,8 @@
 ---
-title: RMLOV
+title: RMLOV (XXXX)
 permalink: /type-descriptions/rmlov/
 toc: true
-toc_label: RMLOV
+toc_label: RMLOV (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | RMOLV |
 | **Co-Valuation Type** | OMLRV |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Distracted Mentor** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Distracted Mentor |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The RMLOV wants to be the best educator they can be to those who are willing to 
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

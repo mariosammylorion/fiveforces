@@ -1,8 +1,8 @@
 ---
-title: MRVLO
+title: MRVLO (XXXX)
 permalink: /type-descriptions/mrvlo/
 toc: true
-toc_label: MRVLO
+toc_label: MRVLO (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | MRVOL |
 | **Co-Valuation Type** | MOVLR |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Rebellious Student** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Rebellious Student |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ By day, the MRVLO individual is an eternal student to the outside world. They do
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

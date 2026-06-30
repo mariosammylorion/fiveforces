@@ -1,8 +1,8 @@
 ---
-title: VLMRO
+title: VLMRO (XXXX)
 permalink: /type-descriptions/vlmro/
 toc: true
-toc_label: VLMRO
+toc_label: VLMRO (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | VOMRL |
 | **Co-Valuation Type** | VLMOR |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Lawful Sanguine** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Lawful Sanguine |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The VLMRO is an optimist in every sense of the word, but one wouldn't know that 
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

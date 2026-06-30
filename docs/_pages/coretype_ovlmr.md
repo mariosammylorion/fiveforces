@@ -1,8 +1,8 @@
 ---
-title: OVLMR
+title: OVLMR (XXXX)
 permalink: /type-descriptions/ovlmr/
 toc: true
-toc_label: OVLMR
+toc_label: OVLMR (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | LVOMR |
 | **Co-Valuation Type** | RVLMO |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Desperate Housewife** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Desperate Housewife |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ Both the MVLOR and the OVLMR types possess a devotion  that they do not wish to 
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

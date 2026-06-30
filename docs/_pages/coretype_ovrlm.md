@@ -1,8 +1,8 @@
 ---
-title: OVRLM
+title: OVRLM (XXXX)
 permalink: /type-descriptions/ovrlm/
 toc: true
-toc_label: OVRLM
+toc_label: OVRLM (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | LVROM |
 | **Co-Valuation Type** | RVOLM |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Happy Hoarder** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Happy Hoarder |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The OVRLM is marked by a devotion to an external value system (or other people) 
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

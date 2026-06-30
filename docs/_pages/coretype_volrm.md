@@ -1,8 +1,8 @@
 ---
-title: VOLRM
+title: VOLRM (XXXX)
 permalink: /type-descriptions/volrm/
 toc: true
-toc_label: VOLRM
+toc_label: VOLRM (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | VLORM |
 | **Co-Valuation Type** | VRLOM |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Unlucky Theorist** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Unlucky Theorist |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The VOLRM individual is perhaps the closest we are ever going to get to a Republ
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

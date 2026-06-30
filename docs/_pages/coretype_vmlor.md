@@ -1,8 +1,8 @@
 ---
-title: VMLOR
+title: VMLOR (XXXX)
 permalink: /type-descriptions/vmlor/
 toc: true
-toc_label: VMLOR
+toc_label: VMLOR (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | VMOLR |
 | **Co-Valuation Type** | VMLRO |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Self-Assured Showrunner** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Self-Assured Showrunner |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ It is incredibly obvious to the naked eye that the VMLOR individual holds sacros
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

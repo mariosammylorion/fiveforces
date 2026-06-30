@@ -1,8 +1,8 @@
 ---
-title: MLRVO
+title: MLRVO (XXXX)
 permalink: /type-descriptions/mlrvo/
 toc: true
-toc_label: MLRVO
+toc_label: MLRVO (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | MORVL |
 | **Co-Valuation Type** | MLOVR |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Troubled Boss** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Troubled Boss |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ Like the MLROV, the MLRVO individual wishes to spread their idea of reality thro
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

@@ -1,8 +1,8 @@
 ---
-title: LOVRM
+title: LOVRM (XXXX)
 permalink: /type-descriptions/lovrm/
 toc: true
-toc_label: LOVRM
+toc_label: LOVRM (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | OLVRM |
 | **Co-Valuation Type** | LRVOM |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Voluntary Sufferer** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Voluntary Sufferer |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The LOVRM type is perhaps the unluckiest in the entire Five Forces system. On to
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

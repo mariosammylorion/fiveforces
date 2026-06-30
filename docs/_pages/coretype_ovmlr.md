@@ -1,8 +1,8 @@
 ---
-title: OVMLR
+title: OVMLR (XXXX)
 permalink: /type-descriptions/ovmlr/
 toc: true
-toc_label: OVMLR
+toc_label: OVMLR (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | LVMOR |
 | **Co-Valuation Type** | RVMLO |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Good Vibes Bearer** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Good Vibes Bearer |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ Simply put, the OVMLR individual lives freely without a single care in the world
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

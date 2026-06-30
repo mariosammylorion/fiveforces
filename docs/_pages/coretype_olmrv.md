@@ -1,8 +1,8 @@
 ---
-title: OLMRV
+title: OLMRV (XXXX)
 permalink: /type-descriptions/olmrv/
 toc: true
-toc_label: OLMRV
+toc_label: OLMRV (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | LOMRV |
 | **Co-Valuation Type** | RLMOV |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Unfeeling Disciple** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Unfeeling Disciple |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The OLMRV, like all types with Obedience, clings onto a rulebook or authority fi
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

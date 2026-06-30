@@ -1,8 +1,8 @@
 ---
-title: RVLOM
+title: RVLOM (XXXX)
 permalink: /type-descriptions/rvlom/
 toc: true
-toc_label: RVLOM
+toc_label: RVLOM (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | RVOLM |
 | **Co-Valuation Type** | OVLRM |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Obliging Teacher** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Obliging Teacher |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ Despite being called "Pedagogy," this Brain subtype does not often manifest as a
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

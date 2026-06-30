@@ -1,8 +1,8 @@
 ---
-title: OLRMV
+title: OLRMV (XXXX)
 permalink: /type-descriptions/olrmv/
 toc: true
-toc_label: OLRMV
+toc_label: OLRMV (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | LORMV |
 | **Co-Valuation Type** | RLOMV |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Eagle-Eyed Supervisor** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Eagle-Eyed Supervisor |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ To put it bluntly, the OLRMV type is the closest representative to that do-nothi
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

@@ -1,8 +1,8 @@
 ---
-title: MOLVR
+title: MOLVR (XXXX)
 permalink: /type-descriptions/molvr/
 toc: true
-toc_label: MOLVR
+toc_label: MOLVR (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | MLOVR |
 | **Co-Valuation Type** | MRLVO |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Ignorant Brainiac** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Ignorant Brainiac |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The MOLVR individual is characterized by a heightened sense of egotism surroundi
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

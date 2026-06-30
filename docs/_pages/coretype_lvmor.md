@@ -1,8 +1,8 @@
 ---
-title: LVMOR
+title: LVMOR (XXXX)
 permalink: /type-descriptions/lvmor/
 toc: true
-toc_label: LVMOR
+toc_label: LVMOR (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | OVMLR |
 | **Co-Valuation Type** | LVMRO |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Rule-Bending Sage** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Rule-Bending Sage |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The LVMOR combines a devotion to one's faith and a desire to spread this faith; 
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

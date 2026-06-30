@@ -1,8 +1,8 @@
 ---
-title: ORMVL
+title: ORMVL (XXXX)
 permalink: /type-descriptions/ormvl/
 toc: true
-toc_label: ORMVL
+toc_label: ORMVL (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | LRMVO |
 | **Co-Valuation Type** | ROMVL |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The False Repeater** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The False Repeater |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The ORMVL individual has perhaps the most unusual sense of Naivety out of all si
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

@@ -1,8 +1,8 @@
 ---
-title: OMVLR
+title: OMVLR (XXXX)
 permalink: /type-descriptions/omvlr/
 toc: true
-toc_label: OMVLR
+toc_label: OMVLR (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | LMVOR |
 | **Co-Valuation Type** | RMVLO |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Dream Warper** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Dream Warper |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The OMVLR gives the impression of an activist, always willing to stand up for th
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

@@ -1,8 +1,8 @@
 ---
-title: RMLVO
+title: RMLVO (XXXX)
 permalink: /type-descriptions/rmlvo/
 toc: true
-toc_label: RMLVO
+toc_label: RMLVO (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | RMOVL |
 | **Co-Valuation Type** | OMLVR |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Painful Orator** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Painful Orator |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The RMLVO individual wishes to speak what they know to an audience, where *they*
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

@@ -1,8 +1,8 @@
 ---
-title: ORLVM
+title: ORLVM (XXXX)
 permalink: /type-descriptions/orlvm/
 toc: true
-toc_label: ORLVM
+toc_label: ORLVM (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | LROVM |
 | **Co-Valuation Type** | ROLVM |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Factual Correspondent** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Factual Correspondent |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ A perfect metaphor to encapsulate what the ORLVM entails is a stern journalist w
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

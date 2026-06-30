@@ -1,8 +1,8 @@
 ---
-title: MRLOV
+title: MRLOV (XXXX)
 permalink: /type-descriptions/mrlov/
 toc: true
-toc_label: MRLOV
+toc_label: MRLOV (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | MROLV |
 | **Co-Valuation Type** | MOLRV |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Master Debater** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Master Debater |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The MRLOV individual thinks early on in their life that they have the intellectu
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

@@ -1,8 +1,8 @@
 ---
-title: LOMRV
+title: LOMRV (XXXX)
 permalink: /type-descriptions/lomrv/
 toc: true
-toc_label: LOMRV
+toc_label: LOMRV (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | OLMRV |
 | **Co-Valuation Type** | LRMOV |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Paranoid Android** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Paranoid Android |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ To any other person, it seems that the only emotion the LOMRV individual ever fe
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

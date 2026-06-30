@@ -1,8 +1,8 @@
 ---
-title: RLVMO
+title: RLVMO (XXXX)
 permalink: /type-descriptions/rlvmo/
 toc: true
-toc_label: RLVMO
+toc_label: RLVMO (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | ROVML |
 | **Co-Valuation Type** | OLVMR |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Covert Prey** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Covert Prey |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ You may not know it at first glance, but RLVMO individuals are easy targets...at
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

@@ -1,8 +1,8 @@
 ---
-title: MLROV
+title: MLROV (XXXX)
 permalink: /type-descriptions/mlrov/
 toc: true
-toc_label: MLROV
+toc_label: MLROV (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | MORLV |
 | **Co-Valuation Type** | MLORV |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Head Honcho** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Head Honcho |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ Simply put, the MLROV individual is a force to be reckoned with. They are charac
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

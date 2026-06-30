@@ -1,8 +1,8 @@
 ---
-title: VMROL
+title: VMROL (XXXX)
 permalink: /type-descriptions/vmrol/
 toc: true
-toc_label: VMROL
+toc_label: VMROL (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | VMRLO |
 | **Co-Valuation Type** | VMORL |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Energetic Go-Getter** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Energetic Go-Getter |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ In essence, the VMROL individual lives for the dream of getting what they desire
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

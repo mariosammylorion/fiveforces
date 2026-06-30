@@ -1,8 +1,8 @@
 ---
-title: VRMLO
+title: VRMLO (XXXX)
 permalink: /type-descriptions/vrmlo/
 toc: true
-toc_label: VRMLO
+toc_label: VRMLO (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | VRMOL |
 | **Co-Valuation Type** | VOMLR |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Blissful Apprentice** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Blissful Apprentice |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ The VRMLO combines two seemingly contradictory elements: a deference to an autho
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;

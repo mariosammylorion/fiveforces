@@ -1,8 +1,8 @@
 ---
-title: OVMRL
+title: OVMRL (XXXX)
 permalink: /type-descriptions/ovmrl/
 toc: true
-toc_label: OVMRL
+toc_label: OVMRL (XXXX)
 toc_sticky: true
 ---
 
@@ -32,9 +32,9 @@ toc_sticky: true
 | **Co-Imagination Type** | LVMRO |
 | **Co-Valuation Type** | RVMOL |
 
-| **NICKNAME #1** | **NICKNAME #2 (RP)** | **NICKNAME #3 (FC)** |
-|:---------------:|:--------------------:|:--------------------:|
-| **The Serenity Enjoyer** | **"XXXX"** | **"XXXX"** |
+| **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
+|:-----------------:|:--------------------:|:-----------------:|
+| **"XXXX"** | "XXXX" | The Serenity Enjoyer |
 
 # Executive Summary
 
@@ -76,10 +76,10 @@ All of the OVMRL type's characteristics and interactions give way to what could 
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Person Spotlight: XXXX
+# Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Archetypal Character Spotlight: XXXX
+# Secondary Archetype Spotlight: XXXX
 
 &lt;Lorem ipsum dolor...&gt;
