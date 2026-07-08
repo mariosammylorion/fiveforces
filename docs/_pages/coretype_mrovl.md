@@ -54,8 +54,7 @@ If the MROVL type had a life motto, it would be this: "All I know is that I don'
 
 ### Co-Types
 
-- This type and XXXXX are co-Reality types. Both types &lt;Lorem ipsum dolor...&gt;.
-- This type and XXXXX are co-Logic types. Both types &lt;Lorem ipsum dolor...&gt;.
+&lt;Lorem ipsum dolor...&gt;
 
 ## The Heart
 
@@ -63,8 +62,7 @@ If the MROVL type had a life motto, it would be this: "All I know is that I don'
 
 ### Co-Types
 
-- This type and XXXXX are co-Imagination types. Both types &lt;Lorem ipsum dolor...&gt;.
-- This type and XXXXX are co-Valuation types. Both types &lt;Lorem ipsum dolor...&gt;.
+&lt;Lorem ipsum dolor...&gt;
 
 ## The Body
 
