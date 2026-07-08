@@ -52,9 +52,19 @@ The OMRLV type is a consumer in every sense of the word. These individuals indul
 
 &lt;Lorem ipsum dolor...&gt;
 
+### Co-Types
+
+- This type and XXXXX are co-Reality types. Both types &lt;Lorem ipsum dolor...&gt;.
+- This type and XXXXX are co-Logic types. Both types &lt;Lorem ipsum dolor...&gt;.
+
 ## The Heart
 
 &lt;Lorem ipsum dolor...&gt;
+
+### Co-Types
+
+- This type and XXXXX are co-Imagination types. Both types &lt;Lorem ipsum dolor...&gt;.
+- This type and XXXXX are co-Valuation types. Both types &lt;Lorem ipsum dolor...&gt;.
 
 ## The Body
 

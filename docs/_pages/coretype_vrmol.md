@@ -52,9 +52,19 @@ If the RVOML individual is one that brings a good time to everyone, the VRMOL is
 
 &lt;Lorem ipsum dolor...&gt;
 
+### Co-Types
+
+- This type and XXXXX are co-Reality types. Both types &lt;Lorem ipsum dolor...&gt;.
+- This type and XXXXX are co-Logic types. Both types &lt;Lorem ipsum dolor...&gt;.
+
 ## The Heart
 
 &lt;Lorem ipsum dolor...&gt;
+
+### Co-Types
+
+- This type and XXXXX are co-Imagination types. Both types &lt;Lorem ipsum dolor...&gt;.
+- This type and XXXXX are co-Valuation types. Both types &lt;Lorem ipsum dolor...&gt;.
 
 ## The Body
 
