@@ -44,9 +44,11 @@ It may be hard to tell that the RLMVO type is one that experiences torment about
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Atoms, Subtypes, and their Resultant Traits and Behaviors
+## Influence of Deca
 
 &lt;Lorem ipsum dolor...&gt;
+
+# Atoms, Subtypes, and their Resultant Traits and Behaviors
 
 ## The Brain
 
@@ -70,8 +72,6 @@ It may be hard to tell that the RLMVO type is one that experiences torment about
 
 ## De-Elevation Mechanics
 
-&lt;Lorem ipsum dolor...&gt;
-
 ### Objection
 
 &lt;Lorem ipsum dolor...&gt;
@@ -80,7 +80,7 @@ It may be hard to tell that the RLMVO type is one that experiences torment about
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Miscellaneous Thoughts
+# Miscellaneous Traits and Behaviors
 
 &lt;Lorem ipsum dolor...&gt;
 

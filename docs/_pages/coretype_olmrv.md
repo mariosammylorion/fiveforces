@@ -44,9 +44,11 @@ The OLMRV, like all types with Obedience, clings onto a rulebook or authority fi
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Atoms, Subtypes, and their Resultant Traits and Behaviors
+## Influence of Deca
 
 &lt;Lorem ipsum dolor...&gt;
+
+# Atoms, Subtypes, and their Resultant Traits and Behaviors
 
 ## The Brain
 
@@ -70,8 +72,6 @@ The OLMRV, like all types with Obedience, clings onto a rulebook or authority fi
 
 ## De-Elevation Mechanics
 
-&lt;Lorem ipsum dolor...&gt;
-
 ### Objection
 
 &lt;Lorem ipsum dolor...&gt;
@@ -80,7 +80,7 @@ The OLMRV, like all types with Obedience, clings onto a rulebook or authority fi
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Miscellaneous Thoughts
+# Miscellaneous Traits and Behaviors
 
 &lt;Lorem ipsum dolor...&gt;
 

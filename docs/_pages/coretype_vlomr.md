@@ -44,9 +44,11 @@ The VLOMR type is a combination of a fear for the unknown hidden by generosity (
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Atoms, Subtypes, and their Resultant Traits and Behaviors
+## Influence of Deca
 
 &lt;Lorem ipsum dolor...&gt;
+
+# Atoms, Subtypes, and their Resultant Traits and Behaviors
 
 ## The Brain
 
@@ -70,8 +72,6 @@ The VLOMR type is a combination of a fear for the unknown hidden by generosity (
 
 ## De-Elevation Mechanics
 
-&lt;Lorem ipsum dolor...&gt;
-
 ### Objection
 
 &lt;Lorem ipsum dolor...&gt;
@@ -80,7 +80,7 @@ The VLOMR type is a combination of a fear for the unknown hidden by generosity (
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Miscellaneous Thoughts
+# Miscellaneous Traits and Behaviors
 
 &lt;Lorem ipsum dolor...&gt;
 

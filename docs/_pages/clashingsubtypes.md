@@ -168,6 +168,8 @@ Unlike with the Complementary Force Subtypes, the accents that the Forces have i
 
 &lt;Lorem ipsum dolor...&gt;
 
+No complementary or clashing Force interaction is a stranger to weird and obscure manifestations and behaviors, and as we're about to see, Validation is no different. I know I don't often talk about sex and romance with this system, but...one of the stranger manifestations of this subtype involves an interest in romantic and sexual partners who could easily kill them. This is, of course, not stemmed from a desire to be killed, but a desire to be protected. By utilizing their intense power for protection, these partners provide the exact validation that individuals of this subtype need; a physical shield, and someone to vent to. This behavior is actually not unique to any one of the Validation types; even those with Persecution also possess this trait.
+
 **Unorganized thoughts**
 - People with "Validation" seek and need to have their personal values validated by the outside; to them, if the world sees it as *objectively* fine/OK, then it's also *subjectively* fine/OK
 - It's not unusual at all for individuals of this subtype to want or seek protection, not only for their views but even physically as well

@@ -23,7 +23,7 @@ toc_sticky: true
   - **Spurs:** The starting Atom causes the individual to use two distinct atoms, then both are used to use the final one
     - There are 4 types that are named by the start and the end Atoms; the two must *strictly* be neutral Forces
       - LM-Spur, ML-Spur, RV-Spur, VR-Spur
-- With Bypass and Spur Motivations, the starting atom is almost always the first one to develop in the individual's psyche; with Loop Motivations, any atom can develop first
+- With Bypass and Spur Motivations, the starting atom is almost always the first one to develop in the individual's psyche; with Loop Motivations, any atom can develop first, *but it is most commonly the Withdrawn atom that does so, if not the Mutual or Egocentric atoms*
   - Speaking of, Optimization is always the final atom to develop
 
 # Decas

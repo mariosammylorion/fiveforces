@@ -44,15 +44,19 @@ To put it in one way, the MLORV type is the living embodiment of the phrase, "Er
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Atoms, Subtypes, and their Resultant Traits and Behaviors
+## Influence of Deca
 
 &lt;Lorem ipsum dolor...&gt;
+
+# Atoms, Subtypes, and their Resultant Traits and Behaviors
 
 ## The Brain
 
 &lt;Lorem ipsum dolor...&gt;
 
 ### Co-Types
+
+The MLORV and MLVRO types are Co-Reality types. Individuals of both types blame the world for its supposed harshness, even though it is their own unapologetic creativity that drives this blaming. This is not at all to say that these individuals cause all of their own problems; in fact, several of them may have indeed had difficult lives that are not at all their fault. However, a lack of self-blaming for their issues is a common pitfall that they can fall into. Therefore, taking accountability for their actions is perhaps the greatest advice for personal growth that can be given to individuals of both types.
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -70,8 +74,6 @@ To put it in one way, the MLORV type is the living embodiment of the phrase, "Er
 
 ## De-Elevation Mechanics
 
-&lt;Lorem ipsum dolor...&gt;
-
 ### Objection
 
 &lt;Lorem ipsum dolor...&gt;
@@ -80,7 +82,7 @@ To put it in one way, the MLORV type is the living embodiment of the phrase, "Er
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Miscellaneous Thoughts
+# Miscellaneous Traits and Behaviors
 
 &lt;Lorem ipsum dolor...&gt;
 

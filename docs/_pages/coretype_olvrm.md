@@ -44,13 +44,17 @@ The OLVRM is a generally unlucky individual, so they seek an external rulebook t
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Atoms, Subtypes, and their Resultant Traits and Behaviors
+## Influence of Deca
 
 &lt;Lorem ipsum dolor...&gt;
+
+# Atoms, Subtypes, and their Resultant Traits and Behaviors
 
 ## The Brain
 
 &lt;Lorem ipsum dolor...&gt;
+
+In addition, the OLVRM and MLVRO types are Co-Logic types. Individuals of both types utilize their deference to others' logic as a means to objectively validate their fears of reality. While this is comforting and soothing to them, this can result in them twisting others' opinions as a way to validate any unhealthy behaviors, even when that wasn't the original intention of the interlocutor. Personal growth in this area therefore involves the ability for these individuals to look at their authority figure's advice not through their own personal values, but in a detached manner that is most beneficial to them.
 
 ### Co-Types
 
@@ -70,8 +74,6 @@ The OLVRM is a generally unlucky individual, so they seek an external rulebook t
 
 ## De-Elevation Mechanics
 
-&lt;Lorem ipsum dolor...&gt;
-
 ### Objection
 
 &lt;Lorem ipsum dolor...&gt;
@@ -80,7 +82,7 @@ The OLVRM is a generally unlucky individual, so they seek an external rulebook t
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Miscellaneous Thoughts
+# Miscellaneous Traits and Behaviors
 
 &lt;Lorem ipsum dolor...&gt;
 

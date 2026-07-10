@@ -44,9 +44,11 @@ The MOVRL is a type in which they wish to express themselves creatively to their
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Atoms, Subtypes, and their Resultant Traits and Behaviors
+## Influence of Deca
 
 &lt;Lorem ipsum dolor...&gt;
+
+# Atoms, Subtypes, and their Resultant Traits and Behaviors
 
 ## The Brain
 
@@ -62,6 +64,8 @@ The MOVRL is a type in which they wish to express themselves creatively to their
 
 ### Co-Types
 
+The MOVRL and MLVRO types are Co-Imagination types. Individuals of both types are defiant with their Imagination when it comes to societal norms and expectations, which unfortunately can result in disappointment and disillusionment with the world when things don't go as planned. When it comes to their creative abilities, they can often exert themselves so much in a way that makes them want to detach themselves from reality more and more. These individuals, therefore, need to set limits on what their creativity in a way that not only satisfies their need to break the mold, but ensures their safety in the world.
+
 &lt;Lorem ipsum dolor...&gt;
 
 ## The Body
@@ -69,8 +73,6 @@ The MOVRL is a type in which they wish to express themselves creatively to their
 &lt;Lorem ipsum dolor...&gt;
 
 ## De-Elevation Mechanics
-
-&lt;Lorem ipsum dolor...&gt;
 
 ### Objection
 
@@ -80,7 +82,7 @@ The MOVRL is a type in which they wish to express themselves creatively to their
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Miscellaneous Thoughts
+# Miscellaneous Traits and Behaviors
 
 &lt;Lorem ipsum dolor...&gt;
 

@@ -44,9 +44,11 @@ The MLVOR type yearns for expressing themselves to their people. Yet at the same
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Atoms, Subtypes, and their Resultant Traits and Behaviors
+## Influence of Deca
 
 &lt;Lorem ipsum dolor...&gt;
+
+# Atoms, Subtypes, and their Resultant Traits and Behaviors
 
 ## The Brain
 
@@ -64,13 +66,13 @@ The MLVOR type yearns for expressing themselves to their people. Yet at the same
 
 &lt;Lorem ipsum dolor...&gt;
 
+Additionally, the MLVOR and MLVRO types are Co-Valuation types. Individuals of both types build for themselves a social circle of other individuals that share their personal values in order to build a network where they can feel validated. While this is often an inherently healthy form of behavior, this can result in a dependence of this group for all of their needs, including creative and valuational. Like with their Imagination, these individuals must set limits on their sense of Valuation, so that they can not only be validated for who they are, but accounted for in a healthy way.
+
 ## The Body
 
 &lt;Lorem ipsum dolor...&gt;
 
 ## De-Elevation Mechanics
-
-&lt;Lorem ipsum dolor...&gt;
 
 ### Objection
 
@@ -80,7 +82,7 @@ The MLVOR type yearns for expressing themselves to their people. Yet at the same
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Miscellaneous Thoughts
+# Miscellaneous Traits and Behaviors
 
 &lt;Lorem ipsum dolor...&gt;
 

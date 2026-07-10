@@ -44,9 +44,11 @@ The RLOMV gives way to perhaps one of the most arrogant types in the entire Five
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Atoms, Subtypes, and their Resultant Traits and Behaviors
+## Influence of Deca
 
 &lt;Lorem ipsum dolor...&gt;
+
+# Atoms, Subtypes, and their Resultant Traits and Behaviors
 
 ## The Brain
 
@@ -70,8 +72,6 @@ The RLOMV gives way to perhaps one of the most arrogant types in the entire Five
 
 ## De-Elevation Mechanics
 
-&lt;Lorem ipsum dolor...&gt;
-
 ### Objection
 
 &lt;Lorem ipsum dolor...&gt;
@@ -80,9 +80,11 @@ The RLOMV gives way to perhaps one of the most arrogant types in the entire Five
 
 &lt;Lorem ipsum dolor...&gt;
 
-# Miscellaneous Thoughts
+# Miscellaneous Traits and Behaviors
 
 &lt;Lorem ipsum dolor...&gt;
+
+Out of all 120 of the core types, the RLOMV is one of the most likely to view empathy as a weakness. In fact, when unhealthy, the RLOMV individual can often find themselves in communities that center around hatred for other people, particularly vulnerable ones. One particularly common manifestation of this trait involves hustler-type personalities that have found their home in the Manosphere. These kinds of occupations are perfect for the RLOMV, who can use their arrogance to peddle their arrogant schemes and convince others to see other individuals that do not fall in the same category as them as inferior beings.
 
 # Archetype Spotlight: XXXX
 
