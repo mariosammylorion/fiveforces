@@ -44,7 +44,7 @@ A select number of individuals are characterized by an incessant need to talk ab
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

@@ -44,7 +44,7 @@ The OLVRM is a generally unlucky individual, so they seek an external rulebook t
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

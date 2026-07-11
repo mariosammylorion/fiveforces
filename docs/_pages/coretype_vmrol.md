@@ -44,7 +44,7 @@ In essence, the VMROL individual lives for the dream of getting what they desire
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

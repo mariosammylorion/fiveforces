@@ -44,7 +44,7 @@ It is actually quite easy to tell whether an individual is potentially an RVOML 
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

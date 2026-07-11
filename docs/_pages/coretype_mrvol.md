@@ -44,7 +44,7 @@ The MRVOL is characterized by an unapologetic expression of personal values thro
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

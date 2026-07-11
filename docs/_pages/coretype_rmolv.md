@@ -44,7 +44,7 @@ The RMOLV is perhaps the greatest example of a trend follower in the entire Five
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

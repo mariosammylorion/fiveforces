@@ -44,7 +44,7 @@ On the surface, the LRMVO individual is one who never lets their logic go agains
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

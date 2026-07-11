@@ -44,7 +44,7 @@ The MVOLR individual lives in a dreamy world of outside values they have obtaine
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

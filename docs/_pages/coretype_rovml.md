@@ -44,7 +44,7 @@ Looks can be deceiving; although the ROVML has a strong factual presence and app
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

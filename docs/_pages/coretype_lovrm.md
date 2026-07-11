@@ -44,7 +44,7 @@ The LOVRM type is perhaps the unluckiest in the entire Five Forces system. On to
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

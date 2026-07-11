@@ -44,7 +44,7 @@ To the VOMLR individual, life really is all sunshine and rainbows. This is all t
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

@@ -44,7 +44,7 @@ The OVRLM is marked by a devotion to an external value system (or other people) 
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

@@ -44,7 +44,7 @@ By day, the MRVLO individual is an eternal student to the outside world. They do
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

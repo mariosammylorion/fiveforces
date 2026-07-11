@@ -44,7 +44,7 @@ The LMVOR individual is a master at appealing to people and their dreams. But wh
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

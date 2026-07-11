@@ -44,7 +44,7 @@ When you prove an LRVMO individual wrong using external facts, they will not hes
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

@@ -44,7 +44,7 @@ Ironically, the RLOMV type, which has Completion, is less focused on task comple
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

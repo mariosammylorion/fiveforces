@@ -44,7 +44,7 @@ The MVORL is an inventor, able to inspire and be inspired by everything around t
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

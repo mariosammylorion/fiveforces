@@ -44,7 +44,7 @@ The RLVOM type is outwardly physical, but behind this physical prowess is a worl
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

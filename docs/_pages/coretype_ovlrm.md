@@ -44,7 +44,7 @@ The OVLRM seeks out a true partner, companion, or even something to believe in, 
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

@@ -44,7 +44,7 @@ Despite not necessarily being a literal parent per se, the ROLVM type is the clo
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

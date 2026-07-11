@@ -44,7 +44,7 @@ The VLOMR type is a combination of a fear for the unknown hidden by generosity (
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

@@ -44,7 +44,7 @@ All of the OVMRL type's characteristics and interactions give way to what could 
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

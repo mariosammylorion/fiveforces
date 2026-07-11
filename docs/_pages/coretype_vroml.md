@@ -44,7 +44,7 @@ On the surface, the VROML individual seems like the most bubbly one out of all t
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

@@ -44,7 +44,7 @@ The MRLOV individual thinks early on in their life that they have the intellectu
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

@@ -44,7 +44,7 @@ If the MROVL type had a life motto, it would be this: "All I know is that I don'
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

@@ -44,7 +44,7 @@ Simply put, the MLROV individual is a force to be reckoned with. They are charac
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

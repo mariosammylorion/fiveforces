@@ -44,7 +44,7 @@ The VLROM individual is on a mission: to spread their version of reality, the on
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

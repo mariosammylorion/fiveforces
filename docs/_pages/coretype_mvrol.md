@@ -44,7 +44,7 @@ The primary goal of the MVROL is to both be inspired and to inspire. Their way o
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

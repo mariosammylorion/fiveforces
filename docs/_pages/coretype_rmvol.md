@@ -44,7 +44,7 @@ With the RMVOL type, all the stars align in a way that makes for one of the most
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

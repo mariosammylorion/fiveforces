@@ -44,7 +44,7 @@ The LRMOV type is marked by a factual and logical humility, just like all other 
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

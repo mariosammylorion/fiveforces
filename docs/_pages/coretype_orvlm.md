@@ -44,7 +44,7 @@ The ORVLM is happy to obey anyone who is willing to put them under their wing...
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

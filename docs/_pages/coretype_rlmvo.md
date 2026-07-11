@@ -38,13 +38,13 @@ toc_sticky: true
 
 # Executive Summary
 
-It may be hard to tell that the RLMVO type is one that experiences torment about what they want to believe in. This is intentional, as these individuals completely hide it through their ever-changing idea of what the world factually is. However, these facts actually are filtered through their private idea of how things really are (as in, a creative tint to the experiences they receive). This, coupled with a tendency to come up with excuses for why they seem to be unfeeling and a private imaginative world, make for a very contradictory yet extremely interesting personality type, which we will unravel later.
+It may be hard to tell that the RLMVO type is one that experiences torment about what they want to believe in. This is intentional, as these individuals completely hide it through their ever-changing idea of what the world factually is. However, these facts actually are filtered through their private idea of how things really are (as in, a creative tint to the experiences they receive). This, coupled with a tendency to come up with excuses for why they seem to be unfeeling and a private imaginative world, make for a very contradictory yet extremely interesting personality type, which we will unravel here.
 
 # Motivation Development
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -65,6 +65,8 @@ It may be hard to tell that the RLMVO type is one that experiences torment about
 ### Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
+
+In addition, the RLMVO and OLMVR types are Co-Valuation types. Individuals of both types refuse to seek help when it comes to their struggles with finding what matters, and deflect their pain by using others' objective opinions to explain why they don't need help. This form of behavior can not only damage their relationships with other people, but damage themselves mentally by continuing to wallow in their own pain. Therefore, these individuals need to understand how to seek help when it is available, so one day they can flourish and find what truly matters, or at least power through their pain for now.
 
 ## The Body
 

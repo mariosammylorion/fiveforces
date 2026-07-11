@@ -44,7 +44,7 @@ The VRLMO wishes to influence the masses through their intellect, and they often
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

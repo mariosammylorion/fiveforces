@@ -44,7 +44,7 @@ Recall that I described Uninhibited-Private 2O with the metaphor of an actor who
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

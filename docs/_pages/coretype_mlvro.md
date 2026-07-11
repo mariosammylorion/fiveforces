@@ -54,7 +54,7 @@ However, this sharing of their ideas comes with a dark side. The more and more t
 
 It is then where the true cognitive pattern of the MLVRO individual arises: in one area of life, they suffer in the reality that may or may not have treated them cruelly, becoming students of anyone who has the logical authority to prove why they have to endure trial after trial. But in another, they are groundbreaking revolutionaries, always willing to find new and novel ways to break creative norms and expectations using nothing but the things they find meaningful in life. This gives them one of the most apparent "double lives" of all Authentic-Recipient 5O types in the Five Forces system; a deviant in one part of life, a pawn in the other.
 
-## Influence of Deca
+## Deca Influence
 
 The MLVRO is unique among Quinta types in the fact that they are groundbreaking revolutionaries in just one part of life: the part that utilizes their Heart. For the part that uses their Brain, they are more likely than not just another face in the crowd. Although they do sometimes get the idea that *maybe* they can be revolutionaries in this part of life as well, they conclude that they may not be happy being so unless it directly ties to their creativity and values. This is not to say that they necessarily hate using their Brain; after all, like all Quinta types, the MLVRO is an intellectual type.
 
@@ -99,6 +99,8 @@ Additionally, the MLVRO and MLVOR types are Co-Valuation types. Individuals of b
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+Before we start this section, I just want to get this out of the way: MLVRO is my core type, and therefore this entire description may just end up being a reflection of myself and my own behaviors. Then again, there are many such cases of entire typology systems just being reflections of the creators' own personalities (Psychosophy is a great example). Noting this, we can now move on to a section that is totally and completely unbiased and is something that I didn't just make stuff up for because I experience these traits and behaviors, lmao.
 
 &lt;Lorem ipsum dolor...&gt;
 

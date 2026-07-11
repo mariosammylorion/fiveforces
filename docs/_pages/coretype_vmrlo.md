@@ -44,7 +44,7 @@ Out of all six types with Ambition, the VMRLO is perhaps the most selfish. This 
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

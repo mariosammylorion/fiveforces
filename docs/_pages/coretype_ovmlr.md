@@ -44,7 +44,7 @@ Simply put, the OVMLR individual lives freely without a single care in the world
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

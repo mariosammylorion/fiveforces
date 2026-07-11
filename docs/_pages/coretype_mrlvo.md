@@ -44,7 +44,7 @@ Just like the MRLOV, the MRLVO type wants to spread its logical influence toward
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

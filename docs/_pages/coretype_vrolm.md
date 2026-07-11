@@ -44,7 +44,7 @@ The VROLM personality type is the equivalent of a person telling you off of some
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

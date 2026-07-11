@@ -44,7 +44,7 @@ The VRMLO combines two seemingly contradictory elements: a deference to an autho
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

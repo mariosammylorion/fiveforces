@@ -44,7 +44,7 @@ The VLMOR individual wants to be an optimist and wants to see the glass as half 
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -55,6 +55,8 @@ The VLMOR individual wants to be an optimist and wants to see the glass as half 
 &lt;Lorem ipsum dolor...&gt;
 
 ### Co-Types
+
+The VLMOR and OLMVR types are Co-Reality types. Individuals of both types spend most of the time in their own imaginative world detached from everyone else's reality, while admiring said reality from afar. While these individuals are more than capable of stepping into another's facts and experiences, they do not do this, not from a lack of trying but due to indifference. One personal growth goal for them should therefore be learning how to step outside of their comfort zone and put in the effort to engage with the outside world once in a while, only using their own to recharge.
 
 &lt;Lorem ipsum dolor...&gt;
 

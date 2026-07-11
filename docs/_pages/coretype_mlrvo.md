@@ -44,7 +44,7 @@ Like the MLROV, the MLRVO individual wishes to spread their idea of reality thro
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

@@ -44,7 +44,7 @@ When you combine the need to cause mischief and the need to accumulate, you get 
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

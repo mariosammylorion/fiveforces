@@ -44,7 +44,7 @@ The MVRLO individual, like all types with Inspiration, seek to be inspired by an
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

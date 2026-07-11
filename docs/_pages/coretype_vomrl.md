@@ -44,7 +44,7 @@ The VOMRL individual's vision for the world is one free of facts or logic, which
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

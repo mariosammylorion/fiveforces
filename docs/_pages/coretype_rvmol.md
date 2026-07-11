@@ -44,7 +44,7 @@ The RVMOL is a type that most other individuals love, not because of trustworthi
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

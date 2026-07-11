@@ -44,7 +44,7 @@ The OLVMR individual lives life as if someone, or everyone, is out to get them. 
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

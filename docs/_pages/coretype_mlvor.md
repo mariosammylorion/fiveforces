@@ -44,7 +44,7 @@ The MLVOR type yearns for expressing themselves to their people. Yet at the same
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

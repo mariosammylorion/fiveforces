@@ -44,7 +44,7 @@ The MVLRO constantly seeks inspiration and value from the world around them, whi
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

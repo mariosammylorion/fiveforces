@@ -44,7 +44,7 @@ The LVOMR individual makes it their life duty to cling onto an external value sy
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

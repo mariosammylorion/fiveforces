@@ -49,6 +49,10 @@ Because of the cooperation of the Forces of the Brain and the Heart, the Atoms f
 
 &lt;Lorem ipsum dolor...&gt;
 
+Authentic Units are also prone to explosive outbursts whenever their expertise in the Forces they represent are encroached upon or threatened up to a certain point. These individuals tend to have low-tolerance thresholds when it comes to how much they can take criticism, whether warranted or not. Whenever crash-outs like this do happen, they can have devastating social and mental consequences, and it almost always leads to deep regret and sorrow for their actions. It is extremely important, therefore, for these individuals to learn how to not only deflect invalid criticism but to take it into account if it *is* valid.
+
+&lt;Lorem ipsum dolor...&gt;
+
 ## 3L-to-1R / "Pedagogy"
 
 &lt;Lorem ipsum dolor...&gt;
@@ -65,6 +69,10 @@ Because of the cooperation of the Forces of the Brain and the Heart, the Atoms f
 - Individuals of this type seek to expand their "territory" (that is, to spread their idea of reality) through their objective opinions
 
 ## 3M-to-1V / "Optimism"
+
+&lt;Lorem ipsum dolor...&gt;
+
+Authentic Units are prone to outbursts, as stated previously. Despite everything I have told you thus far, Optimism is no different. However, most of these individuals' outbursts can be considered "justified," as they often directly relate to other individuals who are killing the mood in any way, including those exhibiting rudeness or even bigotry. Even if they do seem self-centered at times, they come from a feeling in which other people are exhibiting bad or unhealthy behavior, and that the only thing that can be done to solve this crisis is to make a scene and let others know that something is wrong.
 
 &lt;Lorem ipsum dolor...&gt;
 

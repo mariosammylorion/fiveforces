@@ -44,7 +44,7 @@ The VORML is an inherently pessimist type, but one wouldn't know that right away
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

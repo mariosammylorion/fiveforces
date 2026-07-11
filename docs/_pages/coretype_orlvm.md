@@ -44,7 +44,7 @@ A perfect metaphor to encapsulate what the ORLVM entails is a stern journalist w
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

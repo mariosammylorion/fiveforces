@@ -44,7 +44,7 @@ The ORMVL individual has perhaps the most unusual sense of Naivety out of all si
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

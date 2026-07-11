@@ -44,7 +44,7 @@ The OMVRL type is quite similar to the OMVLR in which they are somewhat "selfish
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

@@ -44,7 +44,7 @@ The ORMLV needs an authority to tell them the facts of this world, due to their 
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

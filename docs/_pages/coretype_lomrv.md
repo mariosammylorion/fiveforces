@@ -44,7 +44,7 @@ To any other person, it seems that the only emotion the LOMRV individual ever fe
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

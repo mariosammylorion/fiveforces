@@ -44,7 +44,7 @@ The ORVML individual is terrified of the world and what is to come in it, so muc
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

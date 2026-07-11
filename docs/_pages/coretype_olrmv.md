@@ -44,7 +44,7 @@ To put it bluntly, the OLRMV type is the closest representative to that do-nothi
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

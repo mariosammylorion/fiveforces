@@ -44,7 +44,7 @@ If the RVOML individual is one that brings a good time to everyone, the VRMOL is
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

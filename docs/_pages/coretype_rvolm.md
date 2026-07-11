@@ -44,7 +44,7 @@ Simply put, the RVOLM individual is perhaps one of the best companions that you 
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

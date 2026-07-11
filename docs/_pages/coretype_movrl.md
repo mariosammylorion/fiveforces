@@ -44,7 +44,7 @@ The MOVRL is a type in which they wish to express themselves creatively to their
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

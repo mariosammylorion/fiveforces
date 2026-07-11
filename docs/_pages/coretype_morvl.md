@@ -44,7 +44,7 @@ The MORVL contains perhaps one of the most apparent and egregious expressions of
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

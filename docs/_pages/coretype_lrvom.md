@@ -44,7 +44,7 @@ The LRVOM is a factually and logically honest individual, always reporting nothi
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

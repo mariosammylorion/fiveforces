@@ -44,7 +44,7 @@ The RLMOV individual has a "script" when it comes to the factual world, and they
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

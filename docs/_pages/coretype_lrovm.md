@@ -44,7 +44,7 @@ All the LROVM individual wants to do with their life is to improve their own sen
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

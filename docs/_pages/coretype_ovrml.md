@@ -44,7 +44,7 @@ On the surface, the OVRML type appears to be childlike and innocent, often relyi
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

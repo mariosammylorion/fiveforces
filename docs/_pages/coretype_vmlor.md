@@ -44,7 +44,7 @@ It is incredibly obvious to the naked eye that the VMLOR individual holds sacros
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

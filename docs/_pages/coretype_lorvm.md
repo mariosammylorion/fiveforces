@@ -44,7 +44,7 @@ Like the LORMV, the LORVM individual seeks to spread their idea of reality. But 
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

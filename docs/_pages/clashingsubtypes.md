@@ -328,6 +328,8 @@ No complementary or clashing Force interaction is a stranger to weird and obscur
 
 &lt;Lorem ipsum dolor...&gt;
 
+However, this subtype begs one giant question: why does Misfortune seem to cover outside circumstances that have nothing to do with the individual's own inner workings? There is an answer to this. Misfortune does not have to do with the unlucky events of a person's life, **but whether or not the individual themselves perceives them to be that way.** An individual with this subtype can very much lead a happy and successful life, but feel as if they are constantly plagued by minor inconveniences that give off the illusion of bad luck. **As such, it is not an objective Misfortune, but a *subjective* one.**
+
 **Unorganized thoughts**
 - Closest subtype to representing a disaster magnet
 - Instead of ruminating on it, individuals of this subtype simply accept their bad luck

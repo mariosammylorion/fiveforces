@@ -44,7 +44,7 @@ While many personality types in other systems are designated as "healers" despit
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

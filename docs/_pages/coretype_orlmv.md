@@ -44,7 +44,7 @@ The ORLMV is an individual who is confident in their opinions, and so they feel 
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

@@ -44,7 +44,7 @@ Despite being called "Pedagogy," this Brain subtype does not often manifest as a
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

@@ -44,7 +44,7 @@ The OLRVM individual is characterized by an ability to oversee all kinds of oper
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

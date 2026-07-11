@@ -44,7 +44,7 @@ The VLRMO individual places great value in their "employees", always willing to 
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

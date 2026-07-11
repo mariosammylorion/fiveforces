@@ -44,7 +44,7 @@ The RMLVO individual wishes to speak what they know to an audience, where *they*
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

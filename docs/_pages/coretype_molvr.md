@@ -44,7 +44,7 @@ The MOLVR individual is characterized by a heightened sense of egotism surroundi
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

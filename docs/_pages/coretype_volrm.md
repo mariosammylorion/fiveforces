@@ -44,7 +44,7 @@ The VOLRM individual is perhaps the closest we are ever going to get to a Republ
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

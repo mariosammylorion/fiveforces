@@ -44,7 +44,7 @@ Out of all Five Forces types with Conquest, the LORMV is the closest literal rep
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

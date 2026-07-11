@@ -44,7 +44,7 @@ The MVLOR is a dreamy, idealistic, and romantic type, all thanks to their devoti
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -81,6 +81,10 @@ The MVLOR is a dreamy, idealistic, and romantic type, all thanks to their devoti
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+I myself have great admiration for this type due to a specific reason that appeals to me and me alone: MVLOR is perhaps the perfect core type for a selfshipper, one who romantically pairs themselves with "fictional others" (or, "F/Os"). They constantly seek inspiration from these F/Os and realize their relationship through art, perfectly describing the Heart. As for the Brain, many selfshippers do not tolerate sharing their F/Os, thus they are in full possession (forming 3L). And in addition, they disregard or even shun canon information about their F/Os in their source just to remain close to them (forming 5R-3). All of this forms the image of a creative, passionate soul who shares their love for their F/O, but refuses to share it (forming the Superficial Body). Again, this exclusively appeals to me, but it's worth noting.
 
 &lt;Lorem ipsum dolor...&gt;
 

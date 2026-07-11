@@ -44,7 +44,7 @@ The best metaphor I can give for the LROMV type is a receptionist or overseer wh
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

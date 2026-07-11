@@ -44,7 +44,7 @@ The LVMRO individual affirms their faith that came from outside them and wishes 
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

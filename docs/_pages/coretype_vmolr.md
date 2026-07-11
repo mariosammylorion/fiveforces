@@ -44,7 +44,7 @@ The VMOLR type is the closest representative type to a leader who desires to bri
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

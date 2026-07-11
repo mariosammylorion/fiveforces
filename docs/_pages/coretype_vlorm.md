@@ -44,7 +44,7 @@ The VLORM individual is a passionate conservative, championing and following the
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

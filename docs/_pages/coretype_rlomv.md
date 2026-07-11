@@ -44,7 +44,7 @@ The RLOMV gives way to perhaps one of the most arrogant types in the entire Five
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

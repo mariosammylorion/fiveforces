@@ -44,7 +44,7 @@ The LVROM is a true, loyal comrade in every sense of the word, always willing to
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

@@ -44,7 +44,7 @@ The RMVLO individual has a gift of being able to sense the needs of others, as w
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

@@ -44,7 +44,7 @@ The ROMLV is always paying attention to its environment...with the sole purpose 
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

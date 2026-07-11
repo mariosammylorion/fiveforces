@@ -44,7 +44,7 @@ The LMORV gives the impression of a quiet, anxious, and (to put it bluntly) emot
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

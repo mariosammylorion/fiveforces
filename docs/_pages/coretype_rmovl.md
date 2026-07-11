@@ -44,7 +44,7 @@ Unlike the RMOLV, who is enthusiastic about finding new opportunities, the RMOVL
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

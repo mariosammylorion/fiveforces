@@ -44,7 +44,7 @@ To put it in one way, the MLORV type is the living embodiment of the phrase, "Er
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

@@ -44,7 +44,7 @@ The OMRVL is characterized by an incessant need to kill the pain in their life c
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

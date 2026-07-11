@@ -44,7 +44,7 @@ The ROVLM type is a combination of deeply hidden personal values that they do no
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

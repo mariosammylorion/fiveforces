@@ -44,7 +44,7 @@ The LMRVO type possesses sense of wanting to expand one's factual territory thro
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

@@ -44,7 +44,7 @@ The VLMRO is an optimist in every sense of the word, but one wouldn't know that 
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

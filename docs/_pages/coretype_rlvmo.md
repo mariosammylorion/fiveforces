@@ -44,7 +44,7 @@ You may not know it at first glance, but RLVMO individuals are easy targets...at
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

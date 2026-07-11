@@ -44,7 +44,7 @@ Have you ever seen your teacher outside of school (such as at the grocery store)
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

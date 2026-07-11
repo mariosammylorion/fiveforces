@@ -44,7 +44,7 @@ The MLOVR individual, like all Doubters, struggles with the concept of personal 
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -57,6 +57,8 @@ The MLOVR individual, like all Doubters, struggles with the concept of personal 
 ### Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
+
+Additionally, the MLOVR and OLMVR types are Co-Logic types. Individuals of both types take in others' logic and objective opinions unfiltered, then use this information to justify their emotional turmoil or uncaringness. This very obviously can result in problematic behavior, as constantly making excuses can give them a way to blame outside circumstances for their own troubles and misfortunes. Therefore, accountability is key in these individuals. By taking responsibility for their actions, they are able to maintain healthy social relationships that involve both parties to cooperate.
 
 ## The Heart
 

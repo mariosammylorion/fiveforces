@@ -44,7 +44,7 @@ If the phrase "Facts don't care about your feelings" can be mapped to any one of
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

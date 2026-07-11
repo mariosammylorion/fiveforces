@@ -44,7 +44,7 @@ The RMLOV wants to be the best educator they can be to those who are willing to 
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

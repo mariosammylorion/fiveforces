@@ -44,7 +44,7 @@ When it comes to instructing others on what to do, the ROLMV believes that they 
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

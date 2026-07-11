@@ -44,7 +44,7 @@ The LVORM gives way to perhaps one of the most loyal types in the entire Five Fo
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

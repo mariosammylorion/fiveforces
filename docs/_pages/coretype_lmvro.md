@@ -44,7 +44,7 @@ The LMVRO type is a combination of two seemingly contradictory traits: an anxiou
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

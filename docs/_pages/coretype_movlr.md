@@ -44,7 +44,7 @@ The MOVLR wants to spread their ideas and novelty to the people they care most a
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

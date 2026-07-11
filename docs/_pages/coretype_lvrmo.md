@@ -44,7 +44,7 @@ The LVRMO individual is desperate for love and affection in order to quell their
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

@@ -44,7 +44,7 @@ The OMVLR gives the impression of an activist, always willing to stand up for th
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

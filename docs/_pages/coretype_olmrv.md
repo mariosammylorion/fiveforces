@@ -44,7 +44,7 @@ The OLMRV, like all types with Obedience, clings onto a rulebook or authority fi
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

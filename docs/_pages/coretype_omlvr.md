@@ -44,7 +44,7 @@ The OMLVR individual wants to deal with their pain just like the other five Pall
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

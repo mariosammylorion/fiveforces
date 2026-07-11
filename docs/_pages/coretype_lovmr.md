@@ -44,7 +44,7 @@ The LOVMR type expresses Discovery typically on the outside like the other five 
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

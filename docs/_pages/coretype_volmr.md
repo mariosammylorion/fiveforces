@@ -44,7 +44,7 @@ Normally, the VOLMR individual is calm on the surface, if not a little fearful o
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

@@ -44,7 +44,7 @@ The VMORL individual makes for a potentially excellent, if not scary, leader, wi
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

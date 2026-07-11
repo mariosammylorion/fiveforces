@@ -44,7 +44,7 @@ The VMLRO is a leader, like all types with Ambition. However, these individuals 
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

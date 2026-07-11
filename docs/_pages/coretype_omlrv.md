@@ -44,7 +44,7 @@ The OMLRV individual, early on, has built for themselves their own objective opi
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

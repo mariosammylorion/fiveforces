@@ -44,7 +44,7 @@ The OMRLV type is a consumer in every sense of the word. These individuals indul
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

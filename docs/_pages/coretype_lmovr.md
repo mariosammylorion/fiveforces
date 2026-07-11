@@ -44,7 +44,7 @@ The LMOVR is a unique type among those with Discovery, as their breaking of the 
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

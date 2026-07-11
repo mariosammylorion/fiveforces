@@ -44,7 +44,7 @@ The VORLM individual is a type that is not primarily *politically* conservative,
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

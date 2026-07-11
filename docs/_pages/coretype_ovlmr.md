@@ -44,7 +44,7 @@ Both the MVLOR and the OVLMR types possess a devotion  that they do not wish to 
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 

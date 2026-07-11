@@ -44,7 +44,7 @@ The MOLRV individual, to put it in one way, has very special, one-of-a-kind opin
 
 &lt;Lorem ipsum dolor...&gt;
 
-## Influence of Deca
+## Deca Influence
 
 &lt;Lorem ipsum dolor...&gt;
 
