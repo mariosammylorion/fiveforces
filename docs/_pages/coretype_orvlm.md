@@ -29,7 +29,7 @@ toc_sticky: true
 |:---------------:|:-----------:|
 | **Co-Reality Type** | VROLM |
 | **Co-Logic Type** | MRVLO |
-| **Co-Imagination Type** | ORVLM |
+| **Co-Imagination Type** | LRVOM |
 | **Co-Valuation Type** | ROVLM |
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
