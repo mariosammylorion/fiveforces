@@ -42,11 +42,25 @@ The ROVLM type is a combination of deeply hidden personal values that they do no
 
 # Motivation Development
 
-&lt;Lorem ipsum dolor...&gt;
+Because the ROVLM's motivation operates under a loop, any Atom can develop first in the individual. However, the Withdrawn Atom is usually developed first, so an example of that shall be given.
+
+Throughout the ROVLM individual's life, there is the feeling that maybe, just maybe, the world doesn't make any logical sense. Try as they might, they simply cannot understand the world on an abstract level. But rather than blame the world for their confoundment, they simply accept this as their own problem, that they lack the knowledge or skills to understand the world this way. Because they cannot think abstractly about things, the only thing to do is to think about it as is. This gives them the ability to scan their environment for any facts and experiences that they can use to perfect their understanding of the outside.
+
+These individuals live completely in the world, using their own facts and experiences in the past to discern the information they receive in the present. Because they are perfectionists in this aspect, they want to ensure that they can do anything to understand what is happening around them. This gives them an unpredictable behavior that very few can decipher. And since they are constantly scanning their environment, any changes can give them a warped idea of what's going on. This results in them having a hatred of novelty and change, both in their environment and that coming from other individuals.
+
+This hatred of what could be, however, comes with an extra perk. Because they do not wish for their environment to be changed, it gives them a proper idea of how things should be in life. This gives rise to the development of their own personal values and subjective opinions. These values are completely unchanging and entirely their own, unable to be amended by any other circumstance or individual. They are completely passionate about what they believe is the right way to live, which is totally and completely in the present, and no amount of societal expectations could ever change that.
+
+Their personal values make them individualists, and they are willing to go against the grain just so their values are kept. They consider themselves to be proud deviants, through and through. However, with this defiance comes the inevitability that, with their values, they still cannot logically explain what is going on in the world. In fact, they only confound them further. This creates a never-ending cycle in which they constantly scan their environment in an unpredictable way, giving rise to new personal values, which further separates them from the world of the abstract.
+
+The psyche then fully develops into an individual whose Body Type is truly deserving of the label "Industriousness." They appear calm and collected on the surface, but once you encroach upon their values, all hell breaks loose. They will ensure that their desires are intact in their present environment, even resorting to violence if it is absolutely, positively necessary. Even though these individuals can be too much to handle at times, their passion for defending their values is unmatched in the Five Forces system.
 
 ## Deca Influence
 
-&lt;Lorem ipsum dolor...&gt;
+The ROVLM type truly captures the spirit of the Decima Deca through its hypervigilance of the present environment. In fact, it may be one of the most physically present out of all types in this Deca. But unlike many other types in it, the ROVLM's vigilance is marked with an extreme sense of being confident in what's right and what's wrong. It should be stated once more that these individuals may resort to violence if they feel it is necessary for their values to remain intact. As such, this type may seem scary and intimidating to people that do not know them on a spiritual level.
+
+But in their normal mood, they may come across as calm, collected, and even friendly. This is due to Decima types prioritizing good-naturedness and community grounding. In fact, many other individuals don't even realize that they are this passionate about their values until it is too late. Though they appear friendly, they don't trust easily, choosing only to keep their circle small. However, the trust of the ROVLM is one like any other, as the people under them are not only given trust when it comes to their secrets, but physically protected as well.
+
+ROVLMs also possess an excellent memory that is characterized by the Decima Deca. They tend to remember everything that those under their wing don't, much to the amazement (or even detriment) of others. This results in an unfortunate side effect: when someone encroaches on their values, it can take a long time for them to be forgiven due to the strong memories their mind forms whenever it happens. Only through hard work, dedication, and genuine change gives others a chance to be forgiven by the ROVLM, though this requirement lessens for those in their trusted network of individuals.
 
 # Atoms, Subtypes, and their Resultant Traits and Behaviors
 
@@ -56,7 +70,9 @@ The ROVLM type is a combination of deeply hidden personal values that they do no
 
 ### Co-Types
 
-&lt;Lorem ipsum dolor...&gt;
+The ROVLM and RVOLM types are Co-Reality types. Individuals of both types constantly scan their present environment using information from the past, which results in an unpredictable and possibly volatile demeanor. Because of their ability to be in any situation physically, their springs into action can be "a little much" at best and totally and completely violent at worst. One goal for personal growth should therefore be not the suppression of their vigilance, but learning to scan their environment in a way that is more tolerable and healthy for others, especially those that are sensitive to such unpredictable behaviors.
+
+In addition, the ROVLM and RMVLO types are Co-Logic types. Individuals of both types blame themselves for being unable to logically explain the world, a behavior that is the result of their defiance against the status quo. While it is not exactly necessary for them to think about things from an abstract perspective, their continued defiance can result in instances where they are unable to process the world around them. Gentle introductions to the world of the abstract are therefore recommended for these individuals to gain the experience necessary to navigate complex situations that require the usage of the Force of Logic.
 
 ## The Heart
 
@@ -64,7 +80,9 @@ The ROVLM type is a combination of deeply hidden personal values that they do no
 
 ### Co-Types
 
-&lt;Lorem ipsum dolor...&gt;
+The ROVLM and RLVOM types are Co-Imagination types. Individuals of both types possess a hatred of novel ideas and concepts as a result of their desire to have their physical environment be more predictable. A hatred of novelty is a pitfall for several core types in the Five Forces system, but it is especially problematic for these types due to their tendency to lash out at any changes they may come across. Trust must be built from the ground up for these types in order to introduce them to small changes in their life here and there, which can be gradually increased to bigger changes.
+
+Additionally, the ROVLM and ORVLM types are Co-Valuation types. Individuals of both types retain a sense of unchanging personal values they use as a "middle finger" to any establishment they may be under. Although this may result in a healthy defiance of any truly corrupt regime or establishment, it may equally result in the defiance of healthy authority figures who want nothing but the best for the individuals that are under them. It is essential, therefore, for these individuals to discern good authority from bad authority, so that they can better build trust with those who genuinely want to help them.
 
 ## The Body
 

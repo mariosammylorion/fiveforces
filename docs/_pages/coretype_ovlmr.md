@@ -38,7 +38,7 @@ toc_sticky: true
 
 # Executive Summary
 
-Both the MVLOR and the OVLMR types possess a devotion  that they do not wish to share. But while the MVLOR is creatively inspired and wishes to share their love, the OVLMR is desperate and does not want to talk about it to others. Detached in every sense of the word, the OVLMR individual makes it their duty to cling on to something bigger than themselves in order to fit their perfect, objective opinions. At its unhealthiest, the OVLMR is an idealist in the worst way imaginable, forcing their external value system (even sometimes a real partner) to conform to whatever twisted logic they possess.
+Both the MVLOR and the OVLMR types possess a devotion that they do not wish to share. But while the MVLOR is creatively inspired and wishes to share their love, the OVLMR is desperate and does not want to talk about it to others. Detached in every sense of the word, the OVLMR individual makes it their duty to cling on to something bigger than themselves in order to fit their perfect, objective opinions. At its unhealthiest, the OVLMR is an idealist in the worst way imaginable, forcing their external value system (even sometimes a real partner) to conform to whatever twisted logic they possess.
 
 # Motivation Development
 
@@ -57,6 +57,8 @@ Both the MVLOR and the OVLMR types possess a devotion  that they do not wish to 
 ### Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
+
+Additionally, the OVLMR and MVLOR types are Co-Logic types. Individuals of both types possess unique objective opinions about their own borrowed value systems that they do not wish to change or even share with others. Although this does make them confident in their own logical prowess, it can result in absolute stubbornness towards anyone who wants to change their point of view. It is essential, therefore, for them to learn to not only take into account the opinions of others, but to be able to healthily share their views and even be able to debate others in a productive manner.
 
 ## The Heart
 

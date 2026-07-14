@@ -64,6 +64,8 @@ The RLVOM type is outwardly physical, but behind this physical prowess is a worl
 
 ### Co-Types
 
+The RLVOM and ROVLM types are Co-Imagination types. Individuals of both types possess a hatred of novel ideas and concepts as a result of their desire to have their physical environment be more predictable. A hatred of novelty is a pitfall for several core types in the Five Forces system, but it is especially problematic for these types due to their tendency to lash out at any changes they may come across. Trust must be built from the ground up for these types in order to introduce them to small changes in their life here and there, which can be gradually increased to bigger changes.
+
 &lt;Lorem ipsum dolor...&gt;
 
 ## The Body

@@ -66,6 +66,8 @@ The ORVLM is happy to obey anyone who is willing to put them under their wing...
 
 &lt;Lorem ipsum dolor...&gt;
 
+Additionally, the ORVLM and ROVLM types are Co-Valuation types. Individuals of both types retain a sense of unchanging personal values they use as a "middle finger" to any establishment they may be under. Although this may result in a healthy defiance of any truly corrupt regime or establishment, it may equally result in the defiance of healthy authority figures who want nothing but the best for the individuals that are under them. It is essential, therefore, for these individuals to discern good authority from bad authority, so that they can better build trust with those who genuinely want to help them.
+
 ## The Body
 
 &lt;Lorem ipsum dolor...&gt;

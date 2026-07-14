@@ -64,6 +64,8 @@ The MVOLR individual lives in a dreamy world of outside values they have obtaine
 
 ### Co-Types
 
+The MVOLR and MVLOR types are Co-Imagination types. Individuals of both types live in a fantasy world that they are willing to change for the value system they borrowed from the outside. This makes them gifted with the ability to accomodate for others, yet it can result in self-destructive behavior if these values steer them in the wrong direction. One way for these individuals to grow is for them to discern helpful advice from harmful advice, and be able to say "no" to their borrowed values if what they are devoted to wants to put them in dangerous situations and make bad decisions.
+
 &lt;Lorem ipsum dolor...&gt;
 
 ## The Body

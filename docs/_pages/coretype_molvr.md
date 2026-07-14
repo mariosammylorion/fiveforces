@@ -56,6 +56,8 @@ The MOLVR individual is characterized by a heightened sense of egotism surroundi
 
 ### Co-Types
 
+The MOLVR and MVLOR types are Co-Reality types. Individuals of both types are deep in imaginative fantasy, to the point where they are actively hostile towards anyone who wishes for them to get out of it. This results in perhaps one of the most unhealthy expressions of the Force of Reality in the Five Forces system, as they are antagonistic towards anyone who even wants to help them foster connections in reality. Therefore, trust is absolutely key for getting these types to engage in reality more, which can have great benefits, including the ability to use their Imagination to change the world for the better.
+
 &lt;Lorem ipsum dolor...&gt;
 
 ## The Heart

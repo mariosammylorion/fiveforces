@@ -58,6 +58,8 @@ The RMVLO individual has a gift of being able to sense the needs of others, as w
 
 &lt;Lorem ipsum dolor...&gt;
 
+In addition, the RMVLO and ROVLM types are Co-Logic types. Individuals of both types blame themselves for being unable to logically explain the world, a behavior that is the result of their defiance against the status quo. While it is not exactly necessary for them to think about things from an abstract perspective, their continued defiance can result in instances where they are unable to process the world around them. Gentle introductions to the world of the abstract are therefore recommended for these individuals to gain the experience necessary to navigate complex situations that require the usage of the Force of Logic.
+
 ## The Heart
 
 &lt;Lorem ipsum dolor...&gt;

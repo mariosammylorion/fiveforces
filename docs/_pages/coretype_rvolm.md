@@ -56,6 +56,8 @@ Simply put, the RVOLM individual is perhaps one of the best companions that you 
 
 ### Co-Types
 
+The RVOLM and ROVLM types are Co-Reality types. Individuals of both types constantly scan their present environment using information from the past, which results in an unpredictable and possibly volatile demeanor. Because of their ability to be in any situation physically, their springs into action can be "a little much" at best and totally and completely violent at worst. One goal for personal growth should therefore be not the suppression of their vigilance, but learning to scan their environment in a way that is more tolerable and healthy for others, especially those that are sensitive to such unpredictable behaviors.
+
 &lt;Lorem ipsum dolor...&gt;
 
 ## The Heart

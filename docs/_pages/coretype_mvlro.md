@@ -66,6 +66,8 @@ The MVLRO constantly seeks inspiration and value from the world around them, whi
 
 &lt;Lorem ipsum dolor...&gt;
 
+In addition, the MVLRO and MVLOR types are Co-Valuation types. Individuals of both types make their deference to their outside value systems known to others, but they attach their own objective views to them that deviate from what others have to say. This can create hostility towards other people who do not share their opinions about these values, to the point of total isolation. It is therefore imperative that these individuals learn to approach others' opinions not with contempt, but with curiosity, at least so that they can debate others in a productive manner, and even change the minds of some stubborn individuals.
+
 ## The Body
 
 &lt;Lorem ipsum dolor...&gt;
