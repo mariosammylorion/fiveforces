@@ -68,6 +68,8 @@ In addition, the OLVRM and MLVRO types are Co-Logic types. Individuals of both t
 
 &lt;Lorem ipsum dolor...&gt;
 
+Additionally, the OLVRM and RLVOM types are Co-Valuation types. Individuals of both types seek to be validated for their own personal values, which they possess with great stubborness, insecurity, and an unwillingness to change them. This way of thinking can cause social problems down the line, as their peers may be "forced" to conform to their values, creating tension and even resulting in some guilt-trippy scenarios. It is important for these individuals to maintain peaceful and constructive methods when it comes to their values in a way that both benefits others and lets them receive the true validation that they crave.
+
 ## The Body
 
 &lt;Lorem ipsum dolor...&gt;

@@ -42,17 +42,31 @@ The RLVOM type is outwardly physical, but behind this physical prowess is a worl
 
 # Motivation Development
 
-&lt;Lorem ipsum dolor...&gt;
+In its initial stages, the RLVOM is marked by a deep sense of intellectual curiosity. They are interested in learning more about the world about them, particularly on an abstract level. However, they do not trust themselves to fully grasp these concepts by themselves. Instead, they rely on certain authority figures to give them the final word on how to think things through objectively. Once they know how, they become an absolute champion of objective thinking, fully giving outward credit to the people that gave them this gift. They are always willing to employ and promote the methods handed down to them by whoever took them in.
+
+This bold deference is marked by a sense of validation. They seek out logical explanations for things because it makes them feel good on a spiritual level. It makes them very happy to know that, somewhere out there, there is at least one person who will always defend them as long as they incorporate their methods into their thinking. What also occurs is, since they want to give their "masters" a little extra credit, they constantly work themselves to the bone in the physical world trying to prove their methods. If their authority figures go against something that they factually learned, they will try again, giving them more facts than those who are not willing to change their ways.
+
+However, they are opportunistic in their methods to prove to the world that their logical authority figures know what's up. Any kind of factual or experiential demonstration is not off-limits, even if it may be dangerous or at the very least unfavorable to them. Because of their constant experimentation, they can have an unpredictable demeanor, blowing up without a moment's notice, always ready to pursue any kind of opening for their actions. Joy, sadness, and anger are just some of the emotions that may suddenly come up in the RLVOM individual when the time arises.
+
+In fact, they are such good physical experimenters that they gradually start to get the idea that they never want to break away from their endeavors. They start to resent any kind of change to their environment, as it gets in the way of proving their "master" right. Their newfound hatred of novelty also stirs up something more in these individuals: from their intellectual curiosity, they have already formed subjective values based on the validation they received. By resisting change, these values evolve from being a direct result of this validation to completely and entirely their own, never changing for anyone or anything.
+
+It is there where the psyche of the RLVOM individual truly forms. At first, they seem like physical demonstrators, always willing to experiment with the world and its mechanisms. But beneath this physicality is a hidden realm where they seek to be validated subjectively for their every action, resisting any kind of change or novelty that gets in the way of doing so. It becomes quite apparent that this is the case once you get to know them, but these are values that no other person can possess; they are entirely their own, and they will do anything to make sure that it stays their own.
 
 ## Deca Influence
 
-&lt;Lorem ipsum dolor...&gt;
+I'm just gonna say this now: for an Octava type, which values emotional earnestness and honesty, the RLVOM individual can seem pretty disingenuous at times. After all, why keep your true motivations behind the signature glass box inherent to all core types with Superficial Bodies? But keep in mind: others can still see what goes on inside. So in a way, they *are* being honest with the people around them. It's just that, well, this honesty is much more subtle. They may be callous individuals, yet you know exactly what to expect when it comes to their behavior.
+
+Speaking of, this type can seem very two-faced when it comes to their overall demeanor. It seems like they don't care about what you have to say, yet at the same time, they do? This can confuse several other people, and it's understandable as to why. Superficial Bodied individuals can have a tendency to hold two contradictory demeanors at once. Many times, the RLVOM wants to be validated not only for their inner self, but also including their tough and choleric outer self. They wish to be loved in all of their incarnations, even if it may be difficult to achieve.
+
+Like all other Octava types, the RLVOM is also focused on task completion. Unlike the previous point, this is extremely obvious from the get-go; their constant physical experimentation fits the mold perfectly for this. However, this type is relatively unique in the fact that they value this task completion in a subjective manner, in a way that makes them feel validated for who they are as people. Very few types are able to put sentimental value in the completion of their tasks and the execution of their authority figures' duty (another example is MVLOR), so this is a nice change of pace from other types like it.
 
 # Atoms, Subtypes, and their Resultant Traits and Behaviors
 
 ## The Brain
 
-&lt;Lorem ipsum dolor...&gt;
+The RLVOM and RLOVM types are Co-Reality types. Individuals of both types possess a chaotic and unpredictable demeanor that is a result of their constant experimentation with the Force of Reality. They will do anything to ensure that the logic they receive is proven in the world. This can lead to several disastrous consequences if this is not kept in check, including the fracturing of social relationships. It is therefore important for both types to ensure not that they cease this experimentation, but to have it so that they can do it without the risk of anyone, including themselves, getting hurt.
+
+In addition, the RLVOM and RLVMO are Co-Logic types. Individuals of both types feel a heightened sense of validation whenever they champion the logical and objective views of others. This is normally a healthy form of behavior that doesn't cause much problems. However, they can not only get caught up in problematic forms of abstraction, but rely too much on validation to think about themselves. Therefore, self-control is extremely important to address both of these potential issues, and when healthy, they can become champions of opinions that are revolutionary in nature and can change the world for the better.
 
 ### Co-Types
 
@@ -66,7 +80,7 @@ The RLVOM type is outwardly physical, but behind this physical prowess is a worl
 
 The RLVOM and ROVLM types are Co-Imagination types. Individuals of both types possess a hatred of novel ideas and concepts as a result of their desire to have their physical environment be more predictable. A hatred of novelty is a pitfall for several core types in the Five Forces system, but it is especially problematic for these types due to their tendency to lash out at any changes they may come across. Trust must be built from the ground up for these types in order to introduce them to small changes in their life here and there, which can be gradually increased to bigger changes.
 
-&lt;Lorem ipsum dolor...&gt;
+Additionally, the RLVOM and OLVRM types are Co-Valuation types. Individuals of both types seek to be validated for their own personal values, which they possess with great stubborness, insecurity, and an unwillingness to change them. This way of thinking can cause social problems down the line, as their peers may be "forced" to conform to their values, creating tension and even resulting in some guilt-trippy scenarios. It is important for these individuals to maintain peaceful and constructive methods when it comes to their values in a way that both benefits others and lets them receive the true validation that they crave.
 
 ## The Body
 

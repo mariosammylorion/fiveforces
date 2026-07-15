@@ -66,6 +66,8 @@ The LVROM is a true, loyal comrade in every sense of the word, always willing to
 
 &lt;Lorem ipsum dolor...&gt;
 
+Additionally, the LVROM and LVORM types are Co-Valuation types. Individuals of both types are completely in servitude to the outside value systems they have adopted. Obviously, there is the entire issue with being *too* devoted to these objects of affection, which can result in deep dependence and a tendency to engage in problematic behavior just to be closer to them. Once again, self-control is key to developing a healthy relationship with this object of affection, and with practice, they can learn how to say "no" if and when this object goes too far into dangerous territory.
+
 ## The Body
 
 &lt;Lorem ipsum dolor...&gt;

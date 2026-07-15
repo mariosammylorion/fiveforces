@@ -58,6 +58,8 @@ You may not know it at first glance, but RLVMO individuals are easy targets...at
 
 &lt;Lorem ipsum dolor...&gt;
 
+In addition, the RLVMO and RLVOM are Co-Logic types. Individuals of both types feel a heightened sense of validation whenever they champion the logical and objective views of others. This is normally a healthy form of behavior that doesn't cause much problems. However, they can not only get caught up in problematic forms of abstraction, but rely too much on validation to think about themselves. Therefore, self-control is extremely important to address both of these potential issues, and when healthy, they can become champions of opinions that are revolutionary in nature and can change the world for the better.
+
 ## The Heart
 
 &lt;Lorem ipsum dolor...&gt;

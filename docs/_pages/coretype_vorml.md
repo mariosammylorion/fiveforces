@@ -66,6 +66,8 @@ The VORML is an inherently pessimist type, but one wouldn't know that right away
 
 &lt;Lorem ipsum dolor...&gt;
 
+In addition, the VORML and VROML types are Co-Valuation types. Individuals of both types feel the need to be ferocious with the values they share due to their perfectionist nature when it comes to them. The clashing subtype of Ferocity opens a whole can of worms when it comes to potentially problematic behavior, and this is absolutely no different. Therefore, introducing coping strategies to find other ways to perfect their values may be helpful in helping to curbstomp this ferociousness, if not perhaps dampening the output they put out so that other individuals are not disarmed by their mere presence alone.
+
 ## The Body
 
 &lt;Lorem ipsum dolor...&gt;

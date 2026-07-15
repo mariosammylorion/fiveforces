@@ -20,6 +20,10 @@ Because of the cooperation of the Forces of the Brain and the Heart, the Atoms f
 
 &lt;Lorem ipsum dolor...&gt;
 
+There is also an extra nifty caveat that this subtype possesses: when it comes to abstract logical thinking, these individuals tend to be wary of things that cannot be factually or physically proven. There is even a limit to which they can tolerate objectivity; they tend to not listen to authority when they cannot prove things using their methods. As a result, they tend to avoid psuedoscientific concepts and ideas, as you cannot prove them empirically. Hell, they tend to dislike personality typology for this very reason. So if you think you have Physicality and are reading this right now, well...sorry to call you out like this. Lol.
+
+&lt;Lorem ipsum dolor...&gt;
+
 **Unorganized thoughts**
 - Those with Physicality love to "dip their toes in the water" when it comes to their own idea of reality
 - Most likely to be experimenters in their own reality and share the results

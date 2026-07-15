@@ -56,6 +56,8 @@ The ORVML individual is terrified of the world and what is to come in it, so muc
 
 ### Co-Types
 
+The ORVML and VROML types are Co-Reality types. Individuals of both types feel the strong urge to listen to what others have to say factually, even if they may obtain information that confirms their fears of the future. This obviously has negative consequences for them, as opening up to this amount of unhelpful information can lead to a greater sense of doom that no amount of therapy can quell. It is absolutely imperative that they develop a sense of self-control before it's too late, in addition to easing them into thinking that maybe, just maybe, the future isn't so bad after all.
+
 &lt;Lorem ipsum dolor...&gt;
 
 ## The Heart

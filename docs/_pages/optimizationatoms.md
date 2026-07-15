@@ -46,6 +46,12 @@ In the proposed arrow model, "Chameleon" is represented by a singular arrow with
 - To put it idiomatically, the Brain and Heart are never seen in a room together for Generous-bodied individuals; only one or the other is "driving" the personality. But upon receiving certain input, one unit leaves while the other one enters. They don't conflict, let alone interact at all. Their "interaction" is like one unit being in the room, working each decision out on its own, then once it receives a certain outside signal, it leaves and the other joins. The cycle repeats indefinitely.
 - Chameleons are excellent...*chameleons*, being able to "read the room" and align their behavior with what fits best given the situation. This is adapting to the *vibe* of the situation; not an emotional one, but a practical one.
 
+&lt;Lorem ipsum dolor...&gt;
+
+Because the Selfless position is occupied by a dummy variable in these individuals, they lack a tangible, expressive force that exhibits the core characteristic of deference. As a result, it can be stated that they do not defer to anyone for anything. This causes some unique characteristics in all 2O types, but most notably, this makes these individuals largely unconcerned with how they are viewed in the eyes of others. They tend to do things completely on their own whim, uncaring about how they are perceived, making for some pretty selfish individuals if unhealthy enough.
+
+&lt;Lorem ipsum dolor...&gt;
+
 **Unorganized thoughts**
 - If the body code-switches to an unfavorable situation, because the Brain and the Heart never interact, the individual is forced to deal with the current situation before they are able to code-switch back to normal
 
@@ -78,6 +84,12 @@ In the proposed arrow model, "Chameleon" is represented by a singular arrow with
 In the proposed arrow model, "Minimalist" is represented by a singular arrow with only one component: a combined mixture of the Brain and Heart. This represents how, unlike the Active Body, the Brain and Heart are combined to form one entity that does the thinking *and* feeling.
 
 - The Brain and the Heart form **one** unit, and are *not* in any way separate. This results in them having a combined goal that combines the separate goals of the two. Unlike with individuals with "Discusser", there *is* no polite discussion; it's like the solution was devised by one person.
+
+&lt;Lorem ipsum dolor...&gt;
+
+For Chameleons, the lack of a tangible Selfless Force gave way to an indifference with how they are perceived by others. Because Minimalists have no expressive Egocentric Force, they are not self-confident in anything to the point of not sharing it. And so, the opposite occurs: Minimalists spend a great deal of energy just to perfect their self-image and how others perceive them. They want to be seen as good in the eyes of others, and so they work hard to build a sense of humility and goodness that may not actually be in them.
+
+&lt;Lorem ipsum dolor...&gt;
 
 ## Public-Deficient 3O / "Humility"
 
