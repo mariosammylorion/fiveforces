@@ -56,6 +56,8 @@ Unlike with the Complementary Force Subtypes, the accents that the Forces have i
 
 &lt;Lorem ipsum dolor...&gt;
 
+This subtype can be especially problematic for one specific reason: individuals with Prejudice have a confident and unchanging idea of history in all of its aspects: past, present, and future...despite any and all evidence to the contrary. In their own eyes, the past played out this way, the present is this way, and the future of the world will be what they say it is. This, ironically, can give them a total and complete detachment from reality as we know it, even though they are supposedly gifted in this realm! This makes the combination of 1M and 3R one of the most painfully ironic out of all the clashing subtypes.
+
 **Unorganized thoughts**
 - Have a strict, unchanging idea about how the future and their ideas will pan out
   - 3R is confirmation bias incarnate, so in turn their 1M becomes an expression for their confirmation bias as well

@@ -58,6 +58,8 @@ To put it bluntly, the OLRMV type is the closest representative to that do-nothi
 
 &lt;Lorem ipsum dolor...&gt;
 
+In addition, the OLRMV and MLROV types are Co-Logic types. Individuals of both types see the defense of their own and others' objective opinions as tasks to be completed in order for them to be satisfied. This is not to say that they genuinely don't care about defending others, but it may have problems with genuine connection later down the line. Fostering this genuine connection, therefore, is utterly important. That way, their subordinates' patronage to them can be very rewarding, and can open them up to new networking opportunities that wouldn't be there without this connection.
+
 ## The Heart
 
 &lt;Lorem ipsum dolor...&gt;

@@ -66,6 +66,8 @@ The OMVRL type is quite similar to the OMVLR in which they are somewhat "selfish
 
 &lt;Lorem ipsum dolor...&gt;
 
+Additionally, the OMVRL and RMVOL types are Co-Valuation types. Individuals of both types rely on other people to spread the agenda of their personal values, an action that is born of selfish desires. This is not to say that all these individuals are secretly selfish pricks to only aim to better themselves; in fact, many healthy representatives genuinely want to do good to others and the world. However, the initial *action* of doing so is inherently selfish, and so they key to growth for both these types is to learn how to curb this selfishness and replace it with genuine empathy and compassion, thus allowing them to change the world for the better using their personal values.
+
 ## The Body
 
 &lt;Lorem ipsum dolor...&gt;

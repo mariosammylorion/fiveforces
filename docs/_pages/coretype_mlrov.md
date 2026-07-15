@@ -42,11 +42,25 @@ Simply put, the MLROV individual is a force to be reckoned with. They are charac
 
 # Motivation Development
 
-&lt;Lorem ipsum dolor...&gt;
+Because the MLROV's motivation operates under a loop, any Atom can develop first in the individual. However, the Mutual or Egocentric Atom is usually developed first in those types with 4O, so an example of the latter shall be given.
+
+The MLROV establishes early on in life that they are the masters of reality...the masters of *their* reality, that is. They just have an innate sense of how things are and how things play out in the world, one that is independent of the assumptions held by common folk. In their mind, reality is what they say it is, and heaven forbid anyone else have any opinions that deviate from this. But they cannot spread this idea of reality alone...enter their subordinates, who are willing to do the bidding of their master in order to spread their factual and experiential influence to the world.
+
+When these individuals obtain these subordinates to do their bidding, their passion for their own objective views, as well as those of others, is fully realized. They love building networks of like-minded individuals, whom they can shower all of their love towards, always willing to defend them with strong words, phrases, and actions. But make no mistake: the MLROV is a taskmaster, and so they see the preservation of their subordinate's opinions as just another task to be completed. And the fact that they are focused on task completion makes them completely blind to the world of personal values and subjective opinions.
+
+In fact, their taskmaster nature makes them averse to this aspect of the human psyche, and as such, they want to bend the rules when it comes to societal expectations for these values. They have the absolute right to be as depraved as they possibly want, and no one can say anything about it. But how? Enter their own imagination and creativity, which has been dormant for a while but is now realized. They love utilizing their gift of novelty to provoke, and no single idea they have in their heads is worthy of being thrown out. No matter how deranged, and no matter how incomplete, every one of their ideas gets out there.
+
+With a confident (yet rather flimsy) grasp on their own Imagination, they can further focus on the one thing that gave them all these gifts in the first place: their own idea of what reality is and should be. The MLROV individual has one confident idea of how the past, present, and future was, is, and will be, and they will let everyone else know of this. They are able to rewrite the course of history itself in all of its aspects, in a way that will benefit only them and anyone that is fortunate (or unfortunate?) enough to be under their wing.
+
+When their psyche fully develops, their true colors show. The MLROV is an incredibly dynamic individual, always willing to do whatever they desire and sacrifice any and all values to do so. They can act as unapologetic steamrollers of all that is valuable; as long as they and their subordinates are satisfied, it doesn't matter who gets hurt. It should once again be stated that, if unchecked, these individuals are extremely dangerous, as their desire to control reality as we know it can have disastrous consequences for anyone who dares to even say no to them.
 
 ## Deca Influence
 
-&lt;Lorem ipsum dolor...&gt;
+Despite the description I have given you thus far, the MLROV individual isn't just a power-hungry supervillain who wants to take over the world (although many characters fit this type, lol). In fact, like all other Quinta types, they are intellectuals. This gives them a signature edge that can especially lead to problems, as more often than not, they are incredibly smart and know every little thing about the people around them...just so that they can push their buttons. In fact, they are the very definition of provocateurs, which is a trait of all Quinta types, but is especially apparent in the MLROV.
+
+The MLROV individual is also a revolutionary at heart. They ultimately want to lead society in a direction that suits them and their idea of reality. However, this idea does not always have to encompass forward societal momentum. In fact, there have been several instances of representatives of this type wanting society to go *back* in time where things were more favorable to them and their people. This is unique among types with confident Imagination in general, but then again, the de-elevation of Prejudice can be seen by many as a weird combination of Atoms. (I certainly feel that way, at least.)
+
+It should also be noted that because MLROV is a Quinta type and not a Septima type, they do not usually resort to physicality to get what they want. In fact, it is actually common for these individuals to have physically weak bodies and to run away from physical confrontation. However, their keen mind more than makes up for this deficiency. Intellectual pursuits are where the MLROV thrives, and if and when they are in this position, they can do anything they want to ensure that those standing in their way are dealt with at best, or obliterated at worst. They are truly unstoppable here.
 
 # Atoms, Subtypes, and their Resultant Traits and Behaviors
 
@@ -56,13 +70,19 @@ Simply put, the MLROV individual is a force to be reckoned with. They are charac
 
 ### Co-Types
 
-&lt;Lorem ipsum dolor...&gt;
+The MLROV and MLRVO types are Co-Reality types. Individuals of both types have their own unique concept of reality that encompasses the past, present, and future, and make use of subordinates to spread this concept. This can make them peddlers of propaganda if they're not careful, which can have dangerous consequences not just for others, but the entire world. Therefore, it is important for them to keep their powers in check and to take a step back once in a while, in order to be able to listen to what others have to say about reality in a productive and healthy manner.
+
+In addition, the MLROV and OLRMV types are Co-Logic types. Individuals of both types see the defense of their own and others' objective opinions as tasks to be completed in order for them to be satisfied. This is not to say that they genuinely don't care about defending others, but it may have problems with genuine connection later down the line. Fostering this genuine connection, therefore, is utterly important. That way, their subordinates' patronage to them can be very rewarding, and can open them up to new networking opportunities that wouldn't be there without this connection.
 
 ## The Heart
 
 &lt;Lorem ipsum dolor...&gt;
 
 ### Co-Types
+
+The MLROV and MORLV types are Co-Imagination types. Individuals of both types have one, singular, confident idea about the future that they are unfiltered in when it comes to their thoughts and actions. Due to there being no "wall", so to say, they can end up inadvertently harming others, including the people that they love the most. Although it is not unhealthy to have a confident idea about the future, communication is essential when it comes to convincing them about how they *should* see the future...one that can benefit everyone in the long run.
+
+Additionally, the MLROV and MLORV types are Co-Valuation types. Individuals of both types exhibit a carelessness when it comes to others' personal values due to their focus on task completion. This behavior can be especially problematic, as it can alienate them from society and make them seem completely devoid of emotion or empathy. It is essential, therefore, for these individuals to gradually build a sense of empathy towards other individuals. That way, they can not only focus on completing their tasks at hand, but be able to make genuine connections that will benefit them and last a lifetime.
 
 &lt;Lorem ipsum dolor...&gt;
 

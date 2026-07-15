@@ -56,6 +56,8 @@ Like the MLROV, the MLRVO individual wishes to spread their idea of reality thro
 
 ### Co-Types
 
+The MLRVO and MLROV types are Co-Reality types. Individuals of both types have their own unique concept of reality that encompasses the past, present, and future, and make use of subordinates to spread this concept. This can make them peddlers of propaganda if they're not careful, which can have dangerous consequences not just for others, but the entire world. Therefore, it is important for them to keep their powers in check and to take a step back once in a while, in order to be able to listen to what others have to say about reality in a productive and healthy manner.
+
 &lt;Lorem ipsum dolor...&gt;
 
 ## The Heart

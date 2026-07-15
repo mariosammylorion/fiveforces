@@ -66,6 +66,8 @@ In addition, the RMVLO and ROVLM types are Co-Logic types. Individuals of both t
 
 ### Co-Types
 
+The RMVLO and RMVOL types are Co-Imagination types. Individuals of both types enthusiastically and passionately defend their own and others' novel ideas, concepts, and creativity. This is generally non-problematic behavior that can reap many benefits, but it can equally be considered a problem due to their unapologetic nature. What if the source of these ideas is problematic in nature? The key to healthiness in this regard, therefore, is not the quelling of this passion, but learning how to discern right from wrong and only take in the ideas that matter and can do good to other individuals.
+
 &lt;Lorem ipsum dolor...&gt;
 
 ## The Body

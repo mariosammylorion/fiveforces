@@ -64,6 +64,8 @@ The RMLVO individual wishes to speak what they know to an audience, where *they*
 
 ### Co-Types
 
+The RMLVO and RMOVL types are Co-Imagination types. Individuals of both types hide their absolute desperation for novel ideas and concepts beneath a façade of enthusiasm for them. This behavior can promote false expression that results in alienation between them and their peers, and prohibits them from fostering genuine connections. Therefore, it is bluntly important for these individuals to speak their mind and to tell others when they are hurting, and when they are suffering, so that authenticity can be restored in these relationships *and* they can get the help that they truly need.
+
 &lt;Lorem ipsum dolor...&gt;
 
 ## The Body

@@ -66,6 +66,8 @@ The OMRVL is characterized by an incessant need to kill the pain in their life c
 
 &lt;Lorem ipsum dolor...&gt;
 
+In addition, the OMRVL and RMOVL types are Co-Valuation types. Individuals of both types blame others for their emotional and valuational problems, which puts them into situations that cause danger to others. They feel that because the world has tortured them, they have the right to torture the world, which is extremely obviously problematic and unhealthy behavior. And so the only way to stop this from happening is immediate intervention. Talking to them, and letting them be honest and be themselves is just one of the many ways that these individuals can drive on the road to healthiness and a happy life.
+
 ## The Body
 
 &lt;Lorem ipsum dolor...&gt;

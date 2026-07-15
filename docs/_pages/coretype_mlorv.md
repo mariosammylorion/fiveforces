@@ -68,6 +68,8 @@ The MLORV and MLVRO types are Co-Reality types. Individuals of both types blame 
 
 &lt;Lorem ipsum dolor...&gt;
 
+Additionally, the MLORV and MLROV types are Co-Valuation types. Individuals of both types exhibit a carelessness when it comes to others' personal values due to their focus on task completion. This behavior can be especially problematic, as it can alienate them from society and make them seem completely devoid of emotion or empathy. It is essential, therefore, for these individuals to gradually build a sense of empathy towards other individuals. That way, they can not only focus on completing their tasks at hand, but be able to make genuine connections that will benefit them and last a lifetime.
+
 ## The Body
 
 &lt;Lorem ipsum dolor...&gt;

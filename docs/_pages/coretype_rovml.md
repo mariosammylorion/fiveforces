@@ -58,6 +58,8 @@ Looks can be deceiving; although the ROVML has a strong factual presence and app
 
 &lt;Lorem ipsum dolor...&gt;
 
+In addition, the ROVML and RMVOL types are Co-Logic types. Individuals of both types bend the rules and interpretations of others' objectivity out of pure selfishness for their values. Although all types with Selfishness are prone to problematic behavior in this regard, this dynamic can especially have dangerous consequences that arise from not taking heed to any warnings they may receive. As such, it is imperative that these individuals take time to pay attention to what experts have to say, while also retaining their rebellious nature to combat genuinely corrupt individuals and organizations, thus removing any sense of selfishness they may have.
+
 ## The Heart
 
 &lt;Lorem ipsum dolor...&gt;
