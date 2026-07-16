@@ -54,15 +54,7 @@ The primary goal of the MVROL is to both be inspired and to inspire. Their way o
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-&lt;Lorem ipsum dolor...&gt;
-
 ## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -81,6 +73,10 @@ The primary goal of the MVROL is to both be inspired and to inspire. Their way o
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

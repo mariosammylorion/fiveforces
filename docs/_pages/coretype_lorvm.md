@@ -54,15 +54,7 @@ Like the LORMV, the LORVM individual seeks to spread their idea of reality. But 
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-&lt;Lorem ipsum dolor...&gt;
-
 ## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -81,6 +73,10 @@ Like the LORMV, the LORVM individual seeks to spread their idea of reality. But 
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

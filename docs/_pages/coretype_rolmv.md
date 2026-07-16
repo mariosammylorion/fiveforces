@@ -54,15 +54,7 @@ When it comes to instructing others on what to do, the ROLMV believes that they 
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-&lt;Lorem ipsum dolor...&gt;
-
 ## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -81,6 +73,10 @@ When it comes to instructing others on what to do, the ROLMV believes that they 
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

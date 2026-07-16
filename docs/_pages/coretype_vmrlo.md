@@ -54,15 +54,7 @@ Out of all six types with Ambition, the VMRLO is perhaps the most selfish. This 
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-&lt;Lorem ipsum dolor...&gt;
-
 ## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -81,6 +73,10 @@ Out of all six types with Ambition, the VMRLO is perhaps the most selfish. This 
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

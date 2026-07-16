@@ -54,15 +54,7 @@ The VLMRO is an optimist in every sense of the word, but one wouldn't know that 
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-&lt;Lorem ipsum dolor...&gt;
-
 ## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -81,6 +73,10 @@ The VLMRO is an optimist in every sense of the word, but one wouldn't know that 
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

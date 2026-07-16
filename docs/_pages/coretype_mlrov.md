@@ -68,21 +68,7 @@ It should also be noted that because MLROV is a Quinta type and not a Septima ty
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-The MLROV and MLRVO types are Co-Reality types. Individuals of both types have their own unique concept of reality that encompasses the past, present, and future, and make use of subordinates to spread this concept. This can make them peddlers of propaganda if they're not careful, which can have dangerous consequences not just for others, but the entire world. Therefore, it is important for them to keep their powers in check and to take a step back once in a while, in order to be able to listen to what others have to say about reality in a productive and healthy manner.
-
-In addition, the MLROV and OLRMV types are Co-Logic types. Individuals of both types see the defense of their own and others' objective opinions as tasks to be completed in order for them to be satisfied. This is not to say that they genuinely don't care about defending others, but it may have problems with genuine connection later down the line. Fostering this genuine connection, therefore, is utterly important. That way, their subordinates' patronage to them can be very rewarding, and can open them up to new networking opportunities that wouldn't be there without this connection.
-
 ## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
-
-The MLROV and MORLV types are Co-Imagination types. Individuals of both types have one, singular, confident idea about the future that they are unfiltered in when it comes to their thoughts and actions. Due to there being no "wall", so to say, they can end up inadvertently harming others, including the people that they love the most. Although it is not unhealthy to have a confident idea about the future, communication is essential when it comes to convincing them about how they *should* see the future...one that can benefit everyone in the long run.
-
-Additionally, the MLROV and MLORV types are Co-Valuation types. Individuals of both types exhibit a carelessness when it comes to others' personal values due to their focus on task completion. This behavior can be especially problematic, as it can alienate them from society and make them seem completely devoid of emotion or empathy. It is essential, therefore, for these individuals to gradually build a sense of empathy towards other individuals. That way, they can not only focus on completing their tasks at hand, but be able to make genuine connections that will benefit them and last a lifetime.
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -101,6 +87,10 @@ Additionally, the MLROV and MLORV types are Co-Valuation types. Individuals of b
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

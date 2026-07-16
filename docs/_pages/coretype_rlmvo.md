@@ -54,19 +54,9 @@ It may be hard to tell that the RLMVO type is one that experiences torment about
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-&lt;Lorem ipsum dolor...&gt;
-
 ## The Heart
 
 &lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
-
-&lt;Lorem ipsum dolor...&gt;
-
-In addition, the RLMVO and OLMVR types are Co-Valuation types. Individuals of both types refuse to seek help when it comes to their struggles with finding what matters, and deflect their pain by using others' objective opinions to explain why they don't need help. This form of behavior can not only damage their relationships with other people, but damage themselves mentally by continuing to wallow in their own pain. Therefore, these individuals need to understand how to seek help when it is available, so one day they can flourish and find what truly matters, or at least power through their pain for now.
 
 ## The Body
 
@@ -83,6 +73,10 @@ In addition, the RLMVO and OLMVR types are Co-Valuation types. Individuals of bo
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

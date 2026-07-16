@@ -54,21 +54,9 @@ To put it in one way, the MLORV type is the living embodiment of the phrase, "Er
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-The MLORV and MLVRO types are Co-Reality types. Individuals of both types blame the world for its supposed harshness, even though it is their own unapologetic creativity that drives this blaming. This is not at all to say that these individuals cause all of their own problems; in fact, several of them may have indeed had difficult lives that are not at all their fault. However, a lack of self-blaming for their issues is a common pitfall that they can fall into. Therefore, taking accountability for their actions is perhaps the greatest advice for personal growth that can be given to individuals of both types.
-
-&lt;Lorem ipsum dolor...&gt;
-
 ## The Heart
 
 &lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
-
-&lt;Lorem ipsum dolor...&gt;
-
-Additionally, the MLORV and MLROV types are Co-Valuation types. Individuals of both types exhibit a carelessness when it comes to others' personal values due to their focus on task completion. This behavior can be especially problematic, as it can alienate them from society and make them seem completely devoid of emotion or empathy. It is essential, therefore, for these individuals to gradually build a sense of empathy towards other individuals. That way, they can not only focus on completing their tasks at hand, but be able to make genuine connections that will benefit them and last a lifetime.
 
 ## The Body
 
@@ -85,6 +73,10 @@ Additionally, the MLORV and MLROV types are Co-Valuation types. Individuals of b
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

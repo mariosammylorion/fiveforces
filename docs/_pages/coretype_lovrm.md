@@ -54,17 +54,7 @@ The LOVRM type is perhaps the unluckiest in the entire Five Forces system. On to
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-The LOVRM and LVORM types are Co-Reality types. Individuals of both types have the idea that they are unfortunate in their own lives, which they totally and completely accept as their own fault. It is absolutely no one's *entire* fault that they have terrible lives, even in more extreme circumstances, so this self-deprecation can really detract them from what's really causing their pain. Talking to these individuals and supporting them is therefore crucial in order for them to get to the bottom of what's truly causing their perceived misfortune and to find something to do about it.
-
-&lt;Lorem ipsum dolor...&gt;
-
 ## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -83,6 +73,10 @@ The LOVRM and LVORM types are Co-Reality types. Individuals of both types have t
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

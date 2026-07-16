@@ -68,21 +68,9 @@ It should also be worth mentioning that the VROML type fundamentally does all of
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-The VROML and ORVML types are Co-Reality types. Individuals of both types feel the strong urge to listen to what others have to say factually, even if they may obtain information that confirms their fears of the future. This obviously has negative consequences for them, as opening up to this amount of unhelpful information can lead to a greater sense of doom that no amount of therapy can quell. It is absolutely imperative that they develop a sense of self-control before it's too late, in addition to easing them into thinking that maybe, just maybe, the future isn't so bad after all.
-
-Additionally, the VROML and VRMOL types are Co-Logic types. Individuals of both types have a great respect for intellectual affairs, despite not pursuing them themselves, and exhibit ferociousness with this admiration. The main concern with this is not the promotion of intellectualism itself, but with the possibility of them being forceful with it, even going so far as to guilt-trip others into being interested. A personal goal for them should not be the cessation of this respect, but the integration of healthy mechanisms so that they can productively convince others that objectivity and the abstract are worth paying attention to.
-
 ## The Heart
 
 &lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
-
-The VROML and VRLMO types are Co-Imagination types. Individuals of both types exhibit a timid, self-deprecating attitude towards new and novel ideas and concepts. Their self-deprecation can get to a point where they can become totally and completely helpless when it comes to the future, even going as far as to engage in self-harm over it. Therefore, it is essential that these individuals learn that even though the future may be taxing to deal with sometimes, it is not at all their fault, and that with the proper help and support, they have the tools and methods necessary to engage with it when the time is right.
-
-In addition, the VROML and VORML types are Co-Valuation types. Individuals of both types feel the need to be ferocious with the values they share due to their perfectionist nature when it comes to them. The clashing subtype of Ferocity opens a whole can of worms when it comes to potentially problematic behavior, and this is absolutely no different. Therefore, introducing coping strategies to find other ways to perfect their values may be helpful in helping to curbstomp this ferociousness, if not perhaps dampening the output they put out so that other individuals are not disarmed by their mere presence alone.
 
 ## The Body
 
@@ -99,6 +87,10 @@ In addition, the VROML and VORML types are Co-Valuation types. Individuals of bo
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

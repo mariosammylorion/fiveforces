@@ -54,17 +54,7 @@ Recall that I described Uninhibited-Private 2O with the metaphor of an actor who
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-&lt;Lorem ipsum dolor...&gt;
-
-Additionally, the ROMVL and RMOVL types are Co-Logic types. Individuals of both types want to bend the rules of logic and objectivity, which inadvertently causes danger to the people around them. Although it is not inherently wrong to not care about what others have to say objectively, being dangerous to others is a very problematic behavior that must be contained. This is one of those traits of both these types that must be quelled with extreme practice and effort on everyone's part. I know it may not be fair to say that some individuals need to work harder than others to be healthy, but...that's just the way it is.
-
 ## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -83,6 +73,10 @@ Additionally, the ROMVL and RMOVL types are Co-Logic types. Individuals of both 
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

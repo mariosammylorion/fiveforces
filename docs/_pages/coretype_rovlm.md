@@ -68,21 +68,9 @@ ROVLMs also possess an excellent memory that is characterized by the Decima Deca
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-The ROVLM and RVOLM types are Co-Reality types. Individuals of both types constantly scan their present environment using information from the past, which results in an unpredictable and possibly volatile demeanor. Because of their ability to be in any situation physically, their springs into action can be "a little much" at best and totally and completely violent at worst. One goal for personal growth should therefore be not the suppression of their vigilance, but learning to scan their environment in a way that is more tolerable and healthy for others, especially those that are sensitive to such unpredictable behaviors.
-
-In addition, the ROVLM and RMVLO types are Co-Logic types. Individuals of both types blame themselves for being unable to logically explain the world, a behavior that is the result of their defiance against the status quo. While it is not exactly necessary for them to think about things from an abstract perspective, their continued defiance can result in instances where they are unable to process the world around them. Gentle introductions to the world of the abstract are therefore recommended for these individuals to gain the experience necessary to navigate complex situations that require the usage of the Force of Logic.
-
 ## The Heart
 
 &lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
-
-The ROVLM and RLVOM types are Co-Imagination types. Individuals of both types possess a hatred of novel ideas and concepts as a result of their desire to have their physical environment be more predictable. A hatred of novelty is a pitfall for several core types in the Five Forces system, but it is especially problematic for these types due to their tendency to lash out at any changes they may come across. Trust must be built from the ground up for these types in order to introduce them to small changes in their life here and there, which can be gradually increased to bigger changes.
-
-Additionally, the ROVLM and ORVLM types are Co-Valuation types. Individuals of both types retain a sense of unchanging personal values they use as a "middle finger" to any establishment they may be under. Although this may result in a healthy defiance of any truly corrupt regime or establishment, it may equally result in the defiance of healthy authority figures who want nothing but the best for the individuals that are under them. It is essential, therefore, for these individuals to discern good authority from bad authority, so that they can better build trust with those who genuinely want to help them.
 
 ## The Body
 
@@ -99,6 +87,10 @@ Additionally, the ROVLM and ORVLM types are Co-Valuation types. Individuals of b
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

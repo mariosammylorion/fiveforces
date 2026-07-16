@@ -54,15 +54,7 @@ If the phrase "Facts don't care about your feelings" can be mapped to any one of
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-&lt;Lorem ipsum dolor...&gt;
-
 ## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -83,6 +75,10 @@ If the phrase "Facts don't care about your feelings" can be mapped to any one of
 # Miscellaneous Traits and Behaviors
 
 I am very sorry to say this, considering some viewers may possess this type, but this needs to be said straight away: **the VRLOM is an inherently problematic type.** Every core behavior of these individuals, from the assertion of facts over feelings to the aversion to novelty, makes for characters that can range from general nuisances to genuinely harmful individuals who target vulnerable groups. This type is perhaps one of the very few in the entire Five Forces system in which grueling work must be done in order to have these individuals be healthy towards themselves and healthy towards society.
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

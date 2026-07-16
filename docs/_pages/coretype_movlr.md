@@ -54,17 +54,7 @@ The MOVLR wants to spread their ideas and novelty to the people they care most a
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-&lt;Lorem ipsum dolor...&gt;
-
 ## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
-
-The MOVLR and MLVOR types are Co-Imagination types. Individuals of both types refuse to conform to societal expectations when it comes to creativity and novelty, which results in them drifting far from the real world and into fantasy. This obviously can reap negative consequences for these individuals, as a detachment from the real world can isolate them from society and prevent them from building meaningful relationships. Therefore, it is essential that they take a step back from their own Imagination so that they can, with practice, get comfortable living in Reality, where they can realize their true, full potential.
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -83,6 +73,10 @@ The MOVLR and MLVOR types are Co-Imagination types. Individuals of both types re
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

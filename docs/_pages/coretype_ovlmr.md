@@ -54,17 +54,7 @@ Both the MVLOR and the OVLMR types possess a devotion that they do not wish to s
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-&lt;Lorem ipsum dolor...&gt;
-
-Additionally, the OVLMR and MVLOR types are Co-Logic types. Individuals of both types possess unique objective opinions about their own borrowed value systems that they do not wish to change or even share with others. Although this does make them confident in their own logical prowess, it can result in absolute stubbornness towards anyone who wants to change their point of view. It is essential, therefore, for them to learn to not only take into account the opinions of others, but to be able to healthily share their views and even be able to debate others in a productive manner.
-
 ## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -83,6 +73,10 @@ Additionally, the OVLMR and MVLOR types are Co-Logic types. Individuals of both 
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

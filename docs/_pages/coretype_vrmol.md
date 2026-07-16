@@ -54,17 +54,7 @@ If the RVOML individual is one that brings a good time to everyone, the VRMOL is
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-&lt;Lorem ipsum dolor...&gt;
-
-Additionally, the VRMOL and VROML types are Co-Logic types. Individuals of both types have a great respect for intellectual affairs, despite not pursuing them themselves, and exhibit ferociousness with this admiration. The main concern with this is not the promotion of intellectualism itself, but with the possibility of them being forceful with it, even going so far as to guilt-trip others into being interested. A personal goal for them should not be the cessation of this respect, but the integration of healthy mechanisms so that they can productively convince others that objectivity and the abstract are worth paying attention to.
-
 ## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -83,6 +73,10 @@ Additionally, the VRMOL and VROML types are Co-Logic types. Individuals of both 
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

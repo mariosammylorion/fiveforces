@@ -54,17 +54,7 @@ The OLVMR individual lives life as if someone, or everyone, is out to get them. 
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-&lt;Lorem ipsum dolor...&gt;
-
-In addition, the OLVMR and MLVOR types are Co-Logic types. Individuals of both types are unfiltered when it comes to outside logical and objective explanations, which they can use to feel validated for what they believe in. This can result in a dependence of other people to justify their subjective opinions, leading to a mindset where only the outside world can give them self-confidence. The journey to growth, therefore, is to learn how to be more self-sufficient in thinking about things logically, only using the outside world as a backup to confirm their opinions in case if they cannot do so by themselves.
-
 ## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -83,6 +73,10 @@ In addition, the OLVMR and MLVOR types are Co-Logic types. Individuals of both t
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

@@ -66,21 +66,9 @@ It should once again be stated that the LVORM is absolutely willing to suffer ju
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-The LVORM and LOVRM types are Co-Reality types. Individuals of both types have the idea that they are unfortunate in their own lives, which they totally and completely accept as their own fault. It is absolutely no one's *entire* fault that they have terrible lives, even in more extreme circumstances, so this self-deprecation can really detract them from what's really causing their pain. Talking to these individuals and supporting them is therefore crucial in order for them to get to the bottom of what's truly causing their perceived misfortune and to find something to do about it.
-
-In addition, the LVORM and LVMRO types are Co-Logic types. Individuals of both types serve their objects of affection in order to perfect their logical and analytical skills and objective opinions. While this isn't inherently problematic behavior, it can become that way if they develop a deep dependence on them, leaving them helpless with their logic even though they both have 1L. It is important for these types to develop self-control in the fact that they are more independent when it comes to their objectivity, leaving them able to analyze life from a detached perspective entirely on their own.
-
 ## The Heart
 
 &lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
-
-The LVORM and OVLRM types are Co-Imagination types. Individuals of both types do not bother with Imagination due to them perceiving bad luck in their lives, even though they greatly admire those that use it. This is frankly one of the least problematic behaviors found in subtype combinations, although it can lead to self-deprecation that causes self-esteem issues down the line. Other than that, these individuals *can* learn to use their sense of Imagination for brief periods of time so that they can understand those who do use it often on a deeper level that just observation cannot obtain.
-
-Additionally, the LVORM and LVROM types are Co-Valuation types. Individuals of both types are completely in servitude to the outside value systems they have adopted. Obviously, there is the entire issue with being *too* devoted to these objects of affection, which can result in deep dependence and a tendency to engage in problematic behavior just to be closer to them. Once again, self-control is key to developing a healthy relationship with this object of affection, and with practice, they can learn how to say "no" if and when this object goes too far into dangerous territory.
 
 ## The Body
 
@@ -97,6 +85,10 @@ Additionally, the LVORM and LVROM types are Co-Valuation types. Individuals of b
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

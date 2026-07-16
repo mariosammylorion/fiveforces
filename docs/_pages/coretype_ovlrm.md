@@ -54,17 +54,7 @@ The OVLRM seeks out a true partner, companion, or even something to believe in, 
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-&lt;Lorem ipsum dolor...&gt;
-
 ## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
-
-The OVLRM and LVORM types are Co-Imagination types. Individuals of both types do not bother with Imagination due to them perceiving bad luck in their lives, even though they greatly admire those that use it. This is frankly one of the least problematic behaviors found in subtype combinations, although it can lead to self-deprecation that causes self-esteem issues down the line. Other than that, these individuals *can* learn to use their sense of Imagination for brief periods of time so that they can understand those who do use it often on a deeper level that just observation cannot obtain.
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -83,6 +73,10 @@ The OVLRM and LVORM types are Co-Imagination types. Individuals of both types do
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

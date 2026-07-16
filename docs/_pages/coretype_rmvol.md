@@ -66,21 +66,9 @@ Still, it is quite common to see the RMVOL type represented in various activists
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-The RMVOL and RMOVL types are Co-Reality types. Individuals of both types shake up their immediate environment with a deep passion and enthusiasm for the changes happening around them. While this usually is a healthy expression of passion, occasionally it can result in pushy and even problematic behavior in which ideas are forced upon others. It is therefore essential that these individuals learn how to promote and advertise these ideas in a way that is not only productive, but takes into account the accommodations that others require in order to fully indulge themselves in these ideas.
-
-In addition, the RMVOL and ROVML types are Co-Logic types. Individuals of both types bend the rules and interpretations of others' objectivity out of pure selfishness for their values. Although all types with Selfishness are prone to problematic behavior in this regard, this dynamic can especially have dangerous consequences that arise from not taking heed to any warnings they may receive. As such, it is imperative that these individuals take time to pay attention to what experts have to say, while also retaining their rebellious nature to combat genuinely corrupt individuals and organizations, thus removing any sense of selfishness they may have.
-
 ## The Heart
 
 &lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
-
-The RMVOL and RMVLO types are Co-Imagination types. Individuals of both types enthusiastically and passionately defend their own and others' novel ideas, concepts, and creativity. This is generally non-problematic behavior that can reap many benefits, but it can equally be considered a problem due to their unapologetic nature. What if the source of these ideas is problematic in nature? The key to healthiness in this regard, therefore, is not the quelling of this passion, but learning how to discern right from wrong and only take in the ideas that matter and can do good to other individuals.
-
-Additionally, the RMVOL and OMVRL types are Co-Valuation types. Individuals of both types rely on other people to spread the agenda of their personal values, an action that is born of selfish desires. This is not to say that all these individuals are secretly selfish pricks to only aim to better themselves; in fact, many healthy representatives genuinely want to do good to others and the world. However, the initial *action* of doing so is inherently selfish, and so they key to growth for both these types is to learn how to curb this selfishness and replace it with genuine empathy and compassion, thus allowing them to change the world for the better using their personal values.
 
 ## The Body
 
@@ -97,6 +85,10 @@ Additionally, the RMVOL and OMVRL types are Co-Valuation types. Individuals of b
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

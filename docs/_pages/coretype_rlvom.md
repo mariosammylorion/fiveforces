@@ -64,23 +64,11 @@ Like all other Octava types, the RLVOM is also focused on task completion. Unlik
 
 ## The Brain
 
-The RLVOM and RLOVM types are Co-Reality types. Individuals of both types possess a chaotic and unpredictable demeanor that is a result of their constant experimentation with the Force of Reality. They will do anything to ensure that the logic they receive is proven in the world. This can lead to several disastrous consequences if this is not kept in check, including the fracturing of social relationships. It is therefore important for both types to ensure not that they cease this experimentation, but to have it so that they can do it without the risk of anyone, including themselves, getting hurt.
-
-In addition, the RLVOM and RLVMO are Co-Logic types. Individuals of both types feel a heightened sense of validation whenever they champion the logical and objective views of others. This is normally a healthy form of behavior that doesn't cause much problems. However, they can not only get caught up in problematic forms of abstraction, but rely too much on validation to think about themselves. Therefore, self-control is extremely important to address both of these potential issues, and when healthy, they can become champions of opinions that are revolutionary in nature and can change the world for the better.
-
-### Co-Types
-
 &lt;Lorem ipsum dolor...&gt;
 
 ## The Heart
 
 &lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
-
-The RLVOM and ROVLM types are Co-Imagination types. Individuals of both types possess a hatred of novel ideas and concepts as a result of their desire to have their physical environment be more predictable. A hatred of novelty is a pitfall for several core types in the Five Forces system, but it is especially problematic for these types due to their tendency to lash out at any changes they may come across. Trust must be built from the ground up for these types in order to introduce them to small changes in their life here and there, which can be gradually increased to bigger changes.
-
-Additionally, the RLVOM and OLVRM types are Co-Valuation types. Individuals of both types seek to be validated for their own personal values, which they possess with great stubborness, insecurity, and an unwillingness to change them. This way of thinking can cause social problems down the line, as their peers may be "forced" to conform to their values, creating tension and even resulting in some guilt-trippy scenarios. It is important for these individuals to maintain peaceful and constructive methods when it comes to their values in a way that both benefits others and lets them receive the true validation that they crave.
 
 ## The Body
 
@@ -97,6 +85,10 @@ Additionally, the RLVOM and OLVRM types are Co-Valuation types. Individuals of b
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

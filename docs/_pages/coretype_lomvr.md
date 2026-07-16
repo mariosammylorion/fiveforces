@@ -54,17 +54,7 @@ On the surface, the LOMVR individual is a master of defying facts through their 
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-&lt;Lorem ipsum dolor...&gt;
-
 ## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
-
-The LOMVR and OLMVR types are Co-Imagination types. Individuals of both types have an intense fear of judgment or ridicule for their Imagination, and therefore subject themselves to a "higher plane of existence," so to say. Too much of this detachment from the outside world can have devastating consequences, including a sense of loneliness from having no social interaction. By slowly building trust, they can learn to share their creativity with those who will accept and even admire it, in which case they learn not to be so paranoid about sharing the very thing that gives them the edge when it comes to new and novel ideas.
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -83,6 +73,10 @@ The LOMVR and OLMVR types are Co-Imagination types. Individuals of both types ha
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

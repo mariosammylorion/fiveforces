@@ -68,21 +68,9 @@ Again, MLVROs being revolutionaries in intellectual fields is rare, as these fie
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-The MLVRO and MLORV types are Co-Reality types. Individuals of both types blame the world for its supposed harshness, even though it is their own unapologetic creativity that drives this blaming. This is not at all to say that these individuals cause all of their own problems; in fact, several of them may have indeed had difficult lives that are not at all their fault. However, a lack of self-blaming for their issues is a common pitfall that they can fall into. Therefore, taking accountability for their actions is perhaps the greatest advice for personal growth that can be given to individuals of both types.
-
-In addition, the MLVRO and OLVRM types are Co-Logic types. Individuals of both types utilize their deference to others' logic as a means to objectively validate their fears of reality. While this is comforting and soothing to them, this can result in them twisting others' opinions as a way to validate any unhealthy behaviors, even when that wasn't the original intention of the interlocutor. Personal growth in this area therefore involves the ability for these individuals to look at their authority figure's advice not through their own personal values, but in a detached manner that is most beneficial to them.
-
 ## The Heart
 
 &lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
-
-The MLVRO and MOVRL types are Co-Imagination types. Individuals of both types are defiant with their Imagination when it comes to societal norms and expectations, which unfortunately can result in disappointment and disillusionment with the world when things don't go as planned. When it comes to their creative abilities, they can often exert themselves so much in a way that makes them want to detach themselves from reality more and more. These individuals, therefore, need to set limits on what their creativity in a way that not only satisfies their need to break the mold, but ensures their safety in the world.
-
-Additionally, the MLVRO and MLVOR types are Co-Valuation types. Individuals of both types build for themselves a social circle of other individuals that share their personal values in order to build a network where they can feel validated. While this is often an inherently healthy form of behavior, this can result in a dependence of this group for all of their needs, including creative and valuational. Like with their Imagination, these individuals must set limits on their sense of Valuation, so that they can not only be validated for who they are, but accounted for in a healthy way.
 
 ## The Body
 
@@ -100,7 +88,9 @@ Additionally, the MLVRO and MLVOR types are Co-Valuation types. Individuals of b
 
 # Miscellaneous Traits and Behaviors
 
-Before we start this section, I just want to get this out of the way: MLVRO is my core type, and therefore this entire description may just end up being a reflection of myself and my own behaviors. Then again, there are many such cases of entire typology systems just being reflections of the creators' own personalities (Psychosophy is a great example). Noting this, we can now move on to a section that is totally and completely unbiased and is something that I didn't just make stuff up for because I experience these traits and behaviors, lmao.
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

@@ -54,21 +54,9 @@ The OLVRM is a generally unlucky individual, so they seek an external rulebook t
 
 &lt;Lorem ipsum dolor...&gt;
 
-In addition, the OLVRM and MLVRO types are Co-Logic types. Individuals of both types utilize their deference to others' logic as a means to objectively validate their fears of reality. While this is comforting and soothing to them, this can result in them twisting others' opinions as a way to validate any unhealthy behaviors, even when that wasn't the original intention of the interlocutor. Personal growth in this area therefore involves the ability for these individuals to look at their authority figure's advice not through their own personal values, but in a detached manner that is most beneficial to them.
-
-### Co-Types
-
-&lt;Lorem ipsum dolor...&gt;
-
 ## The Heart
 
 &lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
-
-&lt;Lorem ipsum dolor...&gt;
-
-Additionally, the OLVRM and RLVOM types are Co-Valuation types. Individuals of both types seek to be validated for their own personal values, which they possess with great stubborness, insecurity, and an unwillingness to change them. This way of thinking can cause social problems down the line, as their peers may be "forced" to conform to their values, creating tension and even resulting in some guilt-trippy scenarios. It is important for these individuals to maintain peaceful and constructive methods when it comes to their values in a way that both benefits others and lets them receive the true validation that they crave.
 
 ## The Body
 
@@ -85,6 +73,10 @@ Additionally, the OLVRM and RLVOM types are Co-Valuation types. Individuals of b
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

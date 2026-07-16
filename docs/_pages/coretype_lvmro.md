@@ -54,17 +54,7 @@ The LVMRO individual affirms their faith that came from outside them and wishes 
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-&lt;Lorem ipsum dolor...&gt;
-
-In addition, the LVMRO and LVORM types are Co-Logic types. Individuals of both types serve their objects of affection in order to perfect their logical and analytical skills and objective opinions. While this isn't inherently problematic behavior, it can become that way if they develop a deep dependence on them, leaving them helpless with their logic even though they both have 1L. It is important for these types to develop self-control in the fact that they are more independent when it comes to their objectivity, leaving them able to analyze life from a detached perspective entirely on their own.
-
 ## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -83,6 +73,10 @@ In addition, the LVMRO and LVORM types are Co-Logic types. Individuals of both t
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

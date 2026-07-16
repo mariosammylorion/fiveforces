@@ -66,21 +66,9 @@ Perhaps a great strength of the MVLOR being this devoted is their raw, emotional
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-The MVLOR and MOLVR types are Co-Reality types. Individuals of both types are deep in imaginative fantasy, to the point where they are actively hostile towards anyone who wishes for them to get out of it. This results in perhaps one of the most unhealthy expressions of the Force of Reality in the Five Forces system, as they are antagonistic towards anyone who even wants to help them foster connections in reality. Therefore, trust is absolutely key for getting these types to engage in reality more, which can have great benefits, including the ability to use their Imagination to change the world for the better.
-
-Additionally, the MVLOR and OVLMR types are Co-Logic types. Individuals of both types possess unique objective opinions about their own borrowed value systems that they do not wish to change or even share with others. Although this does make them confident in their own logical prowess, it can result in absolute stubbornness towards anyone who wants to change their point of view. It is essential, therefore, for them to learn to not only take into account the opinions of others, but to be able to healthily share their views and even be able to debate others in a productive manner.
-
 ## The Heart
 
 &lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
-
-The MVLOR and MVOLR types are Co-Imagination types. Individuals of both types live in a fantasy world that they are willing to change for the value system they borrowed from the outside. This makes them gifted with the ability to accomodate for others, yet it can result in self-destructive behavior if these values steer them in the wrong direction. One way for these individuals to grow is for them to discern helpful advice from harmful advice, and be able to say "no" to their borrowed values if what they are devoted to wants to put them in dangerous situations and make bad decisions.
-
-In addition, the MVLOR and MVLRO types are Co-Valuation types. Individuals of both types make their deference to their outside value systems known to others, but they attach their own objective views to them that deviate from what others have to say. This can create hostility towards other people who do not share their opinions about these values, to the point of total isolation. It is therefore imperative that these individuals learn to approach others' opinions not with contempt, but with curiosity, at least so that they can debate others in a productive manner, and even change the minds of some stubborn individuals.
 
 ## The Body
 
@@ -101,6 +89,10 @@ In addition, the MVLOR and MVLRO types are Co-Valuation types. Individuals of bo
 &lt;Lorem ipsum dolor...&gt;
 
 I myself have great admiration for this type due to a specific reason that appeals to me and me alone: MVLOR is perhaps the perfect core type for a selfshipper, one who romantically pairs themselves with "fictional others" (or, "F/Os"). They constantly seek inspiration from these F/Os and realize their relationship through art, perfectly describing the Heart. As for the Brain, many selfshippers do not tolerate sharing their F/Os, thus they are in full possession (forming 3L). In addition, they disregard or even shun canon information about their F/Os in their source just to remain close to them (forming Antagonistic 5R). All of this forms the image of a creative, passionate soul who shares their love for their F/O, but refuses to share the F/O themselves (forming the Superficial Body). Again, this exclusively appeals to me, but it's worth noting.
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

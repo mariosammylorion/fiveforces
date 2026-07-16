@@ -54,19 +54,7 @@ The RMVLO individual has a gift of being able to sense the needs of others, as w
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-&lt;Lorem ipsum dolor...&gt;
-
-In addition, the RMVLO and ROVLM types are Co-Logic types. Individuals of both types blame themselves for being unable to logically explain the world, a behavior that is the result of their defiance against the status quo. While it is not exactly necessary for them to think about things from an abstract perspective, their continued defiance can result in instances where they are unable to process the world around them. Gentle introductions to the world of the abstract are therefore recommended for these individuals to gain the experience necessary to navigate complex situations that require the usage of the Force of Logic.
-
 ## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
-
-The RMVLO and RMVOL types are Co-Imagination types. Individuals of both types enthusiastically and passionately defend their own and others' novel ideas, concepts, and creativity. This is generally non-problematic behavior that can reap many benefits, but it can equally be considered a problem due to their unapologetic nature. What if the source of these ideas is problematic in nature? The key to healthiness in this regard, therefore, is not the quelling of this passion, but learning how to discern right from wrong and only take in the ideas that matter and can do good to other individuals.
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -85,6 +73,10 @@ The RMVLO and RMVOL types are Co-Imagination types. Individuals of both types en
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

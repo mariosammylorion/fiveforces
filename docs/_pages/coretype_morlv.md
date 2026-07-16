@@ -54,17 +54,7 @@ When you combine the need to cause mischief and the need to accumulate, you get 
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-&lt;Lorem ipsum dolor...&gt;
-
 ## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
-
-The MORLV and MLROV types are Co-Imagination types. Individuals of both types have one, singular, confident idea about the future that they are unfiltered in when it comes to their thoughts and actions. Due to there being no "wall", so to say, they can end up inadvertently harming others, including the people that they love the most. Although it is not unhealthy to have a confident idea about the future, communication is essential when it comes to convincing them about how they *should* see the future...one that can benefit everyone in the long run.
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -83,6 +73,10 @@ The MORLV and MLROV types are Co-Imagination types. Individuals of both types ha
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

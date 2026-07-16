@@ -54,17 +54,7 @@ The VRLMO wishes to influence the masses through their intellect, and they often
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-&lt;Lorem ipsum dolor...&gt;
-
 ## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
-
-The VRLMO and VROML types are Co-Imagination types. Individuals of both types exhibit a timid, self-deprecating attitude towards new and novel ideas and concepts. Their self-deprecation can get to a point where they can become totally and completely helpless when it comes to the future, even going as far as to engage in self-harm over it. Therefore, it is essential that these individuals learn that even though the future may be taxing to deal with sometimes, it is not at all their fault, and that with the proper help and support, they have the tools and methods necessary to engage with it when the time is right.
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -83,6 +73,10 @@ The VRLMO and VROML types are Co-Imagination types. Individuals of both types ex
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

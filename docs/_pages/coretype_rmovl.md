@@ -66,21 +66,9 @@ But what does make RMOVL have commonalities with other Quarta types is their sig
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-The RMOVL and RMVOL types are Co-Reality types. Individuals of both types shake up their immediate environment with a deep passion and enthusiasm for the changes happening around them. While this usually is a healthy expression of passion, occasionally it can result in pushy and even problematic behavior in which ideas are forced upon others. It is therefore essential that these individuals learn how to promote and advertise these ideas in a way that is not only productive, but takes into account the accommodations that others require in order to fully indulge themselves in these ideas.
-
-Additionally, the RMOVL and ROMVL types are Co-Logic types. Individuals of both types want to bend the rules of logic and objectivity, which inadvertently causes danger to the people around them. Although it is not inherently wrong to not care about what others have to say objectively, being dangerous to others is a very problematic behavior that must be contained. This is one of those traits of both these types that must be quelled with extreme practice and effort on everyone's part. I know it may not be fair to say that some individuals need to work harder than others to be healthy, but...that's just the way it is.
-
 ## The Heart
 
 &lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
-
-The RMOVL and RMLVO types are Co-Imagination types. Individuals of both types hide their absolute desperation for novel ideas and concepts beneath a façade of enthusiasm for them. This behavior can promote false expression that results in alienation between them and their peers, and prohibits them from fostering genuine connections. Therefore, it is bluntly important for these individuals to speak their mind and to tell others when they are hurting, and when they are suffering, so that authenticity can be restored in these relationships *and* they can get the help that they truly need.
-
-In addition, the RMOVL and OMRVL types are Co-Valuation types. Individuals of both types blame others for their emotional and valuational problems, which puts them into situations that cause danger to others. They feel that because the world has tortured them, they have the right to torture the world, which is extremely obviously problematic and unhealthy behavior. And so the only way to stop this from happening is immediate intervention. Talking to them, and letting them be honest and be themselves is just one of the many ways that these individuals can drive on the road to healthiness and a happy life.
 
 ## The Body
 
@@ -97,6 +85,10 @@ In addition, the RMOVL and OMRVL types are Co-Valuation types. Individuals of bo
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

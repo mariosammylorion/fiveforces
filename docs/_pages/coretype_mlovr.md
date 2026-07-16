@@ -54,17 +54,7 @@ The MLOVR individual, like all Doubters, struggles with the concept of personal 
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-The MLOVR and MLVOR types are Co-Reality types. Individuals of both types are caught up entirely in fantasy, even though they admire the aspects of reality from afar. The biggest concern with this behavior is, very obviously, being swept away in fantasy to the point of not interacting with the outside world at all. Since they respect Reality, however, it is actually quite easy for them to gradually get used to living in it. That way, these individuals can bring their creative prowess to the real world, fostering true, real, and honest connections that fantasy (particularly online spaces) cannot bring them.
-
-Additionally, the MLOVR and OLMVR types are Co-Logic types. Individuals of both types take in others' logic and objective opinions unfiltered, then use this information to justify their emotional turmoil or uncaringness. This very obviously can result in problematic behavior, as constantly making excuses can give them a way to blame outside circumstances for their own troubles and misfortunes. Therefore, accountability is key in these individuals. By taking responsibility for their actions, they are able to maintain healthy social relationships that involve both parties to cooperate.
-
 ## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -83,6 +73,10 @@ Additionally, the MLOVR and OLMVR types are Co-Logic types. Individuals of both 
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

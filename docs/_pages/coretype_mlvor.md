@@ -68,21 +68,9 @@ But it is of note that, because the MLVOR is a Quinta type, this provocation is 
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-The MLVOR and MLOVR types are Co-Reality types. Individuals of both types are caught up entirely in fantasy, even though they admire the aspects of reality from afar. The biggest concern with this behavior is, very obviously, being swept away in fantasy to the point of not interacting with the outside world at all. Since they respect Reality, however, it is actually quite easy for them to gradually get used to living in it. That way, these individuals can bring their creative prowess to the real world, fostering true, real, and honest connections that fantasy (particularly online spaces) cannot bring them.
-
-In addition, the MLVOR and OLVMR types are Co-Logic types. Individuals of both types are unfiltered when it comes to outside logical and objective explanations, which they can use to feel validated for what they believe in. This can result in a dependence of other people to justify their subjective opinions, leading to a mindset where only the outside world can give them self-confidence. The journey to growth, therefore, is to learn how to be more self-sufficient in thinking about things logically, only using the outside world as a backup to confirm their opinions in case if they cannot do so by themselves.
-
 ## The Heart
 
 &lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
-
-The MLVOR and MOVLR types are Co-Imagination types. Individuals of both types refuse to conform to societal expectations when it comes to creativity and novelty, which results in them drifting far from the real world and into fantasy. This obviously can reap negative consequences for these individuals, as a detachment from the real world can isolate them from society and prevent them from building meaningful relationships. Therefore, it is essential that they take a step back from their own Imagination so that they can, with practice, get comfortable living in Reality, where they can realize their true, full potential.
-
-Additionally, the MLVOR and MLVRO types are Co-Valuation types. Individuals of both types build for themselves a social circle of other individuals that share their personal values in order to build a network where they can feel validated. While this is often an inherently healthy form of behavior, this can result in a dependence of this group for all of their needs, including creative and valuational. Like with their Imagination, these individuals must set limits on their sense of Valuation, so that they can not only be validated for who they are, but accounted for in a healthy way.
 
 ## The Body
 
@@ -99,6 +87,10 @@ Additionally, the MLVOR and MLVRO types are Co-Valuation types. Individuals of b
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

@@ -54,17 +54,7 @@ Ironically, the RLOMV type, which has Completion, is less focused on task comple
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-The RLOVM and RLVOM types are Co-Reality types. Individuals of both types possess a chaotic and unpredictable demeanor that is a result of their constant experimentation with the Force of Reality. They will do anything to ensure that the logic they receive is proven in the world. This can lead to several disastrous consequences if this is not kept in check, including the fracturing of social relationships. It is therefore important for both types to ensure not that they cease this experimentation, but to have it so that they can do it without the risk of anyone, including themselves, getting hurt.
-
-&lt;Lorem ipsum dolor...&gt;
-
 ## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 
@@ -83,6 +73,10 @@ The RLOVM and RLVOM types are Co-Reality types. Individuals of both types posses
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 

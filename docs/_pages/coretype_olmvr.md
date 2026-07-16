@@ -68,21 +68,9 @@ As such, it is not at all uncommon to see many representatives of the OLMVR type
 
 &lt;Lorem ipsum dolor...&gt;
 
-### Co-Types
-
-The OLMVR and VLMOR types are Co-Reality types. Individuals of both types spend most of the time in their own imaginative world detached from everyone else's reality, while admiring said reality from afar. While these individuals are more than capable of stepping into another's facts and experiences, they do not do this, not from a lack of trying but due to indifference. One personal growth goal for them should therefore be learning how to step outside of their comfort zone and put in the effort to engage with the outside world once in a while, only using their own to recharge.
-
-Additionally, the OLMVR and MLOVR types are Co-Logic types. Individuals of both types take in others' logic and objective opinions unfiltered, then use this information to justify their emotional turmoil or uncaringness. This very obviously can result in problematic behavior, as constantly making excuses can give them a way to blame outside circumstances for their own troubles and misfortunes. Therefore, accountability is key in these individuals. By taking responsibility for their actions, they are able to maintain healthy social relationships that involve both parties to cooperate.
-
 ## The Heart
 
 &lt;Lorem ipsum dolor...&gt;
-
-### Co-Types
-
-The OLMVR and LOMVR types are Co-Imagination types. Individuals of both types have an intense fear of judgment or ridicule for their Imagination, and therefore subject themselves to a "higher plane of existence," so to say. Too much of this detachment from the outside world can have devastating consequences, including a sense of loneliness from having no social interaction. By slowly building trust, they can learn to share their creativity with those who will accept and even admire it, in which case they learn not to be so paranoid about sharing the very thing that gives them the edge when it comes to new and novel ideas.
-
-In addition, the OLMVR and RLMVO types are Co-Valuation types. Individuals of both types refuse to seek help when it comes to their struggles with finding what matters, and deflect their pain by using others' objective opinions to explain why they don't need help. This form of behavior can not only damage their relationships with other people, but damage themselves mentally by continuing to wallow in their own pain. Therefore, these individuals need to understand how to seek help when it is available, so one day they can flourish and find what truly matters, or at least power through their pain for now.
 
 ## The Body
 
@@ -99,6 +87,10 @@ In addition, the OLMVR and RLMVO types are Co-Valuation types. Individuals of bo
 &lt;Lorem ipsum dolor...&gt;
 
 # Miscellaneous Traits and Behaviors
+
+&lt;Lorem ipsum dolor...&gt;
+
+## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;
 
