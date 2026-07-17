@@ -42,11 +42,19 @@ All of the OVMRL type's characteristics and interactions give way to what could 
 
 # Motivation Development
 
-&lt;Lorem ipsum dolor...&gt;
+**Unorganized thoughts** (turn into paragraphs later)
+1. XXXXX
+2. XXXXX
+3. XXXXX
+4. XXXXX
+5. XXXXX
 
-## Deca Influence
+# Deca Influence
 
-&lt;Lorem ipsum dolor...&gt;
+**Unorganized thoughts** (turn into paragraphs later)
+1. XXXXX
+2. XXXXX
+3. XXXXX
 
 # Atoms, Subtypes, and their Resultant Traits and Behaviors
 

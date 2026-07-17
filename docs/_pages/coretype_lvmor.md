@@ -42,11 +42,19 @@ The LVMOR combines a devotion to one's faith and a desire to spread this faith; 
 
 # Motivation Development
 
-&lt;Lorem ipsum dolor...&gt;
+**Unorganized thoughts** (turn into paragraphs later)
+1. XXXXX
+2. XXXXX
+3. XXXXX
+4. XXXXX
+5. XXXXX
 
-## Deca Influence
+# Deca Influence
 
-&lt;Lorem ipsum dolor...&gt;
+**Unorganized thoughts** (turn into paragraphs later)
+1. XXXXX
+2. XXXXX
+3. XXXXX
 
 # Atoms, Subtypes, and their Resultant Traits and Behaviors
 

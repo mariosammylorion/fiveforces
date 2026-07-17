@@ -42,9 +42,25 @@ If the phrase "Facts don't care about your feelings" can be mapped to any one of
 
 # Motivation Development
 
-&lt;Lorem ipsum dolor...&gt;
+Because the VRLOM's motivation operates under a loop, any Atom can develop first in the individual. However, the Mutual or Egocentric Atom is usually developed first in those types with 4O, so an example of the latter shall be given.
 
-## Deca Influence
+Even early on in life, the VRLOM feels as if they have been absolutely blessed with the gift of logic. And not only this, but they feel an extreme desire to let others know that they are the smartest around. &lt;Lorem ipsum dolor...&gt;
+
+**Unorganized thoughts** (turn into paragraphs later)
+1. XXXXX
+2. XXXXX
+3. XXXXX
+4. XXXXX
+5. XXXXX
+
+# Deca Influence
+
+**Unorganized thoughts** (turn into paragraphs later)
+1. XXXXX
+2. XXXXX
+3. XXXXX
+
+&lt;Lorem ipsum dolor...&gt; At the end of the day, though, the VRLOM is motivated first and foremost by the glory that their influence brings...because like all other Duodecima types, the VRLOM is an attention seeker at heart. &lt;Lorem ipsum dolor...&gt;
 
 &lt;Lorem ipsum dolor...&gt;
 

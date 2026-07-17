@@ -42,11 +42,19 @@ By day, the MRVLO individual is an eternal student to the outside world. They do
 
 # Motivation Development
 
-&lt;Lorem ipsum dolor...&gt;
+**Unorganized thoughts** (turn into paragraphs later)
+1. XXXXX
+2. XXXXX
+3. XXXXX
+4. XXXXX
+5. XXXXX
 
-## Deca Influence
+# Deca Influence
 
-&lt;Lorem ipsum dolor...&gt;
+**Unorganized thoughts** (turn into paragraphs later)
+1. XXXXX
+2. XXXXX
+3. XXXXX
 
 # Atoms, Subtypes, and their Resultant Traits and Behaviors
 
