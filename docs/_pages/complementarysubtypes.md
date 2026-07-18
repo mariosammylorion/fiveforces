@@ -172,6 +172,10 @@ Although all individuals with Uninhibited Units love trolling others at least to
 
 &lt;Lorem ipsum dolor...&gt;
 
+There can actually be a lot of confusion between the differences of Authentic and Natural Units. Both wish to spread their Egocentric Force through the use of other people, but the main difference lies in their outreach. Those with Authentic Units only wish to spread their knowledge through *like-minded* individuals, not caring about those that don't feel the same as them. Those with Natural Units, however, want to spread their knowledge through *everyone*, even if they may disagree or dislike them. Therefore, it is quite uncommon to see celebrities with Authentic Units, especially compared to Natural Units, as they desire to make their facts, opinions, experiences, or values known through the masses and not just in a specific group.
+
+&lt;Lorem ipsum dolor...&gt;
+
 ## 3L-to-2R / "Influence"
 
 &lt;Lorem ipsum dolor...&gt;

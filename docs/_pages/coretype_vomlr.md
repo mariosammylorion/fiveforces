@@ -43,11 +43,11 @@ To the VOMLR individual, life really is all sunshine and rainbows. This is all t
 # Motivation Development
 
 **Unorganized thoughts** (turn into paragraphs later)
-1. XXXXX
-2. XXXXX
-3. XXXXX
-4. XXXXX
-5. XXXXX
+1. The VOMLR is innocent even in their early days, thanks to a one-of-a-kind private Imagination which they eventually want to share with like-minded individuals
+2. Two things occur: first, they develop their own personal values and optimism that they do not change to fit any kind of standards
+3. At the same time, their optimism and Imagination makes them feel as if they are on a higher plane of existence, although they retain a bit on envy to those who are gifted in navigating Reality
+4. Their personal values and lack of understanding of reality make for a broken sense of logic that they hide, as well as childlike innocence and raw emotional honesty
+5. When they fully develop, their childlike innocence often gets in the way of getting anything productive done, but they take this in stride and with a smile on their face
 
 # Deca Influence
 

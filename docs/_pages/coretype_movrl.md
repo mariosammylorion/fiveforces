@@ -43,11 +43,11 @@ The MOVRL is a type in which they wish to express themselves creatively to their
 # Motivation Development
 
 **Unorganized thoughts** (turn into paragraphs later)
-1. XXXXX
-2. XXXXX
-3. XXXXX
-4. XXXXX
-5. XXXXX
+1. The MOVRL's motivation starts with a collection of prized personal values that they wish to express to people who are like-minded
+2. They then develop a sense of imaginative creativity in order to express themselves, an unapologetic expression
+3. Their personal values themselves are motivated by selfish desires, causing them to eschew logical analysis, but become jealous of others who are able to firmly grasp objectivity
+4. Their Imagination makes them disappointed with reality, and their ignorance of logic makes them unable to comprehend *why* they feel this way, but they hide this pain
+5. Forms the psyche of an individual whose struggles with reality and their selfishness often get in the way of their authentic, unapologetic expression of their personal values
 
 # Deca Influence
 

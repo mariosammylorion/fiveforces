@@ -43,11 +43,11 @@ The MORVL contains perhaps one of the most apparent and egregious expressions of
 # Motivation Development
 
 **Unorganized thoughts** (turn into paragraphs later)
-1. XXXXX
-2. XXXXX
-3. XXXXX
-4. XXXXX
-5. XXXXX
+1. The MORVL struggles with finding value all their life, possibly due to things outside of their control, yet they blame themselves for these struggles
+2. This causes two things: first, they resort to a newly awakened sense of novelty and imagination, which they spend time perfecting to get just right
+3. Second, they decide since nothing really matters, nobody else really matters either; this makes them an active danger to other people due to not taking them seriously; they also grow to hate what others have to objectively say about their actions
+4. Since they actively hate and defy all logic due to their anti-intellectualism, they constantly seek out their own facts and experiences to combat them, and with their creativity as well, they have their own idea for how the world was, is, and will be
+5. This all creates a being who is industrious to a fault; they indulge and indulge to their heart's content, and when the time is right, actively shut down anyone or anything who has to say otherwise
 
 # Deca Influence
 

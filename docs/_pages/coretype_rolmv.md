@@ -43,11 +43,11 @@ When it comes to instructing others on what to do, the ROLMV believes that they 
 # Motivation Development
 
 **Unorganized thoughts** (turn into paragraphs later)
-1. XXXXX
-2. XXXXX
-3. XXXXX
-4. XXXXX
-5. XXXXX
+1. Early on, the ROLMV takes pride in their logical and objective prowess, so much so that they wish to share it with like-minded individuals who are willing to listen
+2. They start to form their own facts and experiences that match their logic, which they hold with deep pride and do not change to fit societal standards
+3. At the same time, they take so much pride in their logic that they look down on anyone else that isn't in their immediate circle and refuse to engage with them, but they are jealous of those who are carefree enough to not be as smart
+4. Their unchanging reality and jealousy of others' values forms an uncertainty and fear of the future that they hide from others
+5. Their arrogance often obstructs their ability to teach and disciple others, and they do not care enough about how they are perceived to address this problem
 
 # Deca Influence
 

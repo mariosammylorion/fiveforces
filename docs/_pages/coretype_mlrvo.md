@@ -43,16 +43,16 @@ Like the MLROV, the MLRVO individual wishes to spread their idea of reality thro
 # Motivation Development
 
 **Unorganized thoughts** (turn into paragraphs later)
-1. XXXXX
-2. XXXXX
-3. XXXXX
-4. XXXXX
-5. XXXXX
+1. (Withdrawn first example given) The MLRVO struggles with finding meaning in their life, to the point of self-deprecation over it
+2. The upside is, their Imagination and creativity develop, although they have a heightened sense of perfection when it comes to it
+3. Their grasp on creativity and novelty causes them to have a convicted grounding when it comes to the future, as well as the past and present, which forms their own idea of reality that they spread through the use of subordinates
+4. They seek out logic and objectivity from their subordinates, which they now use to defend their suffering and struggle with finding what's meaningful, starting the cycle again
+5. The Body develops, which compartmentalizes two areas of their lives: one side is the "head honcho", and the other is the nihilist, emotional sufferer
 
 # Deca Influence
 
 **Unorganized thoughts** (turn into paragraphs later)
-1. XXXXX
+1. Despite everything about the MLRVO's suffering, they are still a true intellectual thanks to being a Quinta type; with enough effort, they are able to be revolutionaries
 2. XXXXX
 3. XXXXX
 

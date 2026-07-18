@@ -43,16 +43,16 @@ The VOMRL individual's vision for the world is one free of facts or logic, which
 # Motivation Development
 
 **Unorganized thoughts** (turn into paragraphs later)
-1. XXXXX
-2. XXXXX
-3. XXXXX
-4. XXXXX
-5. XXXXX
+1. The VOMRL retains a sense of optimism and joy throughout their childhood that persists throughout their lives, and they wish to share this optimism with others, their optimism makes them take refuge from reality, which they see as harsh compared to their own perfect world
+2. At the same time, due to them sharing their Imagination, they develop their own personal values that do not conform to those of society
+3. They push their values with great ferocity, which makes them completely blind to the objective world, except they do wish they were more objective
+4. Already taking refuge in harsh reality, their lack of objectivity only makes them more afraid of it, but they hide this fear under a more happy and optimistic demeanor
+5. When the psyche fully forms, their optimism gets in the way of thinking about things objectively, causing them problems down the line
 
 # Deca Influence
 
 **Unorganized thoughts** (turn into paragraphs later)
-1. XXXXX
+1. Because the VOMRL is a Secunda type, their optimism is more geared towards resource acquisition and forward momentum
 2. XXXXX
 3. XXXXX
 

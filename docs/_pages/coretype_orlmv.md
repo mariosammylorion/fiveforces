@@ -43,11 +43,11 @@ The ORLMV is an individual who is confident in their opinions, and so they feel 
 # Motivation Development
 
 **Unorganized thoughts** (turn into paragraphs later)
-1. XXXXX
-2. XXXXX
-3. XXXXX
-4. XXXXX
-5. XXXXX
+1. The ORLMV early on feels home in their own logical and objective prowess, so much so that they want to appeal to the entire world using their logic
+2. First, they seek out outside facts in order to back up their logic, which they defend like their life depends on it
+3. At the same time, they feel as if those who won't join them in their endeavors is beneath them and not worth considering...yet, they are jealous of those that can live their lives with meaning
+4. Their defense of facts and inability to seek subjective value give them a timid demeanor, which they tend to conceal under a veneer of arrogance and logical superiority; they are terrified of novelty, yet they don't wish to show it
+5. When their psyche develops, it forms a bigger picture: they present to the world a picture of confidence, even though they are extremely insecure about the future and their inability to find value
 
 # Deca Influence
 

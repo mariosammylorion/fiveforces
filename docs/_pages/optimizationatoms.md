@@ -16,6 +16,10 @@ In the proposed arrow model, "Discusser" is represented by a singular arrow with
 
 - When making major decisions, the Brain and the Heart work in tandem together to come to a consensus/compromise. Their interaction is like a polite discussion in which information is bounced back and forth, with each unit contributing their ideas and editing them based on what the other says.
 
+**Unorganized thoughts**
+- Self-Image: Insecure
+- Others-Perception: Either cares or doesn't care
+
 ## Natural-Deficient 1O / "Confidence"
 
 &lt;Lorem ipsum dolor...&gt;
@@ -54,6 +58,8 @@ Because the Selfless position is occupied by a dummy variable in these individua
 
 **Unorganized thoughts**
 - If the body code-switches to an unfavorable situation, because the Brain and the Heart never interact, the individual is forced to deal with the current situation before they are able to code-switch back to normal
+- Self-Image: Either secure or insecure
+- Others-Perception: Doesn't care
 
 ## Authentic-Deficient 2O / "Obstruction"
 
@@ -91,6 +97,10 @@ For Chameleons, the lack of a tangible Selfless Force gave way to an indifferenc
 
 &lt;Lorem ipsum dolor...&gt;
 
+**Unorganized thoughts**
+- Self-Image: Either secure or insecure
+- Others-Perception: Cares
+
 ## Public-Deficient 3O / "Humility"
 
 &lt;Lorem ipsum dolor...&gt;
@@ -127,6 +137,10 @@ For Chameleons, the lack of a tangible Selfless Force gave way to an indifferenc
 In the proposed arrow model, "Debater" is represented by two distinct arrows (representing the Brain and Heart) clashing with each other in opposite directions. This represents the constant battle that the Brain and Heart undergo in the psyche. They are constantly at war with each other, with no end in sight.
 
 - If 1O exhibits a polite discussion between the Brain and the Heart, then "Debater" exhibits a heated argument. The two constantly bicker about how to go about major decisions, often creating analysis paralysis in the individual. **This is NOT to say that those with "Debater" are completely unable to make decisions; in fact, they can, but it always leaves either unit unsatisfied.**
+
+**Unorganized thoughts**
+- Self-Image: Secure
+- Others-Perception: Either cares or doesn't care
 
 ## Public-Impervious 4O / "Superficiality"
 
@@ -170,6 +184,10 @@ In the proposed arrow model, "Double Agent" is represented by two distinct paral
 &lt;Lorem ipsum dolor...&gt;
 
 It is of note that **the mechanism and nature of 5O is inherently contradictory.**
+
+**Unorganized thoughts**
+- Self-Image: Either secure or insecure
+- Others-Perception: Either cares or doesn't care
 
 ## Public-Private 5O / "Secrecy"
 

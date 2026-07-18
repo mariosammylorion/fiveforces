@@ -43,11 +43,11 @@ In essence, the VMROL individual lives for the dream of getting what they desire
 # Motivation Development
 
 **Unorganized thoughts** (turn into paragraphs later)
-1. XXXXX
-2. XXXXX
-3. XXXXX
-4. XXXXX
-5. XXXXX
+1. The VMROL early on is motivated by any outside visions, ideas or concepts that come from other individuals or circumstances and becomes a champion for them
+2. This is not a gentle taking of Imagination, but a complete hijacking, taking them as their own...at the same time, they create their own value out of this acquired creativity and dedicate these values to them, constantly shifting them to fit these dreams
+3. They become ferocious with their values, giving way to a sense of anti-intellectualism due to the threat that objective opinions have against their values
+4. Their anti-intellectualism causes them to further indulge in their own sense of reality, doing things as they please and not changing these habits for anyone
+5. When the psyche develops, it becomes incredibly obvious that they seek out ideas to indulge in them physically; even if you call them out for it, they don't care and will continue to do so
 
 # Deca Influence
 

@@ -52,6 +52,7 @@ toc_sticky: true
     - Provocative and boundary-pushing
       - Loves to shock others with their ideas
       - Like Septima types in this regard, except their defiance is an intellectual one
+    - Obsessed with the nitty-gritty details of their endeavors, to the point of failing to see the bigger picture
     - Values: Intellectual curiosity, brainstorming, confronting tradition
     - Types: MLORV, MLOVR, MLROV, MLRVO, MLVOR, MLVRO, MOLRV, MOLVR, OMLRV, OMLVR
   - **Sexta (6th) Deca** - LR-Bypass and RL-Bypass
@@ -70,6 +71,7 @@ toc_sticky: true
     - Values: Honest expression, task-oriented duty, and emotional earnestness
     - Types: MOVLR, MVLOR, MVLRO, MVOLR, OMVLR, ORLVM, RLOVM, RLVMO, RLVOM, ROLVM
   - **Nona (9th) Deca** - LM-Spur
+    - Actually care about not being fallacious, try to avoid that
     - Values: Intellectual transmission, academic rigor, empirical debate
     - Types: ORLMV, ORMLV, RLMOV, RLMVO, RLOMV, RMLOV, RMLVO, RMOLV, ROLMV, ROMLV
   - **Decima (10th) Deca** - β-Loop w/ Reality as strongest Force, Valuation as second-strongest Force
@@ -80,6 +82,8 @@ toc_sticky: true
     - Values: Utopian optimism and idealism, visionary alignment, lifting others up
     - Types: OVLMR, OVMLR, VLMOR, VLMRO, VLOMR, VMLOR, VMLRO, VMOLR, VOLMR, VOMLR
   - **Duodecima (12th) Deca** - β-Loop w/ Valuation as strongest Force, Reality as second-strongest Force
+    - Most attention-seeking Deca; an ignorant person might categorize them as "attention whores"
+      - They do seek any kind of attention though, positive or negative
     - Values: Ideological purity, preparedness, grounded conviction
     - Types: OVRLM, OVRML, VORLM, VORML, VRLMO, VRLOM, VRMLO, VRMOL, VROLM, VROML
 

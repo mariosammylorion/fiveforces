@@ -43,11 +43,11 @@ The LVMOR combines a devotion to one's faith and a desire to spread this faith; 
 # Motivation Development
 
 **Unorganized thoughts** (turn into paragraphs later)
-1. XXXXX
-2. XXXXX
-3. XXXXX
-4. XXXXX
-5. XXXXX
+1. The LVMOR from an early age possesses a vivid, one-of-a-kind Imagination that they feel they must share through the influence of others who are like them
+2. The first thing that results of this is that they place outside value on their inner world so that they can find something that resonates with others and allows them to see the magic for themselves
+3. The other thing is, they are so caught up in their inner world that they feel as if they are on a higher plane of existence, so much so that they want to bend the rules of the reality they *aren't* in
+4. This gives rise to unfiltered logical and objective innovation that reaches new heights yet is still devoted to the values they have obtained and are willing to defend
+5. This makes a dynamic and unapologetic individual that uses an external source of meaning and purpose to innovate the world in a way that has never been seen in reality
 
 # Deca Influence
 

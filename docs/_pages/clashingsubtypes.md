@@ -80,6 +80,7 @@ This subtype can be especially problematic for one specific reason: individuals 
 
 **Unorganized thoughts**
 - Individuals of this subtype won't even try to explain their opinions with anyone; they'll just give you the cold shoulder
+- Proof by assertion is a fallacy that is highly common among those with this subtype
 
 # 1-to-4 De-Elevation
 

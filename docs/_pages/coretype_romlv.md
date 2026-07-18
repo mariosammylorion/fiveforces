@@ -43,16 +43,16 @@ The ROMLV is always paying attention to its environment...with the sole purpose 
 # Motivation Development
 
 **Unorganized thoughts** (turn into paragraphs later)
-1. XXXXX
-2. XXXXX
-3. XXXXX
-4. XXXXX
-5. XXXXX
+1. The ROMLV starts off questioning the world around them on a fundamental level, only to get eternally confused by how everything works, blaming themselves for being too stupid to understand
+2. To compensate, they build for themselves a set of facts and experiences that they constantly feel the need to perfect in order to navigate the world
+3. At the same time, their failure to understand the world causes them to think that nothing matters in life, so they constantly put themselves in danger, growing to hate those that try to subjectively pull them away from danger
+4. From their sense of reality and their hatred of value, they start to form their own, bizarre interpretations of the events of the past, present and future into a wild imagination that they refuse to change for anyone or anything
+5. With the development of their Optimization, they become stern warriors dedicated to the eradication of the values around them, and they spring into action once they see their environment is threatened
 
 # Deca Influence
 
 **Unorganized thoughts** (turn into paragraphs later)
-1. XXXXX
+1. ROMLV is one of only 3 Nona types to have 4L, making their insecurity with Logic tougher on them since they *want* to be good at it, but aren't
 2. XXXXX
 3. XXXXX
 

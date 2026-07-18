@@ -43,11 +43,11 @@ The RLOMV gives way to perhaps one of the most arrogant types in the entire Five
 # Motivation Development
 
 **Unorganized thoughts** (turn into paragraphs later)
-1. XXXXX
-2. XXXXX
-3. XXXXX
-4. XXXXX
-5. XXXXX
+1. The RLOMV, early on, has an intense interest in seeing how the world around them works on a fundamental level, so much as to become an outward promoter of these outside logical systems
+2. Their love for these systems makes them want to prove them in the real world, becoming someone who wants their facts straight and logical
+3. They love logical systems so much that they are completely devoted to them and not to personal values, seeing the promotion of these systems as tasks...although, they become jealous of those who are able to think about things subjectively
+4. Their ever-changing sense of reality makes them uncertain and afraid of the future, and this is coupled with their ignorance of values, giving them a fear of the future that they hide from everyone else and an arrogant nature
+5. Forming the Body, these individuals want to give off the impression that they are humbly arrogant (or arrogantly humble), always wanting to let others know that being choleric is the way
 
 # Deca Influence
 

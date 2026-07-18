@@ -92,6 +92,8 @@ I myself have great admiration for this type due to a specific reason that appea
 
 &lt;Lorem ipsum dolor...&gt;
 
+Despite these individuals being such passionate lovers, their way of expressing their love is, to put it lightly, strange. In fact, they are quite infamous for being very socially awkward and clumsy, mainly due to the Octava Deca's influence of task completion. They are known to often flub their words and find it hard to do the simple things when they are thinking too much about their object of affection. Sometimes, there is a good chance that they might "fumble the bag" when they come across their love, so to say. All I can say is, at least they're trying.
+
 ## Co-Types
 
 &lt;Lorem ipsum dolor...&gt;

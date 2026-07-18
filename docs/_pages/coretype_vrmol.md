@@ -43,11 +43,11 @@ If the RVOML individual is one that brings a good time to everyone, the VRMOL is
 # Motivation Development
 
 **Unorganized thoughts** (turn into paragraphs later)
-1. XXXXX
-2. XXXXX
-3. XXXXX
-4. XXXXX
-5. XXXXX
+1. (Egocentric first example given) Early on, they have had a fun time throughout their life due to their Imagination, and they want others to have a fun time as well through personal values that they don't change for anyone
+2. They become absolutely ferocious when it comes to these values, to the point of ignoring anything that is objective
+3. However, they still admire people who are intellectual, to the point of listening to everything that they have to say, for better or worse
+4. They often babble and repeat whatever it is their authority figures in Reality say, to the point of keeping their visions of it to themselves, this perpetuates a cycle of ferocity and optimism
+5. In summary, their diehard optimism and naivety clash in a way that makes for a bold, dynamic, and unapologetic individual
 
 # Deca Influence
 

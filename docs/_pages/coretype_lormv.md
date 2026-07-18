@@ -43,17 +43,17 @@ Out of all Five Forces types with Conquest, the LORMV is the closest literal rep
 # Motivation Development
 
 **Unorganized thoughts** (turn into paragraphs later)
-1. XXXXX
-2. XXXXX
-3. XXXXX
-4. XXXXX
-5. XXXXX
+1. The individual early on places an extreme importance on their own facts and experience, so much so that they want to continue hoarding any for themselves
+2. This does two things: their logic develops into an unapologetic one that goes towards the outside; in addition, they are extremely protective of their sense of reality to the point of resisting any kind of change to it
+3. They become so caught up in their logic that they do not have enough energy left for emotions or values, but they do have enough to be envious of those that are able to share their emotions and values
+4. This, along with their turfism, creates an individual who is afraid of the future and what is to come, but wishes to hide this fear to appear more tough, confident, and arrogant
+5. This all creates a soul who has forward momentum when it comes to the sense of reality they have, but their arrogance and fear of the future can get in the way of several of their goals and aspirations
 
 # Deca Influence
 
 **Unorganized thoughts** (turn into paragraphs later)
-1. XXXXX
-2. XXXXX
+1. LORMV is one of the best examples of the signature resource acquisition found in Secunda types
+2. Secunda types place an importance on the Force of Imagination; LORMV is one of 3 Secunda types that have 4M, meaning that they are future-oriented even though they are scared of it, and novelty and innovation
 3. XXXXX
 
 # Atoms, Subtypes, and their Resultant Traits and Behaviors

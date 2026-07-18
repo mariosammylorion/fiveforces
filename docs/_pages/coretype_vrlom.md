@@ -47,17 +47,17 @@ Because the VRLOM's motivation operates under a loop, any Atom can develop first
 Even early on in life, the VRLOM feels as if they have been absolutely blessed with the gift of logic. And not only this, but they feel an extreme desire to let others know that they are the smartest around. &lt;Lorem ipsum dolor...&gt;
 
 **Unorganized thoughts** (turn into paragraphs later)
-1. XXXXX
-2. XXXXX
-3. XXXXX
-4. XXXXX
-5. XXXXX
+1. VRLOM feels as if they have logical power early on, so much so that they wish to use other people to spread their objectivity
+2. Obtains outside facts from those same people and becomes a champion of them; they report these facts as-is with no bells or whistles attached to them
+3. Their Reportage causes them to have a complete indifference to novelty and change in society, so much so that they actively want to go against them using their own personal values
+4. They are unfiltered in their values, and not only that, but they do not wish to explain *why* they think this way; their values only drive their supposed "logical superiority"
+5. The result of all this is a completely unapologetic individual that is willing to steamroll tradition (and even cause harm) just to prove that they are correct
 
 # Deca Influence
 
 **Unorganized thoughts** (turn into paragraphs later)
-1. XXXXX
-2. XXXXX
+1. VRLOM is still an attention-seeking type, no matter how much they try to hide it; they are not truly looking for academic debate like a Nona type, they primarily want your attention
+2. Speaking of not being interested in acadmic debate, they hold grounded conviction for their beliefs, in their mind they feel as if they come out the winner of every "debate", even though they prove by asserting and appeal to the stone more often than they actually debate
 3. XXXXX
 
 &lt;Lorem ipsum dolor...&gt; At the end of the day, though, the VRLOM is motivated first and foremost by the glory that their influence brings...because like all other Duodecima types, the VRLOM is an attention seeker at heart. &lt;Lorem ipsum dolor...&gt;
