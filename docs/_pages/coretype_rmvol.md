@@ -13,7 +13,7 @@ toc_sticky: true
 | **1R**<br>Mutual Reality | **1R-5**<br>Uninhibited 1R | "Chronicler" |
 | **2M**<br>Selfless Imagination | **2M-3**<br>Natural 2M | "Loyalist" |
 | **3V**<br>Egocentric Valuation | **3V-2**<br>Natural 3V | "Demagogue" |
-| **4O**<br>Withdrawn Optimization | **-** | "Debater" |
+| **4O**<br>Withdrawn Optimization | **-** | "Commander" |
 | **5L**<br>Apathetic Logic | **5L-1**<br>Uninhibited 5L | "Renegade" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |

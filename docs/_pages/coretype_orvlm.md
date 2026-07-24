@@ -10,7 +10,7 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1O**<br>Mutual Optimization | **-** | "Discusser" |
+| **1O**<br>Mutual Optimization | **-** | "Compensator" |
 | **2R**<br>Selfless Reality | **2R-4**<br>Recipient 2R | "Recorder" |
 | **3V**<br>Egocentric Valuation | **3V-5**<br>Impervious 3V | "Loner" |
 | **4L**<br>Withdrawn Logic | **4L-2**<br>Recipient 4L | "Naysayer" |

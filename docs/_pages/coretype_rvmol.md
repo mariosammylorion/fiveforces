@@ -13,7 +13,7 @@ toc_sticky: true
 | **1R**<br>Mutual Reality | **1R-5**<br>Uninhibited 1R | "Chronicler" |
 | **2V**<br>Selfless Valuation | **2V-3**<br>Natural 2V | "Champion" |
 | **3M**<br>Egocentric Imagination | **3M-2**<br>Natural 3M | "Mastermind" |
-| **4O**<br>Withdrawn Optimization | **-** | "Debater" |
+| **4O**<br>Withdrawn Optimization | **-** | "Commander" |
 | **5L**<br>Apathetic Logic | **5L-1**<br>Uninhibited 5L | "Renegade" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |

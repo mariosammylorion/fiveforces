@@ -13,7 +13,7 @@ toc_sticky: true
 | **1V**<br>Mutual Valuation | **1V-5**<br>Uninhibited 1V | "Firebrand" |
 | **2R**<br>Selfless Reality | **2R-3**<br>Natural 2R | "Documentarian" |
 | **3L**<br>Egocentric Logic | **3L-2**<br>Natural 3L | "Ideologue" |
-| **4O**<br>Withdrawn Optimization | **-** | "Debater" |
+| **4O**<br>Withdrawn Optimization | **-** | "Commander" |
 | **5M**<br>Apathetic Imagination | **5M-1**<br>Uninhibited 5M | "Reactionary" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |

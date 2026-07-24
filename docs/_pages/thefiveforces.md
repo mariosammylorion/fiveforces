@@ -156,13 +156,15 @@ Before I get any further, I want you to take a moment to think about what the Fo
 
 Now I say to you: whatever I just threw out there, **the Force of Optimization involves NONE of it.** Any type can be quick or slow, efficient or inefficient when it comes to solving problems in their daily lives. Any type can be neat or sloppy, chaotic or orderly, or active or lazy. And most definitely, any type can have willpower and set goals, or not even know what to do with their lives.
 
-In fact, Optimization is the only one of the Five Forces **that DOES NOT HAVE its own expression.**
+In fact, Optimization is the only one of the Five Forces **that DOES NOT HAVE its own standalone expression.**
 
 ### What Optimization ACTUALLY Is
 
 &lt;Lorem ipsum dolor...&gt;
 
 When forming the 120 types, therefore, the Force of Optimization can act as a sort of "dummy variable" that determines the overall type's Body Type (which we will get to later). To put this into use, one valid method for determining a person or character's type is to type by the other four Forces by themselves or using knowledge about Force interactions (again, this comes later), putting them into unique positions, then sticking Optimization (O) in the leftover position. Of course, one has to validate that every single interaction and the Body Type makes sense for the other individual's type.
+
+Actually, this method *can* be used, but it is quite inefficient and even inaccurate. This is because Optimization, when put together in the psyche and in one of the five positions, actually has its own separate nuances that further make it important when typing people and characters. But we will get to this later.
 
 # Interactions Between the Forces
 
@@ -193,20 +195,6 @@ The Force of Optimization serves as the most important in the entire psyche. It 
 &lt;Lorem ipsum dolor...&gt;
 
 Combining the Force of Optimization with each of the five positions creates a unique dynamic between them. The Force not only manifests into an Atom just like the other four, but they bring about a special energy that forms the psyche's Body Type.
-
-&lt;Lorem ipsum dolor...&gt;
-
-To further explain what the Body Type entails, an "arrow" model shall be proposed, which will be a visualization of the Brain and Heart working together signified by an arrow pointing in a specific direction. This arrow represents the forward momentum caused by the Body, in order for the Brain and Heart to function at its maximum efficiency.
-
-&lt;Lorem ipsum dolor...&gt;
-
-The five body types in brief are:
-
-- The combination of **Optimization and the Mutual position**. In the proposed arrow model, this combo is represented by a singular arrow with two distinctive halves, representing the Brain and the Heart.
-- The combination of **Optimization and the Selfless position**. In the proposed arrow model, this combo is represented by a singular, one-component arrow (representing *either* the Brain or the Heart) that may eventually switch to the other.
-- The combination of **Optimization and the Egocentric position**. In the proposed arrow model, this combo is represented by a singular arrow with only one component: a combined mixture of the Brain and Heart.
-- The combination of **Optimization and the Withdrawn position**. In the proposed arrow model, this combo is represented by two distinct arrows (representing the Brain and Heart) clashing with each other in opposite directions.
-- The combination of **Optimization and the Apathetic position**. In the proposed arrow model, this combo is represented by two distinct parallel arrows (representing the Brain and Heart) in the same direction.
 
 &lt;Lorem ipsum dolor...&gt;
 

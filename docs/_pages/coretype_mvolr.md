@@ -12,7 +12,7 @@ toc_sticky: true
 |:--------:|:----------------:|:------------:|
 | **1M**<br>Mutual Imagination | **1M-2**<br>Public 1M | "Inventor" |
 | **2V**<br>Selfless Valuation | **2V-1**<br>Public 2V | "Convert" |
-| **3O**<br>Egocentric Optimization | **-** | "Minimalist" |
+| **3O**<br>Egocentric Optimization | **-** | "Primper" |
 | **4L**<br>Withdrawn Logic | **4L-5**<br>Deficient 4L | "Equivocator" |
 | **5R**<br>Apathetic Reality | **5R-4**<br>Deficient 5R | "Stranger" |
 

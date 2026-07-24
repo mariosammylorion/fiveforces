@@ -11,7 +11,7 @@ toc_sticky: true
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1V**<br>Mutual Valuation | **1V-4**<br>Processed 1V | "Penitent" |
-| **2O**<br>Selfless Optimization | **-** | "Chameleon" |
+| **2O**<br>Selfless Optimization | **-** | "Impenitent" |
 | **3L**<br>Egocentric Logic | **3L-5**<br>Impervious 3L | "Absolutist" |
 | **4M**<br>Withdrawn Imagination | **4M-1**<br>Processed 4M | "Pessimist" |
 | **5R**<br>Apathetic Reality | **5R-3**<br>Impervious 5R | "Contrarian" |

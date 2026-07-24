@@ -10,7 +10,7 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1O**<br>Mutual Optimization | **-** | "Discusser" |
+| **1O**<br>Mutual Optimization | **-** | "Compensator" |
 | **2M**<br>Selfless Imagination | **2M-3**<br>Natural 2M | "Loyalist" |
 | **3V**<br>Egocentric Valuation | **3V-2**<br>Natural 3V | "Demagogue" |
 | **4L**<br>Withdrawn Logic | **4L-5**<br>Deficient 4L | "Equivocator" |

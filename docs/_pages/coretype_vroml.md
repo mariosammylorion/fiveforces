@@ -12,7 +12,7 @@ toc_sticky: true
 |:--------:|:----------------:|:------------:|
 | **1V**<br>Mutual Valuation | **1V-4**<br>Processed 1V | "Penitent" |
 | **2R**<br>Selfless Reality | **2R-5**<br>Permissive 2R | "Compiler" |
-| **3O**<br>Egocentric Optimization | **-** | "Minimalist" |
+| **3O**<br>Egocentric Optimization | **-** | "Primper" |
 | **4M**<br>Withdrawn Imagination | **4M-1**<br>Processed 4M | "Pessimist" |
 | **5L**<br>Apathetic Logic | **5L-2**<br>Permissive 5L | "Layman" |
 

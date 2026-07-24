@@ -13,7 +13,7 @@ toc_sticky: true
 | **1M**<br>Mutual Imagination | **1M-2**<br>Public 1M | "Inventor" |
 | **2V**<br>Selfless Valuation | **2V-1**<br>Public 2V | "Convert" |
 | **3R**<br>Egocentric Reality | **3R-5**<br>Impervious 3R | "Denialist" |
-| **4O**<br>Withdrawn Optimization | **-** | "Debater" |
+| **4O**<br>Withdrawn Optimization | **-** | "Commander" |
 | **5L**<br>Apathetic Logic | **5L-3**<br>Impervious 5L | "Obscurantist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |

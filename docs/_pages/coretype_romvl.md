@@ -11,7 +11,7 @@ toc_sticky: true
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1R**<br>Mutual Reality | **1R-5**<br>Uninhibited 1R | "Chronicler" |
-| **2O**<br>Selfless Optimization | **-** | "Chameleon" |
+| **2O**<br>Selfless Optimization | **-** | "Impenitent" |
 | **3M**<br>Egocentric Imagination | **3M-4**<br>Private 3M | "Daydreamer" |
 | **4V**<br>Withdrawn Valuation | **4V-3**<br>Private 4V | "Diehard" |
 | **5L**<br>Apathetic Logic | **5L-1**<br>Uninhibited 5L | "Renegade" |

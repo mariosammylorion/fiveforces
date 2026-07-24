@@ -12,7 +12,7 @@ toc_sticky: true
 |:--------:|:----------------:|:------------:|
 | **1M**<br>Mutual Imagination | **1M-5**<br>Uninhibited 1M | "Brainstormer" |
 | **2L**<br>Selfless Logic | **2L-4**<br>Recipient 2L | "Adherent" |
-| **3O**<br>Egocentric Optimization | **-** | "Minimalist" |
+| **3O**<br>Egocentric Optimization | **-** | "Primper" |
 | **4R**<br>Withdrawn Reality | **4R-2**<br>Recipient 4R | "Fatalist" |
 | **5V**<br>Apathetic Valuation | **5V-1**<br>Uninhibited 5V | "Mercenary" |
 

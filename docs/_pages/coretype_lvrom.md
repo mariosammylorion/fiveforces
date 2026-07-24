@@ -13,7 +13,7 @@ toc_sticky: true
 | **1L**<br>Mutual Logic | **1L-3**<br>Authentic 1L | "Doctrinaire" |
 | **2V**<br>Selfless Valuation | **2V-5**<br>Permissive 2V | "Sympathizer" |
 | **3R**<br>Egocentric Reality | **3R-1**<br>Authentic 3R | "Subjectivist" |
-| **4O**<br>Withdrawn Optimization | **-** | "Debater" |
+| **4O**<br>Withdrawn Optimization | **-** | "Commander" |
 | **5M**<br>Apathetic Imagination | **5M-2**<br>Permissive 5M | "Purist" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |

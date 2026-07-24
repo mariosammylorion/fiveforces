@@ -10,7 +10,7 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1O**<br>Mutual Optimization | **-** | "Discusser" |
+| **1O**<br>Mutual Optimization | **-** | "Compensator" |
 | **2M**<br>Selfless Imagination | **2M-5**<br>Permissive 2M | "Dilettante" |
 | **3R**<br>Egocentric Reality | **3R-4**<br>Private 3R | "Solipsist" |
 | **4L**<br>Withdrawn Logic | **4L-3**<br>Private 4L | "Autodidact" |

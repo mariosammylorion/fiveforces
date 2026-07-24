@@ -13,7 +13,7 @@ toc_sticky: true
 | **1V**<br>Mutual Valuation | **1V-3**<br>Authentic 1V | "Moralist" |
 | **2R**<br>Selfless Reality | **2R-5**<br>Permissive 2R | "Compiler" |
 | **3M**<br>Egocentric Imagination | **3M-1**<br>Authentic 3M | "Futurist" |
-| **4O**<br>Withdrawn Optimization | **-** | "Debater" |
+| **4O**<br>Withdrawn Optimization | **-** | "Commander" |
 | **5L**<br>Apathetic Logic | **5L-2**<br>Permissive 5L | "Layman" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |

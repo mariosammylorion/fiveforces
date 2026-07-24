@@ -235,6 +235,7 @@ No complementary or clashing Force interaction is a stranger to weird and obscur
 
 **Unorganized thoughts**
 - Individuals that tell everything as it is with no added bells or whistles
+- The dynamic here is, they spend so much time taking in others' sense of reality that they literally *forget* how to imagine new things
 
 ## 2L-to-5V / "Completion"
 

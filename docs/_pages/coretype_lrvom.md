@@ -13,7 +13,7 @@ toc_sticky: true
 | **1L**<br>Mutual Logic | **1L-2**<br>Public 1L | "Theorist" |
 | **2R**<br>Selfless Reality | **2R-1**<br>Public 2R | "Correspondent" |
 | **3V**<br>Egocentric Valuation | **3V-5**<br>Impervious 3V | "Loner" |
-| **4O**<br>Withdrawn Optimization | **-** | "Debater" |
+| **4O**<br>Withdrawn Optimization | **-** | "Commander" |
 | **5M**<br>Apathetic Imagination | **5M-3**<br>Impervious 5M | "Luddite" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |

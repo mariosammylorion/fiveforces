@@ -11,7 +11,7 @@ toc_sticky: true
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1R**<br>Mutual Reality | **1R-4**<br>Processed 1R | "Archivist" |
-| **2O**<br>Selfless Optimization | **-** | "Chameleon" |
+| **2O**<br>Selfless Optimization | **-** | "Impenitent" |
 | **3V**<br>Egocentric Valuation | **3V-5**<br>Impervious 3V | "Loner" |
 | **4L**<br>Withdrawn Logic | **4L-1**<br>Processed 4L | "Cynic" |
 | **5M**<br>Apathetic Imagination | **5M-3**<br>Impervious 5M | "Luddite" |

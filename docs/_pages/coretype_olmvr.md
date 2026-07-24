@@ -10,7 +10,7 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1O**<br>Mutual Optimization | **-** | "Discusser" |
+| **1O**<br>Mutual Optimization | **-** | "Compensator" |
 | **2L**<br>Selfless Logic | **2L-5**<br>Permissive 2L | "Eclectic" |
 | **3M**<br>Egocentric Imagination | **3M-4**<br>Private 3M | "Daydreamer" |
 | **4V**<br>Withdrawn Valuation | **4V-3**<br>Private 4V | "Diehard" |

@@ -13,7 +13,7 @@ toc_sticky: true
 | **1L**<br>Mutual Logic | **1L-5**<br>Uninhibited 1L | "Pundit" |
 | **2M**<br>Selfless Imagination | **2M-3**<br>Natural 2M | "Loyalist" |
 | **3V**<br>Egocentric Valuation | **3V-2**<br>Natural 3V | "Demagogue" |
-| **4O**<br>Withdrawn Optimization | **-** | "Debater" |
+| **4O**<br>Withdrawn Optimization | **-** | "Commander" |
 | **5R**<br>Apathetic Reality | **5R-1**<br>Uninhibited 5R | "Improviser" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |

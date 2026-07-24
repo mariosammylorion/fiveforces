@@ -11,7 +11,7 @@ toc_sticky: true
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1R**<br>Mutual Reality | **1R-3**<br>Authentic 1R | "Eyewitness" |
-| **2O**<br>Selfless Optimization | **-** | "Chameleon" |
+| **2O**<br>Selfless Optimization | **-** | "Impenitent" |
 | **3L**<br>Egocentric Logic | **3L-1**<br>Authentic 3L | "Freethinker" |
 | **4V**<br>Withdrawn Valuation | **4V-5**<br>Deficient 4V | "Impostor" |
 | **5M**<br>Apathetic Imagination | **5M-4**<br>Deficient 5M | "Laggard" |

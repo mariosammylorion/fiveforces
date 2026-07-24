@@ -13,7 +13,7 @@ toc_sticky: true
 | **1V**<br>Mutual Valuation | **1V-2**<br>Public 1V | "Idealist" |
 | **2M**<br>Selfless Imagination | **2M-1**<br>Public 2M | "Promoter" |
 | **3L**<br>Egocentric Logic | **3L-5**<br>Impervious 3L | "Absolutist" |
-| **4O**<br>Withdrawn Optimization | **-** | "Debater" |
+| **4O**<br>Withdrawn Optimization | **-** | "Commander" |
 | **5R**<br>Apathetic Reality | **5R-3**<br>Impervious 5R | "Contrarian" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |

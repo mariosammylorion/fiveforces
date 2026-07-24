@@ -11,7 +11,7 @@ toc_sticky: true
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
 | **1V**<br>Mutual Valuation | **1V-3**<br>Authentic 1V | "Moralist" |
-| **2O**<br>Selfless Optimization | **-** | "Chameleon" |
+| **2O**<br>Selfless Optimization | **-** | "Impenitent" |
 | **3M**<br>Egocentric Imagination | **3M-1**<br>Authentic 3M | "Futurist" |
 | **4R**<br>Withdrawn Reality | **4R-5**<br>Deficient 4R | "Pretender" |
 | **5L**<br>Apathetic Logic | **5L-4**<br>Deficient 5L | "Defeatist" |

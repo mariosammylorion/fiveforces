@@ -10,7 +10,7 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1O**<br>Mutual Optimization | **-** | "Discusser" |
+| **1O**<br>Mutual Optimization | **-** | "Compensator" |
 | **2V**<br>Selfless Valuation | **2V-4**<br>Recipient 2V | "Acolyte" |
 | **3L**<br>Egocentric Logic | **3L-5**<br>Impervious 3L | "Absolutist" |
 | **4M**<br>Withdrawn Imagination | **4M-2**<br>Recipient 4M | "Alarmist" |

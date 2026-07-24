@@ -13,7 +13,7 @@ toc_sticky: true
 | **1M**<br>Mutual Imagination | **1M-3**<br>Authentic 1M | "Visionary" |
 | **2R**<br>Selfless Reality | **2R-5**<br>Permissive 2R | "Compiler" |
 | **3V**<br>Egocentric Valuation | **3V-1**<br>Authentic 3V | "Individualist" |
-| **4O**<br>Withdrawn Optimization | **-** | "Debater" |
+| **4O**<br>Withdrawn Optimization | **-** | "Commander" |
 | **5L**<br>Apathetic Logic | **5L-2**<br>Permissive 5L | "Layman" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |

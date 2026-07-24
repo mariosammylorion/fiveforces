@@ -10,7 +10,7 @@ toc_sticky: true
 
 | **ATOM** | **ATOM SUBTYPE** | **NICKNAME** |
 |:--------:|:----------------:|:------------:|
-| **1O**<br>Mutual Optimization | **-** | "Discusser" |
+| **1O**<br>Mutual Optimization | **-** | "Compensator" |
 | **2R**<br>Selfless Reality | **2R-3**<br>Natural 2R | "Documentarian" |
 | **3L**<br>Egocentric Logic | **3L-2**<br>Natural 3L | "Ideologue" |
 | **4M**<br>Withdrawn Imagination | **4M-5**<br>Deficient 4M | "Stoic" |

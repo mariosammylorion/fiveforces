@@ -13,7 +13,7 @@ toc_sticky: true
 | **1M**<br>Mutual Imagination | **1M-5**<br>Uninhibited 1M | "Brainstormer" |
 | **2L**<br>Selfless Logic | **2L-3**<br>Natural 2L | "Partisan" |
 | **3R**<br>Egocentric Reality | **3R-2**<br>Natural 3R | "Revisionist" |
-| **4O**<br>Withdrawn Optimization | **-** | "Debater" |
+| **4O**<br>Withdrawn Optimization | **-** | "Commander" |
 | **5V**<br>Apathetic Valuation | **5V-1**<br>Uninhibited 5V | "Mercenary" |
 
 | **INTERACTION** | **INTERACTION TYPE** | **NICKNAME** |
