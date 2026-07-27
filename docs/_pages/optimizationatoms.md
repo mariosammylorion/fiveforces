@@ -155,6 +155,7 @@ For Impenitents, the lack of a tangible Selfless Force gave way to an indifferen
 **Unorganized thoughts**
 - Most outwardly bold and dynamic Body type, completely unapologetic about anything
   - This is incredibly obvious that this is a 4O type; this is what most people think of when they think of these individuals
+- "I reserve the right to express myself boldly"
 
 ## Authentic-Permissive 4O / "Tension" (Neotype)
 
@@ -163,6 +164,7 @@ For Impenitents, the lack of a tangible Selfless Force gave way to an indifferen
 **Unorganized thoughts**
 - Because of the individual's self-confidence, they are able to appear as if they can be contradictory with themselves however they please, including indulging in things that may go against their Authentic Unit
   - May appear to be a 5O individual at first, but keep in mind: these individuals are self-assured in their image unlike 5O users, who fluctuate between self-confidence and insecurity
+- "I reserve the right to be a hypocrite"
 
 ## Public-Impervious 4O / "Superficiality" (Countertype)
 
@@ -179,6 +181,7 @@ This, my friends, is what Superficiality entails. It's almost like this subtype 
 **Unorganized thoughts**
 - This Body Type is the countertype because it makes it appear as if they are insecure in their self-image by putting their Impervious Unit behind a glass box
   - In actuality, they *are* confident, they just don't want others to touch it
+- "I reserve the right to be private"
 
 # 5O - Apathetic Optimization / "Double Agent"
 
