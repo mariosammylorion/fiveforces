@@ -181,7 +181,7 @@ This, my friends, is what Superficiality entails. It's almost like this subtype 
 **Unorganized thoughts**
 - This Body Type is the countertype because it makes it appear as if they are insecure in their self-image by putting their Impervious Unit behind a glass box
   - In actuality, they *are* confident, they just don't want others to touch it
-- "I reserve the right to be private"
+- "I reserve the right to keep this to myself"
 
 # 5O - Apathetic Optimization / "Double Agent"
 
