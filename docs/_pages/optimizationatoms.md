@@ -32,7 +32,7 @@ toc_sticky: true
 
 **Unorganized thoughts**
 - Much like how a social media user curates their social media feed to get only things they like on their Recommended page, individuals curate their hunger for outside influence to only receive information that they enjoy
-- They compensate for their poor self-image by actively seeking out information and knowledge that validates who they are
+- They compensate for their poor self-image by actively seeking out information and knowledge that validates who they are...that is, that it's OK for them to have a poor self-image
 
 ## Recipient-Impervious 1O / "Strategy" (Neotype)
 
@@ -210,7 +210,7 @@ It is of note that **the mechanism and nature of 5O is inherently contradictory.
 Recall that a museum display metaphor was used to describe the 4O body type "Superficiality." We can expand upon this further by introducing a display right next to that one, except this time, the glass container is replaced by a jet black box. When you look at this display, you only see the box. You cannot see what is inside of it, no matter how hard you try. You don't even know if there even *is* anything in the box, for that matter. So not only can you not touch it, smell it, or take it home or call it yours, you can't even see it or even know for sure it even exists in the first place. So in essence, while Superficiality and Secrecy both entail something you cannot have for yourself, only Secrecy gets away with not even being known.
 
 **Unorganized thoughts**
-- Secrecy is a *separation of the self*, making two different personas, one public and one private
+- Secrecy is a *separation of self*, making two different personas, one public and one private
 
 ## Processed-Natural 5O / "Specialization" (Countertype)
 
