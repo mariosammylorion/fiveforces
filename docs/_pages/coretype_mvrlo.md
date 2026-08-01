@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Inspired Taker |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The MVRLO individual, like all types with Inspiration, seek to be inspired by an outside value system and inspire others using their sense of novelty. However, when it comes to this type, it is secretly a process to hoard as much worth of these outside values as they can, all to go against a reality they cannot logically understand. They might appear sentimental on the surface, but they are stubborn and insist that what they want is good for them, and that the more resources they obtain thanks to their inspiration, the better they will manage life in all its manifestations.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

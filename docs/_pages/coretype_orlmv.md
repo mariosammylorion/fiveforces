@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Intellectual Insister |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The ORLMV is an individual who is confident in their opinions, and so they feel as if they are the smartest in the room. Using others' facts as their backboard, they make it their mission to arrogantly prove to others that they are the best in their field, and those who are beneath them are not worthy of engaging (which is everyone else). Granted, they are still very timid individuals, afraid and averse to change and constantly clinging to others' ideas of reality. Despite this, however, the ORLMV wants to make their influence known and their intellect spread out to anyone who is brave enough to listen to them.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Vigilant Observer |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The ROVLM type is a combination of deeply hidden personal values that they do not wish to change and a hypervigilance of their environment. Unpredictable in nature, these individuals are able to spring into volatile action once their values are threatened. To the ROVLM, their usual silence *is* defiance. But after all, they do have Insecurity, suggesting that these values are driven by a fear of change and a hatred of novelty. Still, they carry a hidden passion like no other that they are always willing to defend, giving way to their ability to pay attention to even the smallest changes around them.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

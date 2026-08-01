@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Motivated Truther |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The MVLRO constantly seeks inspiration and value from the world around them, which fuels them to pour their heart out creatively into their works. Yet at the same time, this very same inspiration and value is being used to build up a private conspiracy theory collection in order to find out the hidden truth of this world. Constantly being disappointed by what others have to offer when it comes to reality, these individuals want to find their own truth, and they do so in a way that makes them hold their opinions sacred, and yet, they do not dare to make these opinions known, instead opting to appear as a creatively motivated soul.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

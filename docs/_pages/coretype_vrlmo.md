@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Shy Influencer |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The VRLMO wishes to influence the masses through their intellect, and they often give the impression that they are confident, if not sarcastic. However, these individuals are secretly hiding a fear for novelty and the future that their influence cannot quell. This gives them a terrifying fear of commitment that they only state, and do not even try to logically explain. This makes their character inherently contradictory and ironic; they crave to influence the world, yet they do not wish to be influenced *by* the world. Truly, this makes the VRLMO an extremely interesting type to discuss.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

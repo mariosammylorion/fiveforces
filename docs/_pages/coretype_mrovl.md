@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Folly Expert |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-If the MROVL type had a life motto, it would be this: "All I know is that I don't know anything." These individuals are naive and believe most anything that others say, and take everything at face value. They act entirely on impulse, and they constantly cause danger to others through this impulsivity and naivety. But do they care? Not entirely. They're "stupid" and they know it, but at least they aren't hypocrites (at least, that's what they say). They are also incredibly persistent, and although they are often slow to act and freeze up in fast-paced situations, they are actionable enough to make a difference in the world if healthy.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Intelligence Sacrificer |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The ORVML individual is terrified of the world and what is to come in it, so much so that they are willing to sacrifice their own intelligence just to justify their suspicions and fears. They are outwardly timid, yet very much talkative about the intellectual, though they themselves are not. It is a Naivety that is born out of pure selfishness, one that aims to advance their own idea that the world is out to get them, despite evidence to the contrary. Actually...outside evidence doesn't even deter them from doing so, as they can simply seek new information to counter *that.* It's a lose-lose situation.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

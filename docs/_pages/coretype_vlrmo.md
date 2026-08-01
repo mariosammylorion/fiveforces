@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Deferential Manager |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The VLRMO individual places great value in their "employees", always willing to go the extra mile for them, to the point of being territorial when it comes to them. However, this love is fueled by a deep-seated fear of the future and what it holds, which they fully blame themselves for. They constantly seek validation and approval from their very own circle when it comes to how they shall share their personal values with the world. So in a way, the VLRMO is like a manager whose actually being employed by those who are under him, making for a very contradictory yet interesting character.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

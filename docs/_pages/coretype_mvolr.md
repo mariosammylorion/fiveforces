@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Wonder Builder |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The MVOLR individual lives in a dreamy world of outside values they have obtained, which they share with their own vivid imagination. The expression of said values, however, is that of innocence. Furthermore, they constantly state how innocent and perfect their own obtained world is, much to the dismay of others...in other words, they make a show out of their own wonder and curiosity. They neither logically nor factually explain why they have this world; they can only just express just how lovely their obtained values are, and that others should indulge in what they create with them.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

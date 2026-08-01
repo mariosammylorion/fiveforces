@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Territory Expander |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-Out of all Five Forces types with Conquest, the LORMV is the closest literal representation of the word. These individuals aim to expand their idea of reality towards a select few who understand with their unchanging logic. They are incredibly territorial with their idea of reality, which is only emphasized through their arrogance. In fact, their arrogance goes so far as to look like they don't even have any emotions besides anger and whatnot. At best, they are protective of the things and people they love, but at worst, their arrogance will get in the way of any goals they have.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Funtime Bringer |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-It is actually quite easy to tell whether an individual is potentially an RVOML or not, as they always fill whatever room they're in with a bubbly and friendly presence. But what separates the RVOML from other similar types is that they put on a socially outgoing demeanor because they feel they can't live without the group, and as a result they make their love for the group known through their bringing of a good time. It is a reliance that is not well known, but not entirely hidden either, thanks to their outgoing and charming demeanor. Invite an RVOML individual over, and watch everyone's day get brighter.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

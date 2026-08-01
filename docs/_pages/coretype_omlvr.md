@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Conditional Patient |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The OMLVR individual wants to deal with their pain just like the other five Palliation types, but they do so on the condition that their intellectual and objective opinions are theirs and only theirs. A perfect metaphor to describe this is a medical patient that wants to get better, but only through their own methods, despite what the doctor orders. These individuals are able to make their chosen ideas entirely their own, and they act high and mighty in order to seek the cure that *they* desire, not the cure that is recommended for everyone else of their kind.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

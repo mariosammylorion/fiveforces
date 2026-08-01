@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Trend Seeker |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The RMOLV is perhaps the greatest example of a trend follower in the entire Five Forces system. These individuals constantly scan their current environment for the newest idea or concept to latch onto. It doesn't matter how absolutely depraved it is; any new thing that pops up in their sight is worth taking. Constantly enthralled by these new ideas, they of course have no sense of personal space or even danger, so with these ideas and their depravity come several opportunities for them to get hurt. In unhealthy cases, it can make for a true depravity chaser who lives for causing a ruckus in their own lives.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

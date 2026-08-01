@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Static Ruler |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The OLRVM individual is characterized by an ability to oversee all kinds of operations, but an inability to see into the future or even change their methods. They are the kinds of bosses who always wants things to stay the same, even if it may be better in the end to shake things up a little. They are completely content with the methods that have always been there, and if anyone tries to intervene, the OLRVM will simply come up with an excuse as to why they couldn't care less. This behavior may be problematic in the long run, as an unchanging demeanor may cause their methods to become obsolete to the point of uselessness.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

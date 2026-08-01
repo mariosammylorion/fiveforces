@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Voluntary Sufferer |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The LOVRM type is perhaps the unluckiest in the entire Five Forces system. On top of their anxiety and insecurity, they constantly endure trial after trial, with seemingly no end in sight. But make no mistake: this type simply endures all the pain. LOVRM individuals possess a sense of martyrdom, that what they are doing is for the good of both them and others. This, on top of a stern refusal to change anything about themselves or their ways *and* a hardworking demeanor, makes them resilient warriors who are willing to sacrifice themselves and keep on suffering, even if it means danger or death.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

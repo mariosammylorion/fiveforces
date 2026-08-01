@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Mixed Signalman |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-Normally, the VOLMR individual is calm on the surface, if not a little fearful of what is to come. But the moment you encroach on their objective opinions, all hell breaks loose. They prefer to detach themselves from any kind of discussion on the matter, but they always carry an aura of knowing better than everyone else and not needing to explain why this is the case. This results in a personality type who often gives mixed signals in life, which can be very scary to unsuspecting victims. But when others know just how to deal with these individuals when the time comes, they can help the VOLMR realize their potential in the world.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

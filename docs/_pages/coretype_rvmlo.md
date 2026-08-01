@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Spiritual Healer |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-While many personality types in other systems are designated as "healers" despite not actually being one, the RVMLO individual is a *literal* example. They pay special attention to their environment in order to transmit to them a special kind of energy that leaves whoever is in their vicinity healed. Although they are delightfully sentimental and oh so lovable, them having to pay attention to so many things is taxing on their psyche, and coupled with their own private vision of the reality they share, it can result in severe burnout, which of course causes *no one* around them to be healed.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Expressive Inquirer |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The MLVOR type yearns for expressing themselves to their people. Yet at the same time, they have the characteristic of being curious about everything around them. As a result, there is often tension in their mind between being themselves...and asking *why* they are doing the way the things they do. Often questioning themselves and others at every opportunity, they will often not go through with things unless they know exactly why...and several times, those reasons, which are often originated in fantasy, will clash with how they want to create for their people.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

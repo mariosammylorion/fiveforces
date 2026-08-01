@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Rulebook Adherent |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The OLVRM is a generally unlucky individual, so they seek an external rulebook to follow. However, this misfortune comes with a heightened sense of insecurity, and so this rulebook is only followed if and only if they provide tools and methods to overcome their insecurity. They are strongly averse to change and novelty, especially when it comes to this rulebook that they follow. In their eyes, this rulebook is their guide to navigate a terribly complex world, and it means everything to them. So heaven forbid anyone try to change it, even if it is just a metaphorical typo; to them, change means death.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

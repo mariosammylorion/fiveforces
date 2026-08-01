@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Paranoid Android |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-To any other person, it seems that the only emotion the LOMRV individual ever feels is fear, due to their anxious nature and their shunning of others' values. Taking refuge in their own vivid imagination, where they cannot be harmed, they can seem totally emotionless, except for the aforementioned fear. Yet despite this, individuals of this type are very stern and hard workers, ensuring that their creative direction isn't trampled by anything or anyone, even if it means being afraid, and even if it means sacrificing their emotions.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Opinionated Provoker |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The MOLRV individual, to put it in one way, has very special, one-of-a-kind opinions and a bustling imagination that they proudly use to provoke others with. But behind this bravado lies a secret life of being afraid of reality and finding their own truth to explain it. To them, everyone is a liar, and they ought to prove it no matter what, even if they have to steamroll others' value systems to do so. They are the ones who bring out the wildest opinion you can imagine, and then degrade you creatively if you even suggest something else. Unlike most other types with Conspiratology, the MOLRV loves to use their conspiracy theories to provoke.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

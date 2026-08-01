@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Sensitive Demonstrator |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The RLVOM type is outwardly physical, but behind this physical prowess is a world of privately-held, unchanging values. It is easy to tell that there is something hidden inside these individuals, and yet, only a select few are able to peek inside. RLVOMs are confident in what they believe in, and they have the physical receipts to prove their place in the world. This often gives them a rude, choleric, apathetic, and unpredictable demeanor that simply is a mask for wanting to be seen, heard, and validated for what they believe in. This makes them one of the most unique types in the entire Five Forces system.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

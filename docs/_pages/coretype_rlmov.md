@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Hardy Scriptwriter |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The RLMOV individual has a "script" when it comes to the factual world, and they are always willing to revise it to fit other logical systems, and they do so with no intention of adding anything emotional or valuable to it whatsoever. They dedicate their entire lives to ensuring that this script is perfectly devoid of Valuation, which they actually understand never is and never will be. However, just like how actors add their own flair to the script, the RLMOV may occasionally and privately add their own imaginative flair to the facts they revise, creating a fully-fledged "feature film" that strays beyond what the "scriptwriter" intended.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

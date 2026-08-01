@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Tradition Follower |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The VLORM individual is a passionate conservative, championing and following the rules and laws handed down to them for generations. However, this tradition-following behavior is born from a cry for help and a fear of reality, facts, experiences, and what they hold. As such, they seek these traditions to logically explain what is happening, which gives them their passion to share these explanations. This, along with their other misfortunes and unlucky circumstances, make for an interesting character that goes beyond the average stereotypical conservative.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

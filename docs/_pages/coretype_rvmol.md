@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Dad Joker |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The RVMOL is a type that most other individuals love, not because of trustworthiness or support, but because they are lovably corny. Individuals of this type love to transmit good feelings to others through the use of terrible jokes, which may sound weird, yet others cannot get enough of them. Putting their own spin on the facts, they are able to turn anything into a humorous circumstance, which can light up even the most serious room and turn everyone in it into an audience for their skills to shine. Some might find them annoying, yet others see them as a special individual to have in their life.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

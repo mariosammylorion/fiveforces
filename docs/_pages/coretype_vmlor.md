@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Self-Assured Showrunner |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-It is incredibly obvious to the naked eye that the VMLOR individual holds sacrosanct just exactly how the world should be. However, they often like to obscure it through their leadership alone. Through the use of their confident yet insecure Force of Logic, they are able to form their own objective opinions about the creative visions of others and be steadfast and unyielding in said opinions. A metaphor to best describe this is a ringmaster who knows best how to run the circus; in their eyes, everyone who works under them should have an idea of who's *really* running the show.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

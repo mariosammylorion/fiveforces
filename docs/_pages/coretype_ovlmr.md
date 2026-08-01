@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Desperate Housewife |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-Both the MVLOR and the OVLMR types possess a devotion that they do not wish to share. But while the MVLOR is creatively inspired and wishes to share their love, the OVLMR is desperate and does not want to talk about it to others. Detached in every sense of the word, the OVLMR individual makes it their duty to cling on to something bigger than themselves in order to fit their perfect, objective opinions. At its unhealthiest, the OVLMR is an idealist in the worst way imaginable, forcing their external value system (even sometimes a real partner) to conform to whatever twisted logic they possess.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

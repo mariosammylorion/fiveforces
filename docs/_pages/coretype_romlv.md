@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Spirit Snuffer |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The ROMLV is always paying attention to its environment...with the sole purpose of ensuring that nothing and no one is thinking about values in it. These individuals can make for perhaps one of the most anti-emotional types in the entire Five Forces system, as their anti-emotionality is paired with a sense of hypervigilance that, coupled with Industriousness, create a scary enforcer of the environment that almost reads, "No fun allowed." They hold private beliefs about how their environment should be, and they are willing to be absolutely reckless to ensure that there is nothing so much as a smile around them.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

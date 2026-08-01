@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Conformant Creator |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-Simply put, the MLVRO is a walking contradiction. On the one hand, individuals of this type are passionate and creative, always willing to connect with others that share their personal values. But on the other hand, they are submissive to the rules of their society out of fear of what would happen if they didn't follow them. This gives them a duplicity perhaps like no other: by day, they are the do-gooder role model who always does what they are told...but by night, they are the rule-breaking artist who wishes to speak to their people through their vivid creativity and passion in what they believe in.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

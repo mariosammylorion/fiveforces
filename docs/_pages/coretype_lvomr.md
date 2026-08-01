@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Faith Bender |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The LVOMR individual makes it their life duty to cling onto an external value system (could be a religion or another person, or something else entirely) and bend reality in order to make new discoveries about it so that they could spread their faith to others. Detached from the rest of the world, it is just them and their values, which the LVOMR clings onto for dear life, which can make them a literal slave to whatever is in their grasp. They are desperate to know every little thing there is that they have faith in, and they are willing to defy all factual expectations to do so.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

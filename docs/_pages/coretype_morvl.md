@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Self-Aware Hedonist |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The MORVL contains perhaps one of the most apparent and egregious expressions of Self-Mockery in the entire Five Forces system. Individuals of this type are anti-intellectual and hedonist, and they themselves know this for a fact. But do they care? No. They already know what is best for them, and they know they cause danger to themselves and others. In fact, their Self-Mockery only gives way to indulging in their private facts and experiences more and more; nothing will stop them from enjoying themselves, and they will happily tell you that this is where they want their life to be.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

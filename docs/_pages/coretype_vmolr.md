@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Auspicious Captain |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The VMOLR type is the closest representative type to a leader who desires to bring the people to a perfect world or dream. These individuals are incredibly sincere and innocent, and they make a display of this in order to appease the masses and make the world a better place. Their dreams, however, aren't entirely theirs, but they put their own spin on them that gives them that unique VMOLR charm. In its most healthy manifestations, the VMOLR can bring the most positive change out of all the Five Forces types, as their eternal bliss can bring the world together and make it at least just a little more perfect.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

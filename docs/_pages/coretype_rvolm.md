@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Thoughtful Companion |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-Simply put, the RVOLM individual is perhaps one of the best companions that you could ever ask for, thanks to a strong sense of devotion and the ability to remember what you do not. However, they are plagued with a few things, including a prospensity to be slow-on-the-draw, which may result in unpredictability with their actions. In addition, they cannot explain to you logically why they love you or what is exactly plaguing them...but at the end of the day, these drawbacks are not enough to disprove the fact that RVOLMs make excellent friends or partners.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

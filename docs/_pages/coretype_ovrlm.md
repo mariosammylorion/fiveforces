@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Happy Hoarder |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The OVRLM is marked by a devotion to an external value system (or other people) in which they can freely hoard and consume any resources they give them. Unlike with the OVRML, there is no sense of urgency; just satisfaction and happiness with the things they love. They cannot tell you exactly *why* they love what or who they are devoted to, nor can they tell you why they are hoarding everything they give them...all they know is that they are happy with where they are, and no changes to the environment or their lives can ever make them happier.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

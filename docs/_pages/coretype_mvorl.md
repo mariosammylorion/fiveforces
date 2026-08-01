@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Eccentric Inventor |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The MVORL is an inventor, able to inspire and be inspired by everything around them. However, these inventions of theirs often move into the realm of the absurd and the nonsensical, and these individuals are proud of that fact. They take pride in bending the rules of reality (which they are always disappointed in) in their own cheesy kind of way. Of course, this absurd inventiveness can have devastating consequences, as their otherworldly way of looking at things gives way to them failing to see the facts...as well as failing to see what's right in front of them.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

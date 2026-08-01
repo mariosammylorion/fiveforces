@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Fearful Believer |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The LVMRO individual affirms their faith that came from outside them and wishes to spread their faith to others. Yet at the same time, they are afraid of the world and anxious to spread that same faith. They are eternally grateful for what they believe in, but the heaviness of reality often gets to a point where the individual has no choice but to hide inside their own mind, wondering why their faith will not protect them from the evils of the outside. In unhealthy cases, even, the individual can feel as if they are nothing but a slave to their faith, wishing to break free from it but having nothing else to depend on.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

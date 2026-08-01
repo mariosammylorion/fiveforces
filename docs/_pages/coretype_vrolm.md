@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Authority Parroter |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The VROLM personality type is the equivalent of a person telling you off of something, whether it be a fact or opinion or value, just because "\[their\] parents told \[them\] so." These individuals often simply parrot what their authority figures tell them, all without a second thought, due to their blaming of others for their intellectual struggles. They are sincere and earnest in this parroting, but it often gets to the point where others cannot bear hearing any more about it. VROLMs can make for an annoying type to be around, yes, but the bright side is that they are honest and devoted to those they care about.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Truth-Seeking Conservator |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The OMLRV individual, early on, has built for themselves their own objective opinions to combat a confusing and scary reality. But their work does not stop there, as their duty now is to seek out any novelty or innovations that others have created that reaffirms their conspiracy theories. They are absolutely zealous with their opinions and outside ideas, and shun anyone who doesn't believe in them as well as entirely beneath them and not worth talking to. It can create quite the problematic character, as they become shut off from anything that doesn't fit their idea of what's logically happening in the world.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

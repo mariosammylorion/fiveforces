@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Good Vibes Bearer |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-Simply put, the OVMLR individual lives freely without a single care in the world, and others around them know of it and bask in this feeling. Completely in tune with their own inner world, which is free of worries, they fully and genuinely transmit their good vibes to others around them. This is absolutely for better or for worse, as trying to convince them factually or logically to truly think about what they are doing often results in the interlocutor being dismissed as a "bearer of un-good vibes." They are on another plane of existence, and they would rather not be on any other.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

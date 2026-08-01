@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Innocent Artisan |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The MOVLR wants to spread their ideas and novelty to the people they care most about, and will do so without a single care in the world. They live entirely within fantasy, and as a result defy the status quo. However, their innocence is perhaps their greatest flaw, as it can produce several ideas that do not line up with the world that they actually live in, creating confusion. As such, their journey of growth stems from the ability to retain this childlike innocence while also understanding and knowing how to hone this innocence towards creating genuine change that aligns with their personal values.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

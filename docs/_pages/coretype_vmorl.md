@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Emotional Leader |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The VMORL individual makes for a potentially excellent, if not scary, leader, with their wild ambition, zealous demeanor, and a ferocious way of getting their points across. However, the goal of their leadership is not so much towards a particular goal per se as it is moving people towards a purely emotional one. They are not anti-intellectual (as they do not have 5L-3), but their ultimate goal and zeal derives from the possibility of a world where one does not have to think about things logically, and as such, they aim to appeal not to people's brains, but to their hearts.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

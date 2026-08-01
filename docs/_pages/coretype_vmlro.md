@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Conspiracy Booster |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The VMLRO is a leader, like all types with Ambition. However, these individuals are set apart due to their inner world in which they find their own truth to explain a reality that perpetually confuses them. On the surface, VMLROs appear to be the average leader, except that they are fuelled by their own mechanisms for how the world really works. Since they keep this side hidden, there are only clues and hints to it, such as a refusal to explain their leadership methods and a fear of reality fueled by the vivid creativity and dreams of others. As such, their leadership only fuels their madness.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

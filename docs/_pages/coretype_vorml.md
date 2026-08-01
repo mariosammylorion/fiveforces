@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Doomsday Prepper |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The VORML is an inherently pessimist type, but one wouldn't know that right away. This is because of these individuals' tendency to indulge in facts and experiences and make this known through their territorialism and ferocity. Their indulgement in the Force of Reality is fueled by their hidden worry for the future, which gives them an edge in making their Gluttony more "strategized." Keep in mind: they lack Accumulation, so there is no need to be head deep in Reality; in fact, what they see as threats are entirely fabricated, creating an individual who, on the surface, creates mountains out of molehills.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

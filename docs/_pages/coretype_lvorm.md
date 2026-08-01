@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Sacrificial Devotee |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The LVORM gives way to perhaps one of the most loyal types in the entire Five Forces system. Though visibly and truly anxious, individuals of this type show their devotion through keeping their word and taking in all the pain that comes with life. Though they are slow to make decisions, their trust is unmatched, and they are willing to go out of their way to ensure that you have the support that you need. It is hard to earn their trust, but once you do, they become a loyal friend, a votive guardian, and someone that you can always count on. No matter what.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

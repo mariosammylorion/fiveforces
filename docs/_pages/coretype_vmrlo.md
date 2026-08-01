@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Presidential Stockpiler |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-Out of all six types with Ambition, the VMRLO is perhaps the most selfish. This is because their leadership is simply a cover-up for their inner world in which they gather as many resources as they can. On the outside, they are charasmatic and sincere individuals, but this changes into a greedy, manipulative figure who is always willing to go great lengths just to get what they want, including stealing or curbstomping the dreams, ambitions, and resources of others. To put it bluntly, it can make for one of the most problematic and dangerous individuals in the entire Five Forces system.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

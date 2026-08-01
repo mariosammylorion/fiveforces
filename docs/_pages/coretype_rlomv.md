@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Pride Diffuser |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The RLOMV gives way to perhaps one of the most arrogant types in the entire Five Forces system, mainly because these individuals' ultimate goal is to prove to the world that arrogance and pride are the way. Through their proving of others' methods in the most choleric way, they aim to spread the idea that the only way to get by in the world is to rudely power your way through it. They take no bull and take no prisoners; they are entirely focused on the task at hand: ensure that everyone around you follows your ways, or just watch them suffer through life.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Ignorant Brainiac |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The MOLVR individual is characterized by a heightened sense of egotism surrounding their intellectual and creative abilities. They understand that others might get hurt due to this, and they are fully aware that their genius often is too much to handle. But they push on as if that's no big deal. Their opinions are devoid of all that is factual (which the MOLVR shuns, by the way) and they have the sense that they know better than everyone else despite this. Their detachment from what's really going on and their carelessness to stop it can result in quite self-destructive behavior, and the path to healthiness is knowing how to stop it.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

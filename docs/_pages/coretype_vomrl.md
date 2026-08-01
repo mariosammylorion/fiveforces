@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Underdone Dreamer |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The VOMRL individual's vision for the world is one free of facts or logic, which often gets in the way of what they wish to accomplish. It's not that they are against these things, it is simply because they do not register within them. They are insistent and pushy with their optimism by nature, but the moment they are asked to explain their dreams logically or factually, they can shut down and hide in their own private vision of the world. The path to growth is not learning how to look at their dreams that way, but be able to not react so viscerally to this and to take into account what other people might say about their optimism.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

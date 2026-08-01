@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Factoid Spammer |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-A select number of individuals are characterized by an incessant need to talk about everything they have learned, no matter what anyone says. This is what the MROLV individual entails. They do not trust themselves to make logical sense of everything, so they take in what others say as fact...much to the detriment of others around them. They love asking questions (way too much), and they even have an impulsive and reckless streak that can lead them to consuming the wrong information. And thanks to their tendency to provoke, this can have devastating consequences.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

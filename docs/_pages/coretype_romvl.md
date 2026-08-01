@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Discontent Celebrity |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-Recall that I described Uninhibited-Private 2O with the metaphor of an actor who suffers behind the curtain. The ROMVL type, therefore, is perhaps the most accurate representation of this metaphor. These individuals fill the room with their presence, but once they are alone, they are off into the world of their own struggles with finding meaning. They not only create their own account of the true facts with their own world of suffering, but they might also cause danger to themselves and others thanks to their suffering. It makes for a very volatile type that is super challenging to mold into a healthy being.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

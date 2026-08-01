@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Wounded Satirist |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-Just like the MRLOV, the MRLVO type wants to spread its logical influence towards other people. But unlike the former, the latter does so not through rigorous debate but through biting satirism, all thanks to their self-inflicted wounds with finding what matters in life. The MRLVO individual has the natural ability to make fun of anything in life, and does so impulsively and with a sense that they know better than anyone around them because they're able to not take life so seriously. But as stated, this satirism is simply a reminder of the wounds they face with finding personal meaning.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

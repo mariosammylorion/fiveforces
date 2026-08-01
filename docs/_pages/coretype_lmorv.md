@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Vexing Suggester |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The LMORV gives the impression of a quiet, anxious, and (to put it bluntly) emotionless individual. Yet there is another side to them: their prospensity to consume media and ideas that are problematic in nature. It's not that they *enjoy* these ideas, but that the problematic elements simply do not register with them. But it may very well appear that way, as they often peddle these ideas to unsuspecting victims. Others' refusal to engage with these novelties when peddled by the LMORV only increases their anxiety, as they worry that others will not understand the complexity of what they call "masterpieces" (that others call "garbage").
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

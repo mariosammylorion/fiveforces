@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Pensive Obtainer |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-Like the LORMV, the LORVM individual seeks to spread their idea of reality. But unlike that type, these individuals are much less arrogant and more so satisfied and stern with the facts and people they obtain. LORVMs are surprisingly introspective, ensuring that they have the best strategies for not only seeking out facts and experiences, but to enjoy them to the best of their abilities once they obtain them. Of course, sometimes their strict demeanor can obstruct their ability to do so, as it may restrict some of their more lax approaches to getting what they desire.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

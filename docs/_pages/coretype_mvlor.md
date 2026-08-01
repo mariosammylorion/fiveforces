@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Possessive Lover |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The MVLOR is a dreamy, idealistic, and romantic type, all thanks to their devotion to their one and only muse. Though they love to share this devotion to others through their creativity, this is a muse they wish to share with no one else. Being the sole owner of this muse, individuals of this type form their own opinions and objective facets, completely in fantasy and no matter what anyone else says. You can clearly tell they have they love their muse, and you can see what kinds of opinions they have...but heaven forbid you go anywhere near it, let alone have it for yourself. That, my friends, is the MVLOR's worst fear.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

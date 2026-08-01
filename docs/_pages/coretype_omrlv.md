@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Resource Curator |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The OMRLV type is a consumer in every sense of the word. These individuals indulge in any novel ideas they can find, whether valuable or not, in order to accumulate more and more resources for safekeeping, in case if disaster strikes. They are even willing to steal others' resources and make them their own, and go through great lengths and peril just to have them. This collection of resources is their armor and guard from a world they cannot logically or intellectually explain. No matter how messed up it is, and no matter how dangerous it may be...the OMRLV has *got* to have it.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

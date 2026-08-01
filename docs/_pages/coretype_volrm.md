@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Unlucky Theorist |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-The VOLRM individual is perhaps the closest we are ever going to get to a Republican conspiracy theorist in the Five Forces system, to put it extremely bluntly. Behind their usual conservative nature is a being tortured by reality and is willing to find their own truth to it. They are not the type to latch onto any existing conspiracy theory; they are the type to make their *own*. All of this gives them a life plagued by unluckiness and a tendency to think they are so correct in their reasoning that they are unwilling to listen to others' points of view or even explain their own.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 

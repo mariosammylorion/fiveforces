@@ -34,11 +34,11 @@ toc_sticky: true
 
 | **ARCH NICKNAME** | **SEC. ARCH. NICK.** | **ALT. NICKNAME** |
 |:-----------------:|:--------------------:|:-----------------:|
-| **"XXXX"** | "XXXX" | The Opinion Keeper |
+| **"XXXX"** | "XXXX" | The YYYYY |
 
 # Executive Summary
 
-When you prove an LRVMO individual wrong using external facts, they will not hesitate to change their minds. However, they might privately see you as just another persecutor that is out to get them later. Though they are willing to change their facts, they are not willing to change their opinions, which they hold to such a high degree that they are willing to turn themselves in to these persecutors just to prove that they have the right to remain opinionated. Though they possess an outward timidity, their minds are very much courageous and willing to take the pain of potentially getting harmed for how they feel.
+&lt;Lorem ipsum dolor...&gt;
 
 # Motivation Development
 
