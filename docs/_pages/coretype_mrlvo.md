@@ -36,55 +36,7 @@ toc_sticky: true
 |:-----------------:|:--------------------:|:-----------------:|
 | **"XXXX"** | "XXXX" | The YYYYY |
 
-# Executive Summary
-
-&lt;Lorem ipsum dolor...&gt;
-
-# Motivation Development
-
-**Unorganized thoughts** (turn into paragraphs later)
-1. Early on in their life, the MRLVO possesses a heightened sense of superiority when it comes to their logic, so much so that they want to spread it with other individuals
-2. They use outside facts and experiences to back up their logic and appeal to the world with their intellect; this motivation development so far is identical to MRLOV, but this is where the similarities end
-3. The MRLVO, in their hubris, feel as if they are the smartest person around, but rather than blame others, they blame themselves for being too smart for the world, making them struggle with personal values
-4. Using this pedantism, the MRLVO turns to their creativity and sense of novelty, perfecting it to ensure that their self-mockery is appealing enough; their Imagination makes them impulsive in nature with the facts they obtain
-5. The psyche becomes a person who spreads their influence through their intellect while also blaming themselves for being too smart for society
-
-# Deca Influence
-
-**Unorganized thoughts** (turn into paragraphs later)
-1. Even in early age, the MRLVO exhibits the Sexta characteristic of categorizing other people; in fact, their core "I'm smarter than everyone else" itself is a categorization
-2. XXXXX
-3. XXXXX
-
-# Atoms, Subtypes, and their Resultant Traits and Behaviors
-
-## The Brain
-
-&lt;Lorem ipsum dolor...&gt;
-
-## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-## The Body
-
-&lt;Lorem ipsum dolor...&gt;
-
-## De-Elevation Mechanics
-
-### Objection
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Subjection
-
-&lt;Lorem ipsum dolor...&gt;
-
-# Miscellaneous Traits and Behaviors
-
-&lt;Lorem ipsum dolor...&gt;
-
-## Co-Types
+# Core Type Description
 
 &lt;Lorem ipsum dolor...&gt;
 

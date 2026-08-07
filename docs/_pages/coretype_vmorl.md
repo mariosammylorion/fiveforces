@@ -36,55 +36,7 @@ toc_sticky: true
 |:-----------------:|:--------------------:|:-----------------:|
 | **"XXXX"** | "XXXX" | The YYYYY |
 
-# Executive Summary
-
-&lt;Lorem ipsum dolor...&gt;
-
-# Motivation Development
-
-**Unorganized thoughts** (turn into paragraphs later)
-1. The VMORL early on takes an intense interest in the dreams, visions, and ideas they receive from the outside world, so much so that they want to share them to their heart's content, becoming zealots for these dreams that make them insecure with reality
-2. At the same time, they derive their own values from these ideas and want to become leaders that achieve these outside dreams
-3. They become ferocious about their own personal values, giving way to an ignorance of logic that eventually turns to jealousy
-4. This jealousy only makes them even more insecure with reality, leading them to not understand intellectual affairs and a need to hide this fear and unknowing
-5. With the Body, they want to give off the impression that they are great emotional leaders, but can get defensive when you question their intelligence or anything else that involves Logic or Reality
-
-# Deca Influence
-
-**Unorganized thoughts** (turn into paragraphs later)
-1. Because the VMORL is a Secunda type, they are not actually focused on making the *world* a better place; they're focused on their *own* personal gain
-2. 2M and the Secunda Deca can make for the most future-oriented and dream-oriented types in the entire Five Forces system, and VMORL is no different
-3. XXXXX
-
-# Atoms, Subtypes, and their Resultant Traits and Behaviors
-
-## The Brain
-
-&lt;Lorem ipsum dolor...&gt;
-
-## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-## The Body
-
-&lt;Lorem ipsum dolor...&gt;
-
-## De-Elevation Mechanics
-
-### Objection
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Subjection
-
-&lt;Lorem ipsum dolor...&gt;
-
-# Miscellaneous Traits and Behaviors
-
-&lt;Lorem ipsum dolor...&gt;
-
-## Co-Types
+# Core Type Description
 
 &lt;Lorem ipsum dolor...&gt;
 

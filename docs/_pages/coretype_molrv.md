@@ -36,55 +36,7 @@ toc_sticky: true
 |:-----------------:|:--------------------:|:-----------------:|
 | **"XXXX"** | "XXXX" | The YYYYY |
 
-# Executive Summary
-
-&lt;Lorem ipsum dolor...&gt;
-
-# Motivation Development
-
-**Unorganized thoughts** (turn into paragraphs later)
-1. (Withdrawn first example given) From early on in life, the MOLRV is tortured by reality, possibly due to them being lied to often; they then get the idea that everyone is a liar, and they don't get help for this
-2. This makes them develop their own logic and objective opinions to go against the world, theories that they have an intense fear of ridicule for
-3. Because of their own theories and fear of the world, they actively see other people as hostile and not worth their time, prompting them to disengage with them and not care about their values or feelings
-4. Yet they have the desire to "poke fun" at them and push their buttons; enter their unfiltered Imagination, in which they use their theories to provoke others; this only makes them afraid of reality even more when their creativity doesn't line up with reality
-5. This forms the psyche of the MOLRV; they act on the outside like your stereotypical troll, but on the inside they have these theories to explain a reality that confuses and *supposedly* tortures them
-
-# Deca Influence
-
-**Unorganized thoughts** (turn into paragraphs later)
-1. XXXXX
-2. XXXXX
-3. XXXXX
-
-# Atoms, Subtypes, and their Resultant Traits and Behaviors
-
-## The Brain
-
-&lt;Lorem ipsum dolor...&gt;
-
-## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-## The Body
-
-&lt;Lorem ipsum dolor...&gt;
-
-## De-Elevation Mechanics
-
-### Objection
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Subjection
-
-&lt;Lorem ipsum dolor...&gt;
-
-# Miscellaneous Traits and Behaviors
-
-&lt;Lorem ipsum dolor...&gt;
-
-## Co-Types
+# Core Type Description
 
 &lt;Lorem ipsum dolor...&gt;
 

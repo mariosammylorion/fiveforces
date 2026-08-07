@@ -36,55 +36,7 @@ toc_sticky: true
 |:-----------------:|:--------------------:|:-----------------:|
 | **"XXXX"** | "XXXX" | The YYYYY |
 
-# Executive Summary
-
-&lt;Lorem ipsum dolor...&gt;
-
-# Motivation Development
-
-**Unorganized thoughts** (turn into paragraphs later)
-1. The VMROL early on is motivated by any outside visions, ideas or concepts that come from other individuals or circumstances and becomes a champion for them
-2. This is not a gentle taking of Imagination, but a complete hijacking, taking them as their own...at the same time, they create their own value out of this acquired creativity and dedicate these values to them, constantly shifting them to fit these dreams
-3. They become ferocious with their values, giving way to a sense of anti-intellectualism due to the threat that objective opinions have against their values
-4. Their anti-intellectualism causes them to further indulge in their own sense of reality, doing things as they please and not changing these habits for anyone
-5. When the psyche develops, it becomes incredibly obvious that they seek out ideas to indulge in them physically; even if you call them out for it, they don't care and will continue to do so
-
-# Deca Influence
-
-**Unorganized thoughts** (turn into paragraphs later)
-1. XXXXX
-2. XXXXX
-3. XXXXX
-
-# Atoms, Subtypes, and their Resultant Traits and Behaviors
-
-## The Brain
-
-&lt;Lorem ipsum dolor...&gt;
-
-## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-## The Body
-
-&lt;Lorem ipsum dolor...&gt;
-
-## De-Elevation Mechanics
-
-### Objection
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Subjection
-
-&lt;Lorem ipsum dolor...&gt;
-
-# Miscellaneous Traits and Behaviors
-
-&lt;Lorem ipsum dolor...&gt;
-
-## Co-Types
+# Core Type Description
 
 &lt;Lorem ipsum dolor...&gt;
 

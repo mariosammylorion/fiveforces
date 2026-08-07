@@ -36,57 +36,7 @@ toc_sticky: true
 |:-----------------:|:--------------------:|:-----------------:|
 | **"XXXX"** | "XXXX" | The YYYYY |
 
-# Executive Summary
-
-&lt;Lorem ipsum dolor...&gt;
-
-# Motivation Development
-
-**Unorganized thoughts** (turn into paragraphs later)
-1. The RLOMV, early on, has an intense interest in seeing how the world around them works on a fundamental level, so much as to become an outward promoter of these outside logical systems
-2. Their love for these systems makes them want to prove them in the real world, becoming someone who wants their facts straight and logical
-3. They love logical systems so much that they are completely devoted to them and not to personal values, seeing the promotion of these systems as tasks...although, they become jealous of those who are able to think about things subjectively
-4. Their ever-changing sense of reality makes them uncertain and afraid of the future, and this is coupled with their ignorance of values, giving them a fear of the future that they hide from everyone else and an arrogant nature
-5. Forming the Body, these individuals want to give off the impression that they are humbly arrogant (or arrogantly humble), always wanting to let others know that being choleric is the way
-
-# Deca Influence
-
-**Unorganized thoughts** (turn into paragraphs later)
-1. XXXXX
-2. XXXXX
-3. XXXXX
-
-# Atoms, Subtypes, and their Resultant Traits and Behaviors
-
-## The Brain
-
-&lt;Lorem ipsum dolor...&gt;
-
-## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-## The Body
-
-&lt;Lorem ipsum dolor...&gt;
-
-## De-Elevation Mechanics
-
-### Objection
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Subjection
-
-&lt;Lorem ipsum dolor...&gt;
-
-# Miscellaneous Traits and Behaviors
-
-&lt;Lorem ipsum dolor...&gt;
-
-Out of all 120 of the core types, the RLOMV is one of the most likely to view empathy as a weakness. In fact, when unhealthy, the RLOMV individual can often find themselves in communities that center around hatred for other people, particularly vulnerable ones. One particularly common manifestation of this trait involves hustler-type personalities that have found their home in the Manosphere. These kinds of occupations are perfect for the RLOMV, who can use their arrogance to peddle their arrogant schemes and convince others to see other individuals that do not fall in the same category as them as inferior beings.
-
-## Co-Types
+# Core Type Description
 
 &lt;Lorem ipsum dolor...&gt;
 

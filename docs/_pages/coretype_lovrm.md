@@ -36,55 +36,7 @@ toc_sticky: true
 |:-----------------:|:--------------------:|:-----------------:|
 | **"XXXX"** | "XXXX" | The YYYYY |
 
-# Executive Summary
-
-&lt;Lorem ipsum dolor...&gt;
-
-# Motivation Development
-
-**Unorganized thoughts** (turn into paragraphs later)
-1. Most likely due to outside events, the LOVRM starts off being afraid of the world they inhabit, but they blame themselves for their struggles and misfortune
-2. Two things happen as a result of this: first, they try to combat the world by forming and perfecting a special abstract logical system and objectivity in order to explain it; this results in an anxious demeanor
-3. Secondly, they think of themselves as unfortunate individuals tortured by novelty, to the point of hating all things new and others' expressions of innovation
-4. Their logic becomes sacrificial, willing to suffer for what they think, and combined with their hatred of the future, it produces unchanging, extreme personal values that go against the grain
-5. All of this produces a character that, when the time is right, springs into action, willing to suffer just for what they believe in and just to prove a point to the world that they will not falter
-
-# Deca Influence
-
-**Unorganized thoughts** (turn into paragraphs later)
-1. LOVRM invokes the true spirit of the Tertia Deca; they are loyal and entirely devoted to their personal values, and are willing to suffer just to keep them
-2. XXXXX
-3. XXXXX
-
-# Atoms, Subtypes, and their Resultant Traits and Behaviors
-
-## The Brain
-
-&lt;Lorem ipsum dolor...&gt;
-
-## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-## The Body
-
-&lt;Lorem ipsum dolor...&gt;
-
-## De-Elevation Mechanics
-
-### Objection
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Subjection
-
-&lt;Lorem ipsum dolor...&gt;
-
-# Miscellaneous Traits and Behaviors
-
-&lt;Lorem ipsum dolor...&gt;
-
-## Co-Types
+# Core Type Description
 
 &lt;Lorem ipsum dolor...&gt;
 

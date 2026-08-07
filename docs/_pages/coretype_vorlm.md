@@ -36,55 +36,7 @@ toc_sticky: true
 |:-----------------:|:--------------------:|:-----------------:|
 | **"XXXX"** | "XXXX" | The YYYYY |
 
-# Executive Summary
-
-&lt;Lorem ipsum dolor...&gt;
-
-# Motivation Development
-
-**Unorganized thoughts** (turn into paragraphs later)
-1. (Withdrawn first example given) The VORLM feels as though they cannot logically explain the world but seek no help for this; so, they turn to fact and experience acquisition that they are insecure about sharing
-2. Eventually, they acquire so much that they become satisfied with what they have, ignoring what others have to say when it comes to creative or innovative matters
-3. Due to this, they feel they can exploit this through the usage of personal values that they cultivate and share to other people who think too much about the future
-4. They are honest and earnest with their values, but this comes at the cost of them only being further confused with abstract and logical thinking
-5. The psyche develops into an individual who uses their preservation of values and what was and is to mask a sense of urgency when it comes to being satisfied with what they have (if that even makes sense)
-
-# Deca Influence
-
-**Unorganized thoughts** (turn into paragraphs later)
-1. XXXXX
-2. XXXXX
-3. XXXXX
-
-# Atoms, Subtypes, and their Resultant Traits and Behaviors
-
-## The Brain
-
-&lt;Lorem ipsum dolor...&gt;
-
-## The Heart
-
-&lt;Lorem ipsum dolor...&gt;
-
-## The Body
-
-&lt;Lorem ipsum dolor...&gt;
-
-## De-Elevation Mechanics
-
-### Objection
-
-&lt;Lorem ipsum dolor...&gt;
-
-### Subjection
-
-&lt;Lorem ipsum dolor...&gt;
-
-# Miscellaneous Traits and Behaviors
-
-&lt;Lorem ipsum dolor...&gt;
-
-## Co-Types
+# Core Type Description
 
 &lt;Lorem ipsum dolor...&gt;
 
